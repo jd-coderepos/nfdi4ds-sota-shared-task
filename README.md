@@ -8,3 +8,9 @@ Instead of seeking out the answer buried in the ranked list of documents via a s
 
 In this Shared Task, we hope to go beyond the community curation of leaderboards and instead  realize the vision of obtaining the most efficient machine learning model capable of automatically detecting leaderboards. The efficiency of the submitted machine learning models as a solution to the shared task will be tested based on speed, model parameters, and leaderboard detection F1 measure.
 
+
+### Rough Timeline:
+
+January 15, 2023 - first version training dataset public release and test dataset private release
+
+February 15, 2023 - second version dataset release incorporating any changes suggested for the first version
