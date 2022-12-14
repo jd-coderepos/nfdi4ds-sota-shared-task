@@ -49,6 +49,7 @@ annotations are included in the file `code-link.txt`.
 | unique datasets | 2,986 |
 | unique metrics | 1,482 |
 | unique (task, dataset, metric) tuples | 6,805 |
+| avg. (task, dataset, metric) tuples overall | 5.32 |
 
 ### Rough Timeline:
 
