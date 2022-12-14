@@ -19,13 +19,13 @@ README
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
-	 |    |--- code-link.txt				#optional - if a code link was found in the paper, this annotation file is created; if not, it is not part of the folder.
+	 |    |--- code-link.txt		#optional - if a code link was found in the paper, this annotation file is created; if not, it is not part of the folder.
 	 |___ ...
 [zero-shot-data]/				#not released
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
-	 |    |--- code-link.txt				#optional	 
+	 |    |--- code-link.txt		#optional	 
 	 |___ ...
 ```
 
