@@ -13,7 +13,7 @@ In this Shared Task, we hope to go beyond the community curation of leaderboards
 
 The repository is organized as follows:
 
-'''
+```
 README
 [annotated-data]/				#PWC download timestamp May 10, 2021
      |--- [article-counter-folder]/
@@ -25,7 +25,7 @@ README
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
 	 |___ ...
-'''
+```
 
 The dataset dump originates from [paperswithcode.com](https://paperswithcode.com/).
 Two dump versions are created between the years 2021 and 2022.
