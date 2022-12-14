@@ -35,8 +35,9 @@ Each folder in the respective dump corresponds to a scholarly article
 originally downloaded in `pdf` format from arXiv, whose contents were then
 scrapped as `txt` data encoded in the [TEI](https://en.wikipedia.org/wiki/Text_Encoding_Initiative) XML format.
 
-Of the 7449 papers in the annotated-data, only 814 papers reported their
-code links as a mention within the text.
+Of the 7449 papers in the `annotated-data`, only 814 papers reported their
+code links as a mention within the paper's text. Whereever found, the code link
+annotations are included in the file `code-link.txt`.
 
 <!-- Of the 3183 papers in the annotated-data, only 117 papers reported their code links as a mention within the text.  -->
 
