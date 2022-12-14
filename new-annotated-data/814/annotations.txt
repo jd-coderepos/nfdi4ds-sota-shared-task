@@ -1,0 +1,8 @@
+Person Search#PRW#mAP#47.8
+Person Search#PRW#Top-1#87.8
+Person Search#PRW#mAP#46.7
+Person Search#PRW#Top-1#84.9
+Person Search#CUHK-SYSU#MAP#95.8
+Person Search#CUHK-SYSU#Top-1#96.2
+Person Search#CUHK-SYSU#MAP#95.5
+Person Search#CUHK-SYSU#Top-1#96.1

@@ -1,0 +1,1 @@
+Lesion Segmentation#University of Waterloo skin cancer database#Dice score#0.883 ±0.108

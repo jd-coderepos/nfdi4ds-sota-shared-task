@@ -1,0 +1,40 @@
+Link Prediction#CoDEx Small#MRR#0.473
+Link Prediction#CoDEx Small#Hits@1#0.375
+Link Prediction#CoDEx Small#Hits@3#0.514
+Link Prediction#CoDEx Small#Hits@10#0.663
+Link Prediction#CoDEx Large#MRR#0.345
+Link Prediction#CoDEx Large#Hits@1#0.277
+Link Prediction#CoDEx Large#Hits@3#0.377
+Link Prediction#CoDEx Large#Hits@10#0.473
+Link Prediction#CoDEx Medium#MRR#0.352
+Link Prediction#CoDEx Medium#Hits@1#0.277
+Link Prediction#CoDEx Medium#Hits@3#0.386
+Link Prediction#CoDEx Medium#Hits@10#0.490
+Link Prediction#WN18RR#MRR#0.488
+Link Prediction#WN18RR#Hits@10#0.578
+Link Prediction#WN18RR#Hits@3#0.505
+Link Prediction#WN18RR#Hits@1#0.443
+Link Prediction#FB15k-237#MRR#0.389
+Link Prediction#FB15k-237#Hits@10#0.568
+Link Prediction#FB15k-237#Hits@3#0.424
+Link Prediction#FB15k-237#Hits@1#0.298
+Link Prediction#FB15k-237#MR#163
+Link Prediction#FB15k-237#MRR#0.354
+Link Prediction#FB15k-237#Hits@10#0.535
+Link Prediction#FB15k-237#Hits@3#0.388
+Link Prediction#FB15k-237#Hits@1#0.264
+Link Prediction#FB15k-237#MRR#0.366
+Link Prediction#FB15k-237#Hits@10#0.55
+Link Prediction#Aristo-v4#MRR#0.311
+Link Prediction#Aristo-v4#Hits@1#0.24
+Link Prediction#Aristo-v4#Hits@3#0.336
+Link Prediction#Aristo-v4#Hits@10#0.447
+Link Property Prediction#ogbl-wikikg2#Validation MRR#0.6701
+Link Property Prediction#ogbl-wikikg2#Test MRR#0.6481
+Link Property Prediction#ogbl-wikikg2#Number of params#500334800
+Link Property Prediction#ogbl-wikikg2#Validation MRR#0.6594
+Link Property Prediction#ogbl-wikikg2#Test MRR#0.6364
+Link Property Prediction#ogbl-wikikg2#Number of params#250167400
+Link Property Prediction#ogbl-biokg#Test MRR#0.8494
+Link Property Prediction#ogbl-biokg#Validation MRR#0.8497
+Link Property Prediction#ogbl-biokg#Number of params#187750000

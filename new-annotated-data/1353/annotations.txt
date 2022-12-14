@@ -1,0 +1,1 @@
+3D Semantic Scene Completion#SemanticKITTI#mIoU#23.5

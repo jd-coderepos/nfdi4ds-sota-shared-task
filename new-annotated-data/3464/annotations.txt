@@ -1,0 +1,4 @@
+Document Image Classification#RVL-CDIP#Accuracy#96.17%
+Document Image Classification#RVL-CDIP#Parameters#183M
+Document Image Classification#RVL-CDIP#Accuracy#95.50%
+Document Image Classification#RVL-CDIP#Parameters#536M

@@ -1,0 +1,4 @@
+Text based Person Retrieval#CUHK-PEDES#R@1#64.08
+Text based Person Retrieval#CUHK-PEDES#R@10#88.19
+Text based Person Retrieval#CUHK-PEDES#R@5#81.73
+Text based Person Retrieval#CUHK-PEDES#mAP#60.08

@@ -1,0 +1,1 @@
+Optical Character Recognition#Benchmarking Chinese Text Recognition: Datasets, Baselines, and an Empirical Study#Accuracy (%)#82.6

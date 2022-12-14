@@ -1,0 +1,2 @@
+Hyperspectral Image Classification#Indian Pines#Overall Accuracy#90.35%
+Hyperspectral Image Classification#Pavia University#Overall Accuracy#98.44%

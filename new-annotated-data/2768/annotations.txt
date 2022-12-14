@@ -1,0 +1,6 @@
+Unsupervised Semantic Segmentation with Language-image Pre-training#Cityscapes val#mIoU#10.0
+Unsupervised Semantic Segmentation with Language-image Pre-training#Cityscapes val#pixel accuracy#35.9
+Unsupervised Semantic Segmentation with Language-image Pre-training#COCO-Stuff-27#mIoU#19.6
+Unsupervised Semantic Segmentation with Language-image Pre-training#COCO-Stuff-27#pixel accuracy#32.2
+Unsupervised Semantic Segmentation with Language-image Pre-training#KITTI-STEP#mIoU#15.3
+Unsupervised Semantic Segmentation with Language-image Pre-training#KITTI-STEP#pixel accuracy#34.1

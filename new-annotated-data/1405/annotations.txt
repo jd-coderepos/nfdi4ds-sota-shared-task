@@ -1,0 +1,12 @@
+Visual Object Tracking#UAV123#AUC#0.669
+Visual Object Tracking#UAV123#Precision#0.884
+Visual Object Tracking#VOT2019#Expected Average Overlap (EAO)#0.391
+Visual Object Tracking#VOT2019#Accuracy#60.3
+Visual Object Tracking#GOT-10k#Average Overlap#66.8
+Visual Object Tracking#GOT-10k#Success Rate 0.5#77.8
+Visual Object Tracking#GOT-10k#Success Rate 0.75#57.2
+Visual Object Tracking#VOT2018#Expected Average Overlap (EAO)#0.496
+Visual Object Tracking#VOT2018#Accuracy#61.2
+Visual Object Tracking#TrackingNet#Precision#75
+Visual Object Tracking#TrackingNet#Normalized Precision#83.8
+Visual Object Tracking#TrackingNet#Accuracy#78.5

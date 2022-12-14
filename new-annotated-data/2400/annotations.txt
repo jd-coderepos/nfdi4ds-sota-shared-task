@@ -1,0 +1,2 @@
+Speaker Diarization#DIHARD II#DER(%)#27.3
+Speaker Diarization#DIHARD II#DER - no overlap#19.4

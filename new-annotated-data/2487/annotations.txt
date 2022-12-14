@@ -1,0 +1,3 @@
+Semantic Segmentation#S3DIS Area5#mIoU#72.0
+Semantic Segmentation#S3DIS Area5#oAcc#91.5
+Semantic Segmentation#S3DIS Area5#mAcc#78.1

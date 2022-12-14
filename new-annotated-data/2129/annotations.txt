@@ -1,0 +1,8 @@
+Visual Question Answering#VQA v2 test-dev#Accuracy#67.58
+Visual Question Answering#VQA v2 test-std#overall#67.9
+Visual Relationship Detection#VRD Relationship Detection#R@100#20.96
+Visual Relationship Detection#VRD Relationship Detection#R@50#19.06
+Visual Relationship Detection#VRD Phrase Detection#R@100#28.96
+Visual Relationship Detection#VRD Phrase Detection#R@50#26.32
+Visual Relationship Detection#VRD Predicate Detection#R@100#92.58
+Visual Relationship Detection#VRD Predicate Detection#R@50#86.58

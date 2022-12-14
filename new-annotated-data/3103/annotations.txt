@@ -1,0 +1,2 @@
+Named Entity Recognition#CoNLL 2003 (English)#F1#92.29
+Named Entity Recognition#CoNLL 2003 (English)#F1#91.87

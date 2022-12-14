@@ -1,0 +1,6 @@
+Single-View 3D Reconstruction#ShapeNetCore#3DIoU#0.57
+Single-View 3D Reconstruction#ShapeNetCore#3DIoU#0.564
+Single-View 3D Reconstruction#ShapeNetCore#3DIoU#0.546
+Single-View 3D Reconstruction#ShapeNetCore#3DIoU#0.487
+Single-View 3D Reconstruction#ShapeNetCore#3DIoU#0.473
+Single-View 3D Reconstruction#ShapeNetCore#3DIoU#0,3

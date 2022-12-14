@@ -1,0 +1,1 @@
+Information Retrieval#MSLR-WEB30K#nDCG@10#0.5259

@@ -1,0 +1,6 @@
+Question Answering#WikiQA#MAP#0.887
+Question Answering#WikiQA#MRR#0.899
+Question Answering#TrecQA#MAP#0.903
+Question Answering#TrecQA#MRR#0.951
+Answer Selection#ASNQ#MAP#0.697
+Answer Selection#ASNQ#MRR#0.757

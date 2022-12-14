@@ -1,0 +1,6 @@
+Visual Relationship Detection#VRD Relationship Detection#R@100#17.1
+Visual Relationship Detection#VRD Relationship Detection#R@50#15.8
+Visual Relationship Detection#VRD Phrase Detection#R@100#19.5
+Visual Relationship Detection#VRD Phrase Detection#R@50#17.9
+Visual Relationship Detection#VRD Predicate Detection#R@100#52.6
+Visual Relationship Detection#VRD Predicate Detection#R@50#52.6

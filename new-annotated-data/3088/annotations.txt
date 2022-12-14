@@ -1,0 +1,7 @@
+Named Entity Recognition#OntoNotes 5.0#Average F1#90.92
+Named Entity Recognition#Ontonotes v5 (English)#F1#90.92
+Named Entity Recognition#BC2GM#F1#85.65
+Named Entity Recognition#BC5CDR-chemical#F1#94.59
+Named Entity Recognition#BC5CDR-disease#F1#87.86
+Named Entity Recognition#WNUT 2017#F1#57.41
+Named Entity Recognition#WNUT 2016#F1#59.50

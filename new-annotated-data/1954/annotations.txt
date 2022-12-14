@@ -1,0 +1,5 @@
+Question Answering#EfficientQA test#Accuracy#54
+Question Answering#EfficientQA dev#Accuracy#54.1
+Question Answering#TriviaQA#F1#70.3
+Open-Domain Question Answering#Natural Questions#Exact Match#54.7
+Open-Domain Question Answering#TriviaQA#Exact Match#70.5

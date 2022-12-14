@@ -1,0 +1,4 @@
+Multi-Label Classification#MS-COCO#mAP#84.5
+Multi-Label Classification#MS-COCO#mAP#83.8
+Multi-Label Classification#PASCAL VOC 2007#mAP#94.8
+Multi-Label Classification#PASCAL VOC 2012#mAP#94.3

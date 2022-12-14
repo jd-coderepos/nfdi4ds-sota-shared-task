@@ -1,0 +1,2 @@
+Image Classification#Fashion-MNIST#Percentage error#7.7
+Image Classification#Fashion-MNIST#Accuracy#92.3

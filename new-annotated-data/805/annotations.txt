@@ -1,0 +1,1 @@
+Relationship Extraction (Distant Supervised)#New York Times Corpus#AUC#0.424

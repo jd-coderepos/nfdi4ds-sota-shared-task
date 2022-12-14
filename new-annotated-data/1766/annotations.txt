@@ -1,0 +1,3 @@
+Anomaly Detection#MVTec AD#Detection AUROC#97.2
+Anomaly Detection#MVTec AD#Segmentation AUROC#96.3
+Anomaly Detection#MVTec AD#Segmentation AUPRO#91.0

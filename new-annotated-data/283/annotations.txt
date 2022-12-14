@@ -1,0 +1,9 @@
+Facial Expression Recognition#CK+#Accuracy (7 emotion)#98.23
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#61.72
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#61.32
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#61.09
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#60.35
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#60.34
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#55.36
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#54.98
+Facial Expression Recognition#AffectNet#Accuracy (8 emotion)#52.46

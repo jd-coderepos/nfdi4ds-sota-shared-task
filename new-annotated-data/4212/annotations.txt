@@ -1,0 +1,2 @@
+Semi-Supervised Image Classification#Mini-ImageNet, 4000 Labels#Accuracy#60.95
+Semi-Supervised Image Classification#Mini-ImageNet, 10000 Labels#Accuracy#65.21

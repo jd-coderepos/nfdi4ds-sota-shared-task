@@ -1,0 +1,3 @@
+Multi-label zero-shot learning#Open Images V4#MAP#40.5
+Zero-Shot Action Recognition#Kinetics#Top-1 Accuracy#23.4
+Zero-Shot Action Recognition#Kinetics#Top-5 Accuracy#50.3

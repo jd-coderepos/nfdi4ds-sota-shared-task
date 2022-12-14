@@ -1,0 +1,5 @@
+Gait Recognition#OUMVLP#Averaged rank-1 acc(%)#91.0
+Multiview Gait Recognition#CASIA-B#Accuracy (Cross-View, Avg)#94.5
+Multiview Gait Recognition#CASIA-B#NM#5-6#98.7
+Multiview Gait Recognition#CASIA-B#BG#1-2#94.8
+Multiview Gait Recognition#CASIA-B#CL#1-2#88.7

@@ -1,0 +1,2 @@
+Multi-label zero-shot learning#NUS-WIDE#mAP#26.3
+Multi-label zero-shot learning#Open Images V4#MAP#73.6

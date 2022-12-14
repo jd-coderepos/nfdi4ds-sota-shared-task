@@ -1,0 +1,5 @@
+Vision and Language Navigation#VLN Challenge#success#0.65
+Vision and Language Navigation#VLN Challenge#length#13.11
+Vision and Language Navigation#VLN Challenge#error#3.87
+Vision and Language Navigation#VLN Challenge#oracle success#0.72
+Vision and Language Navigation#VLN Challenge#spl#0.59

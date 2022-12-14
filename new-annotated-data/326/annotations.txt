@@ -1,0 +1,7 @@
+Age Estimation#FGNET#MAE#2.23
+Age Estimation#ChaLearn 2015#MAE#2.95
+Age Estimation#UTKFace#MAE#4.37
+Age Estimation#CACD#MAE#4.41
+Age Estimation#MORPH Album2#MAE#2.00
+Age Estimation#MORPH Album2#CS#95.0
+Age And Gender Classification#Adience Age#Accuracy (5-fold)#62.6

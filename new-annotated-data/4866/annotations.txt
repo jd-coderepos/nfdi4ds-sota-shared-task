@@ -1,0 +1,11 @@
+Video Instance Segmentation#YouTube-VIS validation#mask AP#36.6
+Video Instance Segmentation#YouTube-VIS validation#AP50#57.3
+Video Instance Segmentation#YouTube-VIS validation#AP75#39.7
+Video Instance Segmentation#YouTube-VIS validation#AR1#36
+Video Instance Segmentation#YouTube-VIS validation#AR10#42
+Video Instance Segmentation#OVIS validation#mask AP#18.1
+Video Instance Segmentation#OVIS validation#AP50#35.5
+Video Instance Segmentation#OVIS validation#AP75#16.9
+Video Instance Segmentation#OVIS validation#mask AP#14.9
+Video Instance Segmentation#OVIS validation#AP50#32.7
+Video Instance Segmentation#OVIS validation#AP75#12.1

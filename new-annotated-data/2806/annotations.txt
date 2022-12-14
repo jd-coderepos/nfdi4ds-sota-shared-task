@@ -1,0 +1,2 @@
+Emotion Recognition in Conversation#CPED#Accuracy of Sentiment#47.89
+Emotion Recognition in Conversation#CPED#Macro-F1 of Sentiment#37.07

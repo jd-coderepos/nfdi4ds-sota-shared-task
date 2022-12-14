@@ -1,0 +1,4 @@
+3D Object Detection#KITTI Cyclists Easy#AP#89.15%
+3D Object Detection#KITTI Cars Moderate#AP#72.79%
+3D Object Detection#KITTI Cyclists Moderate#AP#75.86%
+3D Object Detection#KITTI Pedestrians Moderate#AP#58.4%

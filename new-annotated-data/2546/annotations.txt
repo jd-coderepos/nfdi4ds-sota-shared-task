@@ -1,0 +1,1 @@
+Semantic Segmentation#SUN-RGBD#Mean IoU#48.3%

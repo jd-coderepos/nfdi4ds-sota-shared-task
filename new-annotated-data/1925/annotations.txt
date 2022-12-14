@@ -1,0 +1,1 @@
+Few-Shot Semantic Segmentation#PASCAL-5i (5-Shot)#Mean IoU#72.3

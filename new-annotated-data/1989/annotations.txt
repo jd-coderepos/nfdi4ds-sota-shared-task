@@ -1,0 +1,15 @@
+Question Answering#TweetQA#BLEU-1#72.0
+Question Answering#TweetQA#BLEU-1#70.8
+Question Answering#TweetQA#ROUGE-L#74.3
+Question Answering#TweetQA#ROUGE-L#75.7
+Cross-Lingual Question Answering#XQuAD#EM#63.6
+Cross-Lingual Question Answering#XQuAD#F1#79.7
+Cross-Lingual Question Answering#TyDiQA-GoldP#EM#60.0
+Cross-Lingual Question Answering#TyDiQA-GoldP#F1#75.3
+Cross-Lingual Question Answering#MLQA#EM#54.9
+Cross-Lingual Question Answering#MLQA#F1#71.6
+Cross-Lingual Natural Language Inference#XNLI#Accuracy#83.7
+Cross-Lingual Natural Language Inference#XNLI#Accuracy#69.1
+Cross-Lingual NER#WikiAnn NER#F1#67.7
+Extreme Summarization#GEM-XSum#BLEU score#15.3
+Extreme Summarization#GEM-XSum#BLEU score#14.3

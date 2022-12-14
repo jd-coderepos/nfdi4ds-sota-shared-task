@@ -1,0 +1,2 @@
+Domain Generalization#PACS#Average Accuracy#71.14
+Image Classification#Colored-MNIST(with spurious correlation)#Accuracy#68.70

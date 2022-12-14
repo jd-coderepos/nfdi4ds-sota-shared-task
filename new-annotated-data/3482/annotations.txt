@@ -1,0 +1,4 @@
+Optical Flow Estimation#KITTI 2015 unsupervised#Average End-Point Error#9.38
+Optical Flow Estimation#KITTI 2012 unsupervised#Average End-Point Error#1.4
+Optical Flow Estimation#Sintel Clean unsupervised#Average End-Point Error#4.68
+Optical Flow Estimation#Sintel Final unsupervised#Average End-Point Error#5.32

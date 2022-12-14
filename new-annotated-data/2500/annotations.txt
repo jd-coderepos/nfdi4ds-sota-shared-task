@@ -1,0 +1,15 @@
+Semantic Segmentation#UAVid#Mean IoU#67.8
+Semantic Segmentation#ISPRS Vaihingen#Overall Accuracy#91.6
+Semantic Segmentation#ISPRS Vaihingen#Average F1#91.3
+Semantic Segmentation#ISPRS Vaihingen#Category mIoU#84.1
+Semantic Segmentation#ISPRS Vaihingen#Overall Accuracy#91.0
+Semantic Segmentation#ISPRS Vaihingen#Average F1#90.4
+Semantic Segmentation#ISPRS Vaihingen#Category mIoU#82.7
+Semantic Segmentation#LoveDA#Category mIoU#52.40
+Semantic Segmentation#ISPRS Potsdam#Overall Accuracy#92.0
+Semantic Segmentation#ISPRS Potsdam#Mean F1#93.3
+Semantic Segmentation#ISPRS Potsdam#Mean IoU#87.5
+Semantic Segmentation#ISPRS Potsdam#Overall Accuracy#91.3
+Semantic Segmentation#ISPRS Potsdam#Mean F1#92.8
+Semantic Segmentation#ISPRS Potsdam#Mean IoU#86.8
+Scene Segmentation#UAVid#Category mIoU#67.8

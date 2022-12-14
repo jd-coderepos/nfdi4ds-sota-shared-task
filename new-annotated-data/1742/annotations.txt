@@ -1,0 +1,3 @@
+Anomaly Detection#CUHK Avenue#AUC#87.2%
+Anomaly Detection#CUHK Avenue#RBDC#41.20
+Anomaly Detection#CUHK Avenue#TBDC#78.60

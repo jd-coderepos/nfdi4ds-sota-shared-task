@@ -1,0 +1,12 @@
+Source Code Summarization#Hybrid-DeepCom-Java#METEOR#25.59%
+Source Code Summarization#Hybrid-DeepCom-Java#BLEU-4#37.64
+Source Code Summarization#DeepCom-Java#METEOR#28.25%
+Source Code Summarization#DeepCom-Java#BLEU-4#45.35
+Source Code Summarization#DeepCom-Java#METEOR#28.19%
+Source Code Summarization#DeepCom-Java#BLEU-4#45.3
+Source Code Summarization#CodeSearchNet - Python#METEOR#12.51%
+Source Code Summarization#CodeSearchNet - Python#BLEU-4#16.46
+Source Code Summarization#ParallelCorpus-Python#METEOR#21.92%
+Source Code Summarization#ParallelCorpus-Python#BLEU-4#34.05
+Source Code Summarization#ParallelCorpus-Python#METEOR#21.68%
+Source Code Summarization#ParallelCorpus-Python#BLEU-4#33.85

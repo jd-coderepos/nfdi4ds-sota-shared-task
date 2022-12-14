@@ -1,0 +1,13 @@
+Image Classification#iNaturalist 2018#Top-1 Accuracy#86.0%
+Image Classification#ImageNet#Top 1 Accuracy#88.6%
+Image Classification#ImageNet#Number of params#633.5M
+Image Classification#ImageNet#GFLOPs#1018.8
+Image Classification#ImageNet ReaL#Accuracy#90.7%
+Image Classification#ObjectNet#Top-1 Accuracy#69.5
+Image Classification#ObjectNet#Top-1 Accuracy#64.3
+Image Classification#ObjectNet#Top-1 Accuracy#60
+Image Classification#ObjectNet#Top-1 Accuracy#57.3
+Image Classification#ObjectNet#Top-1 Accuracy#48.9
+Image Classification#Places365-Standard#Top 1 Accuracy#60.7
+Image Classification#ImageNet V2#Top 1 Accuracy#81.1
+Fine-Grained Image Classification#CUB-200-2011#Accuracy#91.7

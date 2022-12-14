@@ -1,0 +1,2 @@
+Anomaly Detection#Fishyscapes#AP#48.7
+Anomaly Detection#Fishyscapes#FPR#15.5

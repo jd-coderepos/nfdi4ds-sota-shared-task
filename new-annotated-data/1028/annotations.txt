@@ -1,0 +1,4 @@
+Aesthetics Quality Assessment#CADB#MSE#0.3867
+Aesthetics Quality Assessment#CADB#EMD#0.1798
+Aesthetics Quality Assessment#CADB#SRCC#0.6564
+Aesthetics Quality Assessment#CADB#LCCAll#0.6709

@@ -1,0 +1,3 @@
+Audio Classification#ICBHI Respiratory Sound Database#ICBHI Score#56.20
+Audio Classification#ICBHI Respiratory Sound Database#Sensitivity#40.10
+Audio Classification#ICBHI Respiratory Sound Database#Specificity#72.30

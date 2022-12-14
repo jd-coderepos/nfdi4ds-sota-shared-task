@@ -1,0 +1,4 @@
+Building change detection for remote sensing images#LEVIR-CD#F1#92.33
+Building change detection for remote sensing images#LEVIR-CD#F1#92.19
+Building change detection for remote sensing images#LEVIR-CD#F1#91.77
+Change Detection#S2Looking#F1-Score#66.20

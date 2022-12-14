@@ -1,0 +1,6 @@
+6D Pose Estimation using RGBD#REAL275#mAP 10, 5cm#66.0
+6D Pose Estimation using RGBD#REAL275#mAP 3DIou@50#82.6
+6D Pose Estimation using RGBD#REAL275#mAP 5, 5cm#34.8
+6D Pose Estimation using RGBD#REAL275#mAP 3DIou@75#62.5
+6D Pose Estimation using RGBD#REAL275#mAP 5, 2cm#30.4
+6D Pose Estimation using RGBD#REAL275#mAP 10, 2cm#56.9

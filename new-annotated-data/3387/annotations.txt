@@ -1,0 +1,3 @@
+Multi-Label Text Classification#Reuters-21578#Micro-F1#90.74
+Multi-Label Text Classification#Reuters-21578#Micro-F1#90.70
+Multi-Label Text Classification#Reuters-21578#Micro-F1#90.62

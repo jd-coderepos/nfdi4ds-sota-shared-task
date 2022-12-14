@@ -1,0 +1,2 @@
+Audio Super-Resolution#VCTK Multi-Speaker#Log-Spectral Distance#1.28
+Audio Super-Resolution#VCTK Multi-Speaker#Log-Spectral Distance#1.36

@@ -1,0 +1,5 @@
+Semantic Segmentation#RSMSS#mIoU#27.1%
+Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Linear Classifier [mIoU]#63.9
+Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Clustering [mIoU]#44.2
+Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Linear Classifier [mIoU]#58.4
+Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Clustering [mIoU]#35.0

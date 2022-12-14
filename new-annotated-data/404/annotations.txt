@@ -1,0 +1,12 @@
+Text-to-Image Generation#COCO#FID#8.12
+Text-to-Image Generation#COCO#Inception score#32.34
+Text-to-Image Generation#COCO#SOA-C#61.09
+Text-to-Image Generation#COCO#FID#26.94
+Text-to-Image Generation#COCO#Inception score#26.02
+Text-to-Image Generation#COCO#FID-1#22.97
+Text-to-Image Generation#COCO#FID-8#14.79
+Text-to-Image Generation#COCO#FID-2#18.70
+Text-to-Image Generation#COCO#FID-4#15.72
+Text-to-Image Generation#Multi-Modal-CelebA-HQ#FID#12.54
+Text-to-Image Generation#CUB#FID#10.48
+Text-to-Image Generation#CUB#Inception score#5.97

@@ -1,0 +1,17 @@
+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.583
+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUROC#0.537
+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.492
+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUROC#0.571
+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.348
+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUROC#0.699
+Depth Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.374
+Depth Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUROC#0.546
+Depth Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.203
+Depth Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.143
+Depth Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUROC#0.523
+RGB+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.639
+RGB+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUCROC#0.517
+RGB+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.564
+RGB+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUCROC#0.538
+RGB+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.471
+RGB+3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Detection AUCROC#0.609

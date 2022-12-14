@@ -1,0 +1,2 @@
+Single-object discovery#COCO_20k#CorLoc#71.9
+Single-object discovery#COCO_20k#CorLoc#66.6

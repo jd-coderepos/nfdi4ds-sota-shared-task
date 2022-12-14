@@ -1,0 +1,5 @@
+Representation Learning#SciDocs#Avg.#81.8
+Representation Learning#SciDocs#Avg.#66.6
+Representation Learning#SciDocs#Avg.#58.8
+Document Classification#SciDocs (MAG)#F1 (micro)#81.4
+Document Classification#SciDocs (MeSH)#F1 (micro)#88.7

@@ -1,0 +1,182 @@
+Implicit Relations#BIG-bench#Accuracy#36.4
+LAMBADA#BIG-bench#Accuracy#74.5
+Intent Recognition#BIG-bench#Accuracy#88.7
+Question Selection#BIG-bench#Accuracy#41.4
+Implicatures#BIG-bench#Accuracy#62.0
+English Proverbs#BIG-bench#Accuracy#57.6
+Fantasy Reasoning#BIG-bench#Accuracy#64.1
+Figure Of Speech Detection#BIG-bench#Accuracy#52.7
+Formal Fallacies Syllogisms Negation#BIG-bench#Accuracy#50.7
+GRE Reading Comprehension#BIG-bench#Accuracy#27.3
+Hyperbaton#BIG-bench#Accuracy#51.7
+Movie Dialog Same Or Different#BIG-bench#Accuracy#50.7
+Nonsense Words Grammar#BIG-bench#Accuracy#61.4
+Phrase Relatedness#BIG-bench#Accuracy#81.8
+RACE-h#BIG-bench#Accuracy#71.6
+RACE-m#BIG-bench#Accuracy#75.1
+Multi-task Language Understanding#MMLU#Humanities#65.8
+Multi-task Language Understanding#MMLU#Average (%)#60.0
+Multi-task Language Understanding#MMLU#Parameters (Billions)#280
+Multi-task Language Understanding#MMLU#STEM#48.0
+Multi-task Language Understanding#MMLU#Social Sciences#71.2
+Multi-task Language Understanding#MMLU#Other#64.0
+Multi-task Language Understanding#MMLU#Tokens (Billions)#300
+Multi-task Language Understanding#MMLU#Humanities#28.0
+Multi-task Language Understanding#MMLU#Average (%)#29.5
+Multi-task Language Understanding#MMLU#Parameters (Billions)#7.1
+Multi-task Language Understanding#MMLU#STEM#30.1
+Multi-task Language Understanding#MMLU#Social Sciences#31.0
+Multi-task Language Understanding#MMLU#Other#31.0
+Multi-task Language Understanding#MMLU#Humanities#27.5
+Multi-task Language Understanding#MMLU#Average (%)#27.3
+Multi-task Language Understanding#MMLU#Parameters (Billions)#1.4
+Multi-task Language Understanding#MMLU#STEM#26.6
+Multi-task Language Understanding#MMLU#Social Sciences#30.0
+Multi-task Language Understanding#MMLU#Other#24.7
+Multi-task Language Understanding#MMLU#Humanities#26.6
+Multi-task Language Understanding#MMLU#Average (%)#25.7
+Multi-task Language Understanding#MMLU#Parameters (Billions)#0.4
+Multi-task Language Understanding#MMLU#STEM#26.0
+Multi-task Language Understanding#MMLU#Social Sciences#23.4
+Multi-task Language Understanding#MMLU#Other#24.1
+Question Answering#BoolQ#Accuracy#79.3
+Question Answering#TruthfulQA#MC1#0.295
+Question Answering#TruthfulQA#MC1#0.23
+Question Answering#TruthfulQA#MC1#0.217
+Question Answering#Natural Questions#EM#28.2
+Question Answering#SIQA#Accuracy#50.6
+Question Answering#PIQA#Accuracy#81.8
+Winogrande#BIG-bench#Accuracy#70.1
+HellaSwag#BIG-bench#Accuracy#79.2
+PIQA#BIG-bench#Accuracy#81.8
+SIQA#BIG-bench#Accuracy#50.6
+Riddle Sense#BIG-bench#Accuracy#68.2
+Winowhy#BIG-bench#Accuracy#56.7
+Discourse Marker Prediction#BIG-bench#Accuracy#11.7
+Timedial#BIG-bench#Accuracy#50.9
+Anachronisms#BIG-bench#Accuracy#56.4
+Causal Judgment#BIG-bench#Accuracy#50.8
+Crash Blossom#BIG-bench#Accuracy#63.6
+Crass AI#BIG-bench#Accuracy#56.8
+Disambiguation Q#BIG-bench#Accuracy#45.5
+Empirical Judgments#BIG-bench#Accuracy#52.5
+Irony Identification#BIG-bench#Accuracy#69.7
+Understanding Fables#BIG-bench#Accuracy#39.6
+Language Modelling#arXiv#BPB#0.662
+Language Modelling#Ubuntu IRC#BPB#1.09
+Language Modelling#StackExchange#BPB#0.641
+Language Modelling#Books3#BPB#0.712
+Language Modelling#FreeLaw#BPB#0.513
+Language Modelling#GitHub#BPB#0.377
+Language Modelling#PubMed Central#BPB#0.525
+Language Modelling#OpenSubtitles#BPB#0.899
+Language Modelling#Pile CC#BPB#0.691
+Language Modelling#Curation Corpus#BPB#0.475
+Language Modelling#HackerNews#BPB#0.890
+Language Modelling#NIH ExPorter#BPB#0.590
+Language Modelling#PubMed Cognitive Control Abstracts#BPB#0.577
+Language Modelling#USPTO Backgrounds#BPB#0.546
+Language Modelling#OpenWebtext2#BPB#0.677
+Language Modelling#PhilPapers#BPB#0.695
+Language Modelling#Gutenberg PG-19#BPB#0.656
+Language Modelling#DM Mathematics#BPB#1.14
+Language Modelling#Bookcorpus2#BPB#0.741
+Language Modelling#WikiText-103#BPB#0.566
+Formal Logic#BIG-bench#Accuracy#35.7
+Abstract Algebra#BIG-bench#Accuracy#25.0
+High School Mathematics#BIG-bench#Accuracy#23.7
+Mathematical Induction#BIG-bench#Accuracy#57.6
+Professional Accounting#BIG-bench#Accuracy#44.3
+Analogical Similarity#BIG-bench#Accuracy#17.2
+Identify Odd Metapor#BIG-bench#Accuracy#38.6
+Odd One Out#BIG-bench#Accuracy#32.5
+Sentence Completion#HellaSwag#Accuracy#79.2
+Dark Humor Detection#BIG-bench#Accuracy#83.1
+Ruin Names#BIG-bench#Accuracy#38.6
+SNARKS#BIG-bench#Accuracy#48.3
+Business Ethics#BIG-bench#Accuracy#70.0
+Moral Disputes#BIG-bench#Accuracy#66.8
+Moral Permissibility#BIG-bench#Accuracy#55.1
+Moral Scenarios#BIG-bench#Accuracy#40.2
+Misconceptions#BIG-bench#Accuracy#61.7
+Known Unknowns#BIG-bench#Accuracy#63.6
+Sentence Ambiguity#BIG-bench#Accuracy#69.1
+FEVER (2-way)#BIG-bench#Accuracy#77.5
+FEVER (3-way)#BIG-bench#Accuracy#77.5
+General Knowledge#BIG-bench#Accuracy#93.9
+Natural Questions#BIG-bench#Accuracy#28.2
+TriviaQA#BIG-bench#Accuracy#57.1
+Movie Recommendation#BIG-bench#Accuracy#50.5
+Miscellaneous#BIG-bench#Accuracy#75.7
+Sports Understanding#BIG-bench#Accuracy#54.9
+Global Facts#BIG-bench#Accuracy#38.0
+Similarities Abstraction#BIG-bench#Accuracy#81.8
+High School European History#BIG-bench#Accuracy#72.1
+High School US History#BIG-bench#Accuracy#78.9
+High School World History#BIG-bench#Accuracy#75.1
+Hindu Knowledge#BIG-bench#Accuracy#80.0
+International Law#BIG-bench#Accuracy#77.7
+Jurisprudence#BIG-bench#Accuracy#71.3
+Logical Fallacies#BIG-bench#Accuracy#72.4
+Management#BIG-bench#Accuracy#77.7
+Marketing#BIG-bench#Accuracy#83.3
+Philosophy#BIG-bench#Accuracy#68.8
+Prehistory#BIG-bench#Accuracy#67.6
+Professional Law#BIG-bench#Accuracy#44.5
+World Religions#BIG-bench#Accuracy#84.2
+Navigate#BIG-bench#Accuracy#51.1
+Temporal Sequences#BIG-bench#Accuracy#19.0
+Novel Concepts#BIG-bench#Accuracy#59.1
+Physical Intuition#BIG-bench#Accuracy#59.7
+Date Understanding#BIG-bench#Accuracy#44.1
+StrategyQA#BIG-bench#Accuracy#61.0
+Logic Grid Puzzle#BIG-bench#Accuracy#35.1
+Logical Fallacy Detection#BIG-bench#Accuracy#58.9
+Logical Sequence#BIG-bench#Accuracy#36.4
+Elementary Mathematics#BIG-bench#Accuracy#33.6
+Analytic Entailment#BIG-bench#Accuracy#53.0
+Entailed Polarity#BIG-bench#Accuracy#89.5
+Epistemic Reasoning#BIG-bench#Accuracy#56.4
+Evaluating Information Essentiality#BIG-bench#Accuracy#16.7
+Logical Args#BIG-bench#Accuracy#59.1
+Metaphor Boolean#BIG-bench#Accuracy#59.3
+Penguins In A Table#BIG-bench#Accuracy#40.6
+Presuppositions As NLI#BIG-bench#Accuracy#34.0
+Reasoning About Colored Objects#BIG-bench#Accuracy#49.2
+College Mathematics#BIG-bench#Accuracy#37.0
+Anatomy#BIG-bench#Accuracy#56.3
+Clinical Knowledge#BIG-bench#Accuracy#67.2
+College Medicine#BIG-bench#Accuracy#60.1
+Human Aging#BIG-bench#Accuracy#66.4
+Human Organs Senses Multiple Choice#BIG-bench#Accuracy#84.8
+Medical Genetics#BIG-bench#Accuracy#69.0
+Nutrition#BIG-bench#Accuracy#69.9
+Professional Medicine#BIG-bench#Accuracy#64.0
+Virology#BIG-bench#Accuracy#47.0
+BIG-bench Machine Learning#BIG-bench#Accuracy#41.1
+Astronomy#BIG-bench#Accuracy#65.8
+Computer Security#BIG-bench#Accuracy#65.0
+College Biology#BIG-bench#Accuracy#70.8
+College Chemistry#BIG-bench#Accuracy#45.0
+College Computer Science#BIG-bench#Accuracy#49.0
+College Physics#BIG-bench#Accuracy#34.3
+Conceptual Physics#BIG-bench#Accuracy#49.4
+Electrical Engineering#BIG-bench#Accuracy#60.0
+High School Biology#BIG-bench#Accuracy#71.3
+High School Chemistry#BIG-bench#Accuracy#47.8
+High School Computer Science#BIG-bench#Accuracy#54.0
+High School Physics#BIG-bench#Accuracy#33.8
+High School Statistics#BIG-bench#Accuracy#50.0
+Physics MC#BIG-bench#Accuracy#50.9
+Econometrics#BIG-bench#Accuracy#43.0
+High School Geography#BIG-bench#Accuracy#76.8
+High School Government and Politics#BIG-bench#Accuracy#83.9
+High School Macroeconomics#BIG-bench#Accuracy#65.1
+High School Microeconomics#BIG-bench#Accuracy#66.4
+High School Psychology#BIG-bench#Accuracy#81.8
+Human Sexuality#BIG-bench#Accuracy#67.2
+Professional Psychology#BIG-bench#Accuracy#68.1
+Public Relations#BIG-bench#Accuracy#71.8
+Security Studies#BIG-bench#Accuracy#64.9
+Sociology#BIG-bench#Accuracy#84.1
+US Foreign Policy#BIG-bench#Accuracy#81.0

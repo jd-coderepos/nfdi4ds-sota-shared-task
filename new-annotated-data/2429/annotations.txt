@@ -1,0 +1,12 @@
+Saliency Prediction#MIT300#CC#0.807
+Saliency Prediction#MIT300#SIM#0.6895
+Saliency Prediction#MIT300#NSS#2.4134
+Saliency Prediction#MIT300#sAUC#0.7467
+Saliency Prediction#MIT300#AUC-Judd#0.8734
+Saliency Prediction#MIT300#KLD#1.0141
+Saliency Prediction#SALICON#CC#0.907
+Saliency Prediction#SALICON#SIM#0.803
+Saliency Prediction#SALICON#NSS#2.014
+Saliency Prediction#SALICON#sAUC#0.747
+Saliency Prediction#SALICON#AUC#0.868
+Saliency Prediction#SALICON#KLD#0.373

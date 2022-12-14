@@ -1,0 +1,31 @@
+Novel View Synthesis#Mip-NeRF 360#PSNR#0.2146
+Novel View Synthesis#Mip-NeRF 360#SSIM#0.458
+Novel View Synthesis#Mip-NeRF 360#LPIPS#0.515
+Novel View Synthesis#Mip-NeRF 360#PSNR#21.95
+Novel View Synthesis#Mip-NeRF 360#SSIM#0.47
+Novel View Synthesis#Mip-NeRF 360#LPIPS#0.47
+Novel View Synthesis#Mip-NeRF 360#PSNR#22.76
+Novel View Synthesis#Mip-NeRF 360#SSIM#0.548
+Novel View Synthesis#Mip-NeRF 360#LPIPS#0.427
+Novel View Synthesis#NeRF#PSNR#31
+Novel View Synthesis#NeRF#SSIM#0.947
+Novel View Synthesis#NeRF#LPIPS#0.081
+Novel View Synthesis#NeRF#PSNR#30.9
+Novel View Synthesis#NeRF#LPIPS#0.062
+Novel View Synthesis#NeRF#PSNR#31.65
+Novel View Synthesis#NeRF#SSIM#0.952
+Novel View Synthesis#NeRF#LPIPS#0.051
+Novel View Synthesis#NeRF#PSNR#30.38
+Novel View Synthesis#NeRF#SSIM#0.95
+Novel View Synthesis#NeRF#LPIPS#0.05
+Novel View Synthesis#LLFF#PSNR#26.5
+Novel View Synthesis#LLFF#SSIM#0.811
+Novel View Synthesis#LLFF#LPIPS#0.25
+Novel View Synthesis#LLFF#PSNR#25.91
+Novel View Synthesis#LLFF#SSIM#0.825
+Novel View Synthesis#LLFF#LPIPS#0.183
+Novel View Synthesis#LLFF#PSNR#25.63
+Novel View Synthesis#LLFF#SSIM#0.818
+Novel View Synthesis#LLFF#PSNR#26.92
+Novel View Synthesis#LLFF#SSIM#0.831
+Novel View Synthesis#LLFF#LPIPS#0.173

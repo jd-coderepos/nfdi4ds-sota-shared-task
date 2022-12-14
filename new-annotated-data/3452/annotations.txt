@@ -1,0 +1,6 @@
+Multi-Label Classification#CheXpert#AVERAGE AUC ON 14 LABEL#0.930
+Multi-Label Classification#CheXpert#NUM RADS BELOW CURVE#2.800
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.8352 ± 0.0054
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8238 ± 0.0061
+Graph Property Prediction#ogbg-molhiv#Number of params#3444509
+Graph Property Prediction#ogbg-molhiv#Ext. data#No

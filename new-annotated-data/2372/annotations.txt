@@ -1,0 +1,19 @@
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#58.3
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#56.1
+Language Modelling#Penn Treebank (Word Level)#Params#23M
+Neural Architecture Search#CIFAR-10 Image Classification#Percentage error#2.83
+Neural Architecture Search#CIFAR-10 Image Classification#Params#3.4M
+Neural Architecture Search#CIFAR-10 Image Classification#Search Time (GPU days)#4
+Neural Architecture Search#ImageNet#Top-1 Error Rate#26.7
+Neural Architecture Search#ImageNet#Accuracy#73.3
+Neural Architecture Search#ImageNet#Params#4.9M
+Neural Architecture Search#ImageNet#MACs#595M
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Accuracy (Test)#16.43
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Accuracy (val)#16.32
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Search time (s)#10890
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Search time (s)#29902
+Neural Architecture Search#CIFAR-10#Top-1 Error Rate#2.76%
+Neural Architecture Search#CIFAR-10#Search Time (GPU days)#4
+Neural Architecture Search#CIFAR-10#Parameters#3.3
+Neural Architecture Search#CIFAR-10#Top-1 Error Rate#3%
+Neural Architecture Search#CIFAR-10#Search Time (GPU days)#1.5

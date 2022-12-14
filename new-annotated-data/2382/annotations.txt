@@ -1,0 +1,9 @@
+Long-range modeling#SCROLLS#GovRep#60.3 / 30.0 / 31.5
+Long-range modeling#SCROLLS#SumScr#35.7 / 9.1 / 20.6
+Long-range modeling#SCROLLS#QMSum#33.2 / 9.6 / 21.6
+Long-range modeling#SCROLLS#GovRep#59.3 / 29.3 / 30.9
+Long-range modeling#SCROLLS#SumScr#35.0 / 8.9 / 20.4
+Long-range modeling#SCROLLS#QMSum#32.9 / 9.8 / 21.4
+Text Summarization#arXiv#ROUGE-1#50.0
+Text Summarization#arXiv#ROUGE-2#21.8
+Text Summarization#arXiv#ROUGE-L#44.6

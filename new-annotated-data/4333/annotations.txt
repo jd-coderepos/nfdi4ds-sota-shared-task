@@ -1,0 +1,47 @@
+Graph Regression#ZINC-500k#MAE#0.398
+Graph Classification#CIFAR10 100k#Accuracy (%)#66.08
+Node Classification#Cora (3%)#Accuracy#64.2%
+Node Classification#Flickr#Accuracy#0.641
+Node Classification#Wiki-Vote#Accuracy#24.5
+Node Classification#CiteSeer (1%)#Accuracy#51.0%
+Node Classification#PATTERN 100k#Accuracy (%)#50.516
+Node Classification#Citeseer Full-supervised#Accuracy#71.40%
+Node Classification#USA Air-Traffic#Accuracy#31.6
+Node Classification#Facebook#Accuracy#38.9
+Node Classification#Pubmed Full-supervised#Accuracy#87.10%
+Node Classification#Brazil Air-Traffic#Accuracy#0.404
+Node Classification#PPI#F1#61.2
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#67.2%
+Node Classification#PubMed (0.05%)#Accuracy#53.0%
+Node Classification#PubMed (0.03%)#Accuracy#45.4%
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#74.5%
+Node Classification#CiteSeer (0.5%)#Accuracy#33.8%
+Node Classification#Europe Air-Traffic#Accuracy#27.2
+Node Classification#Cora (0.5%)#Accuracy#37.5%
+Node Classification#Reddit#Accuracy#94.32%
+Node Classification#Cora Full-supervised#Accuracy#82.20%
+Node Classification#PubMed (0.1%)#Accuracy#65.4%
+Node Classification#Cora (1%)#Accuracy#49.0%
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#76.8%
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#71.41 ± 1.24
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#64.85 ± 5.14
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#79.03 ± 1.20
+Link Property Prediction#ogbl-ppa#Test Hits@100#0.1655 ± 0.0240
+Link Property Prediction#ogbl-ppa#Validation Hits@100#0.1724 ± 0.0264
+Link Property Prediction#ogbl-ppa#Number of params#424449
+Link Property Prediction#ogbl-ppa#Ext. data#No
+Link Property Prediction#ogbl-citation2#Test MRR#0.8260 ± 0.0036
+Link Property Prediction#ogbl-citation2#Validation MRR#0.8263 ± 0.0033
+Link Property Prediction#ogbl-citation2#Number of params#460289
+Link Property Prediction#ogbl-citation2#Ext. data#No
+Link Property Prediction#ogbl-citation2#Test MRR#0.8044 ± 0.0010
+Link Property Prediction#ogbl-citation2#Validation MRR#0.8054 ± 0.0009
+Link Property Prediction#ogbl-ddi#Test Hits@20#0.5390 ± 0.0474
+Link Property Prediction#ogbl-ddi#Validation Hits@20#0.6262 ± 0.0037
+Link Property Prediction#ogbl-ddi#Number of params#1421057
+Link Property Prediction#ogbl-ddi#Ext. data#No
+Link Property Prediction#ogbl-collab#Test Hits@50#0.5463 ± 0.0112
+Link Property Prediction#ogbl-collab#Validation Hits@50#0.5688 ± 0.0077
+Link Property Prediction#ogbl-collab#Number of params#460289
+Link Property Prediction#ogbl-collab#Ext. data#No
+Link Property Prediction#ogbl-collab#Test Hits@50#0.4810 ± 0.0081

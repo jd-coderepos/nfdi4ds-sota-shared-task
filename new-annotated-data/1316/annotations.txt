@@ -1,0 +1,12 @@
+Unsupervised Person Re-Identification#Market-1501#Rank-1#92.3
+Unsupervised Person Re-Identification#Market-1501#MAP#79.2
+Unsupervised Person Re-Identification#Market-1501#Rank-10#97.8
+Unsupervised Person Re-Identification#Market-1501#Rank-5#96.6
+Unsupervised Person Re-Identification#MSMT17#mAP#24.6
+Unsupervised Person Re-Identification#MSMT17#Rank-1#56.2
+Unsupervised Person Re-Identification#MSMT17#Rank-5#67.3
+Unsupervised Person Re-Identification#MSMT17#Rank-10#71.5
+Unsupervised Person Re-Identification#DukeMTMC-reID#Rank-1#82.7
+Unsupervised Person Re-Identification#DukeMTMC-reID#Rank-10#93.5
+Unsupervised Person Re-Identification#DukeMTMC-reID#Rank-5#91.1
+Unsupervised Person Re-Identification#DukeMTMC-reID#MAP#69.1

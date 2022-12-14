@@ -1,0 +1,6 @@
+Lane Detection#TuSimple#F1 score#97.71
+Lane Detection#TuSimple#F1 score#97.68
+Lane Detection#TuSimple#F1 score#97.45
+Lane Detection#CULane#F1 score#79.63
+Lane Detection#CULane#F1 score#79.39
+Lane Detection#CULane#F1 score#78.79

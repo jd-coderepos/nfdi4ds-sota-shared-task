@@ -1,0 +1,18 @@
+Video Frame Interpolation#SNU-FILM (hard)#PSNR#30.66
+Video Frame Interpolation#SNU-FILM (hard)#SSIM#0.9373
+Video Frame Interpolation#X4K1000FPS-2K#PSNR#30.05
+Video Frame Interpolation#X4K1000FPS-2K#SSIM#0.8998
+Video Frame Interpolation#SNU-FILM (extreme)#PSNR#25.44
+Video Frame Interpolation#SNU-FILM (extreme)#SSIM#0.8638
+Video Frame Interpolation#UCF101#PSNR#35.36
+Video Frame Interpolation#UCF101#SSIM#0.9705
+Video Frame Interpolation#Nvidia Dynamic Scene#PSNR#36.24
+Video Frame Interpolation#Nvidia Dynamic Scene#SSIM#0.9839
+Video Frame Interpolation#Vimeo90K#PSNR#35.73
+Video Frame Interpolation#Vimeo90K#SSIM#0.9789
+Video Frame Interpolation#Xiph 4k#PSNR#30.94
+Video Frame Interpolation#Xiph 4k#SSIM#0.9389
+Video Frame Interpolation#SNU-FILM (medium)#PSNR#35.94
+Video Frame Interpolation#SNU-FILM (medium)#SSIM#0.9797
+Video Frame Interpolation#SNU-FILM (easy)#PSNR#39.9
+Video Frame Interpolation#SNU-FILM (easy)#SSIM#0.9910

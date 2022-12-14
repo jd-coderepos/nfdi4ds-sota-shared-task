@@ -1,0 +1,37 @@
+Video Prediction#KTH#LPIPS#0.116
+Video Prediction#KTH#PSNR#26.00
+Video Prediction#KTH#FVD#145.7
+Video Prediction#KTH#SSIM#0.806
+Video Prediction#KTH#Cond#10
+Video Prediction#KTH#Pred#40
+Video Prediction#KTH#Params (M)#7.3
+Video Prediction#KTH#Train#10
+Video Prediction#KTH#LPIPS#0.126
+Video Prediction#KTH#PSNR#23.79
+Video Prediction#KTH#FVD#183.7
+Video Prediction#KTH#SSIM#0.699
+Video Prediction#KTH#Params (M)#17.6
+Video Prediction#KTH#LPIPS#0.1120±0.0039
+Video Prediction#KTH#PSNR#26.51±0.29
+Video Prediction#KTH#FVD#374 ± 3
+Video Prediction#KTH#SSIM#0.7564±0.0062
+Video Prediction#KTH#Pred#30
+Video Prediction#KTH#PSNR#27.77
+Video Prediction#KTH#SSIM#0.852
+Video Prediction#KTH#Pred#20
+Video Generation#BAIR Robot Pushing#FVD score#116.4
+Video Generation#BAIR Robot Pushing#Cond#2
+Video Generation#BAIR Robot Pushing#Pred#14
+Video Generation#BAIR Robot Pushing#Train#14
+Video Generation#BAIR Robot Pushing#FVD score#143.43
+Video Generation#BAIR Robot Pushing#SSIM#0.795±0.07
+Video Generation#BAIR Robot Pushing#LPIPS#0.062±0.03
+Video Generation#BAIR Robot Pushing#Pred#28
+Video Generation#BAIR Robot Pushing#Train#10
+Video Generation#BAIR Robot Pushing#FVD score#152±9
+Video Generation#BAIR Robot Pushing#SSIM#0.7887±0.0092
+Video Generation#BAIR Robot Pushing#PSNR#18.44±0.25
+Video Generation#BAIR Robot Pushing#LPIPS#0.0634±0.0026
+Video Generation#BAIR Robot Pushing#Train#12
+Video Generation#BAIR Robot Pushing#SSIM#0.815
+Video Generation#BAIR Robot Pushing#PSNR#19.09

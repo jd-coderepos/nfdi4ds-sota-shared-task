@@ -1,0 +1,8 @@
+Multi-task Language Understanding#MMLU#Humanities#46.1
+Multi-task Language Understanding#MMLU#Average (%)#47.9
+Multi-task Language Understanding#MMLU#Parameters (Billions)#11
+Multi-task Language Understanding#MMLU#STEM#38.8
+Multi-task Language Understanding#MMLU#Social Sciences#54.6
+Multi-task Language Understanding#MMLU#Other#52.8
+Question Answering#Natural Questions#EM#60.4
+Question Answering#Natural Questions#EM#42.4

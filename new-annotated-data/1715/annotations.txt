@@ -1,0 +1,13 @@
+Video Background Subtraction#DAVIS 2017 (zoomInZoomOut)#AUC#0.994
+Video Background Subtraction#DAVIS 2017 (stroller)#AUC#0.877
+Video Background Subtraction#DAVIS 2017 (tennis)#AUC#0.963
+Video Background Subtraction#DAVIS 2017 (swing)#AUC#0.897
+Video Background Subtraction#DAVIS 2017 (sidewalk)#AUC#0.932
+Video Background Subtraction#DAVIS 2017 (flamingo)#AUC#0.98
+Video Background Subtraction#DAVIS 2017 (boxing-fisheye)#AUC#0.927
+Video Background Subtraction#DAVIS 2017 (horsejump-high)#AUC#0.943
+Video Background Subtraction#DAVIS 2017 (bmx-trees)#AUC#0.916
+Video Background Subtraction#DAVIS 2017 (dog-gooses)#AUC#0.984
+Video Background Subtraction#DAVIS 2017 (stunt)#AUC#0.979
+Video Background Subtraction#DAVIS 2017 (breakdance-flare)#AUC#0.963
+Video Background Subtraction#DAVIS 2017 (continuousPan)#AUC#0.94

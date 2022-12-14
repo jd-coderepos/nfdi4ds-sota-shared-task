@@ -1,0 +1,2 @@
+Unsupervised Domain Adaptation#Cityscapes to Foggy Cityscapes#mAP@0.5#41.87
+Unsupervised Domain Adaptation#UDA-CH#mAP@0.50#58.01

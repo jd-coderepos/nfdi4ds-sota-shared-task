@@ -1,0 +1,4 @@
+Source Code Summarization#CoDesc#BLEU-4#45.89
+Code Search#CoDesc#Test MRR#0.839
+Code Search#CoDesc#Test MRR#0.812
+Code Search#CoDesc#Test MRR#0.766

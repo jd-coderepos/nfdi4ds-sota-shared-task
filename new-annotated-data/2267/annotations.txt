@@ -1,0 +1,1 @@
+Multimodal Activity Recognition#MSR Daily Activity3D dataset#Accuracy#91.3

@@ -1,0 +1,3 @@
+Multiple Object Tracking with Transformer#MOT20#HOTA#56.1
+Multiple Object Tracking with Transformer#MOT20#MOTA#73.0
+Multiple Object Tracking with Transformer#MOT20#IDF1#67.6

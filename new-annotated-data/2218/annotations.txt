@@ -1,0 +1,15 @@
+Data-to-Text Generation#MLB Dataset (Content Selection)#Precision#40.8
+Data-to-Text Generation#MLB Dataset (Content Selection)#Recall#54.9
+Data-to-Text Generation#RotoWire (Content Ordering)#DLD#17.7%
+Data-to-Text Generation#RotoWire#BLEU#15.46
+Data-to-Text Generation#MLB Dataset#BLEU#12.62
+Data-to-Text Generation#MLB Dataset (Relation Generation)#Precision#94.4
+Data-to-Text Generation#MLB Dataset (Relation Generation)#count#30.8
+Data-to-Text Generation#MLB Dataset (Relation Generation)#Precision#81.1
+Data-to-Text Generation#MLB Dataset (Relation Generation)#count#23.8
+Data-to-Text Generation#Rotowire (Content Selection)#Precision#34.1%
+Data-to-Text Generation#Rotowire (Content Selection)#Recall#57.8%
+Data-to-Text Generation#RotoWire (Relation Generation)#count#42.1
+Data-to-Text Generation#RotoWire (Relation Generation)#Precision#97.6
+Data-to-Text Generation#MLB Dataset (Content Ordering)#DLD#21.8
+Data-to-Text Generation#MLB Dataset (Content Ordering)#DLD#20.7

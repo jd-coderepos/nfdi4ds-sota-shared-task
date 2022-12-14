@@ -1,0 +1,4 @@
+Few-Shot Object Detection#MS-COCO (10-shot)#AP#22.5
+Few-Shot Object Detection#MS-COCO (10-shot)#AP#15.0
+Few-Shot Object Detection#MS-COCO (30-shot)#AP#30.2
+Few-Shot Object Detection#MS-COCO (30-shot)#AP#21.0

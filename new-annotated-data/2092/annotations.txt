@@ -1,0 +1,13 @@
+Visual Question Answering#GQA#Accuracy#77
+Visual Commonsense Reasoning#VCR (QA-R) test#Accuracy#76.7
+Visual Commonsense Reasoning#VCR (QA-R) dev#Accuracy#76.4
+Visual Commonsense Reasoning#VCR (Q-A) dev#Accuracy#75.1
+Visual Commonsense Reasoning#VCR (Q-AR) test#Accuracy#58.6
+Visual Commonsense Reasoning#VCR (Q-A) test#Accuracy#76.0
+Visual Commonsense Reasoning#VCR (Q-AR) dev#Accuracy#57.8
+Visual Relationship Detection#Visual Genome#R@50#64.4
+Visual Relationship Detection#Visual Genome#R@100#66.3
+Visual Relationship Detection#Visual Genome#mR@50#21.7
+Visual Relationship Detection#Visual Genome#mR@100#23.5
+Phrase Grounding#Flickr30k Entities Dev#R@1#84.1
+Phrase Grounding#Flickr30k Entities Test#R@1#84.4

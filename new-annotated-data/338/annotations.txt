@@ -1,0 +1,2 @@
+Facial Action Unit Detection#DISFA#Average F1#56.0
+Facial Action Unit Detection#BP4D#Average F1#60.0

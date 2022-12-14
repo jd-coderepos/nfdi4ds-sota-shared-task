@@ -1,0 +1,1 @@
+3D Object Detection From Stereo Images#KITTI Cars Moderate#AP75#4.37

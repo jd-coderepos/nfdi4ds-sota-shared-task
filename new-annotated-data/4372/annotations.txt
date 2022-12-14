@@ -1,0 +1,8 @@
+Video Inpainting#YouTube-VOS 2018 val#PSNR#33.71
+Video Inpainting#YouTube-VOS 2018 val#SSIM#0.9700
+Video Inpainting#YouTube-VOS 2018 val#VFID#0.046
+Video Inpainting#YouTube-VOS 2018 val#Ewarp#0.0864
+Video Inpainting#DAVIS#PSNR#33.01
+Video Inpainting#DAVIS#SSIM#0.9721
+Video Inpainting#DAVIS#VFID#0.116
+Video Inpainting#DAVIS#Ewarp#0.1315

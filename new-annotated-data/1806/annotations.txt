@@ -1,0 +1,32 @@
+Reading Comprehension#MuSeRC#Average F1#0.671
+Reading Comprehension#MuSeRC#EM#0.237
+Reading Comprehension#MuSeRC#Average F1#0.45
+Reading Comprehension#MuSeRC#EM#0.071
+Reading Comprehension#MuSeRC#Average F1#0.0
+Reading Comprehension#MuSeRC#EM#0.0
+Question Answering#DaNetQA#Accuracy#0.642
+Question Answering#DaNetQA#Accuracy#0.52
+Question Answering#DaNetQA#Accuracy#0.503
+Common Sense Reasoning#RWSD#Accuracy#0.597
+Common Sense Reasoning#RWSD#Accuracy#0.669
+Common Sense Reasoning#PARus#Accuracy#0.498
+Common Sense Reasoning#PARus#Accuracy#0.48
+Common Sense Reasoning#PARus#Accuracy#0.478
+Common Sense Reasoning#RuCoS#Average F1#0.26
+Common Sense Reasoning#RuCoS#EM#0.257
+Common Sense Reasoning#RuCoS#Average F1#0.25
+Common Sense Reasoning#RuCoS#EM#0.247
+Word Sense Disambiguation#RUSSE#Accuracy#0.595
+Word Sense Disambiguation#RUSSE#Accuracy#0.587
+Word Sense Disambiguation#RUSSE#Accuracy#0.528
+Natural Language Inference#RCB#Average F1#0.4
+Natural Language Inference#RCB#Accuracy#0.438
+Natural Language Inference#RCB#Average F1#0.319
+Natural Language Inference#RCB#Accuracy#0.374
+Natural Language Inference#RCB#Average F1#0.217
+Natural Language Inference#RCB#Accuracy#0.484
+Natural Language Inference#TERRa#Accuracy#0.549
+Natural Language Inference#TERRa#Accuracy#0.513
+Natural Language Inference#TERRa#Accuracy#0.483
+Natural Language Inference#LiDiRus#MCC#0.147
+Natural Language Inference#LiDiRus#MCC#0

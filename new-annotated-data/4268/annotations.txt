@@ -1,0 +1,1 @@
+Self-Supervised Image Classification#ImageNet (finetuned)#Top 1 Accuracy#83.2%

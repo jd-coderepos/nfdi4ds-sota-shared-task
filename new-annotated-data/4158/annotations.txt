@@ -1,0 +1,1 @@
+Image Classification#MNIST#Error rate#5.19

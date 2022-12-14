@@ -1,0 +1,4 @@
+Visual Question Answering#VizWiz 2020 Answerability#average_precision#84.13
+Visual Question Answering#VizWiz 2020 Answerability#average_precision#82.86
+Visual Question Answering#VizWiz 2020 VQA#overall#61.64
+Visual Question Answering#VizWiz 2020 VQA#overall#60.66

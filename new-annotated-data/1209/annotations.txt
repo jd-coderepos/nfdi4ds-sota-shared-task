@@ -1,0 +1,9 @@
+Image Generation#CIFAR-10#Inception score#8.8
+Image Generation#LSUN Horse 256 x 256#Clean-FID (trainfull)#14.09 ± 0.06
+Image Generation#LSUN Bedroom 256 x 256#FID#8.34
+Image Generation#LSUN Cat 256 x 256#FID#37.52
+Image Generation#LSUN Cat 256 x 256#Clean-FID (trainfull)#38.35 ± 0.32
+Image Generation#LSUN Churches 256 x 256#FID#6.42
+Image Generation#LSUN Churches 256 x 256#Clean-FID (trainfull)#6.43 ± 0.05
+Image Generation#CelebA-HQ 256x256#FID#8.03
+Image Generation#CelebA-HQ 1024x1024#FID#7.3

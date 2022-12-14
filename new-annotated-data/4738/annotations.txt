@@ -1,0 +1,1 @@
+Contrastive Learning#imagenet-1k#ImageNet Top-1 Accuracy#56.5

@@ -1,0 +1,5 @@
+Unsupervised Semantic Segmentation#COCO-All#mIoU#28.2
+Unsupervised Semantic Segmentation#COCO-All#Pixel Accuracy#56.9
+Unsupervised Semantic Segmentation#Potsdam-3#Accuracy#77.0
+Unsupervised Semantic Segmentation#Cityscapes test#mIoU#21.0
+Unsupervised Semantic Segmentation#Cityscapes test#Accuracy#73.2

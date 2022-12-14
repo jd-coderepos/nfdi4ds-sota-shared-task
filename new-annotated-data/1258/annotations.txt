@@ -1,0 +1,8 @@
+3D-Aware Image Synthesis#FFHQ 256 x 256#FID#6.97
+3D-Aware Image Synthesis#FFHQ 256 x 256#KID#2.87
+3D-Aware Image Synthesis#FFHQ 256 x 256#FID#8.00
+3D-Aware Image Synthesis#FFHQ 256 x 256#KID#3.70
+3D-Aware Image Synthesis#FFHQ 256 x 256#FID#34.56
+3D-Aware Image Synthesis#FFHQ 256 x 256#KID#26.58
+3D-Aware Image Synthesis#FFHQ 256 x 256#FID#63.33
+3D-Aware Image Synthesis#FFHQ 256 x 256#KID#50.94

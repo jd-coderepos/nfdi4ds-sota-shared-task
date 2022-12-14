@@ -1,0 +1,2 @@
+Fake News Detection#Grover-Mega#Unpaired Accuracy#98.5%
+Fake News Detection#Social media#Accuracy#92.4

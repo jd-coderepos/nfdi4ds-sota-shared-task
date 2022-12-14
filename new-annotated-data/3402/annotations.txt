@@ -1,0 +1,4 @@
+Cross-Modal Retrieval#Recipe1M#Image-to-text R@1#72.3
+Cross-Modal Retrieval#Recipe1M#Text-to-image R@1#72.6
+Cross-Modal Retrieval#Recipe1M#Image-to-text R@1#68.2
+Cross-Modal Retrieval#Recipe1M#Text-to-image R@1#68.3

@@ -1,0 +1,12 @@
+Link Prediction#FB122#HITS@3#74.2
+Link Prediction#FB122#Hits@5#76.0
+Link Prediction#FB122#Hits@10#78.2
+Link Prediction#FB122#MRR#72.7
+Link Prediction#WN18RR#MRR#0.48
+Link Prediction#WN18RR#Hits@10#0.55
+Link Prediction#WN18RR#Hits@3#0.49
+Link Prediction#WN18RR#Hits@1#0.43
+Link Prediction#NELL-995#MRR#0.81
+Link Prediction#NELL-995#Hits@1#0.77
+Link Prediction#NELL-995#Hits@10#0.89
+Link Prediction#NELL-995#HITS@3#0.85

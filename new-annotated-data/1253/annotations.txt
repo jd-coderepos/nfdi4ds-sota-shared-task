@@ -1,0 +1,4 @@
+Cloud Removal#SEN12MS-CR#MAE#0.0277
+Cloud Removal#SEN12MS-CR#PSNR#28.6393
+Cloud Removal#SEN12MS-CR#SAM#4.4907
+Cloud Removal#SEN12MS-CR#SSIM#0.8845

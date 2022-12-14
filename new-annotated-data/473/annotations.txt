@@ -1,0 +1,2 @@
+Image-to-Image Translation#2017_test set#10 way 1~2 shot#457
+Medical Report Generation#300W (Full)#10 fold Cross validation#No

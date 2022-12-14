@@ -1,0 +1,5 @@
+Visual Object Tracking#UAV123#AUC#0.697
+Visual Object Tracking#LaSOT#AUC#67.1
+Visual Object Tracking#LaSOT#Normalized Precision#77.2
+Visual Object Tracking#LaSOT#Precision#70.2
+Visual Object Tracking#OTB-2015#AUC#0.709

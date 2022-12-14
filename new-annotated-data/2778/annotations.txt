@@ -1,0 +1,3 @@
+Weakly-Supervised Object Localization#CUB-200-2011#Top-1 Localization Accuracy#71.3
+Single-object discovery#COCO_20k#CorLoc#57.5
+Single-object discovery#COCO_20k#CorLoc#50.7

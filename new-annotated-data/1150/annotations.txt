@@ -1,0 +1,2 @@
+Brain Tumor Segmentation#BRATS-2014#Dice Score#0.8739
+Brain Tumor Segmentation#BRATS-2017 val#Dice Score#0.9050

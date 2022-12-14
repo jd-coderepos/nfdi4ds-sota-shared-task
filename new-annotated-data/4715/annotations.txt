@@ -1,0 +1,4 @@
+Weather Forecasting#SEVIR#MSE#3.6957
+Weather Forecasting#SEVIR#mCSI#0.4419
+Weather Forecasting#SEVIR#MSE#3.7532
+Weather Forecasting#SEVIR#mCSI#0.4185

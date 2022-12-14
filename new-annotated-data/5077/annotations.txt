@@ -1,0 +1,6 @@
+Human Judgment Correlation#Flickr8k-Expert#Kendall's Tau-c#53.0
+Human Judgment Correlation#Flickr8k-Expert#Kendall's Tau-c#51.2
+Human Judgment Correlation#Flickr8k-CF#Kendall's Tau-b#36.4
+Human Judgment Correlation#Flickr8k-CF#Kendall's Tau-b#34.4
+Human Judgment Classification#Pascal-50S#Mean Accuracy#83.1
+Human Judgment Classification#Pascal-50S#Mean Accuracy#80.7

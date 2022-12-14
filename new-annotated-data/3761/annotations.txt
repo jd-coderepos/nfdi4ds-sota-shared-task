@@ -1,0 +1,1 @@
+3D Object Detection#KITTI Cars Moderate#AP#82.86%

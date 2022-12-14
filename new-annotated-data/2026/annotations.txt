@@ -1,0 +1,7 @@
+Question Answering#SQuAD2.0#F1#78.3
+Natural Language Inference#MultiNLI#Matched#86.2
+Natural Language Inference#MultiNLI#Mismatched#86.5
+Sentiment Analysis#SST-2 Binary classification#Accuracy#94.8
+Image Classification#ImageNet#Top 1 Accuracy#81.6%
+Image Classification#ImageNet#Number of params#73M
+Image Classification#ImageNet#GFLOPs#31.6

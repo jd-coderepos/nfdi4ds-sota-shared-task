@@ -1,0 +1,10 @@
+Speech Dereverberation#WHAMR_ext#SI-SDR#7.07
+Speech Dereverberation#WHAMR_ext#SI-SDRi#10.81
+Speech Dereverberation#WHAMR_ext#PESQ#2.46
+Speech Dereverberation#WHAMR_ext#ESTOI#81
+Speech Dereverberation#WHAMR_ext#SRMR#9.18
+Speech Dereverberation#WHAMR!#SI-SDR#12.03
+Speech Dereverberation#WHAMR!#PESQ#3.46
+Speech Dereverberation#WHAMR!#SI-SDRi#7.63
+Speech Dereverberation#WHAMR!#ESTOI#93
+Speech Dereverberation#WHAMR!#SRMR#8.7

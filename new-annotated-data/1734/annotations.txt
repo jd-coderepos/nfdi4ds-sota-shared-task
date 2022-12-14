@@ -1,0 +1,1 @@
+Anomaly Detection#MNIST#ROC AUC#97.68

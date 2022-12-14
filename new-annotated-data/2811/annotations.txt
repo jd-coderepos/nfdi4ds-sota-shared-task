@@ -1,0 +1,20 @@
+Action Segmentation#Assembly101#MoF#39.2
+Action Segmentation#Assembly101#F1@10%#33.3
+Action Segmentation#Assembly101#F1@25%#29.0
+Action Segmentation#Assembly101#F1@50%#21.3
+Action Segmentation#Assembly101#Edit#32.4
+Action Segmentation#50 Salads#F1@10%#84.3
+Action Segmentation#50 Salads#Edit#76.4
+Action Segmentation#50 Salads#Acc#84.9
+Action Segmentation#50 Salads#F1@25%#81.8
+Action Segmentation#50 Salads#F1@50%#72.6
+Action Segmentation#Breakfast#F1@10%#72.2
+Action Segmentation#Breakfast#F1@50%#57.6
+Action Segmentation#Breakfast#Acc#76.0
+Action Segmentation#Breakfast#Edit#69.6
+Action Segmentation#Breakfast#F1@25%#68.7
+Action Segmentation#GTEA#F1@10%#90.3
+Action Segmentation#GTEA#F1@50%#77.7
+Action Segmentation#GTEA#Acc#80.8
+Action Segmentation#GTEA#Edit#86.4
+Action Segmentation#GTEA#F1@25%#88.8

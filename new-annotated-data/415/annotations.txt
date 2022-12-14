@@ -1,0 +1,17 @@
+Text-to-Image Generation#COCO#FID#37.2
+Text-to-Image Generation#COCO#FID-1#31.6
+Text-to-Image Generation#COCO#FID-8#21.1
+Text-to-Image Generation#COCO#FID-2#25.7
+Text-to-Image Generation#COCO#FID-4#21.4
+Text-to-Image Generation#COCO#FID#45.8
+Text-to-Image Generation#COCO#FID-1#41.9
+Text-to-Image Generation#COCO#FID-8#29.83
+Text-to-Image Generation#COCO#FID-2#35.5
+Text-to-Image Generation#COCO#FID-4#30.2
+Image Captioning#COCO Captions#BLEU-4#39.9
+Image Captioning#COCO Captions#METEOR#31.4
+Image Captioning#COCO Captions#ROUGE-L#60.4
+Image Captioning#COCO Captions#CIDEr-D#102.2
+Image Captioning#COCO Captions#SPICE#23.3
+Image Reconstruction#ImageNet 256x256#FID#1.04
+Image Reconstruction#ImageNet 256x256#FID#3.28

@@ -1,0 +1,6 @@
+Weakly-supervised instance segmentation#COCO 2017 val#AP#21.1
+Weakly-supervised instance segmentation#COCO 2017 val#AP@50#45.5
+Weakly-supervised instance segmentation#COCO 2017 val#AP@75#17.2
+Weakly-supervised instance segmentation#COCO 2017 val#AP@S#11.2
+Weakly-supervised instance segmentation#COCO 2017 val#AP@M#22.0
+Weakly-supervised instance segmentation#COCO 2017 val#AP@L#29.8

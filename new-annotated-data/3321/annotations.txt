@@ -1,0 +1,13 @@
+Neural Architecture Search#NAS-Bench-201, CIFAR-100#Accuracy (Test)#73.37
+Neural Architecture Search#NAS-Bench-201, CIFAR-100#Accuracy (Val)#73.35
+Neural Architecture Search#CIFAR-10 Image Classification#Percentage error#2.56
+Neural Architecture Search#CIFAR-10 Image Classification#Params#3.6
+Neural Architecture Search#CIFAR-10 Image Classification#Search Time (GPU days)#10.5
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Accuracy (Test)#46.27
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Accuracy (val)#46.34
+Neural Architecture Search#CIFAR-10#Top-1 Error Rate#2.56%
+Neural Architecture Search#CIFAR-10#Search Time (GPU days)#10.5
+Neural Architecture Search#CIFAR-10#Parameters#3.6M
+Neural Architecture Search#NAS-Bench-201, CIFAR-10#Accuracy (Test)#94.18
+Neural Architecture Search#NAS-Bench-201, CIFAR-10#Accuracy (val)#91.41
+Neural Architecture Search#NAS-Bench-201, CIFAR-10#Search time (s)#12000

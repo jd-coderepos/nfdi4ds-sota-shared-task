@@ -1,0 +1,6 @@
+Multimodal Lexical Translation#MultiSubs English-Portuguese#ALI#0.80
+Multimodal Lexical Translation#MultiSubs English-German#ALI#0.94
+Multimodal Lexical Translation#MultiSubs English-Spanish#ALI#0.81
+Multimodal Lexical Translation#MultiSubs English-French#ALI#0.81
+Multimodal Text Prediction#MultiSubs#Accuracy#30.35
+Multimodal Text Prediction#MultiSubs#Word similarity#0.44

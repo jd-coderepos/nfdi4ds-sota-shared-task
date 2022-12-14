@@ -1,0 +1,17 @@
+Image Generation#ShapeStacks#FID#112.7
+Image Generation#ShapeStacks#FID#186.8
+Image Generation#ShapeStacks#FID#197.8
+Image Generation#ObjectsRoom#FID#52.6
+Image Generation#ObjectsRoom#FID#62.8
+Image Generation#ObjectsRoom#FID#205.7
+Unsupervised Object Segmentation#ObjectsRoom#ARI-FG#0.84
+Unsupervised Object Segmentation#ObjectsRoom#ARI-FG#0.79
+Unsupervised Object Segmentation#ObjectsRoom#ARI-FG#0.63
+Unsupervised Object Segmentation#ObjectsRoom#ARI-FG#0.54
+Unsupervised Object Segmentation#ShapeStacks#ARI-FG#0.81
+Unsupervised Object Segmentation#ShapeStacks#ARI-FG#0.76
+Unsupervised Object Segmentation#ShapeStacks#ARI-FG#0.70
+Unsupervised Object Segmentation#Shelf&Tote Training Dataset#ARI#0.55
+Unsupervised Object Segmentation#Shelf&Tote Training Dataset#ARI#0.11
+Unsupervised Object Segmentation#Shelf&Tote Training Dataset#ARI#0.04
+Unsupervised Object Segmentation#Shelf&Tote Training Dataset#ARI#0.03

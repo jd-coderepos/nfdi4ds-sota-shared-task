@@ -1,0 +1,10 @@
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#91.36 ± 0.70
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#91.30 ± 0.70
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#74.43 ± 10.24
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#66.56 ± 13.82
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#93.75 ± 2.37
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#92.92 ± 0.61
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#92.26 ± 0.71
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#80.66 ± 1.91
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#75.41 ± 7.18
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#66.90±0.50

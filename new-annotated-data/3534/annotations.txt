@@ -1,0 +1,5 @@
+Hyperspectral Image Classification#CASI University of Houston#Overall Accuracy#95.36
+Hyperspectral Image Classification#Indian Pines#Overall Accuracy#99.63%
+Hyperspectral Image Classification#Indian Pines#Kappa#0.9958
+Hyperspectral Image Classification#Pavia University#Overall Accuracy#99.97%
+Hyperspectral Image Classification#Pavia University#Kappa@1%#0.9996

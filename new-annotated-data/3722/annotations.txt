@@ -1,0 +1,18 @@
+Object Detection#COCO minival#box AP#50.1
+Object Detection#COCO minival#AP50#69.5
+Object Detection#COCO minival#AP75#54.9
+Image Classification#ImageNet#Top 1 Accuracy#83.8%
+Image Classification#ImageNet#Number of params#82M
+Image Classification#ImageNet#GFLOPs#11.8
+Image Classification#ImageNet#Top 1 Accuracy#83.2%
+Image Classification#ImageNet#Number of params#45.2M
+Image Classification#ImageNet#GFLOPs#6.9
+Image Classification#ImageNet#Top 1 Accuracy#82%
+Image Classification#ImageNet#Number of params#25.4M
+Image Classification#ImageNet#GFLOPs#4
+Image Classification#ImageNet#Top 1 Accuracy#78.7%
+Image Classification#ImageNet#Number of params#13.1M
+Image Classification#ImageNet#GFLOPs#2.1
+Image Classification#ImageNet#Top 1 Accuracy#70.5%
+Image Classification#ImageNet#Number of params#3.4M
+Image Classification#ImageNet#GFLOPs#0.6

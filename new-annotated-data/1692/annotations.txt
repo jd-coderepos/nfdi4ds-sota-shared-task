@@ -1,0 +1,5 @@
+Video Frame Interpolation#Middlebury#PSNR#38.83
+Video Frame Interpolation#UCF101#PSNR#35.43
+Video Frame Interpolation#UCF101#SSIM#0.979
+Video Frame Interpolation#Vimeo90K#PSNR#36.76
+Video Frame Interpolation#Vimeo90K#SSIM#0.9800

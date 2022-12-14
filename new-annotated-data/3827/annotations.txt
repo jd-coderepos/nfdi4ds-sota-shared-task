@@ -1,0 +1,24 @@
+RGB Salient Object Detection#HKU-IS#MAE#0.020
+RGB Salient Object Detection#HKU-IS#F-measure#0.954
+RGB Salient Object Detection#HKU-IS#S-Measure#0.932
+RGB Salient Object Detection#HKU-IS#mean F-Measure#0.934
+RGB Salient Object Detection#HKU-IS#MAE#0.028
+RGB Salient Object Detection#DUTS-TE#MAE#0.022
+RGB Salient Object Detection#DUTS-TE#F-measure#0.932
+RGB Salient Object Detection#DUTS-TE#S-Measure#0.919
+RGB Salient Object Detection#DUTS-TE#mean F-Measure#0.904
+RGB Salient Object Detection#DUTS-TE#MAE#0.035
+RGB Salient Object Detection#PASCAL-S#MAE#0.047
+RGB Salient Object Detection#PASCAL-S#F-measure#0.909
+RGB Salient Object Detection#PASCAL-S#mean F-Measure#0.874
+RGB Salient Object Detection#PASCAL-S#S-Measure#0.882
+RGB Salient Object Detection#DUT-OMRON#MAE#0.045
+RGB Salient Object Detection#DUT-OMRON#F-measure#0.849
+RGB Salient Object Detection#DUT-OMRON#S-Measure#0.855
+RGB Salient Object Detection#DUT-OMRON#mean F-Measure#0.798
+RGB Salient Object Detection#DUT-OMRON#MAE#0.050
+RGB Salient Object Detection#ECSSD#MAE#0.026
+RGB Salient Object Detection#ECSSD#F-measure#0.961
+RGB Salient Object Detection#ECSSD#S-Measure#0.935
+RGB Salient Object Detection#ECSSD#mean F-Measure#0.940
+RGB Salient Object Detection#ECSSD#MAE#0.033

@@ -1,0 +1,4 @@
+Semantic Segmentation#ATLANTIS#A-acc#68.63
+Semantic Segmentation#ATLANTIS#A-mIoU#50.34
+Semantic Segmentation#ATLANTIS#Accuracy#75.18
+Semantic Segmentation#ATLANTIS#mIoU#42.22

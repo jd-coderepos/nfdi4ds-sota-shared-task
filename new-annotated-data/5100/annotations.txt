@@ -1,0 +1,2 @@
+Handwritten Text Recognition#READ 2016#CER (%)#3.22
+Handwritten Text Recognition#READ 2016#WER (%)#13.63

@@ -1,0 +1,16 @@
+Stereo Image Super-Resolution#KITTI2012 - 4x upscaling#PSNR#27.12
+Stereo Image Super-Resolution#KITTI2012 - 4x upscaling#PSNR#27.08
+Stereo Image Super-Resolution#KITTI2015 - 4x upscaling#PSNR#26.96
+Stereo Image Super-Resolution#KITTI2015 - 4x upscaling#PSNR#26.91
+Stereo Image Super-Resolution#Flickr1024 - 4x upscaling#PSNR#24.17
+Stereo Image Super-Resolution#Flickr1024 - 4x upscaling#PSNR#24.07
+Stereo Image Super-Resolution#Middlebury - 4x upscaling#PSNR#30.20
+Stereo Image Super-Resolution#Middlebury - 4x upscaling#PSNR#30.04
+Stereo Image Super-Resolution#Middlebury - 2x upscaling#PSNR#35.88
+Stereo Image Super-Resolution#Middlebury - 2x upscaling#PSNR#35.68
+Stereo Image Super-Resolution#Flickr1024 - 2x upscaling#PSNR#29.68
+Stereo Image Super-Resolution#Flickr1024 - 2x upscaling#PSNR#29.54
+Stereo Image Super-Resolution#KITTI2015 - 2x upscaling#PSNR#31.25
+Stereo Image Super-Resolution#KITTI2015 - 2x upscaling#PSNR#31.22
+Stereo Image Super-Resolution#KITTI2012 - 2x upscaling#PSNR#31.60
+Stereo Image Super-Resolution#KITTI2012 - 2x upscaling#PSNR#31.55

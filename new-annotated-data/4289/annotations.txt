@@ -1,0 +1,4 @@
+Temporal Metadata Manipulation Detection#Cross-View Time Dataset (Cross-Camera Split)#2-Class Accuracy#67.9
+Temporal Metadata Manipulation Detection#Cross-View Time Dataset (Cross-Camera Split)#AUC#0.749
+Temporal Metadata Manipulation Detection#Cross-View Time Dataset#2-Class Accuracy#81.1
+Temporal Metadata Manipulation Detection#Cross-View Time Dataset#AUC#0.885

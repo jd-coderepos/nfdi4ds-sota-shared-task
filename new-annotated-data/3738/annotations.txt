@@ -1,0 +1,29 @@
+Object Detection#PASCAL VOC 2007#MAP#84.16%
+Object Detection#PASCAL VOC 2007#AP50#84.16
+Object Detection#PASCAL VOC 2007#AP#64.51
+Object Detection#PASCAL VOC 2007#AP75#71.29
+Object Detection#PASCAL VOC 10%#AP#58.78
+Object Detection#PASCAL VOC 10%#AP50#80.46
+Object Detection#PASCAL VOC 10%#AP75#65.65
+Object Proposal Generation#COCO#Average Recall#0.6503
+Object Proposal Generation#PASCAL VOC 2012, 60 proposals per image#Average Recall#0.9126
+Object Proposal Generation#Comic2k#Average Recall#0.8982 (Off-the-shelf evaluation)
+Object Proposal Generation#KITTI#Average Recall#0.6353 (Off-the-shelf evaluation)
+Open World Object Detection#COCO 2017 (Electronic, Indoor, Kitchen, Furniture)#MAP#31.66
+Open World Object Detection#PASCAL VOC 2007#WI#0.0474
+Open World Object Detection#PASCAL VOC 2007#A-OSE#7322
+Open World Object Detection#PASCAL VOC 2007#MAP#64.03
+Open World Object Detection#PASCAL VOC 2007#Unknown Recall#50.13
+Open World Object Detection#COCO 2017 (Sports, Food)#WI#0.0179
+Open World Object Detection#COCO 2017 (Sports, Food)#A-OSE#4117
+Open World Object Detection#COCO 2017 (Sports, Food)#MAP#36.75
+Open World Object Detection#COCO 2017 (Sports, Food)#Unknown Recall#50.89
+Open World Object Detection#COCO 2017 (Outdoor, Accessories, Appliance, Truck)#A-OSE#5212
+Open World Object Detection#COCO 2017 (Outdoor, Accessories, Appliance, Truck)#WI#0.0251
+Open World Object Detection#COCO 2017 (Outdoor, Accessories, Appliance, Truck)#MAP#46.19
+Open World Object Detection#COCO 2017 (Outdoor, Accessories, Appliance, Truck)#Unknown Recall#49.54
+Class-agnostic Object Detection#Kitchen Scenes#AP50#45.43 (Kitchen Dataset is not included in training)
+Class-agnostic Object Detection#Comic2k#AP50#57.72 (Comic Dataset is not included in training)
+Class-agnostic Object Detection#KITTI#AP50#48.22 (KITTI Dataset is not included in training)
+Class-agnostic Object Detection#PASCAL VOC#AP50#68.59 (VOC Dataset is not included in training)
+Class-agnostic Object Detection#COCO#AP50#43.64 (COCO dataset is not included in training)

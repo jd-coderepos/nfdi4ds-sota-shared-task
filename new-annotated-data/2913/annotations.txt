@@ -1,0 +1,5 @@
+Scene Classification#UC Merced Land Use Dataset#Accuracy (%)#99.61
+Multi-Label Image Classification#BigEarthNet#mean average precision#75.36
+Image Classification#So2Sat LCZ42#Accuracy#63.25
+Image Classification#EuroSAT#Accuracy (%)#99.2
+Image Classification#RESISC45#Top 1 Accuracy#96.83

@@ -1,0 +1,1 @@
+Relation Extraction#MUC6#Average F1#.940

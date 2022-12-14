@@ -1,0 +1,13 @@
+3D Face Reconstruction#NoW Benchmark#Mean Reconstruction Error (mm)#1.87
+3D Face Reconstruction#NoW Benchmark#Stdev Reconstruction Error (mm)#2.63
+3D Face Reconstruction#NoW Benchmark#Median Reconstruction Error#1.31
+3D Face Reconstruction#REALY (side-view)#@nose#1.827 (±0.383)
+3D Face Reconstruction#REALY (side-view)#all#1.787
+3D Face Reconstruction#REALY (side-view)#@mouth#1.409 (±0.418)
+3D Face Reconstruction#REALY (side-view)#@forehead#2.248 (±0.508)
+3D Face Reconstruction#REALY (side-view)#@cheek#1.665 (±0.644)
+3D Face Reconstruction#REALY#@nose#1.827 (±0.383)
+3D Face Reconstruction#REALY#@mouth#1.409 (±0.418)
+3D Face Reconstruction#REALY#@forehead#2.248 (±0.508)
+3D Face Reconstruction#REALY#@cheek#1.665 (±0.644)
+3D Face Reconstruction#REALY#all#1.787

@@ -1,0 +1,1 @@
+Unsupervised Semantic Segmentation#COCO-Stuff#Pixel Accuracy#31.0

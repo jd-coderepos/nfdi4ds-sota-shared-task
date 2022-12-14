@@ -1,0 +1,8 @@
+Affordance Recognition#HICO-DET#HICO#43.15
+Affordance Recognition#HICO-DET#COCO-Val2017#36.74
+Affordance Recognition#HICO-DET#Object365#35.73
+Affordance Recognition#HICO-DET#Novel classes#12.05
+Affordance Recognition#HICO-DET(Unknown Concepts)#COCO-Val2017#28.71
+Affordance Recognition#HICO-DET(Unknown Concepts)#Obj365#27.58
+Affordance Recognition#HICO-DET(Unknown Concepts)#HICO#32.76
+Affordance Recognition#HICO-DET(Unknown Concepts)#Novel Classes#12.05

@@ -1,0 +1,1 @@
+Anomaly Detection In Surveillance Videos#UCF-Crime#ROC AUC#85.38

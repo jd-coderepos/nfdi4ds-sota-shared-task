@@ -1,0 +1,13 @@
+Molecular Property Prediction#ClinTox#ROC-AUC#90.1
+Molecular Property Prediction#ClinTox#Molecules (M)#20
+Molecular Property Prediction#SIDER#ROC-AUC#67.2
+Molecular Property Prediction#QM7#MAE#58.9
+Molecular Property Prediction#FreeSolv#RMSE#1.877
+Molecular Property Prediction#QM8#MAE#0.0171
+Molecular Property Prediction#ToxCast#ROC-AUC#69.2
+Molecular Property Prediction#BACE#ROC-AUC#85.6
+Molecular Property Prediction#Tox21#ROC-AUC#78.1
+Molecular Property Prediction#ESOL#RMSE#0.798
+Molecular Property Prediction#Lipophilicity#RMSE#0.66
+Molecular Property Prediction#BBBP#ROC-AUC#72.4
+Molecular Property Prediction#QM9#MAE#0.00746

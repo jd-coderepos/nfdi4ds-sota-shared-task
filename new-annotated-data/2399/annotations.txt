@@ -1,0 +1,17 @@
+Speaker Diarization#AMI MixHeadset#DER(%)#1.73
+Speaker Diarization#AMI MixHeadset#DER(%)#1.78
+Speaker Diarization#AMI MixHeadset#DER(%)#1.79
+Speaker Diarization#AMI MixHeadset#DER(%)#2.22
+Speaker Diarization#AMI Lapel#DER(%)#1.99
+Speaker Diarization#AMI Lapel#DER(%)#2.00
+Speaker Diarization#AMI Lapel#DER(%)#2.03
+Speaker Diarization#AMI Lapel#DER(%)#2.36
+Speaker Diarization#CH109#DER(%)#1.11
+Speaker Diarization#CH109#DER(%)#1.13
+Speaker Diarization#CH109#DER(%)#1.19
+Speaker Diarization#CH109#DER(%)#9.72
+Speaker Diarization#NIST-SRE 2000#DER(%)#5.73
+Speaker Diarization#NIST-SRE 2000#DER(%)#6.37
+Speaker Diarization#NIST-SRE 2000#DER(%)#6.47
+Speaker Diarization#NIST-SRE 2000#DER(%)#6.73
+Speaker Diarization#NIST-SRE 2000#DER(%)#8.39

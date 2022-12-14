@@ -1,0 +1,12 @@
+Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#25.6
+Unbiased Scene Graph Generation#Visual Genome#mR@20#19.3
+Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#25.1
+Unbiased Scene Graph Generation#Visual Genome#mR@20#18.7
+Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#17.2
+Unbiased Scene Graph Generation#Visual Genome#mR@20#12.7
+Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#13.1
+Unbiased Scene Graph Generation#Visual Genome#mR@20#9.9
+Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#9.9
+Unbiased Scene Graph Generation#Visual Genome#mR@20#8.1
+Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#9.8
+Unbiased Scene Graph Generation#Visual Genome#mR@20#8.0

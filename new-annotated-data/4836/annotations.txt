@@ -1,0 +1,4 @@
+Scene Change Detection#ChangeSim#Category mIoU#26.1
+Scene Change Detection#ChangeSim#macro F1#30.6
+Scene Change Detection#ChangeSim#Category mIoU#23.0
+Scene Change Detection#ChangeSim#macro F1#29.8

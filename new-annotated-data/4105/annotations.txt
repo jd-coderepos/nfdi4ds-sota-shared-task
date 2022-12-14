@@ -1,0 +1,7 @@
+Image Classification#Clothing1M#Accuracy#73.09%
+Learning with noisy labels#CIFAR-10N-Random1#Accuracy (mean)#89.70
+Learning with noisy labels#CIFAR-10N-Random2#Accuracy (mean)#89.79
+Learning with noisy labels#CIFAR-10N-Random3#Accuracy (mean)#89.55
+Learning with noisy labels#CIFAR-100N#Accuracy (mean)#57.10
+Learning with noisy labels#CIFAR-10N-Worst#Accuracy (mean)#82.53
+Learning with noisy labels#CIFAR-10N-Aggregate#Accuracy (mean)#91.64

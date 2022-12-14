@@ -1,0 +1,4 @@
+Semantic Segmentation#SUN-RGBD#Mean IoU#42.0%
+Semantic Segmentation#Stanford2D3D#mIoU#39.5
+Semantic Segmentation#NYU Depth v2#Mean IoU#43.9%
+Thermal Image Segmentation#MFN Dataset#mIOU#46.1

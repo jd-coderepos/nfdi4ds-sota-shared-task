@@ -1,0 +1,1 @@
+Image Classification#OmniBenchmark#Average Top-1 Accuracy#44.5

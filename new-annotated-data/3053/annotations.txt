@@ -1,0 +1,2 @@
+Multimodal Sentiment Analysis#CMU-MOSEI#Accuracy#82.4
+Multimodal Sentiment Analysis#CMU-MOSEI#MAE#0.7

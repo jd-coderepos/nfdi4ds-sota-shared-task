@@ -1,0 +1,23 @@
+Hate Speech Detection#Ethos Binary#F1-score#0.759
+Hate Speech Detection#Ethos Binary#F1-score#0.713
+Hate Speech Detection#Ethos Binary#F1-score#0.667
+Hate Speech Detection#Ethos Binary#F1-score#0.628
+Hate Speech Detection#Ethos Binary#F1-score#0.616
+Hate Speech Detection#Ethos Binary#F1-score#0.354
+Stereotypical Bias Analysis#CrowS-Pairs#Gender#62.6
+Stereotypical Bias Analysis#CrowS-Pairs#Religion#73.3
+Stereotypical Bias Analysis#CrowS-Pairs#Race/Color#64.7
+Stereotypical Bias Analysis#CrowS-Pairs#Sexual Orientation#76.2
+Stereotypical Bias Analysis#CrowS-Pairs#Age#64.4
+Stereotypical Bias Analysis#CrowS-Pairs#Nationality#61.6
+Stereotypical Bias Analysis#CrowS-Pairs#Disability#76.7
+Stereotypical Bias Analysis#CrowS-Pairs#Physical Appearance#74.6
+Stereotypical Bias Analysis#CrowS-Pairs#Socioeconomic status#73.8
+Stereotypical Bias Analysis#CrowS-Pairs#Gender#65.7
+Stereotypical Bias Analysis#CrowS-Pairs#Religion#68.6
+Stereotypical Bias Analysis#CrowS-Pairs#Race/Color#68.6
+Stereotypical Bias Analysis#CrowS-Pairs#Sexual Orientation#78.6
+Stereotypical Bias Analysis#CrowS-Pairs#Age#67.8
+Stereotypical Bias Analysis#CrowS-Pairs#Nationality#62.9
+Stereotypical Bias Analysis#CrowS-Pairs#Physical Appearance#76.2
+Stereotypical Bias Analysis#CrowS-Pairs#Socioeconomic status#76.2

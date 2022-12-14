@@ -1,0 +1,1 @@
+Visual Question Answering#GQA test-std#Accuracy#65.14

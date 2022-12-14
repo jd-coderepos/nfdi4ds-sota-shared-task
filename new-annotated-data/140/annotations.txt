@@ -1,0 +1,12 @@
+Link Prediction#UMLS#Hits@10#1.000
+Link Prediction#UMLS#MR#1.18
+Link Prediction#WN18RR#MRR#0.482
+Link Prediction#WN18RR#Hits@10#0.752
+Link Prediction#WN18RR#Hits@3#0.563
+Link Prediction#WN18RR#Hits@1#0.343
+Link Prediction#WN18RR#MR#92
+Link Prediction#FB15k-237#MRR#0.31
+Link Prediction#FB15k-237#Hits@10#0.490
+Link Prediction#FB15k-237#Hits@3#0.336
+Link Prediction#FB15k-237#Hits@1#0.223
+Link Prediction#FB15k-237#MR#154

@@ -1,0 +1,59 @@
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#29.14
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.181
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.855
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#28.82
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.185
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.850
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#28.71
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.244
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.830
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#30.01
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.280
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.868
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#30.52
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.296
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.878
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#25.52
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.333
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.795
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#Subjective score#5.392
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#ERQAv1.0#0.663
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#QRCRv1.0#0
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#SSIM#0.774
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#PSNR#24.441
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#FPS#1.01
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#1 - LPIPS#0.895
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#Subjective score#3.697
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#ERQAv1.0#0.598
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#SSIM#0.824
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#PSNR#27.195
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#FPS#1.019
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#1 - LPIPS#0.871
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over ERQA#5.58
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over Subjective Score#0.335
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over VMAF#0.698
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over PSNR#7.874
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over MS-SSIM#0.881
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over LPIPS#0.733
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over ERQA#6.328
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over Subjective Score#0.64
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over VMAF#1.464
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over PSNR#8.113
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over MS-SSIM#5.393
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over LPIPS#12.689
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over ERQA#11.584
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over Subjective Score#1.398
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over VMAF#2.712
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over PSNR#15.144
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over MS-SSIM#6.857
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over LPIPS#11.957
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over ERQA#7.225
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over Subjective Score#1.417
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over VMAF#2.122
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over MS-SSIM#4.612
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over LPIPS#2.633
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over ERQA#6.712
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over VMAF#3.8
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over PSNR#14.561
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over MS-SSIM#5.95
+Video Super-Resolution#MSU Super-Resolution for Video Compression#BSQ-rate over LPIPS#12.744

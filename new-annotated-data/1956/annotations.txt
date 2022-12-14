@@ -1,0 +1,8 @@
+Question Answering#FriendsQA#EM#55.8
+Question Answering#FriendsQA#F1#72.3
+Question Answering#FriendsQA#EM#46.9
+Question Answering#FriendsQA#F1#63.9
+Question Answering#Molweni#F1#72.9
+Question Answering#Molweni#EM#58
+Question Answering#Molweni#F1#64
+Question Answering#Molweni#EM#49.2

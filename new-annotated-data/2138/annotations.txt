@@ -1,0 +1,3 @@
+Video Question Answering#ActivityNet-QA#Accuracy#0.318
+Video Question Answering#ActivityNet-QA#Accuracy#0.271
+Video Question Answering#ActivityNet-QA#Accuracy#0.251

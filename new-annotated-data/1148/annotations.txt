@@ -1,0 +1,2 @@
+Lesion Segmentation#ISLES-2015#Dice Score#59.0%
+Brain Tumor Segmentation#BRATS-2015#Dice Score#85.0%

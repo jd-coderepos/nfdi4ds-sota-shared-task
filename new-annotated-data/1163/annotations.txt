@@ -1,0 +1,12 @@
+Video Polyp Segmentation#SUN-SEG-Easy (Unseen)#S measure#0.720
+Video Polyp Segmentation#SUN-SEG-Easy (Unseen)#mean E-measure#0.745
+Video Polyp Segmentation#SUN-SEG-Easy (Unseen)#weighted F-measure#0.566
+Video Polyp Segmentation#SUN-SEG-Easy (Unseen)#mean F-measure#0.634
+Video Polyp Segmentation#SUN-SEG-Easy (Unseen)#Dice#0.649
+Video Polyp Segmentation#SUN-SEG-Easy (Unseen)#Sensitivity#0.521
+Video Polyp Segmentation#SUN-SEG-Hard (Unseen)#S-Measure#0.706
+Video Polyp Segmentation#SUN-SEG-Hard (Unseen)#mean E-measure#0.743
+Video Polyp Segmentation#SUN-SEG-Hard (Unseen)#weighted F-measure#0.526
+Video Polyp Segmentation#SUN-SEG-Hard (Unseen)#mean F-measure#0.580
+Video Polyp Segmentation#SUN-SEG-Hard (Unseen)#Dice#0.598
+Video Polyp Segmentation#SUN-SEG-Hard (Unseen)#Sensitivity#0.505

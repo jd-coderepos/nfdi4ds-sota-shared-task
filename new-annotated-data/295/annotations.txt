@@ -1,0 +1,8 @@
+Face Alignment#AFLW#Mean NME#4.55
+Face Alignment#300W#NME_inter-ocular (%, Full)#5.63
+Face Alignment#300W#NME_inter-ocular (%, Common)#5.09
+Face Alignment#300W#NME_inter-ocular (%, Challenge)#8.07
+Face Alignment#300W#NME_inter-pupil (%, Full)#7.01
+Face Alignment#300W#NME_inter-pupil (%, Common)#6.15
+Face Alignment#300W#NME_inter-pupil (%, Challenge)#10.59
+Face Alignment#AFLW2000-3D#Mean NME#3.79%

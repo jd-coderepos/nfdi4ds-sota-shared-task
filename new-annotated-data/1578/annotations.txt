@@ -1,0 +1,10 @@
+Action Classification#AViD#Accuracy#53.8
+Action Classification#Charades#MAP#66.3
+Action Classification#Kinetics-600#Top-1 Accuracy#86.3
+Action Classification#Kinetics-600#Top-5 Accuracy#97.0
+Action Classification#Kinetics-400#Acc@1#85.4
+Image Classification#ImageNet#Top 1 Accuracy#88.87%
+Image Classification#ImageNet#Number of params#460M
+Image Classification#ImageNet#Top 1 Accuracy#87.07%
+Image Classification#ImageNet ReaL#Accuracy#91.05%
+Image Classification#ImageNet ReaL#Params#460M

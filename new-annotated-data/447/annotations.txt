@@ -1,0 +1,36 @@
+Skeleton Based Action Recognition#J-HMBD Early Action#10%#58.1
+Document Classification#Cora#Accuracy#83.0%
+Graph Regression#Lipophilicity#RMSE#0.95
+Graph Regression#ZINC 100k#MAE#0.463
+Graph Classification#CIFAR10 100k#Accuracy (%)#65.48
+Node Classification#Cora (3%)#Accuracy#56.8%
+Node Classification#Flickr#Accuracy#0.359
+Node Classification#Pubmed#Accuracy#79.0
+Node Classification#Pubmed#Training Split#fixed 20 per node
+Node Classification#Pubmed#Validation#YES
+Node Classification#Wiki-Vote#Accuracy#59.4
+Node Classification#CiteSeer (1%)#Accuracy#46.5%
+Node Classification#PATTERN 100k#Accuracy (%)#75.824
+Node Classification#USA Air-Traffic#Accuracy#58.5
+Node Classification#Cora#Accuracy#83.0% ± 0.7%
+Node Classification#Cora#Training Split#fixed 20 per node
+Node Classification#Cora#Validation#YES
+Node Classification#Brazil Air-Traffic#Accuracy#0.382
+Node Classification#PPI#F1#97.3
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#72.5 ± 0.7%
+Node Classification#Citeseer#Accuracy#72.5 ± 0.7%
+Node Classification#Citeseer#Training Split#fixed 20 per node
+Node Classification#Citeseer#Validation#YES
+Node Classification#PubMed (0.05%)#Accuracy#50.4%
+Node Classification#PubMed (0.03%)#Accuracy#50.9%
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#83.0 ± 0.7%
+Node Classification#CiteSeer (0.5%)#Accuracy#38.2%
+Node Classification#Europe Air-Traffic#Accuracy#42.4
+Node Classification#Cora (0.5%)#Accuracy#41.4%
+Node Classification#PubMed (0.1%)#Accuracy#59.6%
+Node Classification#Cora (1%)#Accuracy#48.6%
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#79.0%
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#76.00 ± 1.01
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#71.01 ± 4.66
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#78.87 ± 0.86
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#61.09±0.77

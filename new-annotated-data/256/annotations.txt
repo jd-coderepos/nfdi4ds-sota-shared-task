@@ -1,0 +1,4 @@
+Face Detection#WIDER Face (Medium)#AP#0.953
+Face Detection#FDDB#AP#0.991
+Face Detection#WIDER Face (Easy)#AP#0.960
+Face Detection#WIDER Face (Hard)#AP#0.900

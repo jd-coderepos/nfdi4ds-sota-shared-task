@@ -1,0 +1,2 @@
+Image Classification#ImageNet#Top 1 Accuracy#80%
+Image Classification#ImageNet#GFLOPs#0.198

@@ -1,0 +1,15 @@
+Image Classification#CIFAR-100#Percentage correct#82.72
+Image Classification#CIFAR-100#Percentage correct#77.31
+Image Classification#CIFAR-100#PARAMS#3.17M
+Image Classification#ImageNet#Top 1 Accuracy#82.71%
+Image Classification#ImageNet#Top 1 Accuracy#81.34%
+Image Classification#ImageNet#Number of params#22.36M
+Image Classification#ImageNet#GFLOPs#11.06
+Image Classification#ImageNet#Top 1 Accuracy#80.28%
+Image Classification#Flowers-102#Accuracy#99.76
+Image Classification#CIFAR-10#Percentage correct#98
+Image Classification#CIFAR-10#PARAMS#3.76M
+Image Classification#CIFAR-10#Percentage correct#95.29
+Image Classification#CIFAR-10#PARAMS#3.17M
+Fine-Grained Image Classification#Oxford 102 Flowers#FLOPS#15G
+Fine-Grained Image Classification#Oxford 102 Flowers#PARAMS#22.5M

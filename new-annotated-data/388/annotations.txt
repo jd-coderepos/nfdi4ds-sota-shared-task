@@ -1,0 +1,2 @@
+Lane Detection#CULane#F1 score#78.08
+Lane Detection#CULane#F1 score#77.63

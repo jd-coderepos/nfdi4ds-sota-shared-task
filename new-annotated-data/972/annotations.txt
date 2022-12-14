@@ -1,0 +1,4 @@
+3D Human Pose Estimation#DHP19#MPJPE2D#6.46
+3D Human Pose Estimation#DHP19#MPJPE3D#73.37
+3D Human Pose Estimation#DHP19#Params (M)#3.65
+3D Human Pose Estimation#DHP19#GFLOPs#10.06

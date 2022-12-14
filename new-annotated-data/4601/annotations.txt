@@ -1,0 +1,6 @@
+Node Classification#DBLP#Micro F1#80.58
+Node Classification#Pubmed#F1#88.57
+Node Classification#PPI#Micro F1#94.83
+Node Classification#Citeseer#Accuracy#75.53
+Node Classification#Deezer Romania#Micro-F1#0.68
+Node Classification#Cora: fixed 20 node per class#Micro F1#75.12

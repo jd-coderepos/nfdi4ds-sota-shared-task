@@ -1,0 +1,2 @@
+Data-to-Text Generation#WebNLG#BLEU#61.15
+KG-to-Text Generation#AGENDA#BLEU#17.80

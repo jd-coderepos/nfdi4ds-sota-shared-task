@@ -1,0 +1,22 @@
+Link Prediction#USAir#AUC#91.44
+Malware Detection#Android Malware Dataset#Accuracy#81.25
+Node Classification#Wikipedia#Accuracy#19.10%
+Node Classification#Wikipedia#Macro-F1#0.179
+Node Classification#Eximtradedata#Accuracy#21.50%
+Node Classification#Eximtradedata#Macro-F1#0.206
+Link Property Prediction#ogbl-ppa#Test Hits@100#0.2226 ± 0.0083
+Link Property Prediction#ogbl-ppa#Validation Hits@100#0.2253 ± 0.0088
+Link Property Prediction#ogbl-ppa#Number of params#73878913
+Link Property Prediction#ogbl-ppa#Ext. data#No
+Link Property Prediction#ogbl-citation2#Test MRR#0.6141 ± 0.0011
+Link Property Prediction#ogbl-citation2#Validation MRR#0.6124 ± 0.0011
+Link Property Prediction#ogbl-citation2#Number of params#374911105
+Link Property Prediction#ogbl-citation2#Ext. data#No
+Link Property Prediction#ogbl-ddi#Test Hits@20#0.2326 ± 0.0209
+Link Property Prediction#ogbl-ddi#Validation Hits@20#0.3292 ± 0.0121
+Link Property Prediction#ogbl-ddi#Number of params#645249
+Link Property Prediction#ogbl-ddi#Ext. data#No
+Link Property Prediction#ogbl-collab#Test Hits@50#0.4888 ± 0.0054
+Link Property Prediction#ogbl-collab#Validation Hits@50#0.5703 ± 0.0052
+Link Property Prediction#ogbl-collab#Number of params#30322945
+Link Property Prediction#ogbl-collab#Ext. data#No

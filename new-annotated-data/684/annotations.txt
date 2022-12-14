@@ -1,0 +1,16 @@
+Spoken Language Understanding#Timers and Such#Accuracy (%)#95.4
+Spoken Language Understanding#Timers and Such#Accuracy (%)#90.0
+Spoken Language Understanding#Snips-SmartLights#Accuracy (%)#88.0
+Spoken Language Understanding#Snips-SmartLights#Accuracy (%)#84.8
+Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-EN (%)#80.4
+Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-FR (%)#78.3
+Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-EN (%)#77.6
+Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-FR (%)#77.8
+Spoken Language Understanding#Fluent Speech Commands#Accuracy (%)#99.7
+Spoken Language Understanding#Fluent Speech Commands#Accuracy (%)#99.5
+Spoken Language Understanding#Fluent Speech Commands#Accuracy (%)#99.2
+Spoken Language Understanding#Fluent Speech Commands#Accuracy (%)#98.7
+Intent Classification#SLURP#Accuracy (%)#53.11
+Intent Classification#SLURP#Accuracy (%)#43.15
+Slot Filling#SLURP#F1#0.395
+Slot Filling#SLURP#F1#0.313

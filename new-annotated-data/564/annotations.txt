@@ -1,0 +1,17 @@
+Domain Generalization#ImageNet-A#Top-1 accuracy %#35.5
+Domain Generalization#ImageNet-R#Top-1 Error Rate#51.9
+Domain Generalization#ImageNet-Sketch#Top-1 accuracy#35.8
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#48.9
+Image Classification#ImageNet#Top 1 Accuracy#84.6%
+Image Classification#ImageNet#Number of params#54M
+Image Classification#ImageNet#GFLOPs#50.7
+Image Classification#ImageNet#Top 1 Accuracy#83.4%
+Image Classification#ImageNet#GFLOPs#16.6
+Image Classification#ImageNet#Top 1 Accuracy#82.8%
+Image Classification#ImageNet#Number of params#38M
+Image Classification#ImageNet#GFLOPs#11.1
+Image Classification#ImageNet#Top 1 Accuracy#82.3%
+Image Classification#ImageNet#Number of params#28M
+Image Classification#ImageNet#GFLOPs#8.4
+Image Classification#ImageNet ReaL#Accuracy#87.9
+Image Classification#ImageNet V2#Top 1 Accuracy#73.4

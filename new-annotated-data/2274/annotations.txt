@@ -1,0 +1,2 @@
+Knowledge Tracing#EdNet#AUC#0.7811
+Knowledge Tracing#EdNet#Acc#73.68

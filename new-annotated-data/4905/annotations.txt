@@ -1,0 +1,1 @@
+Camera shot boundary detection#ClipShots#F1 score#76.1

@@ -1,0 +1,4 @@
+Question Answering#SWAG#Accuracy#93.4
+Natural Language Inference#MRPC#Acc#92.2
+Natural Language Inference#QNLI#Accuracy#96%
+Natural Language Inference#RTE#Accuracy#92.7%

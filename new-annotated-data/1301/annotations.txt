@@ -1,0 +1,7 @@
+Person Re-Identification#Market-1501#Rank-1#96.11
+Person Re-Identification#Market-1501#mAP#94.65
+Image Retrieval#Paris6k#mAP#96.21
+Image Retrieval#Oxford5k#mAP#92.95
+Drone-view target localization#University-1652#AP#74.11
+Drone-view target localization#University-1652#Recall@1#70.3
+Vehicle Re-Identification#VeRi-776#mAP#96.42

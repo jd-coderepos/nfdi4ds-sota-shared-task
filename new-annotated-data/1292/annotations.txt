@@ -1,0 +1,2 @@
+Person Re-Identification#MARS#mAP#84.5
+Person Re-Identification#MARS#Rank-1#90.5

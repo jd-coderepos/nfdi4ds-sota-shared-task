@@ -1,0 +1,3 @@
+Optical Character Recognition#im2latex-100k#BLEU#88.86%
+Optical Character Recognition#I2L-140K#BLEU#89.09%
+Optical Character Recognition#I2L-140K#BLEU#89%

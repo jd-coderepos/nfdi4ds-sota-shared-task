@@ -1,0 +1,18 @@
+3D Depth Estimation#Relative Human#PCDR#54.83
+3D Depth Estimation#Relative Human#PCDR-Baby#34.74
+3D Depth Estimation#Relative Human#PCDR-Kid#48.37
+3D Depth Estimation#Relative Human#PCDR-Teen#59.11
+3D Depth Estimation#Relative Human#PCDR-Adult#55.47
+3D Depth Estimation#Relative Human#mPCDK#0.781
+3D Human Reconstruction#AGORA#FB-NMVE#233.9
+3D Human Reconstruction#AGORA#B-NMVE#173.4
+3D Human Reconstruction#AGORA#FB-NMJE#230.9
+3D Human Reconstruction#AGORA#B-NMJE#171.1
+3D Human Reconstruction#AGORA#FB-MVE#191.8
+3D Human Reconstruction#AGORA#B-MVE#142.2
+3D Human Reconstruction#AGORA#F-MVE#50.2
+3D Human Reconstruction#AGORA#LH/RH-MVE#49.5/49.0
+3D Human Reconstruction#AGORA#FB-MPJPE#189.3
+3D Human Reconstruction#AGORA#B-MPJPE#140.3
+3D Human Reconstruction#AGORA#F-MPJPE#54.5
+3D Human Reconstruction#AGORA#LH/RH-MPJPE#46.4/46.0

@@ -1,0 +1,10 @@
+Aspect-Based Sentiment Analysis#Sentihood#Aspect#87.9
+Aspect-Based Sentiment Analysis#Sentihood#Sentiment#93.3
+Aspect-Based Sentiment Analysis#Sentihood#Aspect#86.4
+Aspect-Based Sentiment Analysis#Sentihood#Sentiment#93.6
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Subtask 4#Accuracy (3-way)#89.9
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Subtask 4#Accuracy (4-way)#85.9
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Subtask 4#Binary Accuracy#95.6
+Aspect Category Detection#SemEval 2014 Task 4 Subtask 3#F1 score#92.18
+Aspect Category Detection#SemEval 2014 Task 4 Subtask 3#Precision#93.57
+Aspect Category Detection#SemEval 2014 Task 4 Subtask 3#Recall#90.83

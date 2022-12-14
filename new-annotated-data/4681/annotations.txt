@@ -1,0 +1,4 @@
+Sparse Learning#ImageNet#Top-1 Accuracy#77.1
+Sparse Learning#ImageNet#Top-1 Accuracy#76.4
+Sparse Learning#ImageNet#Top-1 Accuracy#71.9
+Sparse Learning#ImageNet#Top-1 Accuracy#68.1

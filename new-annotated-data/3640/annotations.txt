@@ -1,0 +1,17 @@
+Starcraft II#SMAC+#Median Win Rate#%
+SMAC+#Off_Distant_parallel#Median Win Rate#0.0
+SMAC+#Def_Armored_sequential#Median Win Rate#0.0
+SMAC+#Off_Complicated_parallel#Median Win Rate#0.0
+SMAC+#Off_Superhard_sequential#Median Win Rate#0.0
+SMAC+#Off_Superhard_parallel#Median Win Rate#0.0
+SMAC+#Off_Hard_sequential#Median Win Rate#96.9
+SMAC+#Def_Infantry_sequential#Median Win Rate#96.9
+SMAC+#Off_Hard_parallel#Median Win Rate#0.0
+SMAC+#Def_Armored_parallel#Median Win Rate#75.0
+SMAC+#Def_Infantry_parallel#Median Win Rate#95.0
+SMAC+#Def_Outnumbered_sequential#Median Win Rate#0.0
+SMAC+#Off_Complicated_sequential#Median Win Rate#87.5
+SMAC+#Def_Outnumbered_parallel#Median Win Rate#30.0
+SMAC+#Off_Near_parallel#Median Win Rate#95.0
+SMAC+#Off_Near_sequential#Median Win Rate#90.6
+SMAC+#Off_Distant_sequential#Median Win Rate#93.8

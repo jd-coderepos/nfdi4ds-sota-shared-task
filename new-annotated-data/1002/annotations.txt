@@ -1,0 +1,2 @@
+Imputation#Adult Data Set#Test error#0.144 ± 0.06
+General Classification#CVR#Test error#0.027 ± 0.006

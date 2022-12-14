@@ -1,0 +1,34 @@
+Few-Shot Audio Classification#VoxCeleb1#Top-1 Accuracy(5-Way-1-Shot)#63.85 +- 0.44
+Few-Shot Audio Classification#VoxCeleb1#Top-1 Accuracy(5-Way-1-Shot)#60.89 +- 0.45
+Few-Shot Audio Classification#VoxCeleb1#Top-1 Accuracy(5-Way-1-Shot)#59.64 +- 0.44
+Few-Shot Audio Classification#VoxCeleb1#Top-1 Accuracy(5-Way-1-Shot)#55.54 +- 0.42
+Few-Shot Audio Classification#VoxCeleb1#Top-1 Accuracy(5-Way-1-Shot)#48.50 +- 0.42
+Few-Shot Audio Classification#VoxCeleb1#Top-1 Accuracy(5-Way-1-Shot)#28.79 +- 0.38
+Few-Shot Audio Classification#VoxCeleb1#Top-1 Accuracy(5-Way-1-Shot)#28.09 +- 0.37
+Few-Shot Audio Classification#FSDKaggle2018#Top-1 Accuracy(5-Way-1-Shot)#43.45 +- 0.46
+Few-Shot Audio Classification#FSDKaggle2018#Top-1 Accuracy(5-Way-1-Shot)#43.18 +- 0.45
+Few-Shot Audio Classification#FSDKaggle2018#Top-1 Accuracy(5-Way-1-Shot)#42.05 +- 0.42
+Few-Shot Audio Classification#FSDKaggle2018#Top-1 Accuracy(5-Way-1-Shot)#40.27 +- 0.44
+Few-Shot Audio Classification#FSDKaggle2018#Top-1 Accuracy(5-Way-1-Shot)#39.44 +- 0.44
+Few-Shot Audio Classification#FSDKaggle2018#Top-1 Accuracy(5-Way-1-Shot)#38.78 +- 0.41
+Few-Shot Audio Classification#FSDKaggle2018#Top-1 Accuracy(5-Way-1-Shot)#33.52 +- 0.39
+Few-Shot Audio Classification#BirdClef 2020  (Pruned)#Top-1 Accuracy(5-Way-1-Shot)#61.34 +- 0.46
+Few-Shot Audio Classification#BirdClef 2020  (Pruned)#Top-1 Accuracy(5-Way-1-Shot)#57.66 +- 0.43
+Few-Shot Audio Classification#BirdClef 2020  (Pruned)#Top-1 Accuracy(5-Way-1-Shot)#57.28 +- 0.41
+Few-Shot Audio Classification#BirdClef 2020  (Pruned)#Top-1 Accuracy(5-Way-1-Shot)#56.26 +- 0.45
+Few-Shot Audio Classification#BirdClef 2020  (Pruned)#Top-1 Accuracy(5-Way-1-Shot)#56.11 +- 0.46
+Few-Shot Audio Classification#BirdClef 2020  (Pruned)#Top-1 Accuracy(5-Way-1-Shot)#36.41 +- 0.42
+Few-Shot Audio Classification#BirdClef 2020  (Pruned)#Top-1 Accuracy(5-Way-1-Shot)#33.04 +- 0.41
+Few-Shot Audio Classification#NSynth#Top-1 Accuracy(5-Way-1-Shot)#96.47 +-0.19
+Few-Shot Audio Classification#NSynth#Top-1 Accuracy(5-Way-1-Shot)#95.23 +- 0.19
+Few-Shot Audio Classification#NSynth#Top-1 Accuracy(5-Way-1-Shot)#93.85 +- 0.24
+Few-Shot Audio Classification#NSynth#Top-1 Accuracy(5-Way-1-Shot)#90.74 +- 0.25
+Few-Shot Audio Classification#NSynth#Top-1 Accuracy(5-Way-1-Shot)#90.04 +- 0.27
+Few-Shot Audio Classification#NSynth#Top-1 Accuracy(5-Way-1-Shot)#66.68 +- 0.41
+Few-Shot Audio Classification#NSynth#Top-1 Accuracy(5-Way-1-Shot)#63.78 +- 0.42
+Few-Shot Audio Classification#ESC-50#Top-1 Accuracy(5-Way-1-Shot)#76.17 +- 0.41
+Few-Shot Audio Classification#ESC-50#Top-1 Accuracy(5-Way-1-Shot)#71.72 +- 0.38
+Few-Shot Audio Classification#ESC-50#Top-1 Accuracy(5-Way-1-Shot)#68.83 +- 0.38
+Few-Shot Audio Classification#ESC-50#Top-1 Accuracy(5-Way-1-Shot)#68.82 +-0.39
+Few-Shot Audio Classification#ESC-50#Top-1 Accuracy(5-Way-1-Shot)#64.48 +- 0.41
+Few-Shot Audio Classification#ESC-50#Top-1 Accuracy(5-Way-1-Shot)#60.41 +- 0.41

@@ -1,0 +1,6 @@
+Emotion Recognition in Conversation#IEMOCAP#Weighted-F1#66.61
+Emotion Recognition in Conversation#IEMOCAP#Accuracy#66.76
+Emotion Recognition in Conversation#EmoryNLP#Weighted-F1#37.37
+Emotion Recognition in Conversation#MELD#Weighted-F1#66.52
+Emotion Recognition in Conversation#DailyDialog#Macro F1#53.15
+Emotion Recognition in Conversation#DailyDialog#Micro-F1#60.34

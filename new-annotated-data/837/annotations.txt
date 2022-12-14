@@ -1,0 +1,5 @@
+3D Human Pose Estimation#Panoptic#Average MPJPE (mm)#69
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#51.1
+3D Human Pose Estimation#Human3.6M#Using 2D ground-truth joints#No
+3D Human Pose Estimation#Human3.6M#Multi-View or Monocular#Monocular
+3D Human Pose Estimation#Human3.6M#PA-MPJPE#43.4

@@ -1,0 +1,39 @@
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2018 val#F-Measure (Seen)#87.9
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2018 val#F-Measure (Unseen)#87.3
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2018 val#Overall#84.3
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2018 val#Speed  (FPS)#13.4
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2018 val#Jaccard (Seen)#83.2
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2018 val#Jaccard (Unseen)#79.0
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#Jaccard (Mean)#82.0
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#Jaccard (Recall)#91.3
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#Jaccard (Decay)#6.2
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#F-measure (Mean)#88.6
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#F-measure (Recall)#94.6
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#F-measure (Decay)#85.3
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#J&F#85.3
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (val)#Speed (FPS)#20.2
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#Overall#85.2
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#Jaccard (Seen)#83.5
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#Jaccard (Unseen)#80.8
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#F-Measure (Seen)#87.8
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#F-Measure (Unseen)#88.8
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#Overall#84.2
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#Jaccard (Seen)#82.6
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#Jaccard (Unseen)#79.4
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#F-Measure (Seen)#87.0
+Semi-Supervised Video Object Segmentation#YouTube-VOS 2019 validation#F-Measure (Unseen)#87.7
+Semi-Supervised Video Object Segmentation#DAVIS 2016#Jaccard (Mean)#90.4
+Semi-Supervised Video Object Segmentation#DAVIS 2016#Jaccard (Recall)#98.1
+Semi-Supervised Video Object Segmentation#DAVIS 2016#Jaccard (Decay)#4.1
+Semi-Supervised Video Object Segmentation#DAVIS 2016#F-measure (Mean)#93.0
+Semi-Supervised Video Object Segmentation#DAVIS 2016#F-measure (Recall)#97.1
+Semi-Supervised Video Object Segmentation#DAVIS 2016#F-measure (Decay)#4.3
+Semi-Supervised Video Object Segmentation#DAVIS 2016#J&F#91.7
+Semi-Supervised Video Object Segmentation#DAVIS 2016#Speed (FPS)#26.9
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (test-dev)#J&F#79.9
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (test-dev)#Jaccard (Mean)#76.3
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (test-dev)#Jaccard (Recall)#85.5
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (test-dev)#Jaccard (Decay)#10.5
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (test-dev)#F-measure (Mean)#83.5
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (test-dev)#F-measure (Recall)#89.7
+Semi-Supervised Video Object Segmentation#DAVIS 2017 (test-dev)#F-measure (Decay)#10.3

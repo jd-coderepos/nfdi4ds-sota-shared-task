@@ -1,0 +1,5 @@
+Sentiment Analysis#Amazon Review Polarity#Accuracy#95.5
+Sentiment Analysis#Amazon Review Full#Accuracy#61.9
+Text Classification#DBpedia#Error#1
+Text Classification#AG News#Error#7
+Text Classification#Yahoo! Answers#Accuracy#74.8

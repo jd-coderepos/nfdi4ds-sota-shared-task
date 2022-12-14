@@ -1,0 +1,4 @@
+Visual Reasoning#NLVR2 Dev#Accuracy#76.37
+Visual Reasoning#NLVR2 Test#Accuracy#77.32
+Visual Entailment#SNLI-VE test#Accuracy#84.95
+Visual Entailment#SNLI-VE val#Accuracy#85.00

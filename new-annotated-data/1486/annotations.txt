@@ -1,0 +1,5 @@
+Action Recognition#Something-Something V2#Top-1 Accuracy#68.1
+Action Recognition#UCF101#3-fold Accuracy#92.7
+Action Recognition#HMDB-51#Average accuracy of 3 splits#65.9
+Action Recognition#Diving-48#Accuracy#85.5
+Action Classification#Kinetics-400#Acc@1#77.4

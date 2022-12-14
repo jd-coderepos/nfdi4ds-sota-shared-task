@@ -1,0 +1,5 @@
+Few-Shot Image Classification#Meta-Dataset#Accuracy#84.75
+Few-Shot Image Classification#CIFAR-FS 5-way (5-shot)#Accuracy#92.2
+Few-Shot Image Classification#Mini-Imagenet 5-way (5-shot)#Accuracy#98.4
+Few-Shot Image Classification#CIFAR-FS 5-way (1-shot)#Accuracy#84.3
+Few-Shot Image Classification#Mini-Imagenet 5-way (1-shot)#Accuracy#95.3

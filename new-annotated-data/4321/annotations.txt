@@ -1,0 +1,25 @@
+Graph Regression#PCQM4Mv2-LSC#Validation MAE#0.0858
+Graph Regression#ZINC-500k#MAE#0.070
+Graph Regression#ZINC#MAE#0.070 ± 0.002
+Graph Regression#ZINC#MAE#0.070 ± 0.004
+Graph Classification#MalNet-Tiny#Accuracy#93.36 ± 0.6
+Graph Classification#MNIST#Accuracy#98.05
+Graph Classification#CIFAR10 100k#Accuracy (%)#72.298
+Node Classification#PATTERN#Accuracy#90.324
+Node Classification#CLUSTER#Accuracy#77.95
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.8015
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.7556 ± 0.0027
+Graph Property Prediction#ogbg-ppa#Number of params#3434533
+Graph Property Prediction#ogbg-ppa#Ext. data#No
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2907
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.3015 ± 0.0038
+Graph Property Prediction#ogbg-molpcba#Number of params#9744496
+Graph Property Prediction#ogbg-molpcba#Ext. data#No
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7880
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8255 ± 0.0092
+Graph Property Prediction#ogbg-molhiv#Number of params#558625
+Graph Property Prediction#ogbg-molhiv#Ext. data#No
+Graph Property Prediction#ogbg-code2#Test F1 score#0.1894
+Graph Property Prediction#ogbg-code2#Validation F1 score#0.1739 ± 0.001
+Graph Property Prediction#ogbg-code2#Number of params#12454066
+Graph Property Prediction#ogbg-code2#Ext. data#No

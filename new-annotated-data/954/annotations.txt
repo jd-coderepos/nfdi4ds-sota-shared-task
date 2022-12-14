@@ -1,0 +1,7 @@
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#72.88
+3D Human Pose Estimation#MPI-INF-3DHP#AUC#39.3
+3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#117.6
+3D Human Pose Estimation#MPI-INF-3DHP#PCK#75.7
+3D Human Pose Estimation#MPI-INF-3DHP#AUC#40.8
+3D Human Pose Estimation#MPI-INF-3DHP#PCK#64.7
+Pose Estimation#Leeds Sports Poses#PCK#75.7

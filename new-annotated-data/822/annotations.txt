@@ -1,0 +1,9 @@
+Keyword Spotting#Google Speech Commands#Google Speech Commands V2 35#98.11
+Speech Emotion Recognition#CREMA-D#Accuracy#67.81
+Audio Classification#ESC-50#Top-1 Accuracy#95.7
+Audio Classification#ESC-50#PRE-TRAINING DATASET#AudioSet, ImageNet
+Audio Classification#ESC-50#Accuracy (5-fold)#95.7
+Audio Classification#AudioSet#Test mAP#0.485
+Audio Classification#AudioSet#Test mAP#0.459
+Audio Tagging#AudioSet#mean average precision#0.485
+Time Series#Speech Commands#% Test Accuracy#98.11

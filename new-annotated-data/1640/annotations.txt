@@ -1,0 +1,30 @@
+Video Retrieval#LSMDC#text-to-video R@1#25.2
+Video Retrieval#LSMDC#text-to-video R@5#43.7
+Video Retrieval#LSMDC#text-to-video R@10#53.5
+Video Retrieval#LSMDC#text-to-video Median Rank#8.0
+Video Retrieval#LSMDC#video-to-text R@1#22.7
+Video Retrieval#LSMDC#video-to-text R@5#42.6
+Video Retrieval#LSMDC#video-to-text R@10#51.2
+Video Retrieval#LSMDC#video-to-text Median Rank#10.0
+Video Retrieval#LSMDC#text-to-video Mean Rank#53.2
+Video Retrieval#LSMDC#video-to-text Mean Rank#47.4
+Video Retrieval#MSR-VTT-1kA#text-to-video Mean Rank#14.3
+Video Retrieval#MSR-VTT-1kA#text-to-video R@1#46.9
+Video Retrieval#MSR-VTT-1kA#text-to-video R@5#72.8
+Video Retrieval#MSR-VTT-1kA#text-to-video R@10#82.2
+Video Retrieval#MSR-VTT-1kA#text-to-video Median Rank#2
+Video Retrieval#MSR-VTT-1kA#video-to-text R@1#44.4
+Video Retrieval#MSR-VTT-1kA#video-to-text R@5#73.3
+Video Retrieval#MSR-VTT-1kA#video-to-text R@10#84.0
+Video Retrieval#MSR-VTT-1kA#video-to-text Median Rank#2.0
+Video Retrieval#MSR-VTT-1kA#video-to-text Mean Rank#9.0
+Video Retrieval#MSVD#text-to-video R@1#47.2
+Video Retrieval#MSVD#text-to-video R@5#77.4
+Video Retrieval#MSVD#text-to-video R@10#86.0
+Video Retrieval#MSVD#text-to-video Median Rank#2.0
+Video Retrieval#MSVD#text-to-video Mean Rank#9.3
+Video Retrieval#MSVD#video-to-text R@1#66.4
+Video Retrieval#MSVD#video-to-text R@5#90.0
+Video Retrieval#MSVD#video-to-text R@10#94.2
+Video Retrieval#MSVD#video-to-text Median Rank#1.0
+Video Retrieval#MSVD#video-to-text Mean Rank#3.3

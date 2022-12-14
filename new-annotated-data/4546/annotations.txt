@@ -1,0 +1,6 @@
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#SI-SDR-WB#16.22
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-NB#3.01
+Speech Enhancement#WHAMR!#SI-SDR#5.33
+Speech Enhancement#WHAMR!#PESQ#1.52
+Speech Dereverberation#WHAMR!#SI-SDR#10.4
+Speech Dereverberation#WHAMR!#PESQ#3.16

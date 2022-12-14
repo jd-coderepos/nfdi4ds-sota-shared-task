@@ -1,0 +1,3 @@
+Image-to-Image Translation#Aerial-to-Map#Per-pixel Accuracy#42%
+Image-to-Image Translation#Aerial-to-Map#Per-class Accuracy#22%
+Image-to-Image Translation#Aerial-to-Map#Class IOU#0.09

@@ -1,0 +1,2 @@
+Multi-Label Classification#OpenImages-v6#mAP#87.34
+Multi-Label Classification#OpenImages-v6#mAP#86.72

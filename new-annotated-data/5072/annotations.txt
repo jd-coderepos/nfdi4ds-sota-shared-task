@@ -1,0 +1,8 @@
+Prompt Engineering#ImageNet-R#Top-1 accuracy %#76.18
+Prompt Engineering#UCF101#Harmonic mean#77.64
+Prompt Engineering#ImageNet-A#Top-1 accuracy %#50.63
+Prompt Engineering#EuroSAT#Harmonic mean#28.75
+Prompt Engineering#ImageNet-S#Top-1 accuracy %#48.75
+Prompt Engineering#ImageNet V2#Top-1 accuracy %#64.07
+Prompt Engineering#FGVC-Aircraft#Harmonic mean#27.74
+Prompt Engineering#SUN397#Harmonic mean#78.27

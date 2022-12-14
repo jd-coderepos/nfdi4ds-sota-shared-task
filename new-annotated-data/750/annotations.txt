@@ -1,0 +1,2 @@
+Relation Extraction#ACE 2005#Relation classification F1#58.2
+Relation Extraction#ACE 2005#Cross Sentence#No

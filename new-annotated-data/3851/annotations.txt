@@ -1,0 +1,4 @@
+Video Object Detection#ImageNet VID#MAP#84.3
+Video Object Detection#EPIC KITCHENS-unseen splits#mAP#39.6
+Video Object Detection#EPIC KITCHENS-seen splits#mAP#42.2
+Video Instance Segmentation#YouTube-VIS#mask AP#38

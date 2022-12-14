@@ -1,0 +1,22 @@
+Semantic Segmentation#ADE20K val#mIoU#55.6
+Semantic Segmentation#ADE20K val#mIoU#54.1
+Image Classification#ImageNet#Top 1 Accuracy#86.7%
+Image Classification#ImageNet#Top 1 Accuracy#85.8%
+Image Classification#ImageNet#Number of params#304.8M
+Image Classification#ImageNet#GFLOPs#191.2
+Image Classification#ImageNet#Top 1 Accuracy#85.7%
+Image Classification#ImageNet#Top 1 Accuracy#85.2%
+Image Classification#ImageNet#Top 1 Accuracy#85.0%
+Image Classification#ImageNet#Number of params#87M
+Image Classification#ImageNet#Top 1 Accuracy#84.9%
+Image Classification#ImageNet#Top 1 Accuracy#83.8%
+Image Classification#ImageNet#Top 1 Accuracy#83.4%
+Image Classification#ImageNet#Number of params#22M
+Image Classification#ImageNet#GFLOPs#15.5
+Image Classification#ImageNet#Top 1 Accuracy#83.1%
+Image Classification#ImageNet#Top 1 Accuracy#81.4%
+Image Classification#ImageNet ReaL#Top 1 Accuracy#87.7%
+Image Classification#ImageNet ReaL#Number of params#304M
+Image Classification#ImageNet ReaL#Top 1 Accuracy#87.2%
+Image Classification#ImageNet ReaL#Number of params#632M
+Image Classification#ImageNet ReaL#Top 1 Accuracy#87.0%

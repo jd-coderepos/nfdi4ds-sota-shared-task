@@ -1,0 +1,2 @@
+Single-View 3D Reconstruction#ShapeNet#3DIoU#0.612
+Single-View 3D Reconstruction#ShapeNet#F-Score#0.558

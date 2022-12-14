@@ -1,0 +1,6 @@
+Network Intrusion Detection#CICIDS2017#Avg F1#0.94
+Network Intrusion Detection#CICIDS2017#Recall#99.7
+Network Intrusion Detection#CICIDS2017#Precision#88.7
+Network Intrusion Detection#CICIDS2017#Avg F1#0.873
+Network Intrusion Detection#CICIDS2017#Recall#99.5
+Network Intrusion Detection#CICIDS2017#Precision#81.7

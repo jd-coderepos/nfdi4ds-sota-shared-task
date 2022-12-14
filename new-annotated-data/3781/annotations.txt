@@ -1,0 +1,6 @@
+3D Object Detection#S3DIS#mAP@0.5#45.9
+3D Object Detection#S3DIS#mAP@0.25#66.7
+3D Object Detection#ScanNetV2#mAP@0.25#71.5
+3D Object Detection#ScanNetV2#mAP@0.5#57.3
+3D Object Detection#SUN-RGBD val#mAP@0.25#64.2
+3D Object Detection#SUN-RGBD val#mAP@0.5#48.9

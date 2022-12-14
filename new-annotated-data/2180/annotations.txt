@@ -1,0 +1,1 @@
+Scene Text Recognition#MSDA#Average Accuracy#19.02%

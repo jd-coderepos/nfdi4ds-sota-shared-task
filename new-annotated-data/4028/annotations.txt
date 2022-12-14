@@ -1,0 +1,27 @@
+Image Classification#ImageNet#Top 1 Accuracy#82.8%
+Image Classification#ImageNet#Top 5 Accuracy#96.3
+Image Classification#ImageNet#Number of params#34.7M
+Image Classification#ImageNet#GFLOPs#3.4
+Image Classification#ImageNet#Top 1 Accuracy#81.6%
+Image Classification#ImageNet#Top 5 Accuracy#95.7
+Image Classification#ImageNet#Number of params#19M
+Image Classification#ImageNet#GFLOPs#1.5
+Image Classification#ImageNet#Top 1 Accuracy#80.3%
+Image Classification#ImageNet#Top 5 Accuracy#95.2
+Image Classification#ImageNet#Number of params#9.7M
+Image Classification#ImageNet#GFLOPs#0.86
+Image Classification#ImageNet#Top 1 Accuracy#79.5%
+Image Classification#ImageNet#Top 5 Accuracy#94.7
+Image Classification#ImageNet#Number of params#7.6M
+Image Classification#ImageNet#GFLOPs#0.66
+Image Classification#ImageNet#Top 1 Accuracy#77.9%
+Image Classification#ImageNet#Top 5 Accuracy#93.9
+Image Classification#ImageNet#Number of params#4.8M
+Image Classification#ImageNet#GFLOPs#0.40
+Image Classification#ImageNet#Top 1 Accuracy#77.2%
+Image Classification#ImageNet#Top 5 Accuracy#93.5
+Image Classification#ImageNet#Number of params#4.1M
+Image Classification#ImageNet#GFLOPs#0.35
+Image Classification#ImageNet#Top 1 Accuracy#74.6%
+Image Classification#ImageNet#Top 5 Accuracy#92.1
+Image Classification#ImageNet#Number of params#2.7M

@@ -1,0 +1,5 @@
+Semantic Segmentation#Cityscapes val#mIoU#68.48%
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#71.3
+Real-Time Semantic Segmentation#Cityscapes val#mIoU#68.48%
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#71.3%
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#18.4 (1080Ti)

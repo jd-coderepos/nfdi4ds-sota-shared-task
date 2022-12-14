@@ -1,0 +1,4 @@
+Column Type Annotation#VizNet-Sato-MultiColumn#Macro-F1#83.8
+Column Type Annotation#VizNet-Sato-Full#Macro-F1#84.6
+Column Type Annotation#WikiTables-TURL-CTA#F1 (%)#92.45
+Columns Property Annotation#WikiTables-TURL-CPA#F1 (%)#91.72

@@ -1,0 +1,2 @@
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#64.60±0.57
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#64.52±0.62

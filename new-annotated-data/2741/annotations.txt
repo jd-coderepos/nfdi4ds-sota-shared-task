@@ -1,0 +1,8 @@
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (1% Labels)#38.3
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (10% Labels)#57.5
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (20% Labels)#62.7
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (50% Labels)#67.6
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (1% Labels)#33.1
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (10% Labels)#47.7
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (20% Labels)#49.9
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (50% Labels)#52.5

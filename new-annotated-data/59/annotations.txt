@@ -1,0 +1,5 @@
+Monocular Depth Estimation#Mid-Air Dataset#Abs Rel#0.3136
+Monocular Depth Estimation#Mid-Air Dataset#SQ Rel#8.7127
+Monocular Depth Estimation#Mid-Air Dataset#RMSE#13.595
+Monocular Depth Estimation#Mid-Air Dataset#RMSE log#0.4380
+Monocular Depth Estimation#KITTI Eigen split unsupervised#absolute relative error#0.133

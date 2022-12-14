@@ -1,0 +1,17 @@
+Visual Dialog#Visual Dialog v1.0 test-std#NDCG (x 100)#54.70
+Visual Dialog#Visual Dialog v1.0 test-std#MRR (x 100)#61.50
+Visual Dialog#Visual Dialog v1.0 test-std#R@1#47.55
+Visual Dialog#Visual Dialog v1.0 test-std#R@5#78.10
+Visual Dialog#Visual Dialog v1.0 test-std#R@10#88.80
+Visual Dialog#Visual Dialog v1.0 test-std#Mean#4.40
+Visual Dialog#VisDial v0.9 val#MRR#64.1
+Visual Dialog#VisDial v0.9 val#Mean Rank#4.45
+Visual Dialog#VisDial v0.9 val#R@1#50.92
+Visual Dialog#VisDial v0.9 val#R@10#88.81
+Visual Dialog#VisDial v0.9 val#R@5#80.18
+Visual Dialog#VisDial v0.9 val#MRR#63.6
+Visual Dialog#VisDial v0.9 val#Mean Rank#4.53
+Visual Dialog#VisDial v0.9 val#R@1#50.24
+Visual Dialog#VisDial v0.9 val#R@10#88.51
+Visual Dialog#VisDial v0.9 val#R@5#79.81
+Common Sense Reasoning#Visual Dialog v0.9#1 in 10 R@5#80.1

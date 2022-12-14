@@ -1,0 +1,4 @@
+Breast Cancer Histology Image Classification#BreakHis#Accuracy (Inter-Patient)#92.15
+Breast Cancer Histology Image Classification#BreakHis#1:1 Accuracy#92.23
+Breast Cancer Histology Image Classification (20% labels)#BreakHis#1:1 Accuracy#88.77
+Breast Cancer Histology Image Classification (20% labels)#BreakHis#Accuracy (Inter-Patient)#88.77

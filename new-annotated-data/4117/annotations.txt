@@ -1,0 +1,2 @@
+Image Classification#STL-10#Percentage correct#74.1
+Image Classification#MNIST#Percentage error#1.4

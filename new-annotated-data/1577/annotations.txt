@@ -1,0 +1,7 @@
+Action Classification#Moments in Time#Top 1 Accuracy#37.4
+Action Classification#Moments in Time#Top 5 Accuracy#65.4
+Action Classification#Kinetics-400#Acc@1#79.8
+Action Classification#Kinetics-400#Acc@1#78.6
+Action Classification#Kinetics-400#Acc@5#93.7
+Action Classification#Kinetics-400#Acc@5#94.2
+Action Classification#Kinetics-400#Acc@5#93.4

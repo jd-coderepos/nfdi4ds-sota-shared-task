@@ -1,0 +1,2 @@
+Lane Detection#DET#event-based F1 score#75.58
+Lane Detection#DET#Average IOU#62.79

@@ -1,0 +1,2 @@
+Face Detection#ADE20K#mIoU#42.86
+Semantic Segmentation#PASCAL Context#mIoU#52.76

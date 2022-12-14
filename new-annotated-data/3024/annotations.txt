@@ -1,0 +1,2 @@
+Sentiment Analysis#SST-5 Fine-grained classification#Accuracy#51.4
+Sentiment Analysis#MR#Accuracy#84.5

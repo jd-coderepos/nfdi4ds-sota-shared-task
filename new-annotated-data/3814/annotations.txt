@@ -1,0 +1,3 @@
+3D Object Detection From Stereo Images#KITTI Cars Moderate#AP75#67.37
+3D Object Detection From Stereo Images#KITTI Pedestrians Moderate#AP50#32.74
+3D Object Detection From Stereo Images#KITTI Cyclists Moderate#AP50#43.90

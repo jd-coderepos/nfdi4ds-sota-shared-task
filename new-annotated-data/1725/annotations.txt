@@ -1,0 +1,3 @@
+Anomaly Detection#Fashion-MNIST#ROC AUC#0.9293
+Anomaly Detection#MNIST#ROC AUC#97.25
+Anomaly Detection#One-class CIFAR-10#AUROC#73.05

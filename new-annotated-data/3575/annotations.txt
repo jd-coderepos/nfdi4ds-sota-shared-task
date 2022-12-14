@@ -1,0 +1,9 @@
+Text Summarization#GovReport#ROUGE-1#60.1
+Text Summarization#GovReport#ROUGE-2#25.28
+Text Summarization#GovReport#ROUGE-L#56.65
+Text Summarization#arXiv#ROUGE-1#49.32
+Text Summarization#arXiv#ROUGE-2#20.27
+Text Summarization#arXiv#ROUGE-L#44.76
+Text Summarization#Pubmed#ROUGE-1#47.5
+Text Summarization#Pubmed#ROUGE-2#20.33
+Text Summarization#Pubmed#ROUGE-L#43.76

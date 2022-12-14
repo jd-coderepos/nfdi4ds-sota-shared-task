@@ -1,0 +1,15 @@
+Person Re-Identification#MSMT17-C#Rank-1#22.77
+Person Re-Identification#MSMT17-C#mAP#6.53
+Person Re-Identification#MSMT17-C#mINP#0.08
+Person Re-Identification#SYSU-MM01-C#Rank-1 (All Search)#34.42
+Person Re-Identification#SYSU-MM01-C#mAP (All Search)#29.99
+Person Re-Identification#SYSU-MM01-C#mINP (All Search)#14.73
+Person Re-Identification#SYSU-MM01-C#Rank-1 (Indoor Search)#33.80
+Person Re-Identification#SYSU-MM01-C#mAP (Indoor Search)#40.98
+Person Re-Identification#SYSU-MM01-C#mINP (Indoor Search)#35.39
+Person Re-Identification#CUHK03-C#Rank-1#5.90
+Person Re-Identification#CUHK03-C#mAP#3.45
+Person Re-Identification#CUHK03-C#mINP#0.46
+Person Re-Identification#Market-1501-C#Rank-1#31.90
+Person Re-Identification#Market-1501-C#mAP#12.13
+Person Re-Identification#Market-1501-C#mINP#0.35

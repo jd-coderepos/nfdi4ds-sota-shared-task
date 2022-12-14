@@ -1,0 +1,2 @@
+Trajectory Prediction#TRAF#RMSE#0.78
+Trajectory Prediction#NGSIM#RMSE#5.63

@@ -1,0 +1,5 @@
+Sentiment Analysis#Multi-Domain Sentiment Dataset#DVD#76.17
+Sentiment Analysis#Multi-Domain Sentiment Dataset#Books#72.97
+Sentiment Analysis#Multi-Domain Sentiment Dataset#Electronics#80.47
+Sentiment Analysis#Multi-Domain Sentiment Dataset#Kitchen#83.97
+Sentiment Analysis#Multi-Domain Sentiment Dataset#Average#78.39

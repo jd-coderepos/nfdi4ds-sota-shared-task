@@ -1,0 +1,7 @@
+Language Modelling#C4#Steps#1M
+Language Modelling#C4#TPUv3 Hours#17.3K
+Language Modelling#C4#Perplexity#12.35
+Language Modelling#C4#TPUv3 Hours#16.5K
+Language Modelling#C4#Perplexity#12.69
+Language Modelling#C4#TPUv3 Hours#15.7K
+Language Modelling#C4#Perplexity#13.25

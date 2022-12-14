@@ -1,0 +1,2 @@
+Hand Pose Estimation#HANDS 2017#Average 3D Error#9.97
+Hand Pose Estimation#HANDS 2017#Average 3D Error#11.91

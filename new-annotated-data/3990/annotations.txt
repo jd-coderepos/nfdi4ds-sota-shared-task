@@ -1,0 +1,6 @@
+Image Classification#iNaturalist 2018#Top-1 Accuracy#88.7%
+Image Classification#iNaturalist 2018#Top-1 Accuracy#84.3%
+Image Classification#iNaturalist#Top 1 Accuracy#83.4%
+Image Classification#iNaturalist#Top 1 Accuracy#80.4%
+Fine-Grained Image Classification#CUB-200-2011#Accuracy#92.9%
+Fine-Grained Image Classification#NABirds#Accuracy#93.0%

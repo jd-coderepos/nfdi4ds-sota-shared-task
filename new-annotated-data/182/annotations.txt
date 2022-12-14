@@ -1,0 +1,13 @@
+Image Super-Resolution#Set5 - 3x upscaling#PSNR#33.84
+Image Super-Resolution#Set5 - 2x upscaling#PSNR#37.57
+Image Super-Resolution#Set5 - 4x upscaling#PSNR#31.5
+Grayscale Image Denoising#Urban100 sigma25#PSNR#30.19
+Grayscale Image Denoising#Urban100 sigma25#SSIM#0.892
+Grayscale Image Denoising#Set12 sigma50#PSNR#27.43
+Grayscale Image Denoising#BSD68 sigma50#PSNR#26.39
+Grayscale Image Denoising#BSD68 sigma25#PSNR#29.3
+Grayscale Image Denoising#BSD68 sigma70#PSNR#25.14
+Grayscale Image Denoising#Set12 sigma25#PSNR#30.55
+Grayscale Image Denoising#Urban100 sigma70#PSNR#25.15
+Grayscale Image Denoising#Set12 sigma70#PSNR#25.9
+Grayscale Image Denoising#Urban100 sigma50#PSNR#26.82

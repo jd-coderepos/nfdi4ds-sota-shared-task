@@ -1,0 +1,10 @@
+Out-of-Distribution Detection#CIFAR-10#FPR95#2.0
+Out-of-Distribution Detection#CIFAR-10#AUROC#99.9
+Out-of-Distribution Detection#CIFAR-100#FPR95#23.4
+Out-of-Distribution Detection#CIFAR-100#AUROC#97.7
+Out-of-Distribution Detection#SST#AUROC#99.7
+Out-of-Distribution Detection#SST#FPR95#20.9
+Out-of-Distribution Detection#TREC-NEWS#AUROC#99.9
+Out-of-Distribution Detection#TREC-NEWS#FPR95#4.7
+Out-of-Distribution Detection#20 Newsgroups#AUROC#99.6
+Out-of-Distribution Detection#20 Newsgroups#FPR95#1.78

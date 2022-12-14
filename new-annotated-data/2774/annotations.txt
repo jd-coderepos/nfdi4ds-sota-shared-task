@@ -1,0 +1,6 @@
+Weakly-Supervised Object Localization#CUB-200-2011#average top-1 classification accuracy#78.5
+Weakly-Supervised Object Localization#CUB-200-2011#Top-1 Localization Accuracy#76.4
+Weakly-Supervised Object Localization#CUB-200-2011#GT-known localization accuracy#96.6
+Weakly-Supervised Object Localization#ImageNet#GT-known localization accuracy#68.8
+Weakly-Supervised Object Localization#ImageNet#Top-1 Localization Accuracy#56.1
+Weakly-Supervised Object Localization#ImageNet#average top-1 classification accuracy#76.7

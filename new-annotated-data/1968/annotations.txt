@@ -1,0 +1,9 @@
+Question Answering#NQ (BEIR)#nDCG@10#0.633
+Question Answering#FiQA-2018 (BEIR)#nDCG@10#0.513
+Question Answering#HotpotQA (BEIR)#nDCG@10#0.759
+Biomedical Information Retrieval#BioASQ (BEIR)#nDCG@10#0.579
+Biomedical Information Retrieval#NFCorpus (BEIR)#nDCG@10#0.383
+Biomedical Information Retrieval#TREC-COVID (BEIR)#nDCG@10#0.795
+Fact Checking#CLIMATE-FEVER (BEIR)#nDCG@10#0.280
+Fact Checking#FEVER (BEIR)#nDCG@10#0.849
+Fact Checking#SciFact (BEIR)#nDCG@10#0.777

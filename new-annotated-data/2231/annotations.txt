@@ -1,0 +1,3 @@
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#BLEU#64.11
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#METEOR#46.30
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#ROUGE#74.57

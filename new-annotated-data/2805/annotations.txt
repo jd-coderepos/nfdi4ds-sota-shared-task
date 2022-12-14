@@ -1,0 +1,10 @@
+Emotion Recognition in Conversation#CPED#Accuracy of Sentiment#48.62
+Emotion Recognition in Conversation#CPED#Macro-F1 of Sentiment#30.33
+Sentiment Analysis#Amazon Review Polarity#Accuracy#94.6
+Sentiment Analysis#Sogou News#Accuracy#96.8
+Sentiment Analysis#Yelp Fine-grained classification#Error#36.1
+Sentiment Analysis#Amazon Review Full#Accuracy#60.2
+Sentiment Analysis#Yelp Binary classification#Error#4.3
+Text Classification#DBpedia#Error#1.4
+Text Classification#AG News#Error#7.5
+Text Classification#Yahoo! Answers#Accuracy#72.3

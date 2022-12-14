@@ -1,0 +1,12 @@
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#17.59
+3D Human Pose Estimation#Human3.6M#MPVE (mm)#23.7
+3D Human Pose Estimation#Human3.6M#Angular Error#11.33
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#30.56
+3D Human Pose Estimation#Human3.6M#MPVE (mm)#42.28
+3D Human Pose Estimation#Human3.6M#Angular Error#14.61
+3D Human Pose Estimation#MPI-INF-3DHP#AUC#77.09
+3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#33.7
+3D Human Pose Estimation#MPI-INF-3DHP#PCK#99.37
+3D Human Pose Estimation#MPI-INF-3DHP#AUC#71.57
+3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#45.87
+3D Human Pose Estimation#MPI-INF-3DHP#PCK#96.59

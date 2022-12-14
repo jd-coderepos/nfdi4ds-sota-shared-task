@@ -1,0 +1,12 @@
+Pose Estimation#CrowdPose#AP#65.2
+Pose Estimation#CrowdPose#AP50#85.9
+Pose Estimation#CrowdPose#AP75#69.5
+Pose Estimation#CrowdPose#APM#66.2
+Multi-Person Pose Estimation#CrowdPose#mAP @0.5:0.95#65.2
+Multi-Person Pose Estimation#CrowdPose#AP Easy#73.8
+Multi-Person Pose Estimation#CrowdPose#AP Medium#66.2
+Multi-Person Pose Estimation#CrowdPose#AP Hard#54.8
+Multi-Person Pose Estimation#CrowdPose#FPS#14.7 (21.4)
+Multi-Person Pose Estimation#COCO test-dev#AP#65.6
+Multi-Person Pose Estimation#COCO test-dev#APL#68.8
+Multi-Person Pose Estimation#COCO test-dev#APM#63.3

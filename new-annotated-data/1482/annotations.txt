@@ -1,0 +1,19 @@
+Action Recognition#Something-Something V2#Top-1 Accuracy#69.6
+Action Recognition#Something-Something V2#Top-5 Accuracy#92.7
+Action Recognition#Something-Something V2#Parameters#89
+Action Recognition#Something-Something V2#GFLOPs#321x3
+Action Classification#Kinetics-600#Top-1 Accuracy#86.1
+Action Classification#Kinetics-600#Top-5 Accuracy#97.3
+Action Classification#Kinetics-600#Top-1 Accuracy#84.0
+Action Classification#Kinetics-600#Top-5 Accuracy#96.5
+Action Classification#Kinetics-400#Acc@1#84.9
+Action Classification#Kinetics-400#Acc@5#96.7
+Action Classification#Kinetics-400#Acc@1#83.1
+Action Classification#Kinetics-400#Acc@5#95.9
+Action Classification#Kinetics-400#Acc@1#82.7
+Action Classification#Kinetics-400#Acc@5#95.5
+Action Classification#Kinetics-400#Acc@1#80.6
+Action Classification#Kinetics-400#Acc@5#94.6
+Action Classification#Kinetics-400#Acc@5#94.5
+Action Classification#Kinetics-400#Acc@1#78.8
+Action Classification#Kinetics-400#Acc@5#93.6

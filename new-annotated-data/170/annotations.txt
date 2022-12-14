@@ -1,0 +1,46 @@
+Image Super-Resolution#BSD100 - 2x upscaling#PSNR#32.64
+Image Super-Resolution#BSD100 - 2x upscaling#SSIM#0.9054
+Image Super-Resolution#Set14 - 2x upscaling#PSNR#34.93
+Image Super-Resolution#Set14 - 2x upscaling#SSIM#0.9276
+Image Super-Resolution#Manga109 - 4x upscaling#PSNR#32.83
+Image Super-Resolution#Manga109 - 4x upscaling#SSIM#0.9314
+Image Super-Resolution#Manga109 - 3x upscaling#PSNR#35.77
+Image Super-Resolution#Manga109 - 3x upscaling#SSIM#0.9563
+Image Super-Resolution#BSD100 - 3x upscaling#PSNR#29.55
+Image Super-Resolution#BSD100 - 3x upscaling#SSIM#0.8169
+Image Super-Resolution#Set14 - 3x upscaling#PSNR#31.24
+Image Super-Resolution#Set14 - 3x upscaling#SSIM#0.8566
+Image Super-Resolution#Urban100 - 3x upscaling#PSNR#30.43
+Image Super-Resolution#Urban100 - 3x upscaling#SSIM#0.8913
+Image Super-Resolution#Set5 - 3x upscaling#PSNR#35.15
+Image Super-Resolution#Set5 - 3x upscaling#SSIM#0.933
+Image Super-Resolution#Urban100 - 2x upscaling#PSNR#34.57
+Image Super-Resolution#Urban100 - 2x upscaling#SSIM#0.9473
+Image Super-Resolution#Manga109 - 2x upscaling#PSNR#40.61
+Image Super-Resolution#Manga109 - 2x upscaling#SSIM#0.9816
+Image Super-Resolution#Urban100 - 4x upscaling#PSNR#28.12
+Image Super-Resolution#Urban100 - 4x upscaling#SSIM#0.8393
+Image Super-Resolution#Set14 - 4x upscaling#PSNR#29.36
+Image Super-Resolution#Set14 - 4x upscaling#SSIM#0.7993
+Image Super-Resolution#Set5 - 2x upscaling#PSNR#38.65
+Image Super-Resolution#Set5 - 2x upscaling#SSIM#0.9633
+Image Super-Resolution#Set5 - 4x upscaling#PSNR#33.2
+Image Super-Resolution#Set5 - 4x upscaling#SSIM#0.9068
+Image Super-Resolution#BSD100 - 4x upscaling#PSNR#28.03
+Image Super-Resolution#BSD100 - 4x upscaling#SSIM#0.752
+Stereo Image Super-Resolution#KITTI2012 - 4x upscaling#PSNR#26.92
+Stereo Image Super-Resolution#KITTI2012 - 4x upscaling#SSIM#0.8148
+Stereo Image Super-Resolution#KITTI2015 - 4x upscaling#PSNR#26.74
+Stereo Image Super-Resolution#KITTI2015 - 4x upscaling#SSIM#0.8206
+Stereo Image Super-Resolution#Flickr1024 - 4x upscaling#PSNR#24.14
+Stereo Image Super-Resolution#Flickr1024 - 4x upscaling#SSIM#0.7560
+Stereo Image Super-Resolution#Middlebury - 4x upscaling#PSNR#30.14
+Stereo Image Super-Resolution#Middlebury - 4x upscaling#SSIM#0.8582
+Stereo Image Super-Resolution#KITTI2012 - 2x upscaling#PSNR#31.48
+Stereo Image Super-Resolution#KITTI2012 - 2x upscaling#SSIM#0.9281
+Stereo Image Super-Resolution#Middlebury - 2x upscaling#PSNR#35.84
+Stereo Image Super-Resolution#Middlebury - 2x upscaling#SSIM#0.9543
+Stereo Image Super-Resolution#Flickr1024 - 2x upscaling#PSNR#29.62
+Stereo Image Super-Resolution#Flickr1024 - 2x upscaling#SSIM#0.9199
+Stereo Image Super-Resolution#KITTI2015 - 2x upscaling#PSNR#31.23
+Stereo Image Super-Resolution#KITTI2015 - 2x upscaling#SSIM#0.9382

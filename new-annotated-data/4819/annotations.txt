@@ -1,0 +1,4 @@
+Column Type Annotation#VizNet-Sato-MultiColumn#Weighted-F1#92.5
+Column Type Annotation#VizNet-Sato-MultiColumn#Macro-F1#73.5
+Column Type Annotation#VizNet-Sato-Full#Macro-F1#75.6
+Column Type Annotation#VizNet-Sato-Full#Weighted-F1#90.2

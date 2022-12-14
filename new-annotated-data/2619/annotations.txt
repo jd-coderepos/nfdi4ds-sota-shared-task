@@ -1,0 +1,8 @@
+Semantic Segmentation#RSMSS#mIoU#33.1%
+Unsupervised Semantic Segmentation#COCO-All#mIoU#14.36
+Unsupervised Semantic Segmentation#COCO-All#Pixel Accuracy#49.99
+Unsupervised Semantic Segmentation#COCO-All#mIoU#13.84
+Unsupervised Semantic Segmentation#COCO-All#Pixel Accuracy#48.09
+Unsupervised Semantic Segmentation#COCO-Stuff#Pixel Accuracy#31.48
+Unsupervised Semantic Segmentation#Cityscapes test#mIoU#12.3
+Unsupervised Semantic Segmentation#Cityscapes test#Accuracy#65.5

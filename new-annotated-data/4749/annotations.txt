@@ -1,0 +1,12 @@
+Action Quality Assessment#MTL-AQA#Spearman Correlation#95.12
+Action Quality Assessment#MTL-AQA#RL2(*100)#0.260
+Action Quality Assessment#MTL-AQA#Spearman Correlation#93.81
+Action Quality Assessment#MTL-AQA#RL2(*100)#0.394
+Action Quality Assessment#MTL-AQA#Spearman Correlation#93.41
+Action Quality Assessment#MTL-AQA#RL2(*100)#0.365
+Action Quality Assessment#MTL-AQA#Spearman Correlation#91.96
+Action Quality Assessment#MTL-AQA#RL2(*100)#0.465
+Action Quality Assessment#AQA-7#Spearman Correlation#84.01%
+Action Quality Assessment#AQA-7#RL2(*100)#2.12
+Action Quality Assessment#AQA-7#Spearman Correlation#76.01%
+Action Quality Assessment#AQA-7#RL2(*100)#3.20

@@ -1,0 +1,5 @@
+Entity Typing#OntoNotes#Macro F1#86.6
+Entity Typing#OntoNotes#Micro F1#81.4
+Entity Typing#Open Entity#F1#50.6
+Entity Typing#FIGER#Macro F1#80.1
+Entity Typing#FIGER#Micro F1#83.3

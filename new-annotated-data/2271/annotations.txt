@@ -1,0 +1,3 @@
+Recognizing And Localizing Human Actions#HAR#1:1 Accuracy#90.37
+Automatic Sleep Stage Classification#Sleep-EDF#1:1 Accuracy#83.0
+Epilepsy Prediction#Epilepsy seizure prediction#1:1 Accuracy#97.23

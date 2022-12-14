@@ -1,0 +1,4 @@
+Continual Learning#Coarse-CIFAR100#Average Accuracy#84.27
+Continual Learning#Cifar100 (20 tasks)#Average Accuracy#94.99
+Continual Learning#Rotated MNIST#Average Accuracy#99.66
+Continual Learning#Permuted MNIST#Average Accuracy#97.71

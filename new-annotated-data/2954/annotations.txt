@@ -1,0 +1,2 @@
+Keypoint Detection#COCO#Validation AP#79.6
+Keypoint Detection#COCO#Test AP#78.3

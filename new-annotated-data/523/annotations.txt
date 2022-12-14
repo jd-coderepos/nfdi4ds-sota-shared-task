@@ -1,0 +1,1 @@
+Domain Adaptation#GTAV to Cityscapes+Mapillary#mIoU#46.8

@@ -1,0 +1,19 @@
+Face Verification#IJB-B#TAR @ FAR=0.01#97.7%
+Face Verification#IJB-B#TAR @ FAR=0.001#96.6
+Face Verification#IJB-B#TAR@FAR=0.0001#95.04
+Face Verification#IJB-B#TAR @ FAR=0.01#97.63%
+Face Verification#IJB-B#TAR @ FAR=0.001#96.5
+Face Verification#IJB-B#TAR@FAR=0.0001#95.21
+Face Verification#IJB-B#TAR @ FAR=0.01#97.36%
+Face Verification#IJB-B#TAR@FAR=0.0001#94.99
+Face Verification#IJB-C#TAR @ FAR=1e-5#94.7%
+Face Verification#IJB-C#TAR @ FAR=1e-3#97.57
+Face Verification#IJB-C#TAR @ FAR=1e-4#96.38%
+Face Verification#IJB-C#TAR @ FAR=1e-5#94.47%
+Face Verification#IJB-C#training dataset#MS1MV2
+Face Verification#IJB-C#model#R100
+Face Verification#IJB-C#TAR @ FAR=1e-3#97.51
+Face Verification#IJB-C#TAR @ FAR=1e-4#96.33%
+Face Identification#MegaFace#Accuracy#99.27%
+Face Identification#MegaFace#Accuracy#98.82%
+Face Identification#MegaFace#Accuracy#98.03%

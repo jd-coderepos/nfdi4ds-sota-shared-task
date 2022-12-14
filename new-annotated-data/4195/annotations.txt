@@ -1,0 +1,4 @@
+Fine-Grained Image Classification#CUB-200-2011#Accuracy#87.4
+Fine-Grained Image Classification#Stanford Cars#Accuracy#93.8%
+Fine-Grained Image Classification#FGVC Aircraft#Accuracy#92.0%
+Fine-Grained Image Classification#CUB-200-2011#Accuracy#87.4%

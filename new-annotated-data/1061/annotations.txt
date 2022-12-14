@@ -1,0 +1,31 @@
+Real-Time Object Detection#COCO#FPS (V100, b=1)#36
+Real-Time Object Detection#COCO#box AP#56.8
+Real-Time Object Detection#COCO#FPS#36
+Real-Time Object Detection#COCO#FPS (V100, b=1)#44
+Real-Time Object Detection#COCO#box AP#56.6
+Real-Time Object Detection#COCO#FPS#44
+Real-Time Object Detection#COCO#FPS (V100, b=1)#56
+Real-Time Object Detection#COCO#box AP#56
+Real-Time Object Detection#COCO#FPS#56
+Real-Time Object Detection#COCO#FPS (V100, b=1)#84
+Real-Time Object Detection#COCO#box AP#54.9
+Real-Time Object Detection#COCO#FPS#84
+Real-Time Object Detection#COCO#FPS (V100, b=1)#114
+Real-Time Object Detection#COCO#box AP#53.1
+Real-Time Object Detection#COCO#FPS#114
+Real-Time Object Detection#COCO#FPS (V100, b=1)#161
+Real-Time Object Detection#COCO#box AP#51.4
+Real-Time Object Detection#COCO#FPS#161
+Real-Time Object Detection#COCO#FPS (V100, b=1)#286
+Real-Time Object Detection#COCO#box AP#38.7
+Real-Time Object Detection#COCO#FPS#286
+Object Detection#COCO test-dev#box AP#56.8
+Object Detection#COCO test-dev#AP50#74.4
+Object Detection#COCO test-dev#AP75#62.1
+Object Detection#COCO test-dev#box AP#56.6
+Object Detection#COCO test-dev#box AP#56
+Object Detection#COCO test-dev#box AP#54.9
+Object Detection#COCO test-dev#box AP#53.1
+Object Detection#COCO test-dev#box AP#51.4
+Object Detection#COCO test-dev#box AP#38.7
+Object Detection#COCO minival#box AP#56.8

@@ -1,0 +1,1 @@
+Semantic Segmentation#DADA-seg#mIoU#32.04

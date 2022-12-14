@@ -1,0 +1,30 @@
+Person Re-Identification#eSports Sensors Dataset#LogLoss#0.01617
+Person Re-Identification#eSports Sensors Dataset#Accuracy#52.1
+Person Re-Identification#eSports Sensors Dataset#ROC AUC#0.919
+Person Re-Identification#eSports Sensors Dataset#LogLoss#0.01615
+Person Re-Identification#eSports Sensors Dataset#Accuracy#48.8
+Person Re-Identification#eSports Sensors Dataset#ROC AUC#0.884
+Person Re-Identification#eSports Sensors Dataset#LogLoss#0.01588
+Person Re-Identification#eSports Sensors Dataset#Accuracy#45
+Person Re-Identification#eSports Sensors Dataset#ROC AUC#0.89
+Person Re-Identification#eSports Sensors Dataset#LogLoss#0.05735
+Person Re-Identification#eSports Sensors Dataset#Accuracy#41.5
+Person Re-Identification#eSports Sensors Dataset#ROC AUC#0.84
+Person Re-Identification#eSports Sensors Dataset#LogLoss#0.02303
+Person Re-Identification#eSports Sensors Dataset#Accuracy#10
+Person Re-Identification#eSports Sensors Dataset#ROC AUC#0.5
+Skills Evaluation#eSports Sensors Dataset#Accuracy#85.6
+Skills Evaluation#eSports Sensors Dataset#ROC AUC#0.945
+Skills Evaluation#eSports Sensors Dataset#LogLoss#0.311
+Skills Evaluation#eSports Sensors Dataset#Accuracy#83.8
+Skills Evaluation#eSports Sensors Dataset#ROC AUC#0.886
+Skills Evaluation#eSports Sensors Dataset#LogLoss#0.596
+Skills Evaluation#eSports Sensors Dataset#Accuracy#80
+Skills Evaluation#eSports Sensors Dataset#ROC AUC#0.885
+Skills Evaluation#eSports Sensors Dataset#LogLoss#0.456
+Skills Evaluation#eSports Sensors Dataset#Accuracy#74.1
+Skills Evaluation#eSports Sensors Dataset#ROC AUC#0.899
+Skills Evaluation#eSports Sensors Dataset#LogLoss#0.442
+Skills Evaluation#eSports Sensors Dataset#Accuracy#50
+Skills Evaluation#eSports Sensors Dataset#ROC AUC#0.5
+Skills Evaluation#eSports Sensors Dataset#LogLoss#0.693

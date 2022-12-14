@@ -1,0 +1,1 @@
+Medical Image Segmentation#Synapse multi-organ CT#Avg DSC#89.10

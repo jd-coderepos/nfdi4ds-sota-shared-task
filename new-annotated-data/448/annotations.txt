@@ -1,0 +1,5 @@
+Skeleton Based Action Recognition#N-UCLA#Accuracy#93.5
+Action Recognition#NTU RGB+D 120#Accuracy (Cross-Subject)#92.5
+Action Recognition#NTU RGB+D 120#Accuracy (Cross-Setup)#90.7
+Action Classification#Toyota Smarthome dataset#CS#71.0
+Action Classification#Toyota Smarthome dataset#CV2#58.1

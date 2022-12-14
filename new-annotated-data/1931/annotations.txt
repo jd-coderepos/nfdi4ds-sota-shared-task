@@ -1,0 +1,10 @@
+Zero-Shot Learning#Winogrande#Accuracy#54.31
+Zero-Shot Learning#COPA#Accuracy#79.00
+Zero-Shot Learning#COPA#Accuracy#76.00
+Zero-Shot Learning#COPA#Accuracy#75.0
+Zero-Shot Learning#COPA#Accuracy#64.00
+Zero-Shot Learning#COPA#Accuracy#63.00
+Zero-Shot Learning#ReCoRD#Accuracy#73.42
+Zero-Shot Learning#PIQA#Accuracy#72.96
+Zero-Shot Learning#HellaSwag#Accuracy#54.53
+Zero-Shot Learning#StoryCloze#Accuracy#74.67

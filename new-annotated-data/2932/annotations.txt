@@ -1,0 +1,28 @@
+Pose Estimation#AIC#AP#34.4
+Pose Estimation#AIC#AP50#78.3
+Pose Estimation#AIC#AP75#24.8
+Pose Estimation#AIC#AR#38.7
+Pose Estimation#AIC#AR50#80.9
+Pose Estimation#AIC#AP#31.6
+Pose Estimation#AIC#AP75#20.9
+Pose Estimation#AIC#AR#35.8
+Pose Estimation#AIC#AR50#78.0
+Pose Estimation#COCO test-dev#AP#76.2
+Pose Estimation#COCO test-dev#AP50#92.7
+Pose Estimation#COCO test-dev#AP75#83.8
+Pose Estimation#COCO test-dev#APL#82.3
+Pose Estimation#COCO test-dev#APM#72.5
+Pose Estimation#COCO test-dev#AR#81.2
+Multi-Person Pose Estimation#CrowdPose#mAP @0.5:0.95#72.4
+Multi-Person Pose Estimation#CrowdPose#AP Easy#80.0
+Multi-Person Pose Estimation#CrowdPose#AP Medium#73.5
+Multi-Person Pose Estimation#CrowdPose#AP Hard#62.4
+Multi-Person Pose Estimation#OCHuman#Validation AP#62.1
+Multi-Person Pose Estimation#OCHuman#AP50#81.4
+Multi-Person Pose Estimation#OCHuman#AP75#67.1
+Image Classification#ImageNet#Top 1 Accuracy#82.8%
+Image Classification#ImageNet#Number of params#50.3M
+Image Classification#ImageNet#GFLOPs#13.7
+Image Classification#ImageNet#Top 1 Accuracy#78.5%
+Image Classification#ImageNet#Number of params#8.0M
+Image Classification#ImageNet#GFLOPs#1.8

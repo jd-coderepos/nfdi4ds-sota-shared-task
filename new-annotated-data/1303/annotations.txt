@@ -1,0 +1,1 @@
+Person Re-Identification#Market-1501#Average-mAP#92.7

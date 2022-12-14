@@ -1,0 +1,4 @@
+Math Word Problem Solving#MAWPS#Accuracy (%)#92
+Math Word Problem Solving#MathQA#Answer Accuracy#78.6
+Math Word Problem Solving#Math23K#Accuracy (5-fold)#83
+Math Word Problem Solving#SVAMP#Execution Accuracy#47.3

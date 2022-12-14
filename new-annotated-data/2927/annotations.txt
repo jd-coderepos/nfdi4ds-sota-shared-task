@@ -1,0 +1,33 @@
+Pose Estimation#CrowdPose#AP#68.9
+Pose Estimation#CrowdPose#AP50#89.4
+Pose Estimation#CrowdPose#AP75#75.6
+Pose Estimation#CrowdPose#Test#76.6
+Pose Estimation#CrowdPose#APM#69.9
+Pose Estimation#CrowdPose#AP#67.1
+Pose Estimation#CrowdPose#AP50#88.8
+Pose Estimation#CrowdPose#AP75#73.4
+Pose Estimation#CrowdPose#Test#75.2
+Pose Estimation#CrowdPose#APM#68.1
+Pose Estimation#CrowdPose#AP#63.8
+Pose Estimation#CrowdPose#AP50#87.7
+Pose Estimation#CrowdPose#AP75#69.4
+Pose Estimation#CrowdPose#Test#72.1
+Pose Estimation#CrowdPose#APM#64.8
+Pose Estimation#COCO test-dev#AP#70.3
+Pose Estimation#COCO test-dev#AP50#91.2
+Pose Estimation#COCO test-dev#AP75#77.8
+Pose Estimation#COCO test-dev#APL#76.8
+Pose Estimation#COCO test-dev#APM#66.3
+Pose Estimation#COCO test-dev#AR#77.7
+Pose Estimation#COCO test-dev#AP#68.8
+Pose Estimation#COCO test-dev#AP50#90.5
+Pose Estimation#COCO test-dev#AP75#76.5
+Pose Estimation#COCO test-dev#APL#76
+Pose Estimation#COCO test-dev#APM#64.3
+Pose Estimation#COCO test-dev#AR#76.3
+Pose Estimation#COCO test-dev#AP#63.8
+Pose Estimation#COCO test-dev#AP50#88.4
+Pose Estimation#COCO test-dev#AP75#70.4
+Pose Estimation#COCO test-dev#APL#71.7
+Pose Estimation#COCO test-dev#APM#58.6
+Pose Estimation#COCO test-dev#AR#71.2

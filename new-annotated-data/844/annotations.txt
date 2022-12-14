@@ -1,0 +1,10 @@
+3D Human Pose Estimation#3DPW#PA-MPJPE#45.6
+3D Human Pose Estimation#3DPW#MPJPE#74.7
+3D Human Pose Estimation#3DPW#MPVPE#87.7
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#51.2
+3D Human Pose Estimation#Human3.6M#Multi-View or Monocular#Monocular
+3D Human Pose Estimation#Human3.6M#PA-MPJPE#34.5
+3D Hand Pose Estimation#FreiHAND#PA-MPVPE#5.9
+3D Hand Pose Estimation#FreiHAND#PA-MPJPE#6
+3D Hand Pose Estimation#FreiHAND#PA-F@5mm#76.4
+3D Hand Pose Estimation#FreiHAND#PA-F@15mm#98.6

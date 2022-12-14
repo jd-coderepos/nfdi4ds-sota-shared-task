@@ -1,0 +1,3 @@
+Object Detection#FlickrLogos-32#MAP#74.4
+Object Detection#FlickrLogos-32#MAP#73.5
+Image Classification#FlickrLogos-32#Accuracy#89.6

@@ -1,0 +1,8 @@
+6D Pose Estimation using RGBD#YCB-Video#ADD(S) AUC#96.6
+6D Pose Estimation using RGBD#YCB-Video#ADDS AUC#96.6
+6D Pose Estimation using RGBD#YCB-Video#ADD(S) AUC#95.9
+6D Pose Estimation using RGBD#YCB-Video#ADDS AUC#97.2
+6D Pose Estimation using RGBD#LineMOD#Mean ADD#99.7
+6D Pose Estimation using RGBD#LineMOD#Mean ADD#99.4
+6D Pose Estimation using RGBD#OccludedLINEMOD#Mean ADD#71.1
+6D Pose Estimation using RGBD#OccludedLINEMOD#Mean ADD#70.2

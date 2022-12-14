@@ -1,0 +1,11 @@
+Anomaly Detection#Vehicle Claims#AUC#98.65
+Anomaly Detection#Vehicle Claims#AUC#95.88
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#65.43
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#59.42
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#58.59
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#57.03
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#55.38
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#53.82
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#52.86
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#51.68
+Unsupervised Anomaly Detection#Vehicle Claims#AUC#51.22

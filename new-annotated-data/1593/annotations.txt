@@ -1,0 +1,20 @@
+Video Object Segmentation#DAVIS 2017#AUC-J&F#82.5
+Object Detection#DAVIS 2016#AUC-J&F#89.8
+Image Classification#ImageNet#Top 1 Accuracy#83.6%
+Image Classification#ImageNet#Number of params#48.5M
+Image Classification#ImageNet#GFLOPs#27.6
+Image Classification#ImageNet#Top 1 Accuracy#82.2%
+Image Classification#ImageNet#Number of params#19.2M
+Image Classification#ImageNet#GFLOPs#12.0
+Image Classification#ImageNet#Top 1 Accuracy#81%
+Image Classification#ImageNet#Number of params#13.2M
+Image Classification#ImageNet#GFLOPs#6.8
+Image Classification#ImageNet#Top 1 Accuracy#77.9%
+Image Classification#ImageNet#Number of params#6.5M
+Image Classification#ImageNet#GFLOPs#4
+Image Classification#ImageNet#Top 1 Accuracy#76.8%
+Image Classification#ImageNet#Top 5 Accuracy#93.5
+Image Classification#ImageNet#Number of params#4.8M
+Image Classification#ImageNet#GFLOPs#4.6
+Image Classification#ImageNet#Top 1 Accuracy#75.3%
+Image Classification#ImageNet#GFLOPs#3.0

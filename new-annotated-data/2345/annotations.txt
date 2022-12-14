@@ -1,0 +1,7 @@
+Natural Language Inference#QNLI#Accuracy#94.08%
+Paraphrase Identification#Quora Question Pairs#Accuracy#88.28
+Text Classification#GLUE SST2#Accuracy#94.38
+Text Classification#GLUE COLA#Accuracy#64.81
+Text Classification#GLUE MRPC#Accuracy#90.45
+Text Classification#GLUE RTE#Accuracy#79.78
+Text Classification#GLUE STSB#Accuracy#90.43

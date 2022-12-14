@@ -1,0 +1,2 @@
+Motion Detection#nuScenes#F1 (%)#92.9
+Motion Detection#nuScenes#F1 (%)#89.5

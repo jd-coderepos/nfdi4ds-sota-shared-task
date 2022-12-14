@@ -1,0 +1,10 @@
+Object Detection#COCO test-dev#box AP#61.3
+Object Detection#COCO minival#box AP#60.7
+Object Detection#COCO minival#box AP#60.1
+Instance Segmentation#COCO test-dev#mask AP#53.0
+Instance Segmentation#COCO minival#mask AP#52.5
+Instance Segmentation#COCO minival#mask AP#51.9
+Semi-Supervised Object Detection#COCO 100% labeled data#mAP#44.9
+Semi-Supervised Object Detection#COCO 5% labeled data#mAP#30.74
+Semi-Supervised Object Detection#COCO 1% labeled data#mAP#20.46
+Semi-Supervised Object Detection#COCO 10% labeled data#mAP#34.04

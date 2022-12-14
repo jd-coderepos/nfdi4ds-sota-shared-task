@@ -1,0 +1,17 @@
+Action Recognition#Something-Something V2#Top-1 Accuracy#71.4
+Action Recognition#Something-Something V2#Top-5 Accuracy#93.5
+Action Recognition#EPIC-KITCHENS-100#Action@1#49.9
+Action Recognition#EPIC-KITCHENS-100#Verb@1#69.5
+Action Recognition#EPIC-KITCHENS-100#Noun@1#61.7
+Action Classification#Kinetics-400#Acc@1#84.1
+Action Classification#Kinetics-400#Acc@5#96.1
+Action Classification#Kinetics-400#Acc@1#84.0
+Action Classification#Kinetics-400#Acc@5#96.2
+Scene Recognition#SUN-RGBD#Accuracy (%)#67.2
+Semantic Segmentation#NYU Depth v2#Mean IoU#56.8%
+Semantic Segmentation#NYU Depth v2#Mean IoU#55.1%
+Image Classification#iNaturalist 2018#Top-1 Accuracy#84.1%
+Image Classification#ImageNet#Top 1 Accuracy#86.0%
+Image Classification#ImageNet#Top 5 Accuracy#97.7%
+Image Classification#ImageNet#Top 1 Accuracy#85.3%
+Image Classification#ImageNet#Top 5 Accuracy#97.5%

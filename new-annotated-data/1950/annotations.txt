@@ -1,0 +1,18 @@
+Multi-task Language Understanding#MMLU#Humanities#29.8
+Multi-task Language Understanding#MMLU#Average (%)#33.6
+Multi-task Language Understanding#MMLU#Parameters (Billions)#20
+Multi-task Language Understanding#MMLU#STEM#34.9
+Multi-task Language Understanding#MMLU#Social Sciences#33.7
+Multi-task Language Understanding#MMLU#Other#37.7
+Multi-task Language Understanding#MMLU#Tokens (Billions)#300
+Multi-task Language Understanding#MMLU#Humanities#28.2
+Multi-task Language Understanding#MMLU#Average (%)#28.6
+Multi-task Language Understanding#MMLU#STEM#27.2
+Multi-task Language Understanding#MMLU#Social Sciences#30.8
+Multi-task Language Understanding#MMLU#Other#29.2
+Multi-task Language Understanding#MMLU#Humanities#27.8
+Multi-task Language Understanding#MMLU#Average (%)#27.3
+Multi-task Language Understanding#MMLU#Parameters (Billions)#6
+Multi-task Language Understanding#MMLU#STEM#25.7
+Multi-task Language Understanding#MMLU#Social Sciences#28.7
+Multi-task Language Understanding#MMLU#Other#28.0

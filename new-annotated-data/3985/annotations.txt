@@ -1,0 +1,3 @@
+Image Classification#CIFAR-100#Top 1 Accuracy#77.5
+Image Classification#Tiny-ImageNet#Top 1 Accuracy#64.41
+Image Classification#CIFAR-10#Top 1 Accuracy#94.74

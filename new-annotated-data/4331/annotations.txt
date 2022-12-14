@@ -1,0 +1,9 @@
+Graph Regression#ZINC-500k#MAE#0.101
+Graph Regression#ZINC 100k#MAE#0.115
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.8039 ± 0.0090
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8473 ± 0.0096
+Graph Property Prediction#ogbg-molhiv#Number of params#114211
+Graph Property Prediction#ogbg-molhiv#Ext. data#No
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7799 ± 0.0100
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8658 ± 0.0084
+Graph Property Prediction#ogbg-molhiv#Number of params#3338701

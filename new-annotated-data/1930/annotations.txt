@@ -1,0 +1,15 @@
+Zero-Shot Learning#TVQA#Accuracy#59.7
+Zero-Shot Learning#ActivityNet-QA#Accuracy#25.9
+Zero-Shot Learning#iVQA#Accuracy#0.268
+Zero-Shot Learning#How2QA#Accuracy#58.4
+Zero-Shot Learning#LSMDC#Accuracy#51.5
+Zero-Shot Learning#MSRVTT-QA#Accuracy#16.7
+Zero-Shot Learning#MSVD-QA#Accuracy#33.8
+Zero-Shot Learning#TGIF-QA#Accuracy#41.9
+Visual Question Answering#MSVD-QA#Accuracy#0.548
+Visual Question Answering#MSRVTT-QA#Accuracy#0.470
+Video Question Answering#ActivityNet-QA#Accuracy#0.432
+Video Question Answering#iVQA#Accuracy#0.396
+Video Question Answering#MSRVTT-QA#Accuracy#47.0
+Video Question Answering#How2QA#Accuracy#86.7
+Video Question Answering#TVQA#Accuracy#82

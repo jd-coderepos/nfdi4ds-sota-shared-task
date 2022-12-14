@@ -1,0 +1,8 @@
+Meta-Learning#ML45#Meta-train success rate#74.9
+Meta-Learning#ML45#Meta-test success rate (zero-shot)#18.5
+Meta-Learning#ML45#Meta-train success rate#77.2
+Meta-Learning#ML45#Meta-test success rate (zero-shot)#17.7
+Meta-Learning#ML10#Meta-train success rate#97.8%
+Meta-Learning#ML10#Meta-test success rate (zero-shot)#25
+Meta-Learning#ML10#Meta-train success rate#97.6%
+Meta-Learning#ML10#Meta-test success rate (zero-shot)#26.5

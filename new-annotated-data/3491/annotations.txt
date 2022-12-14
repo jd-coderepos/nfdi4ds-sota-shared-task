@@ -1,0 +1,7 @@
+Optical Flow Estimation#KITTI 2015 (train)#F1-all#33.7
+Optical Flow Estimation#KITTI 2015 (train)#EPE#10.35
+Dense Pixel Correspondence Estimation#HPatches#Viewpoint I AEPE#4.43
+Dense Pixel Correspondence Estimation#HPatches#Viewpoint II AEPE#11.44
+Dense Pixel Correspondence Estimation#HPatches#Viewpoint III AEPE#15.47
+Dense Pixel Correspondence Estimation#HPatches#Viewpoint IV AEPE#20.17
+Dense Pixel Correspondence Estimation#HPatches#Viewpoint V AEPE#28.30

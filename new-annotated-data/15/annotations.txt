@@ -1,0 +1,6 @@
+Deblurring#RSBlur#Average PSNR#33.37
+Deblurring#RSBlur#Average PSNR#32.73
+Deblurring#GoPro#PSNR#32.68
+Deblurring#GoPro#SSIM#0.959
+Deblurring#RealBlur-J#SSIM (sRGB)#0.921
+Deblurring#RealBlur-J#PSNR (sRGB)#32.05

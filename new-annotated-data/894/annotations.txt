@@ -1,0 +1,8 @@
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#25.6
+3D Human Pose Estimation#Human3.6M#Using 2D ground-truth joints#Yes
+3D Human Pose Estimation#Human3.6M#Multi-View or Monocular#Monocular
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#42.6
+3D Human Pose Estimation#Human3.6M#Using 2D ground-truth joints#No
+3D Human Pose Estimation#MPI-INF-3DHP#AUC#62.1
+3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#68.1
+3D Human Pose Estimation#MPI-INF-3DHP#PCK#86.9

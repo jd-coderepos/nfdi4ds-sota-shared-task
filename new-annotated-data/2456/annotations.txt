@@ -1,0 +1,5 @@
+Edge Detection#MDBD#ODS#0.887
+Edge Detection#BRIND#ODS#0.789
+Edge Detection#BRIND#Number of parameters (M)#16M
+Edge Detection#BIPED#ODS#0.890
+Edge Detection#BIPED#Number of parameters (M)#16.3M

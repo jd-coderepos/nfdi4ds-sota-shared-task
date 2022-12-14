@@ -1,0 +1,2 @@
+Multi-Person Pose Estimation#PoseTrack2018#Mean mAP#79
+Multi-Person Pose Estimation#PoseTrack2017#Mean mAP#79.2

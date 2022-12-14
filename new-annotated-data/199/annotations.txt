@@ -1,0 +1,17 @@
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#26.12
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.916
+Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#VMAF#56.86
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#Subjective score#6.136
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#ERQAv1.0#0.709
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#QRCRv1.0#0.557
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#SSIM#0.865
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#PSNR#28.377
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#FPS#0.177
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#1 - LPIPS#0.884
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#Subjective score#4.359
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#ERQAv1.0#0.643
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#QRCRv1.0#0.549
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#SSIM#0.864
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#PSNR#29.011
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#FPS#0.15
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#1 - LPIPS#0.859

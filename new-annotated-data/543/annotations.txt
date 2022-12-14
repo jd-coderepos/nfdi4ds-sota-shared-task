@@ -1,0 +1,1 @@
+Unsupervised Domain Adaptation#MSCOCO to FLIR ADAS#Accuracy (%)#91.2

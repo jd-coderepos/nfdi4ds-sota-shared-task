@@ -1,0 +1,3 @@
+3D Hand Pose Estimation#FreiHAND#PA-MPVPE#13.2
+3D Hand Pose Estimation#FreiHAND#PA-F@5mm#43.6
+3D Hand Pose Estimation#FreiHAND#PA-F@15mm#90.8

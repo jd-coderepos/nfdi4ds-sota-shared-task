@@ -1,0 +1,6 @@
+Video Visual Relation Detection#ImageNet-VidVRD#Recall@50#11.56
+Video Visual Relation Detection#ImageNet-VidVRD#Recall@100#14.13
+Video Visual Relation Detection#ImageNet-VidVRD#mAP#18.9
+Video Visual Relation Detection#VidOR#Recall@50#9.33
+Video Visual Relation Detection#VidOR#Recall@100#10.71
+Video Visual Relation Detection#VidOR#mAP#7.61

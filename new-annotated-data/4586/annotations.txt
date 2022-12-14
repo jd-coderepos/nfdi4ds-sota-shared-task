@@ -1,0 +1,4 @@
+Graph Classification#PROTEINS#Accuracy#76.40%
+Graph Classification#NCI1#Accuracy#82.72%
+Graph Classification#IMDb-B#Accuracy#71.69%
+Graph Classification#D&D#Accuracy#77.62%

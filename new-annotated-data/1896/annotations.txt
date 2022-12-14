@@ -1,0 +1,8 @@
+Long-tail Learning#ImageNet-LT#Top-1 Accuracy#76.5
+Long-tail Learning#ImageNet-LT#Top-1 Accuracy#75.7
+Long-tail Learning#ImageNet-LT#Top-1 Accuracy#70.5
+Long-tail Learning#ImageNet-LT#Top-1 Accuracy#67.2
+Long-tail Learning#Places-LT#Top-1 Accuracy#49.5
+Long-tail Learning#Places-LT#Top-1 Accuracy#49.3
+Long-tail Learning#Places-LT#Top-1 Accuracy#47.9
+Long-tail Learning#Places-LT#Top-1 Accuracy#46.5

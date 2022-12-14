@@ -1,0 +1,4 @@
+Weakly Supervised Action Localization#GTEA#mAP@0.1:0.7#36.4
+Weakly Supervised Action Localization#GTEA#mAP@0.5#28.8
+Weakly Supervised Action Localization#BEOID#mAP@0.1:0.7#34.4
+Weakly Supervised Action Localization#BEOID#mAP@0.5#20.3

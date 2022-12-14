@@ -1,0 +1,6 @@
+Person Re-Identification#MSMT17-C#Rank-1#28.77
+Person Re-Identification#MSMT17-C#mAP#7.89
+Person Re-Identification#MSMT17-C#mINP#0.05
+Person Re-Identification#Market-1501-C#Rank-1#34.13
+Person Re-Identification#Market-1501-C#mAP#11.54
+Person Re-Identification#Market-1501-C#mINP#0.29

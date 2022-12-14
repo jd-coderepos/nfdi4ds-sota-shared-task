@@ -1,0 +1,11 @@
+Document Image Classification#RVL-CDIP#Accuracy#95.93%
+Document Image Classification#RVL-CDIP#Parameters#368M
+Document Image Classification#RVL-CDIP#Accuracy#95.44%
+Document Image Classification#RVL-CDIP#Parameters#133M
+Document Layout Analysis#PubLayNet val#Text#0.945
+Document Layout Analysis#PubLayNet val#Title#0.906
+Document Layout Analysis#PubLayNet val#List#0.955
+Document Layout Analysis#PubLayNet val#Table#0.979
+Document Layout Analysis#PubLayNet val#Figure#0.970
+Document Layout Analysis#PubLayNet val#Overall#0.951
+Document AI#EPHOIE#Average F1#99.21

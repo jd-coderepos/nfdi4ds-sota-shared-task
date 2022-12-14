@@ -1,0 +1,6 @@
+Font Recognition#AdobeVFR real#Top 1 Accuracy#47.41
+Font Recognition#AdobeVFR real#Top 5 Accuracy#65.11
+Font Recognition#Explor_all#Top 1 Accuracy#86.31
+Font Recognition#Explor_all#Top 5 Accuracy#98.48
+Font Recognition#AdobeVFR syn#Top 1 Accuracy#98.23
+Font Recognition#AdobeVFR syn#Top 5 Accuracy#99.98

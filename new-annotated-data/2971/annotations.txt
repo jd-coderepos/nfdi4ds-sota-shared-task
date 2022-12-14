@@ -1,0 +1,2 @@
+Semi-Supervised Human Pose Estimation#COCO 1% labeled data#Person Keypoint AP#38.22
+Semi-Supervised Person Instance Segmentation#COCO 1% labeled data#Person Mask AP#36.06

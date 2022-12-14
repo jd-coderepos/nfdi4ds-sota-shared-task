@@ -1,0 +1,39 @@
+Object Localization#KITTI Cars Moderate#AP#84.0%
+Object Localization#KITTI Cyclists Easy#AP#75.38%
+Object Localization#KITTI Cyclists Hard#AP#54.68%
+Object Localization#KITTI Pedestrians Easy#AP#58.09%
+Object Localization#KITTI Cars Hard#AP#75.33%
+Object Localization#KITTI Pedestrians Hard#AP#47.2%
+Object Localization#KITTI Cyclists Moderate#AP#61.96%
+Object Localization#KITTI Pedestrians Moderate#AP#50.22%
+Object Localization#KITTI Cars Easy#AP#88.7%
+Object Detection#KITTI Cars Hard#AP#62.19
+3D Object Detection#KITTI Cyclists Easy#AP#71.96%
+3D Object Detection#KITTI Pedestrians Easy#AP#51.21%
+3D Object Detection#KITTI Cars Hard val#AP#62.56
+3D Object Detection#KITTI Cars Moderate#AP#70.39%
+3D Object Detection#KITTI Pedestrian Moderate val#AP#61.32
+3D Object Detection#KITTI Pedestrian Moderate val#AP#55.85
+3D Object Detection#KITTI Cyclists Moderate#AP#56.77%
+3D Object Detection#KITTI Cyclist Easy val#AP#77.15
+3D Object Detection#KITTI Cyclist Easy val#AP#74.54
+3D Object Detection#KITTI Pedestrians Moderate#AP#42.15%
+3D Object Detection#KITTI Cyclist Moderate val#AP#56.49
+3D Object Detection#KITTI Cyclist Moderate val#AP#55.95
+3D Object Detection#KITTI Cars Easy val#AP#83.26
+3D Object Detection#KITTI Cars Moderate val#AP#69.28
+3D Object Detection#KITTI Cars Easy#AP#81.2%
+3D Object Detection#KITTI Pedestrians Hard#AP#40.23%
+3D Object Detection#KITTI Cars Hard#AP#62.19%
+3D Object Detection#KITTI Pedestrian Easy val#AP#70.00
+3D Object Detection#KITTI Pedestrian Easy val#AP#65.08
+3D Object Detection#KITTI Cyclist Hard val#AP#53.37
+3D Object Detection#KITTI Cyclist Hard val#AP#52.65
+3D Object Detection#KITTI Cyclists Hard#AP#50.39%
+3D Object Detection#KITTI Pedestrian Hard val#AP#53.59
+3D Object Detection#KITTI Pedestrian Hard val#AP#49.28
+3D Object Detection#SUN-RGBD#mAP@0.25#54.0
+3D Object Detection#SUN-RGBD val#mAP@0.25#54.0
+Object Detection In Indoor Scenes#SUN RGB-D#AP 0.5#56.8
+Birds Eye View Object Detection#KITTI Cyclists Moderate#AP#61.96%
+Birds Eye View Object Detection#KITTI Pedestrians Moderate#AP#50.22%

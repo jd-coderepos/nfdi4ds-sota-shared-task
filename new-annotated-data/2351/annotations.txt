@@ -1,0 +1,2 @@
+Visual Entailment#SNLI-VE test#Accuracy#70.47
+Visual Entailment#SNLI-VE val#Accuracy#70.81

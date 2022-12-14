@@ -1,0 +1,4 @@
+Blind Docking#PDBBind#Top-1 RMSD (%<2)#23.2
+Blind Docking#PDBBind#Top-1 RMSD (Med.)#6.5
+Blind Docking#PDBBind#Top-1 RMSD (%<2)#5.5
+Blind Docking#PDBBind#Top-1 RMSD (Med.)#6.2

@@ -1,0 +1,4 @@
+AMR Parsing#LDC2017T10#Smatch#86.7
+AMR Parsing#LDC2017T10#Smatch#85.9
+AMR Parsing#LDC2020T02#Smatch#85.4
+AMR Parsing#LDC2020T02#Smatch#84.3

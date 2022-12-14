@@ -1,0 +1,2 @@
+Multi-Label Text Classification#LF-AmazonTitles-131K#Precision@1#38.4
+Multi-Label Text Classification#LF-AmzonTitles-131K#Precision@1#40.74

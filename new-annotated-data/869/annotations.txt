@@ -1,0 +1,3 @@
+3D Human Pose Estimation#3DPW#PA-MPJPE#58.3
+3D Human Pose Estimation#3DPW#MPJPE#89.7
+3D Human Pose Estimation#3DPW#MPVPE#107.1

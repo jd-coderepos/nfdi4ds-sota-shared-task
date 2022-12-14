@@ -1,0 +1,9 @@
+Point-interactive Image Colorization#CUB-200-2011#PSNR@1#27.45
+Point-interactive Image Colorization#CUB-200-2011#PSNR@10#29.32
+Point-interactive Image Colorization#CUB-200-2011#PSNR@100#31.57
+Point-interactive Image Colorization#Oxford 102 Flowers#PSNR@1#22.72
+Point-interactive Image Colorization#Oxford 102 Flowers#PSNR@10#25.13
+Point-interactive Image Colorization#Oxford 102 Flowers#PSNR@100#27.826
+Point-interactive Image Colorization#ImageNet ctest10k#PSNR@10#29.009
+Point-interactive Image Colorization#ImageNet ctest10k#PSNR@1#26.937
+Point-interactive Image Colorization#ImageNet ctest10k#PSNR@100#31.58

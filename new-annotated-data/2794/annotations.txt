@@ -1,0 +1,2 @@
+Emotion Recognition in Conversation#IEMOCAP#Weighted-F1#68.73
+Emotion Recognition in Conversation#DailyDialog#Micro-F1#59.76

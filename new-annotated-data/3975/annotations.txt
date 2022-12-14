@@ -1,0 +1,10 @@
+Image Classification#CIFAR-100#Percentage correct#81.6
+Image Classification#CIFAR-100#Percentage correct#79.99
+Image Classification#CIFAR-100#Percentage correct#73
+Image Classification#CIFAR-100#Percentage correct#72.87
+Image Classification#MNIST-rot-12k (DA)#Test Error#0.709
+Image Classification#MNIST-rot-12#Test Error#1.87
+Image Classification#CIFAR-10#Percentage correct#96.5
+Image Classification#CIFAR-10#Percentage correct#96.32
+Image Classification#CIFAR-10#Percentage correct#94.62
+Image Classification#CIFAR-10#Percentage correct#94.35

@@ -1,0 +1,20 @@
+Conditional Image Generation#CIFAR-100#Inception Score#11.22
+Conditional Image Generation#CIFAR-100#FID#10.23
+Conditional Image Generation#CIFAR-100#Inception Score#9.48
+Conditional Image Generation#CIFAR-100#FID#14
+Conditional Image Generation#CIFAR-10#Inception score#9.52
+Conditional Image Generation#CIFAR-10#FID#6.89
+Conditional Image Generation#CIFAR-10#Inception score#9
+Conditional Image Generation#CIFAR-10#FID#8.03
+Image Generation#CIFAR-10#Inception score#9.01
+Image Generation#CIFAR-10#FID#11.82
+Image Generation#CIFAR-10#Inception score#8.53
+Image Generation#CIFAR-10#FID#12.32
+Image Generation#CIFAR-100#FID#19
+Image Generation#CIFAR-100#Inception Score#8.9
+Image Generation#CIFAR-100#FID#19.08
+Image Generation#CIFAR-100#Inception Score#8.31
+Image Generation#STL-10#FID#26.32
+Image Generation#STL-10#Inception score#9.59
+Image Generation#STL-10#FID#34.72
+Image Generation#STL-10#Inception score#9.61

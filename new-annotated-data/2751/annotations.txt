@@ -1,0 +1,1 @@
+3D Part Segmentation#ShapeNet-Part#Instance Average IoU#86.0

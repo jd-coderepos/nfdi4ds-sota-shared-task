@@ -1,0 +1,6 @@
+Monocular Depth Estimation#KITTI Eigen split#absolute relative error#0.113
+Monocular Depth Estimation#KITTI Eigen split#RMSE#4.812
+Monocular Depth Estimation#KITTI Eigen split#RMSE log#0.191
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25#0.877
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^2#0.960
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^3#0.981

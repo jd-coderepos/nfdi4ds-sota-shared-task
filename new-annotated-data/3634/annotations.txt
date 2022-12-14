@@ -1,0 +1,7 @@
+Atari Games#Atari 2600 Beam Rider#Return#3025
+Atari Games#Atari 2600 Q*Bert#Return#12940
+Atari Games#Atari 2600 Seaquest#Return#2349
+Atari Games#Atari 2600 Space Invaders#Return#507
+MuJoCo Games#Walker2d#Mean#5134
+MuJoCo Games#Ant#Average Return#4362.9
+MuJoCo Games#Humanoid-v2#Return#5227.1

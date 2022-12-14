@@ -1,0 +1,14 @@
+Image Classification#CIFAR-100#Percentage correct#82.56
+Image Classification#ImageNet#Top 1 Accuracy#83.8%
+Image Classification#ImageNet#Number of params#68M
+Image Classification#ImageNet#GFLOPs#17.9
+Image Classification#ImageNet#Top 1 Accuracy#83.3%
+Image Classification#ImageNet#Number of params#38M
+Image Classification#ImageNet#GFLOPs#10.4
+Image Classification#ImageNet#Top 1 Accuracy#81.5%
+Image Classification#ImageNet#Number of params#17M
+Image Classification#ImageNet#GFLOPs#5.8
+Image Classification#CIFAR-10#Percentage correct#97.2
+Image Classification#CIFAR-10#PARAMS#90.1M
+Image Classification#CIFAR-10#Top-1 Accuracy#97.2
+Image Classification#CIFAR-10#Parameters#90.1M

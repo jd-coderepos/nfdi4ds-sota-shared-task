@@ -1,0 +1,4 @@
+Domain Generalization#PACS#Average Accuracy#82.39
+Domain Generalization#NICO Animal#Accuracy#85.23
+Domain Generalization#NICO Vehicle#Accuracy#80.12
+Image Classification#Colored-MNIST(with spurious correlation)#Accuracy#69.60

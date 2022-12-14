@@ -1,0 +1,5 @@
+Video Generation#BAIR Robot Pushing#FVD score#93.6
+Video Generation#BAIR Robot Pushing#Cond#1
+Video Generation#BAIR Robot Pushing#Pred#15
+Video Generation#BAIR Robot Pushing#Train#15
+Video Generation#BAIR Robot Pushing#Notes#Uses 100 times more fake than real samples (atypical)

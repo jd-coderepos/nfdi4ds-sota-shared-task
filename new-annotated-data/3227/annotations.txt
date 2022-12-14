@@ -1,0 +1,2 @@
+Point Cloud Registration#3DMatch (at least 30% overlapped - sample 5k interest points)#Recall ( correspondence RMSE below 0.2)#92
+Point Cloud Registration#3DLoMatch (10-30% overlap)#Recall ( correspondence RMSE below 0.2)#64.8

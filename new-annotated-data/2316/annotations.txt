@@ -1,0 +1,7 @@
+Common Sense Reasoning#CommonsenseQA#Accuracy#73.0
+Common Sense Reasoning#CommonsenseQA#Accuracy#72.3
+Common Sense Reasoning#CommonsenseQA#Accuracy#68.8
+Common Sense Reasoning#CommonsenseQA#Accuracy#60.0
+Common Sense Reasoning#CommonsenseQA#Accuracy#55.6
+Common Sense Reasoning#CommonsenseQA#Accuracy#36.6
+Common Sense Reasoning#CommonsenseQA#Accuracy#20.9

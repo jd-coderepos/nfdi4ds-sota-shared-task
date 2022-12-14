@@ -1,0 +1,2 @@
+Real-Time Object Detection#COCO#FPS (V100, b=1)#50.3
+Real-Time Object Detection#COCO#box AP#50.3

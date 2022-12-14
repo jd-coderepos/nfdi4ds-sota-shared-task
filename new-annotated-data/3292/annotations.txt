@@ -1,0 +1,1 @@
+Text-Image Retrieval#CIRR#(Recall@5+Recall_subset@1)/2#43.05

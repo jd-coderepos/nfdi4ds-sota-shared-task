@@ -1,0 +1,21 @@
+Semantic Segmentation#ADE20K#Validation mIoU#40.4
+Neural Architecture Search#ImageNet#Top-1 Error Rate#18.2
+Neural Architecture Search#ImageNet#FLOPs#726M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#18.3
+Neural Architecture Search#ImageNet#Accuracy#81.7
+Neural Architecture Search#ImageNet#FLOPs#685M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#22.8
+Neural Architecture Search#ImageNet#Accuracy#77.2
+Neural Architecture Search#ImageNet#FLOPs#215M
+Image Classification#ImageNet#Top 1 Accuracy#84.1%
+Image Classification#ImageNet#GFLOPs#2.1
+Image Classification#ImageNet#Top 1 Accuracy#82.6%
+Image Classification#ImageNet#GFLOPs#1
+Image Classification#ImageNet#Top 1 Accuracy#81.8%
+Image Classification#ImageNet#GFLOPs#0.726
+Image Classification#ImageNet#Top 1 Accuracy#81.7%
+Image Classification#ImageNet#GFLOPs#0.685
+Image Classification#ImageNet#Top 1 Accuracy#78.4%
+Image Classification#ImageNet#GFLOPs#0.280
+Image Classification#ImageNet#Top 1 Accuracy#77.2%
+Image Classification#ImageNet#GFLOPs#0.215

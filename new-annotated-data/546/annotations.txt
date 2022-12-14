@@ -1,0 +1,3 @@
+Unsupervised Domain Adaptation#PACS#Average Accuracy#90.38
+Domain Generalization#PACS#Average Accuracy#86.64
+Domain Generalization#PACS#Average Accuracy#85.11

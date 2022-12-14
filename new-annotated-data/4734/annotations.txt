@@ -1,0 +1,18 @@
+Self-Supervised Learning#DABS#Natural Images#10.1
+Self-Supervised Learning#DABS#Text#42.3
+Self-Supervised Learning#DABS#Speech#24.9
+Self-Supervised Learning#DABS#Sensors#69.8
+Self-Supervised Learning#DABS#Med. Imaging#68.1
+Self-Supervised Learning#DABS#Images & Text#57.5
+Self-Supervised Learning#DABS#Natural Images#20.9
+Self-Supervised Learning#DABS#Text#48.4
+Self-Supervised Learning#DABS#Speech#36.5
+Self-Supervised Learning#DABS#Sensors#88.7
+Self-Supervised Learning#DABS#Med. Imaging#74.5
+Self-Supervised Learning#DABS#Images & Text#54.3
+Self-Supervised Learning#DABS#Natural Images#27.9
+Self-Supervised Learning#DABS#Text#44.1
+Self-Supervised Learning#DABS#Speech#41.8
+Self-Supervised Learning#DABS#Sensors#79.5
+Self-Supervised Learning#DABS#Med. Imaging#72.4
+Self-Supervised Learning#DABS#Images & Text#48.9

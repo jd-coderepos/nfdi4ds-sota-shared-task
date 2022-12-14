@@ -1,0 +1,8 @@
+Image Classification#ImageNet#Top 1 Accuracy#86.3%
+Image Classification#ImageNet#Number of params#100M
+Image Classification#ImageNet#GFLOPs#39.2
+Image Classification#ImageNet#Top 1 Accuracy#85.6%
+Image Classification#ImageNet#GFLOPs#12.6
+Image Classification#ImageNet#Top 1 Accuracy#83.4%
+Image Classification#ImageNet#Number of params#22M
+Image Classification#ImageNet#GFLOPs#3.6

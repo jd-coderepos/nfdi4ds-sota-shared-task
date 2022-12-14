@@ -1,0 +1,6 @@
+Car Pose Estimation#ApolloCar3D#Detection Rate#91.9
+2D Human Pose Estimation#COCO-WholeBody#WB#60.4
+2D Human Pose Estimation#COCO-WholeBody#body#69.6
+2D Human Pose Estimation#COCO-WholeBody#foot#63.4
+2D Human Pose Estimation#COCO-WholeBody#face#85.0
+2D Human Pose Estimation#COCO-WholeBody#hand#52.9

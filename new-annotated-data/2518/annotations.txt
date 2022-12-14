@@ -1,0 +1,17 @@
+Semantic Segmentation#Cityscapes val#mIoU#75.32
+Image Classification#Tiny ImageNet Classification#Validation Acc#52.38%
+Image Classification#CIFAR-100#Percentage correct#70.20
+Image Classification#SVHN#Percentage error#1.86
+Image Classification#iNat2021-mini#Top 1 Accuracy#33.23
+Image Classification#EMNIST-Byclass#Accuracy#88.43
+Image Classification#ImageNet64x64#Top 1 Accuracy#60.56
+Image Classification#Caltech-256#Accuracy#54.62
+Image Classification#EMNIST-Bymerge#Accuracy#91.80
+Image Classification#STL-10#Percentage correct#70.88
+Image Classification#EMNIST-Digits#Accuracy (%)#99.80
+Image Classification#EMNIST-Balanced#Accuracy#91.06
+Image Classification#Places365-Standard#Top 1 Accuracy#49.83
+Image Classification#MNIST#Percentage error#0.25
+Image Classification#Fashion-MNIST#Percentage error#5.68
+Image Classification#EMNIST-Letters#Accuracy#95.96
+Image Classification#CIFAR-10#Percentage correct#92.97

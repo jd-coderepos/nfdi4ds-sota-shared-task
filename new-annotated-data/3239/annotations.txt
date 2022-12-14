@@ -1,0 +1,3 @@
+Image Registration#FIRE#mAUC#0.755
+Image Registration#FIRE#mAUC#0.72
+Image Registration#FIRE#mAUC#0.552

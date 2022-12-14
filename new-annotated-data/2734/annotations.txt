@@ -1,0 +1,3 @@
+Semi-Supervised Semantic Segmentation#Cityscapes 12.5% labeled#Validation mIoU#68.01%
+Semi-Supervised Semantic Segmentation#Cityscapes 100 samples labeled#Validation mIoU#62.09%
+Semi-Supervised Semantic Segmentation#Cityscapes 25% labeled#Validation mIoU#69.38%

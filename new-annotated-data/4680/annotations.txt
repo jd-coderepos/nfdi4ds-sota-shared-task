@@ -1,0 +1,4 @@
+Entity Typing#Open Entity#F1#36.9
+Entity Typing#Ontonotes v5 (English)#F1#36.9
+Entity Typing#Ontonotes v5 (English)#Precision#50.3
+Entity Typing#Ontonotes v5 (English)#Recall#29.2

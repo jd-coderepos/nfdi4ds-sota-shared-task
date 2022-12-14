@@ -1,0 +1,5 @@
+Atari Games#Atari 2600 Freeway#Score#22
+Atari Games#Atari 2600 Breakout#Score#180.6
+Atari Games#Atari 2600 Breakout#Score#161.1
+Atari Games#Atari 2600 Breakout#Score#144.4
+Atari Games#Atari 2600 Breakout#Score#91.4

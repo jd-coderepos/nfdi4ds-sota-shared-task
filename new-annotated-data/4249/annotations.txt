@@ -1,0 +1,8 @@
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#82.1%
+Self-Supervised Image Classification#ImageNet#Number of Params#307M
+Self-Supervised Image Classification#ImageNet (finetuned)#Number of Params#307M
+Self-Supervised Image Classification#ImageNet (finetuned)#Top 1 Accuracy#85.2%
+Self-Supervised Image Classification#ImageNet (finetuned)#Number of Params#85M
+Self-Supervised Image Classification#ImageNet (finetuned)#Top 1 Accuracy#84.3%
+Self-Supervised Image Classification#ImageNet (finetuned)#Number of Params#21M
+Self-Supervised Image Classification#ImageNet (finetuned)#Top 1 Accuracy#82.6%

@@ -1,0 +1,12 @@
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.4459
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.3171
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.3039
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.23
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.2143
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.1998
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.1506
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.1503
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.124
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.0957
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.087
+Knowledge Base Question Answering#QALD-9-Plus#Macro F1#0.0417

@@ -1,0 +1,4 @@
+Skeleton Based Action Recognition#Drive&Act#mean per-class accuracy#34.61
+Skeleton Based Action Recognition#TCG-dataset#Acc#85.99
+Skeleton Based Action Recognition#TCG-dataset#Jaccard Index#67.88
+Skeleton Based Action Recognition#TCG-dataset#F1-Score#80.05

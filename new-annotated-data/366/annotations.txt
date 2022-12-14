@@ -1,0 +1,11 @@
+Pedestrian Detection#CityPersons#Reasonable MR^-2#7.8
+Pedestrian Detection#CityPersons#Heavy MR^-2#26.23
+Pedestrian Detection#CityPersons#Small MR^-2#9.43
+Pedestrian Detection#CityPersons#Test Time#0.44s/img
+Pedestrian Detection#CityPersons#Reasonable MR^-2#8.7
+Pedestrian Detection#CityPersons#Heavy MR^-2#32.6
+Pedestrian Detection#CityPersons#Small MR^-2#11.3
+Pedestrian Detection#Caltech#Reasonable Miss Rate#1.71
+Pedestrian Detection#Caltech#Heavy MR^-2#20.42
+Pedestrian Detection#Caltech#Reasonable Miss Rate#2.2
+Pedestrian Detection#Caltech#Heavy MR^-2#38.7

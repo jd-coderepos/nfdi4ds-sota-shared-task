@@ -1,0 +1,16 @@
+Question Answering#BoolQ#Accuracy#87.5
+Question Answering#BoolQ#Accuracy#83.8
+Common Sense Reasoning#CommonsenseQA#Accuracy#79.2
+Natural Language Inference#RTE#Accuracy#92.8%
+Sentiment Analysis#SST-2 Binary classification#Accuracy#97.4
+Sentiment Analysis#SST-2 Binary classification#Accuracy#96.7
+Text Summarization#GigaWord#ROUGE-1#40.4
+Text Summarization#GigaWord#ROUGE-2#20.54
+Text Summarization#GigaWord#ROUGE-L#36.21
+Text Summarization#Reddit TIFU#ROUGE-1#30.3
+Text Summarization#Reddit TIFU#ROUGE-2#11.25
+Text Summarization#Reddit TIFU#ROUGE-L#24.92
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-1#44.45
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-2#21.25
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-L#41.4
+Sentence Completion#HellaSwag#Accuracy#86.4

@@ -1,0 +1,4 @@
+Recommendation Systems#Pinterest#nDCG@10#0.5550
+Recommendation Systems#Pinterest#HR@10#0.8790
+Recommendation Systems#MovieLens 1M#HR@10#0.7260
+Recommendation Systems#MovieLens 1M#nDCG@10#0.4450

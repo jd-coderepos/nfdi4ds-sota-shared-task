@@ -1,0 +1,4 @@
+Node Classification#Pubmed#Accuracy#81.92±0.13
+Node Classification#Cora#Accuracy#76.99±1.13%
+Node Classification#Citeseer#Accuracy#61.25±1.29
+Node Classification#Reddit#Accuracy#81.06±1.18%

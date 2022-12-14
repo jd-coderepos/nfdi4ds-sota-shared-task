@@ -1,0 +1,3 @@
+Movie Recommendation#MovieLens 1M#NDCG#0.33
+Movie Recommendation#MovieLens 1M#NDCG#0.32
+Movie Recommendation#MovieLens 1M#NDCG#0.27

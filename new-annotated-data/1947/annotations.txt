@@ -1,0 +1,9 @@
+Multi-task Language Understanding#MMLU#Average (%)#70.7
+Multi-task Language Understanding#MMLU#Parameters (Billions)#540
+Question Answering#StrategyQA#Accuracy#76.6
+Question Answering#StrategyQA#Accuracy#76.4
+Question Answering#StrategyQA#Accuracy#61.9
+Cross-Lingual Question Answering#TyDiQA-GoldP#EM#78.4
+Cross-Lingual Question Answering#TyDiQA-GoldP#F1#88.5
+Arithmetic Reasoning#GSM8K#Accuracy#58.5
+Arithmetic Reasoning#GSM8K#Parameters#540

@@ -1,0 +1,8 @@
+Image Classification#CIFAR-10#Percentage correct#92.2±0.1
+Image Classification#CIFAR-10#PARAMS#0.67M
+Sequential Image Classification#noise padded CIFAR-10#% Test Accuracy#69.87%
+Sequential Image Classification#Sequential CIFAR-10#Unpermuted Accuracy#80.82%
+Sequential Image Classification#Sequential MNIST#Permuted Accuracy#98.72%
+Sequential Image Classification#Sequential MNIST#Unpermuted Accuracy#99.62%
+Time Series#Speech Commands#% Test Accuracy#97.73
+Time Series#Speech Commands#% Test Accuracy (Raw Data)#91.73

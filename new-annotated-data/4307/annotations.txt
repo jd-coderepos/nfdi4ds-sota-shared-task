@@ -1,0 +1,8 @@
+Out-of-Distribution Detection#CIFAR-10#FPR95#9.50
+Out-of-Distribution Detection#CIFAR-10#AUROC#97.8
+Out-of-Distribution Detection#CIFAR-10#FPR95#34.94
+Out-of-Distribution Detection#CIFAR-100#FPR95#38.50
+Out-of-Distribution Detection#CIFAR-100#FPR95#62.66
+Out-of-Distribution Detection#CIFAR-100 vs SVHN#AUROC#86.9
+Out-of-Distribution Detection#CIFAR-10 vs CIFAR-100#AUPR#76.2
+Out-of-Distribution Detection#CIFAR-10 vs CIFAR-100#AUROC#93.3

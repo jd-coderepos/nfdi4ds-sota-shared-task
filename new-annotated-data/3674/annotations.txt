@@ -1,0 +1,4 @@
+Session-Based Recommendations#Diginetica#MRR@20#8
+Session-Based Recommendations#Diginetica#Hit@20#29.45
+Session-Based Recommendations#yoochoose1/64#MRR@20#22.89
+Session-Based Recommendations#yoochoose1/64#HR@20#60.64

@@ -1,0 +1,27 @@
+Fraud Detection#Yelp-Fraud#AUC-ROC#90.04
+Node Classification#Deezer Europe#1:1 Accuracy#67.22±0.90
+Node Classification#Deezer Europe#1:1 Accuracy#67.21±0.56
+Node Classification#Deezer Europe#1:1 Accuracy#66.90±0.50
+Node Classification#Deezer Europe#1:1 Accuracy#66.80±0.58
+Node Classification#Deezer Europe#1:1 Accuracy#66.55±0.72
+Node Classification#Deezer Europe#1:1 Accuracy#64.60±0.57
+Node Classification#Deezer Europe#1:1 Accuracy#64.52±0.62
+Node Classification#Deezer Europe#1:1 Accuracy#62.23±0.53
+Node Classification#Deezer Europe#1:1 Accuracy#61.56±0.51
+Node Classification#Deezer Europe#1:1 Accuracy#61.09±0.77
+Node Classification#Deezer Europe#1:1 Accuracy#60.99±0.14
+Node Classification#Deezer Europe#1:1 Accuracy#59.73±0.12
+Node Classification#Deezer Europe#1:1 Accuracy#59.66±0.92
+Node Classification#Deezer Europe#1:1 Accuracy#57.71±0.36
+Node Classification#Deezer Europe#1:1 Accuracy#56.96±0.26
+Node Classification#Deezer Europe#1:1 Accuracy#56.50±0.41
+Node Classification#Yelp-Fraud#AUC-ROC#90.04
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#93.87 ± 3.33
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#69.50 ± 3.12
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#62.50 ± 15.75
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#66.55±0.72
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#60.99±0.14
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#59.66±0.92
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#57.71±0.36
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#56.96±0.26
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#56.50±0.41

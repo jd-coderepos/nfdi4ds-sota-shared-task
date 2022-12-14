@@ -1,0 +1,6 @@
+Semantic Parsing#WikiTableQuestions#Accuracy (Dev)#57.0
+Semantic Parsing#WikiTableQuestions#Accuracy (Test)#57.5
+Semantic Parsing#SQA#Denotation Accuracy#74.5
+Semantic Parsing#WikiSQL#Denotation accuracy (test)#89.5
+Table-based Fact Verification#TabFact#Test#84.2
+Table-based Fact Verification#TabFact#Val#84.6

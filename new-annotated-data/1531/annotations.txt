@@ -1,0 +1,2 @@
+3D Semantic Segmentation#PartNet#mIOU#60.8
+3D Point Cloud Linear Classification#ModelNet40#Overall Accuracy#90.3

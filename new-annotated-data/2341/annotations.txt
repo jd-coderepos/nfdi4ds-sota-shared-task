@@ -1,0 +1,2 @@
+Natural Language Inference#SNLI#% Test Accuracy#86.0
+Sentiment Analysis#SST-5 Fine-grained classification#Accuracy#53.0

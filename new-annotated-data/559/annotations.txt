@@ -1,0 +1,26 @@
+Domain Generalization#ImageNet-A#Top-1 accuracy %#76.7
+Domain Generalization#ImageNet-R#Top-1 Error Rate#33.5
+Domain Generalization#ImageNet-Sketch#Top-1 accuracy#50.9
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#33.8
+Domain Generalization#ImageNet-C#Number of params#632M
+Semantic Segmentation#ADE20K#Validation mIoU#53.6
+Semantic Segmentation#ADE20K#Validation mIoU#48.1
+Object Detection#COCO minival#box AP#53.3
+Object Detection#COCO minival#box AP#50.3
+Image Classification#Places205#Top 1 Accuracy#66.8
+Image Classification#iNaturalist 2018#Top-1 Accuracy#86.8%
+Image Classification#ImageNet#Top 1 Accuracy#87.8%
+Image Classification#ImageNet#Number of params#656M
+Image Classification#ImageNet#Top 1 Accuracy#86.9%
+Image Classification#ImageNet#Top 1 Accuracy#85.9%
+Image Classification#ImageNet#Top 1 Accuracy#83.6%
+Image Classification#iNaturalist 2019#Top-1 Accuracy#88.3
+Image Classification#OmniBenchmark#Average Top-1 Accuracy#30.6
+Image Classification#iNaturalist#Top 1 Accuracy#83.4
+Image Classification#Places365-Standard#Top 1 Accuracy#60.3
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#76.6%
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#75.8%
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#68.0%
+Self-Supervised Image Classification#ImageNet (finetuned)#Number of Params#632M
+Self-Supervised Image Classification#ImageNet (finetuned)#Top 1 Accuracy#87.8%
+Self-Supervised Image Classification#ImageNet (finetuned)#Top 1 Accuracy#86.9%

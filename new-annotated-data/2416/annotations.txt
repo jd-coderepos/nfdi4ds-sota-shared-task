@@ -1,0 +1,79 @@
+Drug Discovery#Lipophilicity(scaffold)#RMSE#0.799
+Drug Discovery#ToxCast(scaffold)#AUC#0.678
+Drug Discovery#BACE(scaffold)#AUC#0.797
+Document Classification#Cora#Accuracy#81.5%
+Graph Regression#Tox21#AUC@80%Train#0.75
+Graph Regression#PCQM4Mv2-LSC#Validation MAE#0.1379
+Graph Regression#PCQM4Mv2-LSC#Test MAE#0.1398
+Node Classification#Flickr#Accuracy#0.546
+Node Classification#Flickr#Accuracy#0.479
+Node Classification#Pubmed#Accuracy#79.0
+Node Classification#Wiki-Vote#Accuracy#49.5
+Node Classification#Wiki-Vote#Accuracy#32.9
+Node Classification#USA Air-Traffic#Accuracy#43.2
+Node Classification#Facebook#Accuracy#64.6
+Node Classification#Facebook#Accuracy#57.5
+Node Classification#Cora#Accuracy#83.0%
+Node Classification#Brazil Air-Traffic#Accuracy#0.516
+Node Classification#Brazil Air-Traffic#Accuracy#0.432
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#68.7
+Node Classification#Citeseer#Accuracy#70.3
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#80.5%
+Node Classification#NELL#Accuracy#66.0
+Node Classification#Europe Air-Traffic#Accuracy#46.0
+Node Classification#Europe Air-Traffic#Accuracy#37.1
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#77.8%
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#82.46 ± 3.11
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#75.5 ± 2.92
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#83.11 ± 3.2
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#62.23±0.53
+Link Property Prediction#ogbl-ppa#Test Hits@100#0.1867 ± 0.0132
+Link Property Prediction#ogbl-ppa#Validation Hits@100#0.1845 ± 0.0140
+Link Property Prediction#ogbl-ppa#Number of params#278529
+Link Property Prediction#ogbl-ppa#Ext. data#No
+Link Property Prediction#ogbl-citation2#Test MRR#0.8474 ± 0.0021
+Link Property Prediction#ogbl-citation2#Validation MRR#0.8479 ± 0.0023
+Link Property Prediction#ogbl-citation2#Number of params#296449
+Link Property Prediction#ogbl-citation2#Ext. data#No
+Link Property Prediction#ogbl-ddi#Test Hits@20#0.6056 ± 0.0869
+Link Property Prediction#ogbl-ddi#Validation Hits@20#0.6776 ± 0.0095
+Link Property Prediction#ogbl-ddi#Number of params#1421571
+Link Property Prediction#ogbl-ddi#Ext. data#No
+Link Property Prediction#ogbl-ddi#Test Hits@20#0.3707 ± 0.0507
+Link Property Prediction#ogbl-ddi#Validation Hits@20#0.5550 ± 0.0208
+Link Property Prediction#ogbl-ddi#Number of params#1289985
+Link Property Prediction#ogbl-collab#Test Hits@50#0.4714 ± 0.0145
+Link Property Prediction#ogbl-collab#Validation Hits@50#0.5263 ± 0.0115
+Link Property Prediction#ogbl-collab#Number of params#296449
+Link Property Prediction#ogbl-collab#Ext. data#No
+Link Property Prediction#ogbl-collab#Test Hits@50#0.4475 ± 0.0107
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.6857 ± 0.0061
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.6511 ± 0.0048
+Graph Property Prediction#ogbg-ppa#Number of params#1930537
+Graph Property Prediction#ogbg-ppa#Ext. data#No
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.6839 ± 0.0084
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.6497 ± 0.0034
+Graph Property Prediction#ogbg-ppa#Number of params#479437
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2424 ± 0.0034
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2495 ± 0.0042
+Graph Property Prediction#ogbg-molpcba#Number of params#2017028
+Graph Property Prediction#ogbg-molpcba#Ext. data#No
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2020 ± 0.0024
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2059 ± 0.0033
+Graph Property Prediction#ogbg-molpcba#Number of params#565928
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7606 ± 0.0097
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8204 ± 0.0141
+Graph Property Prediction#ogbg-molhiv#Number of params#527701
+Graph Property Prediction#ogbg-molhiv#Ext. data#No
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7599 ± 0.0119
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8384 ± 0.0091
+Graph Property Prediction#ogbg-molhiv#Number of params#1978801
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7549 ± 0.0163
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8042 ± 0.0107
+Graph Property Prediction#ogbg-code2#Test F1 score#0.1595 ± 0.0018
+Graph Property Prediction#ogbg-code2#Validation F1 score#0.1461 ± 0.0013
+Graph Property Prediction#ogbg-code2#Number of params#12484310
+Graph Property Prediction#ogbg-code2#Ext. data#No
+Graph Property Prediction#ogbg-code2#Test F1 score#0.1507 ± 0.0018
+Graph Property Prediction#ogbg-code2#Validation F1 score#0.1399 ± 0.0017
+Graph Property Prediction#ogbg-code2#Number of params#11033210

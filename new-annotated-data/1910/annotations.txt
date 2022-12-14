@@ -1,0 +1,4 @@
+Few-Shot Semantic Segmentation#COCO-20i (5-shot)#Mean IoU#56.80
+Few-Shot Semantic Segmentation#PASCAL-5i (1-Shot)#Mean IoU#69.13
+Few-Shot Semantic Segmentation#PASCAL-5i (5-Shot)#Mean IoU#73.99
+Few-Shot Semantic Segmentation#COCO-20i (1-shot)#Mean IoU#51.09

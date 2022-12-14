@@ -1,0 +1,4 @@
+Semantic Similarity#SICK#MSE#0.3053
+Semantic Similarity#SICK#Pearson Correlation#0.8381
+Semantic Similarity#SICK#Spearman Correlation#0.7621
+Sentiment Analysis#IMDb#Accuracy#88.3

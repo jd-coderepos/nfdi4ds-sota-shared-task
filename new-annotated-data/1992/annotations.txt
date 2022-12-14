@@ -1,0 +1,6 @@
+Question Answering#CNN / Daily Mail#CNN#77.6
+Question Answering#CNN / Daily Mail#Daily Mail#79.2
+Question Answering#CNN / Daily Mail#CNN#72.4
+Question Answering#CNN / Daily Mail#Daily Mail#75.8
+Question Answering#CNN / Daily Mail#CNN#67.9
+Question Answering#CNN / Daily Mail#Daily Mail#68.3

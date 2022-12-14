@@ -1,0 +1,2 @@
+Cell Segmentation#Fluo-C3DL-MDA231#SEG (~Mean IoU)#0.616
+Cell Segmentation#Fluo-N2DL-HeLa#SEG (~Mean IoU)#0.895

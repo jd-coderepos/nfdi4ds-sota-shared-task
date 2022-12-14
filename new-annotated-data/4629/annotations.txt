@@ -1,0 +1,5 @@
+Node Classification#PPI#F1#97.37
+Node Classification#Reddit#Accuracy#94.5 ± .0024
+Link Property Prediction#ogbl-collab#Test Hits@50#0.4673 ± 0.0164 .
+Link Property Prediction#ogbl-collab#Test Hits@50#0.4316 ± 0.0134
+Link Property Prediction#ogbl-collab#Test Hits@50#0.4102 ± 0.0099

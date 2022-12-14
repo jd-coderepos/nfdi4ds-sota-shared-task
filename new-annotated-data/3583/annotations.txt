@@ -1,0 +1,5 @@
+Text Summarization#Gazeta#ROUGE-1#32.1
+Text Summarization#Gazeta#ROUGE-2#14.2
+Text Summarization#Gazeta#ROUGE-L#27.9
+Text Summarization#Gazeta#BLEU#12.4
+Text Summarization#Gazeta#Meteor#25.7

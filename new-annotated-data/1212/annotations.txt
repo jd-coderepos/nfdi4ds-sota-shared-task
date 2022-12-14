@@ -1,0 +1,6 @@
+Image Generation#CIFAR-10#bits/dimension#2.77
+Image Generation#CIFAR-10#bits/dimension#2.885
+Image Generation#ImageNet 64x64#Bits per dim#3.42
+Image Generation#ImageNet 64x64#Bits per dim#3.504
+Language Modelling#Wiki-40B#Perplexity#16.49
+Language Modelling#Wiki-40B#Perplexity#16.60

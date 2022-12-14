@@ -1,0 +1,6 @@
+Scene Text Recognition#SVTP#Accuracy#90.6
+Scene Text Recognition#IIIT5k#Accuracy#96.6
+Scene Text Recognition#ICDAR2015#Accuracy#86.6
+Scene Text Recognition#CUTE80#Accuracy#93.5
+Scene Text Recognition#SVT#Accuracy#95
+Scene Text Recognition#ICDAR2013#Accuracy#97.9

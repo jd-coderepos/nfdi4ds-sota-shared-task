@@ -1,0 +1,3 @@
+3D Point Cloud Classification#ScanObjectNN#Overall Accuracy#85.2
+3D Point Cloud Classification#ModelNet40#Overall Accuracy#94.0
+Point Cloud Segmentation#PointCloud-C#mean Corruption Error (mCE)#0.927

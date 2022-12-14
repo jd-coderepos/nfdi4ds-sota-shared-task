@@ -1,0 +1,10 @@
+Anomaly Detection#Fishyscapes L&F#AP#34.28
+Anomaly Detection#Fishyscapes L&F#FPR95#47.43
+Anomaly Detection#Fishyscapes L&F#AP#10.29
+Anomaly Detection#Fishyscapes L&F#FPR95#22.11
+Anomaly Detection#Fishyscapes L&F#AP#9.8
+Anomaly Detection#Fishyscapes L&F#FPR95#38.5
+Anomaly Detection#Fishyscapes L&F#AP#4.7
+Anomaly Detection#Fishyscapes L&F#FPR95#24.4
+Anomaly Detection#Fishyscapes L&F#AP#2.9
+Anomaly Detection#Fishyscapes L&F#FPR95#44.8

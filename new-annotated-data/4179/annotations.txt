@@ -1,0 +1,3 @@
+Knowledge Distillation#ImageNet#Top-1 accuracy %#77.14
+Knowledge Distillation#ImageNet#model size#99M
+Knowledge Distillation#ImageNet#Top-1 accuracy %#70.66

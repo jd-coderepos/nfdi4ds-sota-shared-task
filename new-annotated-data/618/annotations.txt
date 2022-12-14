@@ -1,0 +1,2 @@
+Domain Generalization#NICO Animal#Accuracy#80.27
+Domain Generalization#NICO Vehicle#Accuracy#71.64

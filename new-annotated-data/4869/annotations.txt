@@ -1,0 +1,2 @@
+Video Instance Segmentation#YouTube-VIS validation#mask AP#27.8
+Video Instance Segmentation#YouTube-VIS validation#AP50#31.3

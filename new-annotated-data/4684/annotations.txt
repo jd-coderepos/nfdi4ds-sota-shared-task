@@ -1,0 +1,8 @@
+Entity Disambiguation#ACE2004#Micro-F1#93.4
+Entity Disambiguation#MSNBC#Micro-F1#94.8
+Entity Disambiguation#AIDA-CoNLL#In-KB Accuracy#90.4
+Entity Disambiguation#AQUAINT#Micro-F1#92.6
+Entity Disambiguation#WNED-CWEB#Micro-F1#78.2
+Entity Disambiguation#WNED-WIKI#Micro-F1#90.4
+Entity Disambiguation#ShadowLink-Top#Micro-F1#64.2
+Entity Disambiguation#ShadowLink-Shadow#Micro-F1#47.6

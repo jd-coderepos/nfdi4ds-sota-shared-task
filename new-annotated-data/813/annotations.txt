@@ -1,0 +1,4 @@
+Person Search#PRW#mAP#51.6
+Person Search#PRW#Top-1#84.4
+Person Search#CUHK-SYSU#MAP#95.4
+Person Search#CUHK-SYSU#Top-1#96.0

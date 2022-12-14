@@ -1,0 +1,9 @@
+3D Human Pose Estimation#3DPW#PA-MPJPE#50.4
+3D Human Pose Estimation#3DPW#MPJPE#85.8
+3D Human Pose Estimation#3DPW#MPVPE#100.6
+3D Human Pose Estimation#3DPW#Acceleration Error#77.9
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#58.9
+3D Human Pose Estimation#Human3.6M#PA-MPJPE#38.7
+3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#94.3
+3D Human Pose Estimation#MPI-INF-3DHP#PA-MPJPE#60.7
+3D Human Pose Estimation#MPI-INF-3DHP#PCK#90.1

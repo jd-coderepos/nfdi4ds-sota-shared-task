@@ -1,0 +1,1 @@
+Semantic Segmentation#COCO Visual Question Answering (VQA) real images 1.0 multiple choice#FID#7.55

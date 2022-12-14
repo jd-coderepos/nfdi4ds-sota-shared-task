@@ -1,0 +1,5 @@
+3D Part Segmentation#ShapeNet-Part#Instance Average IoU#86.9
+3D Part Segmentation#ShapeNet-Part#Instance Average IoU#86.6
+3D Point Cloud Classification#ScanObjectNN#Overall Accuracy#84.7
+3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.8
+3D Point Cloud Classification#ModelNet40#Mean class accuracy#91.2

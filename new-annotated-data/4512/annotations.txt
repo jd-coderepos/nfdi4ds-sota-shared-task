@@ -1,0 +1,3 @@
+Image Matting#P3M-10k#SAD#8.73
+Image Matting#P3M-10k#MSE#0.0026
+Image Matting#P3M-10k#MAD#0.0051

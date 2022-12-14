@@ -1,0 +1,3 @@
+Visual Reasoning#VSR#accuracy#72.5
+Visual Reasoning#VSR#accuracy#71.0
+Visual Reasoning#VSR#accuracy#57.4

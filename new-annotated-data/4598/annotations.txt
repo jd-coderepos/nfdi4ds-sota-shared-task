@@ -1,0 +1,47 @@
+Node Classification#Amazon Computers#Accuracy#89.49%
+Node Classification#Amazon Computers#Accuracy#89.44%
+Node Classification#Amazon Computers#Accuracy#89.42%
+Node Classification#Amazon Computers#Accuracy#88.85%
+Node Classification#Pubmed#Accuracy#89.58%
+Node Classification#Pubmed#Accuracy#89.53%
+Node Classification#Pubmed#Accuracy#88.86%
+Node Classification#Pubmed#Accuracy#88.79%
+Node Classification#Coauthor Physics#Accuracy#97.05%
+Node Classification#Coauthor Physics#Accuracy#96.91%
+Node Classification#Coauthor Physics#Accuracy#96.87%
+Node Classification#Cora Full with Public Split#Accuracy#57.05%
+Node Classification#Cora Full with Public Split#Accuracy#55.87%
+Node Classification#Cora Full with Public Split#Accuracy#53.43%
+Node Classification#Cora Full with Public Split#Accuracy#51.78%
+Node Classification#Cora#Accuracy#88.24%
+Node Classification#Cora#Accuracy#87.89%
+Node Classification#Cora#Accuracy#87.58%
+Node Classification#Cora#Accuracy#87.54%
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#70.96%
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#70.79%
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#70.27%
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#70.26%
+Node Classification#Citeseer#Accuracy#75.79%
+Node Classification#Citeseer#Accuracy#75.77%
+Node Classification#Citeseer#Accuracy#75.25%
+Node Classification#Citeseer#Accuracy#74.72%
+Node Classification#Cora Full#Accuracy#70.32%
+Node Classification#Cora Full#Accuracy#69.87%
+Node Classification#Cora Full#Accuracy#69.83%
+Node Classification#Cora Full#Accuracy#69.53%
+Node Classification#Coauthor CS#Accuracy#95.80%
+Node Classification#Coauthor CS#Accuracy#95.74%
+Node Classification#Coauthor CS#Accuracy#95.68%
+Node Classification#Coauthor CS#Accuracy#95.66%
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#81.39%
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#81.19%
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#81.05%
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#80.79%
+Node Classification#Amazon Photo#Accuracy#94.36%
+Node Classification#Amazon Photo#Accuracy#94.12%
+Node Classification#Amazon Photo#Accuracy#93.83%
+Node Classification#Amazon Photo#Accuracy#93.75%
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#75.64%
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#75.41%
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#74.06%
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#72.41%

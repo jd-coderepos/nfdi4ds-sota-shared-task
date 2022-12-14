@@ -1,0 +1,4 @@
+Continual Learning#Cifar100 (20 tasks) - 1 epoch#Average Accuracy#62.79
+Continual Learning#mini-Imagenet (20 tasks) - 1 epoch#Accuracy#57.2
+Continual Learning#CUB-200-2011 (20 tasks) - 1 epoch#Accuracy#61.58
+Continual Learning#5-dataset - 1 epoch#Accuracy#62.59

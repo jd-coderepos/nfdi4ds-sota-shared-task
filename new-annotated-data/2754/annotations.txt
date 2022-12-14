@@ -1,0 +1,2 @@
+3D Part Segmentation#ShapeNet-Part#Instance Average IoU#84.6
+3D Instance Segmentation#ScanNet(v2)#mAP @ 50#31.9

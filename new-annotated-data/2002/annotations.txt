@@ -1,0 +1,32 @@
+Question Answering#TruthfulQA#% true#53.86
+Question Answering#TruthfulQA#% info#64.50
+Question Answering#TruthfulQA#% true (GPT-judge)#53.24
+Question Answering#TruthfulQA#BLEURT#0.08
+Question Answering#TruthfulQA#ROUGE#1.76
+Question Answering#TruthfulQA#BLEU#-0.16
+Question Answering#TruthfulQA#MC1#0.19
+Question Answering#TruthfulQA#MC2#0.35
+Question Answering#TruthfulQA#% true#29.50
+Question Answering#TruthfulQA#% info#89.84
+Question Answering#TruthfulQA#% true (GPT-judge)#29.87
+Question Answering#TruthfulQA#BLEURT#-0.25
+Question Answering#TruthfulQA#ROUGE#-9.41
+Question Answering#TruthfulQA#BLEU#-4.91
+Question Answering#TruthfulQA#MC1#0.22
+Question Answering#TruthfulQA#MC2#0.39
+Question Answering#TruthfulQA#% true#26.68
+Question Answering#TruthfulQA#% info#89.96
+Question Answering#TruthfulQA#% true (GPT-judge)#27.17
+Question Answering#TruthfulQA#BLEURT#-0.31
+Question Answering#TruthfulQA#ROUGE#-11.35
+Question Answering#TruthfulQA#BLEU#-7.58
+Question Answering#TruthfulQA#MC1#0.20
+Question Answering#TruthfulQA#MC2#0.36
+Question Answering#TruthfulQA#% true#20.44
+Question Answering#TruthfulQA#% info#97.55
+Question Answering#TruthfulQA#% true (GPT-judge)#20.56
+Question Answering#TruthfulQA#BLEURT#-0.56
+Question Answering#TruthfulQA#ROUGE#-17.75
+Question Answering#TruthfulQA#BLEU#-17.38
+Question Answering#TruthfulQA#MC1#0.21
+Question Answering#TruthfulQA#MC2#0.33

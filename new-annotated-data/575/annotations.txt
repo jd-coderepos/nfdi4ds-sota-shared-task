@@ -1,0 +1,8 @@
+Domain Generalization#ImageNet-R#Top-1 Error Rate#53.7
+Domain Generalization#ImageNet-R#Top-1 Error Rate#57.1
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#51.3
+Domain Generalization#ImageNet-C#Top 1 Accuracy#59.9
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#55.5
+Domain Generalization#ImageNet-C#Top 1 Accuracy#56.4
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#57.5
+Domain Generalization#ImageNet-C#Top 1 Accuracy#55.0

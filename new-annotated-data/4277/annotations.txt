@@ -1,0 +1,1 @@
+Sequential Image Classification#Sequential MNIST#Permuted Accuracy#98.3%

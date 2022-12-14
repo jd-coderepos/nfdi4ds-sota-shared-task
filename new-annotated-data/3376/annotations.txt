@@ -1,0 +1,7 @@
+Type prediction#ManyTypes4TypeScript#Average Accuracy#61.29
+Type prediction#ManyTypes4TypeScript#Average Precision#58.81
+Type prediction#ManyTypes4TypeScript#Average Recall#58.91
+Type prediction#ManyTypes4TypeScript#Average F1#58.86
+Type prediction#ManyTypes4TypeScript#Average Accuracy#61.00
+Type prediction#ManyTypes4TypeScript#Average Precision#58.36
+Type prediction#ManyTypes4TypeScript#Average F1#58.63

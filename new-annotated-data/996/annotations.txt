@@ -1,0 +1,10 @@
+Conditional Image Generation#ImageNet 128x128#FID#9.5
+Conditional Image Generation#ImageNet 128x128#Inception score#108.6
+Conditional Image Generation#ImageNet 64x64#FID#6.7
+Conditional Image Generation#ImageNet 64x64#Inception score#45.9±0.3
+Conditional Image Generation#ImageNet 64x64#FID#10.2±0.1
+Conditional Image Generation#ImageNet 64x64#Inception score#30.1±0.1
+Conditional Image Generation#ImageNet 256x256#FID#8.1
+Conditional Image Generation#ImageNet 256x256#Inception score#144.2
+Conditional Image Generation#ImageNet 256x256#FID#8.2±0.1
+Conditional Image Generation#ImageNet 256x256#Inception score#173.8±0.9

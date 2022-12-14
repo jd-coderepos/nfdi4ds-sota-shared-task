@@ -1,0 +1,2 @@
+Ensemble Learning#SMS Spam Collection Data Set#Accuracy#0.9838
+Spam detection#SMS Spam Collection Data Set#Accuracy (%)#98.39

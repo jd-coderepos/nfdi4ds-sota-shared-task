@@ -1,0 +1,2 @@
+Object Detection#UAVDT#mAP#53.76
+Object Detection#UA-DETRAC#mAP#88.10

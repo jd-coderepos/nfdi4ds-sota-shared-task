@@ -1,0 +1,3 @@
+Hand Gesture Recognition#DHG-14#Accuracy#85.46
+Hand Gesture Recognition#DHG-14#Accuracy#85.36
+Hand Gesture Recognition#DHG-14#Accuracy#81.86

@@ -1,0 +1,1 @@
+3D Point Cloud Classification#IntrA#F1 score (5-fold)#0.872

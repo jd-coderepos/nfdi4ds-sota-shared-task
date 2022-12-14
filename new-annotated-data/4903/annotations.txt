@@ -1,0 +1,4 @@
+Camera shot boundary detection#MSU Shot Boundary Detection Benchmark#F score#0.7534
+Camera shot boundary detection#MSU Shot Boundary Detection Benchmark#FPS#86
+Camera shot boundary detection#MSU Shot Boundary Detection Benchmark#F score#0.7349
+Camera shot boundary detection#ClipShots#F1 score#75.9

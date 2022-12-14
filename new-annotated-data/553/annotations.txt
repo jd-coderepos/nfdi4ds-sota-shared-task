@@ -1,0 +1,5 @@
+Domain Generalization#Office-Home#Average Accuracy#79.9
+Domain Generalization#DomainNet#Average Accuracy#51.6
+Domain Generalization#PACS#Average Accuracy#94.6
+Domain Generalization#TerraIncognita#Average Accuracy#55.7
+Domain Generalization#VLCS#Average Accuracy#82.2

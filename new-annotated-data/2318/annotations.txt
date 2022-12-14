@@ -1,0 +1,11 @@
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#With Audio (Acc %)#96.3 ± 2.1
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#Without Audio (Acc %)#90.5 ± 3.1
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#With Audio (Acc %)#70.1 ± 1.0
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#Without Audio (Acc %)#68.4 ± 0.7
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#With Audio (Acc %)#60.0 ± 0.9
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#Without Audio (Acc %)#56.3 ± 0.7
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#With Audio (Acc %)#55.0 ± 1.1
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#Without Audio (Acc %)#52.5 ± 1.6
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#With Audio (Acc %)#50.4
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#Without Audio (Acc %)#50.4
+Physical Commonsense Reasoning#Physical Audiovisual CommonSense#Without Audio (Acc %)#60.6 ± 2.2

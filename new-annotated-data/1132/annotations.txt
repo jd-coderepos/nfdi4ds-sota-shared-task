@@ -1,0 +1,10 @@
+Medical Image Segmentation#MoNuSeg#F1#81.01
+Medical Image Segmentation#MoNuSeg#IoU#68.2
+Medical Image Segmentation#MoNuSeg#F1#80.66
+Medical Image Segmentation#MoNuSeg#IoU#67.71
+Medical Image Segmentation#MoNuSeg#F1#79.87
+Medical Image Segmentation#MoNuSeg#IoU#66.68
+Medical Image Segmentation#MoNuSeg#F1#79.26
+Medical Image Segmentation#MoNuSeg#IoU#65.94
+Medical Image Segmentation#MoNuSeg#F1#77.01
+Medical Image Segmentation#MoNuSeg#IoU#63.04

@@ -1,0 +1,5 @@
+Single-View 3D Reconstruction#ShapeNet#3DIoU#0.6674
+Single-View 3D Reconstruction#ShapeNet#3DIoU#0.6464
+Single-View 3D Reconstruction#ShapeNet#3DIoU#0.6234
+Single-View 3D Reconstruction#ShapeNet#3DIoU#0.612
+Single-View 3D Reconstruction#ShapeNet#3DIoU#0.6015

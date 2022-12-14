@@ -1,0 +1,15 @@
+Face Alignment#300W#NME_inter-ocular (%, Full)#4.59
+Face Alignment#300W#NME_inter-ocular (%, Common)#3.88
+Face Alignment#300W#NME_inter-ocular (%, Challenge)#7.35
+Face Alignment#300W#NME_inter-ocular (%, Full)#5.50
+Face Alignment#300W#NME_inter-ocular (%, Common)#4.82
+Face Alignment#300W#NME_inter-ocular (%, Challenge)#8.2
+Face Alignment#WFLW#NME_inter-ocular (%, all)#10.77
+Face Alignment#WFLW#NME_inter-ocular (%, all)#9.41
+Pose Estimation#300W (Full)#MAE yaw (º)#1.62
+Pose Estimation#300W (Full)#MAE pitch (º)#1.80
+Pose Estimation#300W (Full)#MAE roll (º)#1.24
+Head Pose Estimation#WFLW#MAE yaw (º)#2.97
+Head Pose Estimation#WFLW#MAE roll (º)#2.21
+Head Pose Estimation#COFW#MAE yaw (º)#2.91
+Head Pose Estimation#COFW#MAE pitch (º)#2.72

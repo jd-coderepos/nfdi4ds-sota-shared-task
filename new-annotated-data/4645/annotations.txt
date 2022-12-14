@@ -1,0 +1,3 @@
+Medical Image Generation#ChestXray14 1024x1024#FID#3.52
+Medical Image Generation#SLIVER07#FID#10.78
+Medical Image Generation#ACDC#FID#21.17

@@ -1,0 +1,8 @@
+Semi-supervised Change Detection#WHU - 20% labeled data#IoU#74.8
+Semi-supervised Change Detection#WHU - 40% labeled data#IoU#77.2
+Semi-supervised Change Detection#LEVIR-CD - 5% labeled data#IoU#72.5
+Semi-supervised Change Detection#WHU - 5% labeled data#IoU#65.8
+Semi-supervised Change Detection#WHU - 10% labeled data#IoU#68.1
+Semi-supervised Change Detection#LEVIR-CD - 40% labeled data#IoU#77.2
+Semi-supervised Change Detection#LEVIR-CD - 10% labeled data#IoU#75.5
+Semi-supervised Change Detection#LEVIR-CD - 20% labeled data#IoU#76.2

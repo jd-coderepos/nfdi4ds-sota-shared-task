@@ -1,0 +1,7 @@
+3D Semantic Segmentation#KITTI-360#miou Class#58.3
+3D Semantic Segmentation#KITTI-360#mIoU Category#73.66
+3D Semantic Segmentation#KITTI-360#miou Class#53.92
+3D Semantic Segmentation#KITTI-360#mIoU Category#74.08
+Semantic Segmentation#S3DIS#Mean IoU#74.7
+Semantic Segmentation#S3DIS#mAcc#83.8
+Semantic Segmentation#S3DIS#oAcc#90.1

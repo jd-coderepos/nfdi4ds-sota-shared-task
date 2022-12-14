@@ -1,0 +1,15 @@
+Domain Generalization#ImageNet-A#Top-1 accuracy %#74.5
+Domain Generalization#ImageNet-R#Top-1 Error Rate#28.9
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#35.8
+Domain Generalization#ImageNet-C#Top 1 Accuracy#73.6
+Domain Generalization#ImageNet-C#Number of params#77M
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#41.0
+Domain Generalization#ImageNet-C#Top 1 Accuracy#70.5
+Domain Generalization#ImageNet-C#Number of params#50M
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#43.0
+Domain Generalization#ImageNet-C#Top 1 Accuracy#67.7
+Semantic Segmentation#Cityscapes val#mIoU#82.3
+Semantic Segmentation#DensePASS#mIoU#42.54%
+Object Detection#COCO minival#box AP#55.1
+Image Classification#ImageNet#Top 1 Accuracy#87.1%
+Image Classification#ImageNet#Number of params#76.8M

@@ -1,0 +1,36 @@
+Question Answering#SQuAD1.1 dev#EM#83.35
+Question Answering#SQuAD1.1 dev#F1#90.2
+Question Answering#SQuAD1.1 dev#EM#83.22
+Question Answering#SQuAD1.1 dev#F1#90.02
+Question Answering#SQuAD1.1 dev#EM#81.1
+Question Answering#SQuAD1.1 dev#F1#88.42
+Question Answering#SQuAD1.1 dev#EM#80.84
+Question Answering#SQuAD1.1 dev#F1#88.24
+Question Answering#SQuAD1.1 dev#EM#79.83
+Question Answering#SQuAD1.1 dev#F1#87.25
+Question Answering#SQuAD1.1 dev#EM#78.1
+Question Answering#SQuAD1.1 dev#F1#85.82
+Question Answering#SQuAD1.1 dev#EM#77.03
+Question Answering#SQuAD1.1 dev#F1#85.13
+Question Answering#SQuAD1.1 dev#EM#76.91
+Question Answering#SQuAD1.1 dev#F1#84.82
+Question Answering#SQuAD1.1 dev#EM#75.62
+Question Answering#SQuAD1.1 dev#F1#83.87
+Natural Language Inference#MultiNLI Dev#Matched#83.74
+Natural Language Inference#MultiNLI Dev#Mismatched#84.2
+Natural Language Inference#MultiNLI Dev#Matched#83.47
+Natural Language Inference#MultiNLI Dev#Mismatched#84.08
+Natural Language Inference#MultiNLI Dev#Matched#82.71
+Natural Language Inference#MultiNLI Dev#Mismatched#83.67
+Natural Language Inference#MultiNLI Dev#Matched#81.45
+Natural Language Inference#MultiNLI Dev#Mismatched#82.43
+Natural Language Inference#MultiNLI Dev#Matched#81.4
+Natural Language Inference#MultiNLI Dev#Mismatched#82.51
+Natural Language Inference#MultiNLI Dev#Matched#81.35
+Natural Language Inference#MultiNLI Dev#Mismatched#82.03
+Natural Language Inference#MultiNLI Dev#Matched#80.68
+Natural Language Inference#MultiNLI Dev#Mismatched#81.47
+Natural Language Inference#MultiNLI Dev#Matched#80.66
+Natural Language Inference#MultiNLI Dev#Mismatched#81.14
+Natural Language Inference#MultiNLI Dev#Matched#78.8
+Natural Language Inference#MultiNLI Dev#Mismatched#80.4

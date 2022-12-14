@@ -1,0 +1,4 @@
+Robot Task Planning#PackIt#Average Reward#64.9
+Robot Task Planning#PackIt#Average Reward#59.2
+Robot Task Planning#PackIt#Average Reward#49.4
+Robot Task Planning#PackIt#Average Reward#41.9

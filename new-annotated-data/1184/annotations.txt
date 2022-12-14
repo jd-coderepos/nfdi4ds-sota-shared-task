@@ -1,0 +1,10 @@
+Image Generation#CIFAR-10#Inception score#10.07
+Image Generation#CIFAR-10#FID#2.41
+Image Generation#ImageNet 256x256#FID#3.63
+Image Generation#ImageNet 256x256#Inception score#260.02
+Image Generation#ImageNet 256x256#FID#3.69
+Image Generation#ImageNet 256x256#Inception score#249.91
+Image Generation#ImageNet 128x128#FID#2.53
+Image Generation#ImageNet 128x128#IS#169.73
+Image Generation#ImageNet 128x128#FID#2.77
+Image Generation#ImageNet 128x128#IS#150.43

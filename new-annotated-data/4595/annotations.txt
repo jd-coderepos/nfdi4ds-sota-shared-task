@@ -1,0 +1,287 @@
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#76.08 ± 2.13
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#75.93 ± 1.71
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#75.51 ± 1.58
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#75.23 ± 1.72
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#68.51 ± 1.7
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#68.4 ± 2.05
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#68.38 ± 1.36
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#67.83 ±  2.63
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#67.53 ± 2.83
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#63.68 ± 1.62
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#61.66 ± 2.29
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#60.48 ± 1.55
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#58.73 ± 2.52
+Node Classification#Chameleon (60%/20%/20% random splits)#1:1 Accuracy#46.72 ± 0.46
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.86 ± 1.48
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.84 ± 1.15
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.79 ± 1.01
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.66 ± 1.42
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.5 ± 1.54
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.4 ± 1.23
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.37 ± 1.37
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.27 ± 1.24
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.27 ± 0.8
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#41.1 ± 0.75
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#40.31 ± 1.6
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#40.13 ± 1.21
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#39.33 ± 1.25
+Node Classification#Film (60%/20%/20% random splits)#1:1 Accuracy#38.58 ± 0.25
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#69.98 ± 1.53
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#69.81 ± 1.11
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#69.26 ± 1.11
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#68.56 ± 1.33
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#55.97 ± 2.03
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#55.73 ± 2.39
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#54.53 ± 2.09
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#53.48 ± 0.6
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#52.31 ± 1.57
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#46.4 ± 1.13
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#40.91 ± 1.39
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#40.9 ± 1.58
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#38.32 ± 1.5
+Node Classification#Squirrel (60%/20%/20% random splits)#1:1 Accuracy#31.28 ± 0.27
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#82.28 ± 1.12
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#82.07 ± 1.04
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.87 ± 1.38
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.83 ± 1.65
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.79 ± 0.95
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.76 ±  1.25
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.69 ± 1.25
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.65 ± 1.48
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.58 ± 1.23
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.56 ± 1.15
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#81.32 ± 0.97
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#80.96 ±  0.93
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#80.93 ± 1.16
+Node Classification#CiteSeer (60%/20%/20% random splits)#1:1 Accuracy#76.25 ± 0.28
+Node Classification#genius#Accuracy#91.37 ± 0.07
+Node Classification#genius#Accuracy#91.22 ± 0.13
+Node Classification#genius#Accuracy#91.13 ± 0.09
+Node Classification#genius#Accuracy#91.01 ± 0.18
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.75 ± 1.16
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.59 ± 1.58
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.47 ±  1.08
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.36 ± 1.26
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.33 ± 0.81
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.18 ± 1.11
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.1 ± 1.61
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.00 ± 1.35
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#89.00 ± 0.72
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#88.95 ± 1.04
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#88.83 ± 1.49
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#87.64 ± 0.99
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#86.63 ± 1.13
+Node Classification#Cora (60%/20%/20% random splits)#1:1 Accuracy#76.44 ± 0.30
+Node Classification#Cornell#Accuracy#95.9 ± 1.83
+Node Classification#Penn94#Accuracy#86.08 ± 0.43
+Node Classification#Penn94#Accuracy#85.95 ± 0.26
+Node Classification#Penn94#Accuracy#85.05 ± 0.19
+Node Classification#Penn94#Accuracy#84.95 ± 0.43
+Node Classification#Chameleon#Accuracy#68.38 ± 1.36
+Node Classification#Squirrel#Accuracy#54.53 ± 2.09
+Node Classification#Texas#Accuracy#95.25 ± 3.15
+Node Classification#Cornell (60%/20%/20% random splits)#1:1 Accuracy#91.80 ± 0.63
+Node Classification#Cornell (60%/20%/20% random splits)#1:1 Accuracy#91.36 ± 0.70
+Node Classification#Cornell (60%/20%/20% random splits)#1:1 Accuracy#91.30 ± 0.70
+Node Classification#Cornell (60%/20%/20% random splits)#1:1 Accuracy#86.23 ±  4.71
+Node Classification#Cornell (60%/20%/20% random splits)#1:1 Accuracy#76.00 ± 1.01
+Node Classification#Cornell (60%/20%/20% random splits)#1:1 Accuracy#60.33 ± 28.53
+Node Classification#Deezer Europe#1:1 Accuracy#67.5±0.53
+Node Classification#Deezer Europe#1:1 Accuracy#67.44±0.31
+Node Classification#Deezer Europe#1:1 Accuracy#67.4±0.44
+Node Classification#Deezer Europe#1:1 Accuracy#67.3±0.48
+Node Classification#Deezer Europe#1:1 Accuracy#67.15±0.41
+Node Classification#Deezer Europe#1:1 Accuracy#67.01±0.38
+Node Classification#Deezer Europe#1:1 Accuracy#66.86±0.53
+Node Classification#Deezer Europe#1:1 Accuracy#66.67±0.56
+Node Classification#Deezer Europe#1:1 Accuracy#66.6±0.57
+Node Classification#Deezer Europe#1:1 Accuracy#66.53±0.57
+Node Classification#Deezer Europe#1:1 Accuracy#66.42±0.56
+Node Classification#Deezer Europe#1:1 Accuracy#66.39±0.56
+Node Classification#Deezer Europe#1:1 Accuracy#66.38±0.45
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#91.44 ± 0.59
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#91.31 ± 0.6
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.96 ± 0.62
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.81 ± 0.52
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.74 ± 0.5
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.66 ± 0.47
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.63 ±  0.56
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.56 ± 0.39
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.46 ± 0.69
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.39 ± 0.33
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.18 ± 0.51
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.12 ± 0.4
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.09 ± 0.68
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#90.05
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#89.98 ± 0.54
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#89.98 ± 0.52
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#89.8 ± 0.3
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#89.15 ± 0.87
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#89.04 ± 0.49
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#88.9 ± 0.32
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#88.8 ± 0.82
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#88.79 ± 0.5
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#88.48 ± 0.41
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#87.78 ± 0.28
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#87.75 ± 0.88
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#87.04 ± 4.10
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#86.85 ± 0.11
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#86.43 ± 0.13
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#85.5 ± 0.76
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#85.36 ± 0.52
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#85.07 ± 0.09
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#85.02 ± 0.09
+Node Classification#PubMed (60%/20%/20% random splits)#1:1 Accuracy#83.28 ± 0.12
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#97.5 ± 1.25
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#97.13 ± 1.68
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#97.00 ± 2.63
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#96.75 ± 1.79
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#96.63 ± 2.24
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#96.62 ± 1.86
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#96.62 ± 2.44
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#96.5 ± 2.08
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#96.38 ± 2.59
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#95.75 ± 2.03
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#94.63 ± 2.96
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#94.37 ± 2.81
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#94.00 ± 2.61
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#93.87 ± 3.33
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#93.75 ± 2.37
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#93.25 ± 2.92
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#92.00 ±  3.59
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#89.75 ± 6.37
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#89.12 ± 3.06
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#87.5 ± 1.77
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#83.25 ± 2.69
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#77.25 ± 7.80
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#75.5 ± 2.92
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#74.88 ± 3.42
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#74.75 ± 2.89
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#71.01 ± 4.66
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#70.38 ± 2.85
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#69.50 ± 3.12
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#69.5 ± 5.01
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#64.85 ± 5.14
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#64.12
+Node Classification#Wisconsin (60%/20%/20% random splits)#1:1 Accuracy#62.50 ± 15.75
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#96.56 ± 2
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#95.74 ± 2.22
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#95.41 ± 2.82
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#95.25 ± 1.55
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#95.08 ± 2.07
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#94.92 ± 2.79
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#94.75 ± 2.41
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#94.75 ± 3.09
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#94.75 ±  2.91
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#93.61 ± 1.55
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#93.44 ± 2.54
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#93.28 ± 2.79
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#93.12 ± 0.65
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#92.92 ± 0.61
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#92.46 ± 1.97
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#92.26 ± 0.71
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#91.18 ± 0.70
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#88.85 ± 4.39
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#88.52 ± 3.02
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#85.90 ± 3.53
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#83.28 ± 5.43
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#83.11 ± 3.2
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#82.46 ± 4.58
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#81.31 ± 3.3
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#80.66 ± 1.91
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#79.03 ± 1.20
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#78.87 ± 0.86
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#76.39 ± 7.66
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#75.41 ± 7.18
+Node Classification#Texas (60%/20%/20% random splits)#1:1 Accuracy#67.57
+Node Classification#Wisconsin#Accuracy#96.62 ± 2.44
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#95.9 ± 1.83
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#95.25 ± 1.55
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#95.08 ± 3.11
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#94.92 ± 2.79
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#94.75 ± 3.8
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#94.26 ± 2.57
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#93.93 ± 1.05
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#93.93 ± 3.03
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#93.77 ± 2.17
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#93.77 ± 1.91
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#93.61 ± 2.79
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#93.44 ± 2.74
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#92.62 ± 2.57
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Cornell (60%/20%/20% random splits)#1:1 Accuracy#92.62 ± 3.13
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#97.5 ± 1.25
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#97.13 ± 1.68
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#97.00 ± 2.63
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#96.75 ± 1.79
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#96.63 ± 2.24
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#96.62 ± 1.86
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#96.62 ± 2.44
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#96.5 ± 2.08
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#96.38 ± 2.59
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#95.75 ± 2.03
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#94.63 ± 2.96
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#94.37 ± 2.81
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#94.00 ± 2.61
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Wisconsin(60%/20%/20% random splits)#1:1 Accuracy#93.25 ± 2.92
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#96.56 ± 2
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#95.74 ± 2.22
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#95.41 ± 2.82
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#95.25 ± 1.55
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#95.08 ± 2.07
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#94.92 ± 2.79
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#94.75 ± 2.41
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#94.75 ± 3.09
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#94.75 ±  2.91
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#93.61 ± 1.55
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#93.44 ± 2.54
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#93.28 ± 2.79
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Texas(60%/20%/20% random splits)#1:1 Accuracy#92.46 ± 1.97
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.86 ± 1.48
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.84 ± 1.15
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.79 ± 1.01
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.66 ± 1.42
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.5 ± 1.54
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.4 ± 1.23
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.37 ± 1.37
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.27 ± 1.24
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.27 ± 0.8
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#41.1 ± 0.75
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#40.31 ± 1.6
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#40.13 ± 1.21
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Film(60%/20%/20% random splits)#1:1 Accuracy#39.33 ± 1.25
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#76.08 ± 2.13
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#75.93 ± 1.71
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#75.51 ± 1.58
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#75.23 ± 1.72
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#68.51 ± 1.7
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#68.4 ± 2.05
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#68.38 ± 1.36
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#67.83 ±  2.63
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#67.53 ± 2.83
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#63.68 ± 1.62
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#61.66 ± 2.29
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#60.48 ± 1.55
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Chameleon(60%/20%/20% random splits)#1:1 Accuracy#58.73 ± 2.52
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#69.98 ± 1.53
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#69.81 ± 1.11
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#69.26 ± 1.11
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#68.56 ± 1.33
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#55.97 ± 2.03
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#55.73 ± 2.39
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#54.53 ± 2.09
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#53.48 ± 0.6
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#52.31 ± 1.57
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#46.4 ± 1.13
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#40.91 ± 1.39
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#40.9 ± 1.58
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Squirrel(60%/20%/20% random splits)#1:1 Accuracy#38.32 ± 1.5
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#67.5±0.53
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#67.44±0.31
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#67.4±0.44
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#67.3±0.48
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#67.15±0.41
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#67.01±0.38
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#66.67±0.56
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#66.6±0.57
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#66.53±0.57
+Node Classification on Non-Homophilic (Heterophilic) Graphs#Deezer-Europe#1:1 Accuracy#66.39±0.56

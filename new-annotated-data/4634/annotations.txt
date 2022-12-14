@@ -1,0 +1,3 @@
+Node Classification#Chameleon#Accuracy#68.4 ± 2.3
+Node Classification#Squirrel#Accuracy#56.3 ± 2.2
+Node Classification#Actor#Accuracy#36.2 ± 1.0

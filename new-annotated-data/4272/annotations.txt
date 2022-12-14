@@ -1,0 +1,2 @@
+Sequential Image Classification#noise padded CIFAR-10#% Test Accuracy#54.7
+Sequential Image Classification#noise padded CIFAR-10#% Test Accuracy#11.6

@@ -1,0 +1,5 @@
+Image Matting#AIM-500#SAD#43.92
+Image Matting#AIM-500#MSE#0.0161
+Image Matting#AIM-500#MAD#0.0262
+Image Matting#AIM-500#Conn.#43.18
+Image Matting#AIM-500#Grad.#33.05

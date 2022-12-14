@@ -1,0 +1,15 @@
+Node Classification#pokec#Accuracy#83.05±0.07
+Node Classification#Cornell#Accuracy#85.95±5.10
+Node Classification#Cornell#Accuracy#83.51±4.26
+Node Classification#Penn94#Accuracy#85.74±0.42
+Node Classification#Chameleon#Accuracy#71.21±1.84
+Node Classification#Chameleon#Accuracy#69.78±2.42
+Node Classification#Squirrel#Accuracy#57.88±1.76–
+Node Classification#Squirrel#Accuracy#57.54±1.39
+Node Classification#Texas#Accuracy#84.32±4.15
+Node Classification#Texas#Accuracy#84.05±4.90
+Node Classification#arXiv-year#Accuracy#54.79±0.25
+Node Classification#Wisconsin#Accuracy#88.04±3.22
+Node Classification#Wisconsin#Accuracy#87.06±3.53
+Node Classification#Actor#Accuracy#37.7±1.40
+Node Classification#Actor#Accuracy#37.35±1.30

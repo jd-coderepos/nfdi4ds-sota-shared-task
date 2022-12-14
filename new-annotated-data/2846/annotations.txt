@@ -1,0 +1,6 @@
+Gesture-to-Gesture Translation#NTU Hand Digit#PSNR#28.0185
+Gesture-to-Gesture Translation#NTU Hand Digit#IS#2.4919
+Gesture-to-Gesture Translation#NTU Hand Digit#AMT#2.6
+Gesture-to-Gesture Translation#Senz3D#PSNR#26.9545
+Gesture-to-Gesture Translation#Senz3D#IS#3.3285
+Gesture-to-Gesture Translation#Senz3D#AMT#2.3

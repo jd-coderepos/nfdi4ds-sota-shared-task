@@ -1,0 +1,16 @@
+Link Property Prediction#ogbl-collab#Test Hits@50#0.5273 ± 0.0047
+Link Property Prediction#ogbl-collab#Validation Hits@50#0.6187 ± 0.0045
+Link Property Prediction#ogbl-collab#Number of params#117383
+Link Property Prediction#ogbl-collab#Ext. data#No
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.7712 ± 0.0071
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.7313 ± 0.0078
+Graph Property Prediction#ogbg-ppa#Number of params#2336421
+Graph Property Prediction#ogbg-ppa#Ext. data#No
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2781 ± 0.0038
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2920 ± 0.0025
+Graph Property Prediction#ogbg-molpcba#Number of params#5550208
+Graph Property Prediction#ogbg-molpcba#Ext. data#No
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7858 ± 0.0117
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8427 ± 0.0063
+Graph Property Prediction#ogbg-molhiv#Number of params#531976
+Graph Property Prediction#ogbg-molhiv#Ext. data#No

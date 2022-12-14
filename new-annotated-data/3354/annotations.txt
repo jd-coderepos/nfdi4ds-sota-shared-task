@@ -1,0 +1,11 @@
+Community Detection#Facebook Celebrities#Modularity#0.649
+Community Detection#Facebook Companies#Modularity#0.684
+Community Detection#Facebook Athletes#Modularity#0.692
+Community Detection#Facebook Artists#Modularity#0.562
+Community Detection#Facebook Government#Modularity#0.712
+Community Detection#Facebook TV Show#Modularity#0.847
+Community Detection#Facebook Politicians#Modularity#0.859
+Community Detection#Facebook Media#Modularity#0.571
+Node Classification#Deezer Hungary#Micro-F1#0.409
+Node Classification#Deezer Croatia#Micro-F1#0.381
+Node Classification#Deezer Romania#Micro-F1#0.378

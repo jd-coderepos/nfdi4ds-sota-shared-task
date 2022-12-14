@@ -1,0 +1,12 @@
+Action Anticipation#EPIC-KITCHENS-55 (Seen test set (S1))#Top 1 Accuracy - Verb#29.35
+Action Anticipation#EPIC-KITCHENS-55 (Seen test set (S1))#Top 1 Accuracy - Noun#16.07
+Action Anticipation#EPIC-KITCHENS-55 (Seen test set (S1))#Top 1 Accuracy - Act.#8.08
+Action Anticipation#EPIC-KITCHENS-55 (Seen test set (S1))#Top 5 Accuracy - Verb#74.49
+Action Anticipation#EPIC-KITCHENS-55 (Seen test set (S1))#Top 5 Accuracy - Noun#38.83
+Action Anticipation#EPIC-KITCHENS-55 (Seen test set (S1))#Top 5 Accuracy - Act.#18.19
+Action Anticipation#EPIC-KITCHENS-55 (Unseen test set (S2)#Top 1 Accuracy - Verb#22.52
+Action Anticipation#EPIC-KITCHENS-55 (Unseen test set (S2)#Top 1 Accuracy - Noun#7.81
+Action Anticipation#EPIC-KITCHENS-55 (Unseen test set (S2)#Top 1 Accuracy - Act.#2.65
+Action Anticipation#EPIC-KITCHENS-55 (Unseen test set (S2)#Top 5 Accuracy - Verb#62.65
+Action Anticipation#EPIC-KITCHENS-55 (Unseen test set (S2)#Top 5 Accuracy - Noun#21.42
+Action Anticipation#EPIC-KITCHENS-55 (Unseen test set (S2)#Top 5 Accuracy - Act.#7.57

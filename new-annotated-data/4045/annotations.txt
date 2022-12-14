@@ -1,0 +1,5 @@
+Image Classification#ImageNet#Top 1 Accuracy#79%
+Image Classification#ImageNet#Top 5 Accuracy#94.5
+Image Classification#ImageNet#Number of params#22.855952M
+Image Classification#ImageNet#Hardware Burden#87G
+Image Classification#ImageNet#Operations per network pass#0.838G

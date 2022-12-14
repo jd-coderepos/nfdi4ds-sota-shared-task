@@ -1,0 +1,3 @@
+Sound Event Detection#DESED#event-based F1 score#49.6
+Sound Event Detection#DESED#PSDS1#0.4336
+Sound Event Detection#DESED#PSDS2#0.8161

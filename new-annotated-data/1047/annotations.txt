@@ -1,0 +1,3 @@
+Image Dehazing#KITTI#PSNR#24.64
+Traffic Prediction#PEMS-BAY#MAE @ 12 step#1.86
+Traffic Prediction#PEMS-BAY#RMSE#4.32

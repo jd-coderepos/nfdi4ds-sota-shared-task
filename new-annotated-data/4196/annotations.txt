@@ -1,0 +1,7 @@
+Fine-Grained Image Classification#Fruits-360#Accuracy (%)#99.98
+Fine-Grained Image Classification#10 Monkey Species#Accuracy#99.26
+Fine-Grained Image Classification#10 Monkey Species#Accuracy#98.90
+Fine-Grained Image Classification#Bird-225#Accuracy#99.56
+Fine-Grained Image Classification#Bird-225#Accuracy#99.38
+Fine-Grained Image Classification#Oxford 102 Flowers#Accuracy#98.36
+Fine-Grained Image Classification#Oxford 102 Flowers#Accuracy#98.29

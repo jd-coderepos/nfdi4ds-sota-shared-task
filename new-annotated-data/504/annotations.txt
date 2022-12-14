@@ -1,0 +1,4 @@
+Domain Adaptation#VisDA2017#Accuracy#88.5
+Domain Adaptation#Office-Home#Accuracy#73.1
+Domain Adaptation#Office-31#Average Accuracy#91.8
+Unsupervised Domain Adaptation#PACS#Average Accuracy#93.52

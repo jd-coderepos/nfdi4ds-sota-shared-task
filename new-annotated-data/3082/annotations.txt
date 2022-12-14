@@ -1,0 +1,3 @@
+Named Entity Recognition#NEMO-Corpus (token,test)#F1#84.91
+Named Entity Recognition#NEMO-Corpus (morph,test)#F1#80.15
+Named Entity Recognition#NEMO-Corpus (morph,test)#F1#79.15

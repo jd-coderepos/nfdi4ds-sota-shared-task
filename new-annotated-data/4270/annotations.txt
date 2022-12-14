@@ -1,0 +1,22 @@
+Small Data Image Classification#ImageNet 50 samples per class#1:1 Accuracy#46.36
+Small Data Image Classification#ImageNet 50 samples per class#1:1 Accuracy#45.21
+Small Data Image Classification#ImageNet 50 samples per class#1:1 Accuracy#44.97
+Small Data Image Classification#ciFAIR-10 50 samples per class#Accuracy#58.22
+Small Data Image Classification#ciFAIR-10 50 samples per class#Accuracy#57.50
+Small Data Image Classification#ciFAIR-10 50 samples per class#Accuracy#56.50
+Small Data Image Classification#EuroSAT 50 samples per class#Accuracy#92.09
+Small Data Image Classification#EuroSAT 50 samples per class#Accuracy#91.25
+Small Data Image Classification#EuroSAT 50 samples per class#Accuracy#91.15
+Small Data Image Classification#CUB-200-2011, 30 samples per class#Accuracy#72.26
+Small Data Image Classification#CUB-200-2011, 30 samples per class#Accuracy#71.44
+Small Data Image Classification#CUB-200-2011, 30 samples per class#Accuracy#71.02
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#68.70
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#67.90
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#64.92
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#64.67
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#64.64
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#64.15
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#62.73
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#62.06
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#60.33
+Small Data Image Classification#DEIC Benchmark#Average Balanced Accuracy (across datasets)#55.47

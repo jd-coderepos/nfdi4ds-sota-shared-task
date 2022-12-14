@@ -1,0 +1,27 @@
+Weakly-supervised instance segmentation#PASCAL VOC 2012 val#mAP@0.25#66.4
+Weakly-supervised instance segmentation#PASCAL VOC 2012 val#mAP@0.5#56.1
+Weakly-supervised instance segmentation#PASCAL VOC 2012 val#mAP@0.75#30.2
+Weakly-supervised instance segmentation#PASCAL VOC 2012 val#Average Best Overlap#-
+Weakly-supervised instance segmentation#PASCAL VOC 2012 val#mAP@0.25#61.2
+Weakly-supervised instance segmentation#PASCAL VOC 2012 val#mAP@0.5#51.0
+Weakly-supervised instance segmentation#PASCAL VOC 2012 val#mAP@0.75#26.6
+Image-level Supervised Instance Segmentation#COCO 2017 val#AP#14.3
+Image-level Supervised Instance Segmentation#COCO 2017 val#AP@50#28.0
+Image-level Supervised Instance Segmentation#COCO 2017 val#AP@75#13.2
+Image-level Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.5#51.0
+Image-level Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.25#61.2
+Image-level Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.7#31.9
+Image-level Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.75#26.6
+Image-level Supervised Instance Segmentation#COCO test-dev#AP#14.4
+Image-level Supervised Instance Segmentation#COCO test-dev#AP@50#28.0
+Image-level Supervised Instance Segmentation#COCO test-dev#AP@75#13.5
+Point-Supervised Instance Segmentation#COCO 2017 val#AP#17.7
+Point-Supervised Instance Segmentation#COCO 2017 val#AP@50#34.0
+Point-Supervised Instance Segmentation#COCO 2017 val#AP@75#16.4
+Point-Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.5#66.4
+Point-Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.25#56.1
+Point-Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.7#36.5
+Point-Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.75#30.2
+Point-Supervised Instance Segmentation#COCO test-dev#AP#17.8
+Point-Supervised Instance Segmentation#COCO test-dev#AP@50#34.1
+Point-Supervised Instance Segmentation#COCO test-dev#AP@75#16.7

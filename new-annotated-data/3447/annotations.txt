@@ -1,0 +1,2 @@
+Multi-Label Classification#MS-COCO#mAP#90.0
+Multi-Label Classification#MS-COCO#mAP#88.5

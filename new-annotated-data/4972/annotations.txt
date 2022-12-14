@@ -1,0 +1,4 @@
+Sound Event Localization and Detection#TAU-NIGENS Spatial Sound Events 2021#ER≤20°#0.376
+Sound Event Localization and Detection#TAU-NIGENS Spatial Sound Events 2021#F1≤20°#0.744
+Sound Event Localization and Detection#TAU-NIGENS Spatial Sound Events 2021#LE-CD#11.1
+Sound Event Localization and Detection#TAU-NIGENS Spatial Sound Events 2021#LR-CD#0.722

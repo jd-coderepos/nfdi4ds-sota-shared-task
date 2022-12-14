@@ -1,0 +1,5 @@
+Knowledge Distillation#PASCAL VOC#mAP#93.17
+Knowledge Distillation#PASCAL VOC#mAP#90.14
+Knowledge Distillation#ImageNet#Top-1 accuracy %#71.72
+Knowledge Distillation#COCO#mAP#77.16
+Knowledge Distillation#COCO#mAP#73.73

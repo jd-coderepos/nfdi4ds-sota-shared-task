@@ -1,0 +1,4 @@
+Audio Classification#AudioSet#Test mAP#0.431
+Audio Classification#AudioSet#AUC#0.973
+Audio Classification#AudioSet#d-prime#2.732
+Audio Tagging#AudioSet#mean average precision#0.431

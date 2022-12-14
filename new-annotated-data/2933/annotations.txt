@@ -1,0 +1,46 @@
+Pose Estimation#AIC#AP#33.5
+Pose Estimation#AIC#AP50#78.0
+Pose Estimation#AIC#AP75#23.6
+Pose Estimation#AIC#AR#37.9
+Pose Estimation#AIC#AR50#80.0
+Pose Estimation#AIC#AP#32.3
+Pose Estimation#AIC#AP50#76.2
+Pose Estimation#AIC#AP75#21.9
+Pose Estimation#AIC#AR#36.6
+Pose Estimation#AIC#AR50#78.9
+Pose Estimation#MPII Human Pose#PCKh-0.5#92.3
+Pose Estimation#COCO test-dev#AP#77
+Pose Estimation#COCO test-dev#AP50#92.7
+Pose Estimation#COCO test-dev#AP75#84.5
+Pose Estimation#COCO test-dev#APL#83.1
+Pose Estimation#COCO test-dev#APM#73.4
+Pose Estimation#COCO test-dev#AR#82
+Keypoint Detection#COCO#Validation AP#76.3
+Keypoint Detection#COCO#Test AP#75.5
+Keypoint Detection#COCO#Validation AP#75.8
+Keypoint Detection#COCO test-dev#APL#83.1
+Keypoint Detection#COCO test-dev#APM#73.4
+Keypoint Detection#COCO test-dev#AP50#92.7
+Keypoint Detection#COCO test-dev#AP75#84.5
+Keypoint Detection#COCO test-dev#AR#82.0
+Keypoint Detection#COCO test-dev#APL#81.5
+Keypoint Detection#COCO test-dev#APM#71.9
+Keypoint Detection#COCO test-dev#AP50#92.5
+Keypoint Detection#COCO test-dev#AP75#83.3
+Keypoint Detection#COCO test-dev#AR#80.5
+Multi-Person Pose Estimation#CrowdPose#mAP @0.5:0.95#72.8
+Multi-Person Pose Estimation#CrowdPose#AP Easy#81.3
+Multi-Person Pose Estimation#CrowdPose#AP Medium#73.3
+Multi-Person Pose Estimation#CrowdPose#AP Hard#65.5
+Multi-Person Pose Estimation#CrowdPose#mAP @0.5:0.95#71.3
+Multi-Person Pose Estimation#CrowdPose#AP Easy#80.5
+Multi-Person Pose Estimation#CrowdPose#AP Medium#71.4
+Multi-Person Pose Estimation#CrowdPose#AP Hard#62.5
+Instance Segmentation#COCO minival#mask AP#41.0
+Pose Tracking#PoseTrack2017#MOTA#57.93
+Pose Tracking#PoseTrack2017#mAP#74.95
+2D Human Pose Estimation#COCO-WholeBody#WB#43.2
+2D Human Pose Estimation#COCO-WholeBody#body#65.9
+2D Human Pose Estimation#COCO-WholeBody#foot#31.4
+2D Human Pose Estimation#COCO-WholeBody#face#52.3
+2D Human Pose Estimation#COCO-WholeBody#hand#30.0

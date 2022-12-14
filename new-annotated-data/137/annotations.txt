@@ -1,0 +1,4 @@
+Link Prediction#TSP/HCP Benchmark set#F1#0.855
+Graph Regression#ZINC 100k#MAE#0.136
+Graph Classification#CIFAR10 100k#Accuracy (%)#73.90
+Node Classification#CLUSTER#Accuracy#77.35

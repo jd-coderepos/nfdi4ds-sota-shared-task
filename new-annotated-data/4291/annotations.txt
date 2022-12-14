@@ -1,0 +1,1 @@
+Scale Generalisation#MNIST Large Scale dataset#Average Accuracy#99.32

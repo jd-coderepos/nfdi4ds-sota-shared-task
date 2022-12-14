@@ -1,0 +1,3 @@
+Metric Learning#Stanford Online Products#R@1#76.5
+Metric Learning#CARS196#R@1#83.5
+Metric Learning#CUB-200-2011#R@1#67.3

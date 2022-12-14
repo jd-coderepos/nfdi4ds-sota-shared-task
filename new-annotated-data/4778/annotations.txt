@@ -1,0 +1,2 @@
+3D Point Cloud Classification#ModelNet40#Mean Accuracy#91.33
+3D Point Cloud Classification#ModelNet40#Mean Accuracy#88.98

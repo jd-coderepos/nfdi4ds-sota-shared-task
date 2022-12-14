@@ -1,0 +1,5 @@
+Natural Language Understanding#LexGLUE#ECtHR Task A#66.3 / 55.0
+Natural Language Understanding#LexGLUE#ECtHR Task B#76.0 / 65.4
+Natural Language Understanding#LexGLUE#SCOTUS#74.4 / 64.5
+Natural Language Understanding#LexGLUE#EUR-LEX#65.7 / 49.0
+Natural Language Understanding#LexGLUE#LEDGAR#88.0 / 82.6

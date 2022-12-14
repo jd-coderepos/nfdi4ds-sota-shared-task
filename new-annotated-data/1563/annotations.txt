@@ -1,0 +1,4 @@
+Weakly Supervised Action Localization#THUMOS 2014#mAP@0.5#13.7
+Weakly Supervised Action Localization#THUMOS 2014#mAP@0.1:0.7#-
+Action Classification#THUMOS’14#mAP#82.2
+Action Classification#ActivityNet-1.2#mAP#87.7

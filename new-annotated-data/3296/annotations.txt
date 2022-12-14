@@ -1,0 +1,2 @@
+Ad-Hoc Information Retrieval#TREC Robust04#MAP#0.2837
+Ad-Hoc Information Retrieval#TREC Robust04#MAP#0.2811

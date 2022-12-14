@@ -1,0 +1,2 @@
+Domain Generalization#PACS#Average Accuracy#81.5
+Domain Generalization#PACS#Average Accuracy#72.00

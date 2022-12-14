@@ -1,0 +1,12 @@
+Medical Image Segmentation#Kvasir-SEG#mean Dice#0.918
+Medical Image Segmentation#Kvasir-SEG#mIoU#0.868
+Medical Image Segmentation#CVC-ClinicDB#mean Dice#0.934
+Medical Image Segmentation#CVC-ClinicDB#mean Dice#0.918
+Medical Image Segmentation#CVC-ColonDB#mean Dice#0.773
+Medical Image Segmentation#CVC-ColonDB#mIoU#0.696
+Medical Image Segmentation#CVC-ColonDB#mean Dice#0.744
+Medical Image Segmentation#CVC-ColonDB#mIoU#0.676
+Medical Image Segmentation#ETIS-LARIBPOLYPDB#mIoU#0.661
+Medical Image Segmentation#ETIS-LARIBPOLYPDB#mean Dice#0.737
+Medical Image Segmentation#ETIS-LARIBPOLYPDB#mIoU#0.659
+Medical Image Segmentation#ETIS-LARIBPOLYPDB#mean Dice#0.733

@@ -1,0 +1,7 @@
+Text Generation#CNN/Daily Mail#ROUGE-L#41.41
+Text Summarization#GigaWord#ROUGE-1#39.45
+Text Summarization#GigaWord#ROUGE-2#20.37
+Text Summarization#GigaWord#ROUGE-L#36.75
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-1#44.30
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-2#21.12
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-L#41.41

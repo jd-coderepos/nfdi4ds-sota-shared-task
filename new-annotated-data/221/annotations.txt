@@ -1,0 +1,8 @@
+Reconstruction#CelebAMask-HQ#PSNR#21.9
+Reconstruction#CelebAMask-HQ#R-FID#15.5
+Reconstruction#iDesigner#PSNR#21.4
+Reconstruction#iDesigner#R-FID#13.2
+Reconstruction#ADE20K#PSNR#20
+Pose Transfer#iDesigner#S-FID#26.9
+Pose Transfer#CelebAMask-HQ#S-FID#19.8
+Pose Transfer#ADE20K#FID#27.5

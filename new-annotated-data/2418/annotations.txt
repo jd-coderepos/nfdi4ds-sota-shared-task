@@ -1,0 +1,16 @@
+Text-based de novo Molecule Generation#ChEBI-20#Text2Mol#55.4
+Text-based de novo Molecule Generation#ChEBI-20#BLEU#85.4
+Text-based de novo Molecule Generation#ChEBI-20#Exact Match#30.2
+Text-based de novo Molecule Generation#ChEBI-20#Levenshtein#16.07
+Text-based de novo Molecule Generation#ChEBI-20#MACCS FTS#83.4
+Text-based de novo Molecule Generation#ChEBI-20#RDK FTS#74.6
+Text-based de novo Molecule Generation#ChEBI-20#Morgan FTS#68.4
+Text-based de novo Molecule Generation#ChEBI-20#Frechet ChemNet Distance (FCD)#11.6
+Text-based de novo Molecule Generation#ChEBI-20#Validity#90.5
+Molecule Captioning#ChEBI-20#BLEU-2#59.4
+Molecule Captioning#ChEBI-20#BLEU-4#50.8
+Molecule Captioning#ChEBI-20#ROUGE-1#65
+Molecule Captioning#ChEBI-20#ROUGE-2#50.9
+Molecule Captioning#ChEBI-20#ROUGE-L#60.5
+Molecule Captioning#ChEBI-20#METEOR#59.1
+Molecule Captioning#ChEBI-20#Text2Mol#58.2

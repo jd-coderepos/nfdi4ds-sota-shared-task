@@ -1,0 +1,2 @@
+Face Detection#WIDER Face#Average Precision#93.86
+Face Detection#FDDB#Accuracy#91.82

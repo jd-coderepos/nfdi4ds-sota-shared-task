@@ -1,0 +1,2 @@
+Domain Adaptation#Cityscapes-to-FoggyDriving#mIoU#49.8
+Domain Adaptation#Cityscapes-to-FoggyZurich#mIoU#46.8

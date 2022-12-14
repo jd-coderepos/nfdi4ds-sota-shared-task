@@ -1,0 +1,1 @@
+3D Semantic Scene Completion#NYUv2#mIoU#37.1

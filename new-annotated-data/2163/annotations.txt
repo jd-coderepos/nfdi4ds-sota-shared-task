@@ -1,0 +1,6 @@
+Probabilistic Time Series Forecasting#Internet Traffic dataset (A5M)#CRPS#6.84e7
+Probabilistic Time Series Forecasting#Internet Traffic dataset (A5M)#KLD#2.84e-11
+Probabilistic Time Series Forecasting#Lorenz dataset#CRPS#1.511
+Probabilistic Time Series Forecasting#Lorenz dataset#KLD#1.67e-2
+Probabilistic Time Series Forecasting#Mackey-Glass dataset#CRPS#1.91e-4
+Probabilistic Time Series Forecasting#Mackey-Glass dataset#KLD#3.18e-3

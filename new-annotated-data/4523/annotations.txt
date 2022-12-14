@@ -1,0 +1,15 @@
+Conversational Response Selection#RRS#R10@1#0.454
+Conversational Response Selection#RRS#MAP#0.671
+Conversational Response Selection#RRS#MRR#0.683
+Conversational Response Selection#RRS#P@1#0.503
+Conversational Response Selection#RRS#R10@2#0.659
+Conversational Response Selection#RRS#R10@5#0.917
+Conversational Response Selection#E-commerce#R10@1#0.721
+Conversational Response Selection#E-commerce#R10@2#0.896
+Conversational Response Selection#E-commerce#R10@5#0.993
+Conversational Response Selection#Douban#MAP#0.639
+Conversational Response Selection#Douban#MRR#0.681
+Conversational Response Selection#Douban#P@1#0.514
+Conversational Response Selection#Douban#R10@1#0.330
+Conversational Response Selection#Douban#R10@2#0.531
+Conversational Response Selection#Douban#R10@5#0.858

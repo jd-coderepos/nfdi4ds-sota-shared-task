@@ -1,0 +1,2 @@
+Claim Extraction with Stance Classification (CESC)#IAM Dataset#Macro F1#60.25
+Claim-Evidence Pair Extraction (CEPE)#IAM Dataset#F1#35.92

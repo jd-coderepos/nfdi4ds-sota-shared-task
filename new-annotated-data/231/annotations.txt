@@ -1,0 +1,11 @@
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#PA V2V (mm), body only#52.7
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#PA V2V (mm), left hand#12.8
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#TR V2V (mm), whole body#76.9
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#TR V2V (mm), body only#80.1
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#TR V2V (mm), left hand#32.1
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#MPJPE-14#62.3
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#MPJPE, left hand#13.2
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#mean P2S#31.6
+3D Human Reconstruction#Expressive hands and faces dataset (EHF)#median P2S#19.2
+3D Human Pose Estimation#3DPW#PA-MPJPE#60
+3D Human Pose Estimation#3DPW#MPJPE#94.3

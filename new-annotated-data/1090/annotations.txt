@@ -1,0 +1,5 @@
+Machine Translation#IWSLT2017 English-Arabic#SacreBLEU#25.2
+Machine Translation#IWSLT2017 Arabic-English#SacreBLEU#44.7
+Machine Translation#IWSLT2017 English-French#SacreBLEU#43
+Machine Translation#IWSLT2015 English-Vietnamese#SacreBLEU#34.8
+Machine Translation#IWSLT2017 French-English#SacreBLEU#45.8

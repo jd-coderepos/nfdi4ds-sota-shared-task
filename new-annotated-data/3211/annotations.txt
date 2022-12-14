@@ -1,0 +1,2 @@
+Sound Event Detection#DESED#event-based F1 score#39.0
+Sound Event Detection#DESED#PSDS (gtc=dtc=0.5,emax=100,cttc=0.3,ct=1,st=0)#0.552

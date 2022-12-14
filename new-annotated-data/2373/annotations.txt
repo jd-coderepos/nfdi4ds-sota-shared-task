@@ -1,0 +1,4 @@
+Language Modelling#Text8#Bit per Character (BPC)#1.36
+Language Modelling#Text8#Number of params#16M
+Sequential Image Classification#Sequential MNIST#Unpermuted Accuracy#99%
+Sequential Image Classification#Sequential MNIST#Permuted Accuracy#95.4%

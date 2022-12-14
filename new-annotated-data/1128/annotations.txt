@@ -1,0 +1,10 @@
+Medical Image Segmentation#Synapse multi-organ CT#Avg DSC#79.60
+Semantic Segmentation#DADA-seg#mIoU#31.8
+Semantic Segmentation#DADA-seg#mIoU#30.4
+Semantic Segmentation#Cityscapes val#mIoU#82.15%
+Semantic Segmentation#FoodSeg103#mIoU#45.1
+Semantic Segmentation#FoodSeg103#mIoU#41.3
+Semantic Segmentation#DensePASS#mIoU#35.7%
+Semantic Segmentation#DensePASS#mIoU#35.6%
+Semantic Segmentation#PASCAL Context#mIoU#55.83
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#81.64%

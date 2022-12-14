@@ -1,0 +1,8 @@
+Dynamic Link Prediction#DBLP Temporal#AUC#85.95
+Dynamic Link Prediction#DBLP Temporal#AP#87.77
+Dynamic Link Prediction#DBLP Temporal#AUC#85.45
+Dynamic Link Prediction#DBLP Temporal#AP#88.36
+Dynamic Link Prediction#Enron Email Dataset#AUC#94.44
+Dynamic Link Prediction#Enron Email Dataset#AP#93.93
+Dynamic Link Prediction#Enron Email Dataset#AUC#93.29
+Dynamic Link Prediction#Enron Email Dataset#AP#93.10

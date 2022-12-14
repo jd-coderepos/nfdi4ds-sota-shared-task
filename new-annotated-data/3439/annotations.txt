@@ -1,0 +1,21 @@
+Image Clustering#Imagenet-dog-15#Accuracy#0.591
+Image Clustering#Imagenet-dog-15#NMI#0.546
+Image Clustering#Imagenet-dog-15#ARI#0.413
+Image Clustering#Imagenet-dog-15#Image Size#96
+Image Clustering#ImageNet-10#Accuracy#0.954
+Image Clustering#ImageNet-10#NMI#0.898
+Image Clustering#ImageNet-10#ARI#0.901
+Image Clustering#ImageNet-10#Image Size#96
+Image Clustering#CIFAR-100#Accuracy#0.425
+Image Clustering#CIFAR-100#NMI#0.426
+Image Clustering#CIFAR-100#Train Set#Train
+Image Clustering#CIFAR-100#ARI#0.264
+Image Clustering#STL-10#Accuracy#0.756
+Image Clustering#STL-10#NMI#0.643
+Image Clustering#STL-10#Train Split#Train+Test
+Image Clustering#STL-10#Backbone#ResNet-18
+Image Clustering#CIFAR-10#Accuracy#0.815
+Image Clustering#CIFAR-10#NMI#0.711
+Image Clustering#CIFAR-10#Train set#Train+Test
+Image Clustering#CIFAR-10#ARI#0.663
+Image Clustering#CIFAR-10#Backbone#ResNet-18

@@ -1,0 +1,3 @@
+Time Series Classification#Earthquakes#Accuracy (Test)#78.42
+Time Series Classification#FordA#Acc. (test)#100
+ECG Classification#UCR Time Series Classification Archive#Accuracy (Test)#93.96

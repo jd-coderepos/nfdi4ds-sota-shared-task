@@ -1,0 +1,1 @@
+KG-to-Text Generation#ENT-DESC#BLEU#26.4

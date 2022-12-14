@@ -1,0 +1,10 @@
+Few-Shot Learning#Mini-ImageNet - 1-Shot Learning#Acc#74.74
+Few-Shot Learning#Mini-Imagenet 5-way (1-shot)#5 way 1~2 shot#74.74
+Few-Shot Image Classification#Tiered ImageNet 5-way (1-shot)#Accuracy#79.67
+Few-Shot Image Classification#FC100 5-way (1-shot)#Accuracy#48.27
+Few-Shot Image Classification#CIFAR-FS 5-way (5-shot)#Accuracy#90.50
+Few-Shot Image Classification#Mini-Imagenet 5-way (5-shot)#Accuracy#89.19
+Few-Shot Image Classification#Tiered ImageNet 5-way (5-shot)#Accuracy#91.72
+Few-Shot Image Classification#CIFAR-FS 5-way (1-shot)#Accuracy#78.89
+Few-Shot Image Classification#FC100 5-way (5-shot)#Accuracy#66.42
+Few-Shot Image Classification#Mini-Imagenet 5-way (1-shot)#Accuracy#74.74

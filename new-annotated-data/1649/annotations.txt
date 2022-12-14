@@ -1,0 +1,17 @@
+Boundary Grounding#Kinetics-GEB+#F1@0.1s#4.28
+Boundary Grounding#Kinetics-GEB+#F1@0.2s#8.54
+Boundary Grounding#Kinetics-GEB+#F1@0.5s#18.33
+Boundary Grounding#Kinetics-GEB+#F1@1.0s#31.04
+Boundary Grounding#Kinetics-GEB+#F1@1.5s#40.48
+Boundary Grounding#Kinetics-GEB+#F1@2.0s#47.86
+Boundary Grounding#Kinetics-GEB+#F1@2.5s#54.81
+Boundary Grounding#Kinetics-GEB+#F1@3.0s#61.45
+Boundary Grounding#Kinetics-GEB+#F1@Avg#33.35
+Boundary Captioning#Kinetics-GEB+#CIDEr#74.71
+Boundary Captioning#Kinetics-GEB+#SPICE#19.52
+Boundary Captioning#Kinetics-GEB+#ROUGE-L#28.15
+Text to Video Retrieval#Kinetics-GEB+#mAP#23.39
+Text to Video Retrieval#Kinetics-GEB+#text-to-video R@1#12.8
+Text to Video Retrieval#Kinetics-GEB+#text-to-video R@5#34.81
+Text to Video Retrieval#Kinetics-GEB+#text-to-video R@10#45.66
+Text to Video Retrieval#Kinetics-GEB+#text-to-video R@50#68.1

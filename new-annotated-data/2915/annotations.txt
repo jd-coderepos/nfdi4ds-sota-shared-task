@@ -1,0 +1,3 @@
+Scene Classification#Places365-Standard#Top 1 Error#43.68
+Scene Classification#Places365-Standard#Top 5 Error#13.73
+Image Classification#iNaturalist#Top 3 Error#14.625

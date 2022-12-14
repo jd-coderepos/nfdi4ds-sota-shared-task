@@ -1,0 +1,5 @@
+Subjectivity Analysis#Czech Subjectivity Dataset#Accuracy#93.56
+Subjectivity Analysis#Czech Subjectivity Dataset#Accuracy#93.29
+Subjectivity Analysis#Czech Subjectivity Dataset#Accuracy#92.85
+Subjectivity Analysis#Czech Subjectivity Dataset#Accuracy#91.85
+Subjectivity Analysis#Czech Subjectivity Dataset#Accuracy#91.23

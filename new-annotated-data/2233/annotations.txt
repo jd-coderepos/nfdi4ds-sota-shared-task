@@ -1,0 +1,9 @@
+Multi-Document Summarization#Multi-News#ROUGE-2#21.1
+Multi-Document Summarization#Multi-News#ROUGE-1#49.9
+Multi-Document Summarization#Multi-News#ROUGE-L#25.9
+Multi-Document Summarization#WCEP#ROUGE-1#46.1
+Multi-Document Summarization#WCEP#ROUGE-2#25.2
+Multi-Document Summarization#WCEP#ROUGE-L#37.9
+Text Summarization#arXiv Summarization Dataset#ROUGE-1#47.6
+Text Summarization#arXiv Summarization Dataset#ROUGE-2#20.8
+Text Summarization#arXiv Summarization Dataset#ROUGE-L#42.6

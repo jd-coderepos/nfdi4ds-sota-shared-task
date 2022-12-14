@@ -1,0 +1,8 @@
+Conditional Image Generation#ArtBench-10 (32x32)#FID#3.175
+Conditional Image Generation#ImageNet 128x128#FID#8.206
+Conditional Image Generation#ImageNet 128x128#Inception score#96.299
+Conditional Image Generation#CIFAR-10#Inception score#10.51
+Conditional Image Generation#CIFAR-10#FID#2.26
+Image Generation#CIFAR-10#FID#2.236
+Image Generation#CIFAR-10#FID#2.316
+Image Generation#CIFAR-10#FID#2.325

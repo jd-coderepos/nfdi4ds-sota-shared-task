@@ -1,0 +1,9 @@
+Image Captioning#nocaps-val-out-domain#CIDEr#94.5
+Image Captioning#nocaps-val-out-domain#SPICE#11.9
+Image Captioning#nocaps-val-overall#CIDEr#90.2
+Image Captioning#nocaps-val-overall#SPICE#12.1
+Image Captioning#nocaps-val-in-domain#CIDEr#92.6
+Image Captioning#nocaps-val-in-domain#SPICE#12.5
+Image Captioning#nocaps-val-in-domain#Pre-train (#images)#15M
+Image Captioning#nocaps-val-near-domain#CIDEr#88.3
+Image Captioning#nocaps-val-near-domain#SPICE#12.1

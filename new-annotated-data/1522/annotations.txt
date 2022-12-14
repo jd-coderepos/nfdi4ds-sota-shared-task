@@ -1,0 +1,1 @@
+3D Semantic Segmentation#ScribbleKITTI#mIoU#61.3

@@ -1,0 +1,13 @@
+Machine Translation#WMT2014 English-German#BLEU score#29.01
+Machine Translation#WMT2014 English-German#SacreBLEU#27.96
+Machine Translation#WMT2014 English-German#Number of Params#67M
+Machine Translation#WMT2014 German-English#BLEU score#33.12
+Long-range modeling#LRA#ListOps#63.14
+Long-range modeling#LRA#Text#90.43
+Long-range modeling#LRA#Retrieval#91.25
+Long-range modeling#LRA#Image#90.43
+Long-range modeling#LRA#Pathfinder#96.01
+Long-range modeling#LRA#Avg#88.21
+Long-range modeling#LRA#Pathfinder-X#97.98
+Image Classification#ImageNet#Top 1 Accuracy#82.4%
+Image Classification#ImageNet#Number of params#90M

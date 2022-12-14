@@ -1,0 +1,4 @@
+Relation Extraction#DocRED#F1#62.29
+Relation Extraction#DocRED#Ign F1#59.87
+Dialog Relation Extraction#DialogRE#F1 (v1)#61.8
+Dialog Relation Extraction#DialogRE#F1c (v1)#58.4

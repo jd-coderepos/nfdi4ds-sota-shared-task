@@ -1,0 +1,2 @@
+3D Multi-Person Pose Estimation#Shelf#PCP3D#97.7
+3D Multi-Person Pose Estimation#Panoptic#Average MPJPE (mm)#15.84

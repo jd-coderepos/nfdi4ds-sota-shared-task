@@ -1,0 +1,1 @@
+Hope Speech Detection#KanHope#F1-score (Weighted)#0.650

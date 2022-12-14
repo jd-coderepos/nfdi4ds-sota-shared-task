@@ -1,0 +1,1 @@
+Image Generation#ImageNet 64x64#Bits per dim#3.57

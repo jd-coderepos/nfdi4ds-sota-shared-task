@@ -1,0 +1,1 @@
+Semantic Segmentation#CamVid#Mean IoU#62.5

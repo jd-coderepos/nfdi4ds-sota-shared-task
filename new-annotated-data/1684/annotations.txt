@@ -1,0 +1,4 @@
+Video Generation#BAIR Robot Pushing#FVD score#296.5
+Video Generation#BAIR Robot Pushing#Cond#2
+Video Generation#BAIR Robot Pushing#Pred#14
+Video Generation#BAIR Robot Pushing#Train#14

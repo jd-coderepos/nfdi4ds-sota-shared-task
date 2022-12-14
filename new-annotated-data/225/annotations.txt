@@ -1,0 +1,12 @@
+3D Human Reconstruction#CAPE#Chamfer (cm)#3.573
+3D Human Reconstruction#CAPE#P2S (cm)#1.483
+3D Human Reconstruction#CAPE#NC#0.186
+3D Object Reconstruction#RenderPeople#Surface normal consistency#0.094
+3D Object Reconstruction#RenderPeople#Point-to-surface distance (cm)#0.554
+3D Object Reconstruction#RenderPeople#Chamfer (cm)#0.567
+3D Object Reconstruction From A Single Image#BUFF#Point-to-surface distance (cm)#1.15
+3D Object Reconstruction From A Single Image#BUFF#Chamfer (cm)#1.14
+3D Object Reconstruction From A Single Image#BUFF#Surface normal consistency#0.0928
+3D Object Reconstruction From A Single Image#RenderPeople#Point-to-surface distance (cm)#1.52
+3D Object Reconstruction From A Single Image#RenderPeople#Chamfer (cm)#1.5
+3D Object Reconstruction From A Single Image#RenderPeople#Surface normal consistency#0.084

@@ -1,0 +1,94 @@
+Object Detection#CPPE-5#box AP#52.9
+Object Detection#CPPE-5#AP50#85.1
+Object Detection#CPPE-5#AP75#58.3
+Object Detection#CPPE-5#APS#42.6
+Object Detection#CPPE-5#APM#41.3
+Object Detection#CPPE-5#APL#62.6
+Object Detection#CPPE-5#box AP#52.5
+Object Detection#CPPE-5#AP50#86.5
+Object Detection#CPPE-5#AP75#54.1
+Object Detection#CPPE-5#APS#38.7
+Object Detection#CPPE-5#APM#43.4
+Object Detection#CPPE-5#APL#61.0
+Object Detection#CPPE-5#box AP#52.0
+Object Detection#CPPE-5#AP50#87.3
+Object Detection#CPPE-5#AP75#55.2
+Object Detection#CPPE-5#APS#38.6
+Object Detection#CPPE-5#APM#41.0
+Object Detection#CPPE-5#APL#60.8
+Object Detection#CPPE-5#box AP#51.6
+Object Detection#CPPE-5#AP50#87.1
+Object Detection#CPPE-5#AP75#55.9
+Object Detection#CPPE-5#APS#36.3
+Object Detection#CPPE-5#APM#41.4
+Object Detection#CPPE-5#APL#61.3
+Object Detection#CPPE-5#box AP#51.3
+Object Detection#CPPE-5#AP50#85.3
+Object Detection#CPPE-5#AP75#51.8
+Object Detection#CPPE-5#APS#35.7
+Object Detection#CPPE-5#APM#41.1
+Object Detection#CPPE-5#APL#60.5
+Object Detection#CPPE-5#box AP#51.0
+Object Detection#CPPE-5#AP50#82.6
+Object Detection#CPPE-5#AP75#56.7
+Object Detection#CPPE-5#APS#39.0
+Object Detection#CPPE-5#APM#42.1
+Object Detection#CPPE-5#APL#58.8
+Object Detection#CPPE-5#box AP#50.9
+Object Detection#CPPE-5#AP50#76.5
+Object Detection#CPPE-5#AP75#58.8
+Object Detection#CPPE-5#APS#45.8
+Object Detection#CPPE-5#APM#43.0
+Object Detection#CPPE-5#APL#59.4
+Object Detection#CPPE-5#box AP#49.2
+Object Detection#CPPE-5#AP50#84.7
+Object Detection#CPPE-5#AP75#48.2
+Object Detection#CPPE-5#APS#45.3
+Object Detection#CPPE-5#APM#39.6
+Object Detection#CPPE-5#APL#56.7
+Object Detection#CPPE-5#box AP#48.0
+Object Detection#CPPE-5#AP50#76.9
+Object Detection#CPPE-5#AP75#52.8
+Object Detection#CPPE-5#APS#36.4
+Object Detection#CPPE-5#APM#35.2
+Object Detection#CPPE-5#APL#53.9
+Object Detection#CPPE-5#box AP#47.5
+Object Detection#CPPE-5#AP50#77.9
+Object Detection#CPPE-5#AP75#50.6
+Object Detection#CPPE-5#APS#43.4
+Object Detection#CPPE-5#APM#37.2
+Object Detection#CPPE-5#APL#54.4
+Object Detection#CPPE-5#box AP#44.4
+Object Detection#CPPE-5#AP50#79.5
+Object Detection#CPPE-5#AP75#45.9
+Object Detection#CPPE-5#APS#36.7
+Object Detection#CPPE-5#APM#39.2
+Object Detection#CPPE-5#APL#51.7
+Object Detection#CPPE-5#box AP#44.0
+Object Detection#CPPE-5#AP50#73.8
+Object Detection#CPPE-5#AP75#47.8
+Object Detection#CPPE-5#APS#30.0
+Object Detection#CPPE-5#APM#34.7
+Object Detection#CPPE-5#APL#52.5
+Object Detection#CPPE-5#AP50#69.6
+Object Detection#CPPE-5#AP75#44.6
+Object Detection#CPPE-5#APM#30.6
+Object Detection#CPPE-5#APL#54.7
+Object Detection#CPPE-5#box AP#43.0
+Object Detection#CPPE-5#AP50#75.9
+Object Detection#CPPE-5#AP75#40.1
+Object Detection#CPPE-5#APS#27.3
+Object Detection#CPPE-5#APM#36.7
+Object Detection#CPPE-5#APL#48.0
+Object Detection#CPPE-5#box AP#38.5
+Object Detection#CPPE-5#AP50#79.4
+Object Detection#CPPE-5#AP75#35.3
+Object Detection#CPPE-5#APS#23.1
+Object Detection#CPPE-5#APM#28.4
+Object Detection#CPPE-5#APL#49.0
+Object Detection#CPPE-5#box AP#29.50
+Object Detection#CPPE-5#AP50#57.0
+Object Detection#CPPE-5#AP75#24.9
+Object Detection#CPPE-5#APS#32.1
+Object Detection#CPPE-5#APM#23.1
+Object Detection#CPPE-5#APL#34.6

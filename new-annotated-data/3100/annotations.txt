@@ -1,0 +1,27 @@
+Named Entity Recognition#Few-NERD (SUP)#Precision#65.56
+Named Entity Recognition#Few-NERD (SUP)#Recall#68.78
+Named Entity Recognition#Few-NERD (SUP)#F1-Measure#67.13
+Few-shot NER#Few-NERD (INTER)#5 way 1~2 shot#51.88±0.69
+Few-shot NER#Few-NERD (INTER)#5 way 5~10 shot#57.32±0.63
+Few-shot NER#Few-NERD (INTER)#10 way 1~2 shot#43.34±0.10
+Few-shot NER#Few-NERD (INTER)#10 way 5~10 shot#49.57±3.08
+Few-shot NER#Few-NERD (INTER)#5 way 1~2 shot#47.24±1.00
+Few-shot NER#Few-NERD (INTER)#5 way 5~10 shot#55.64±0.63
+Few-shot NER#Few-NERD (INTER)#10 way 1~2 shot#38.87±0.21
+Few-shot NER#Few-NERD (INTER)#10 way 5~10 shot#49.57±2.73
+Few-shot NER#Few-NERD (INTER)#5 way 1~2 shot#38.83±1.49
+Few-shot NER#Few-NERD (INTER)#5 way 5~10 shot#58.79±0.44
+Few-shot NER#Few-NERD (INTER)#10 way 1~2 shot#32.45±0.79
+Few-shot NER#Few-NERD (INTER)#10 way 5~10 shot#52.92±0.37
+Few-shot NER#Few-NERD (INTRA)#5 way 1~2 shot#30.21±0.90
+Few-shot NER#Few-NERD (INTRA)#5 way 5~10 shot#38.00±1.29
+Few-shot NER#Few-NERD (INTRA)#10 way 1~2 shot#21.03±1.13
+Few-shot NER#Few-NERD (INTRA)#10 way 5~10 shot#26.42±0.60
+Few-shot NER#Few-NERD (INTRA)#5 way 1~2 shot#25.78±0.91
+Few-shot NER#Few-NERD (INTRA)#5 way 5~10 shot#36.18±0.79
+Few-shot NER#Few-NERD (INTRA)#10 way 1~2 shot#18.27±0.41
+Few-shot NER#Few-NERD (INTRA)#10 way 5~10 shot#27.38±0.53
+Few-shot NER#Few-NERD (INTRA)#5 way 1~2 shot#20.76±0.84
+Few-shot NER#Few-NERD (INTRA)#5 way 5~10 shot#42.54±0.94
+Few-shot NER#Few-NERD (INTRA)#10 way 1~2 shot#15.05±0.44
+Few-shot NER#Few-NERD (INTRA)#10 way 5~10 shot#35.40±0.13

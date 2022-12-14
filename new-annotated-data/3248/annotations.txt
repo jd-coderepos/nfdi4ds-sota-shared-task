@@ -1,0 +1,26 @@
+Image Captioning#COCO Captions#BLEU-4#42.6
+Image Captioning#COCO Captions#METEOR#31.4
+Image Captioning#COCO Captions#CIDER#145.5
+Image Captioning#COCO Captions#SPICE#25.5
+Image Captioning#nocaps-XD entire#CIDEr#114.25
+Image Captioning#nocaps-XD entire#B1#85.62
+Image Captioning#nocaps-XD entire#B2#71.36
+Image Captioning#nocaps-XD entire#B3#53.62
+Image Captioning#nocaps-XD entire#B4#34.65
+Image Captioning#nocaps-XD entire#ROUGE-L#61.2
+Image Captioning#nocaps-XD entire#METEOR#31.27
+Image Captioning#nocaps-XD entire#SPICE#14.85
+Image Captioning#nocaps-val-out-domain#CIDEr#111.3
+Image Captioning#nocaps-val-out-domain#SPICE#14.0
+Image Captioning#nocaps-val-out-domain#Pretrain (#images)#200M
+Image Captioning#nocaps-val-overall#CIDEr#113.4
+Image Captioning#nocaps-val-overall#SPICE#15.0
+Image Captioning#nocaps-val-overall#Pretrain (#images)#200M
+Image Captioning#nocaps-val-in-domain#CIDEr#116.9
+Image Captioning#nocaps-val-in-domain#SPICE#15.8
+Image Captioning#nocaps-val-in-domain#Pre-train (#images)#200M
+Image Captioning#nocaps-val-in-domain#CIDEr#107.7
+Image Captioning#nocaps-val-in-domain#SPICE#14.7
+Image Captioning#nocaps-val-near-domain#CIDEr#113.3
+Image Captioning#nocaps-val-near-domain#SPICE#15.1
+Image Captioning#nocaps-val-near-domain#Pre-train (#images)#200M

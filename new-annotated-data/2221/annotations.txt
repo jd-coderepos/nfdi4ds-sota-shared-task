@@ -1,0 +1,22 @@
+Data-to-Text Generation#WebNLG Full#BLEU#59.70
+Data-to-Text Generation#WebNLG#BLEU#65.05
+KG-to-Text Generation#WebNLG (Unseen)#BLEU#53.67
+KG-to-Text Generation#WebNLG (Unseen)#METEOR#42.26
+KG-to-Text Generation#WebNLG (Unseen)#chrF++#72.25
+KG-to-Text Generation#WebNLG (Unseen)#BLEU#43.97
+KG-to-Text Generation#WebNLG (Unseen)#METEOR#38.61
+KG-to-Text Generation#WebNLG (Unseen)#chrF++#66.53
+KG-to-Text Generation#WebNLG (All)#BLEU#59.70
+KG-to-Text Generation#WebNLG (All)#METEOR#44.18
+KG-to-Text Generation#WebNLG (All)#chrF++#75.40
+KG-to-Text Generation#WebNLG (All)#BLEU#54.72
+KG-to-Text Generation#WebNLG (All)#METEOR#42.23
+KG-to-Text Generation#WebNLG (All)#chrF++#72.29
+KG-to-Text Generation#WebNLG (Seen)#BLEU#64.71
+KG-to-Text Generation#WebNLG (Seen)#METEOR#45.85
+KG-to-Text Generation#WebNLG (Seen)#chrF++#78.29
+KG-to-Text Generation#WebNLG (Seen)#BLEU#63.45
+KG-to-Text Generation#WebNLG (Seen)#METEOR#45.49
+KG-to-Text Generation#WebNLG (Seen)#chrF++#77.57
+KG-to-Text Generation#AGENDA#BLEU#25.66
+KG-to-Text Generation#AGENDA#BLEU#23.65

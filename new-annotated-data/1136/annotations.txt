@@ -1,0 +1,3 @@
+Medical Image Segmentation#Autoimmune Dataset#IoU#0.4983
+Classification#Autoimmune Dataset#F1 score#0.891
+Classification#Autoimmune Dataset#F1 score#0.63

@@ -1,0 +1,17 @@
+Personalized Federated Learning#CIFAR-10#ACC@1-50Clients#88.6
+Personalized Federated Learning#CIFAR-10#ACC@1-100Clients#87.4
+Personalized Federated Learning#CIFAR-10#ACC@1-500#86.9
+Personalized Federated Learning#CIFAR-10#ACC@1-50Clients#89.2
+Personalized Federated Learning#CIFAR-10#ACC@1-100Clients#88.8
+Personalized Federated Learning#CIFAR-10#ACC@1-500#87.6
+Personalized Federated Learning#CIFAR-10#ACC@1-50Clients#89.9
+Personalized Federated Learning#CIFAR-10#ACC@1-500#86.8
+Personalized Federated Learning#CIFAR-100#ACC@1-50Clients#60.2
+Personalized Federated Learning#CIFAR-100#ACC@1-100Clients#58.5
+Personalized Federated Learning#CIFAR-100#ACC@1-500#55.7
+Personalized Federated Learning#CIFAR-100#ACC@1-50Clients#63.3
+Personalized Federated Learning#CIFAR-100#ACC@1-100Clients#61.3
+Personalized Federated Learning#CIFAR-100#ACC@1-500#50.6
+Personalized Federated Learning#CIFAR-100#ACC@1-50Clients#61.2
+Personalized Federated Learning#CIFAR-100#ACC@1-100Clients#59.8
+Personalized Federated Learning#CIFAR-100#ACC@1-500#49.2

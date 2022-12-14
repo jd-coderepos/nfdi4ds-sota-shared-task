@@ -1,0 +1,1 @@
+Video Retrieval#MSR-VTT-1kA#video-to-text R@1#42.8

@@ -1,0 +1,4 @@
+Image Classification#iNaturalist#Top 1 Accuracy#72.3
+Fine-Grained Image Classification#Stanford Cars#Accuracy#94.6%
+Fine-Grained Image Classification#FGVC Aircraft#Accuracy#93.5
+Fine-Grained Image Classification#Stanford Dogs#Accuracy#93.0%

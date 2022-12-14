@@ -1,0 +1,12 @@
+Semantic Segmentation#Cityscapes val#mIoU#83.16%
+Semantic Segmentation#Cityscapes val#mIoU#82.81%
+Semantic Segmentation#Cityscapes val#mIoU#81.63%
+Semantic Segmentation#ADE20K#Validation mIoU#50.2
+Semantic Segmentation#ADE20K#Params (M)#28.7
+Semantic Segmentation#ADE20K#GFLOPs (512 x 512)#67.9
+Semantic Segmentation#ADE20K#Validation mIoU#48.76
+Semantic Segmentation#ADE20K#Params (M)#20.8
+Semantic Segmentation#ADE20K#GFLOPs (512 x 512)#28.0
+Semantic Segmentation#ADE20K#Validation mIoU#45.88
+Semantic Segmentation#ADE20K#Params (M)#8.2
+Semantic Segmentation#ADE20K#GFLOPs (512 x 512)#14.6

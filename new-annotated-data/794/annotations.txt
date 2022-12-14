@@ -1,0 +1,1 @@
+Joint Entity and Relation Extraction#KPI-EDGAR#Relation F1#43.76

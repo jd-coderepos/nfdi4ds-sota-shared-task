@@ -1,0 +1,9 @@
+Line Segment Detection#York Urban Dataset#F1 score#0.642
+Line Segment Detection#York Urban Dataset#sAP5#24.6
+Line Segment Detection#York Urban Dataset#sAP10#27.3
+Line Segment Detection#wireframe dataset#F1 score#0.800
+Line Segment Detection#wireframe dataset#sAP5#56.4
+Line Segment Detection#wireframe dataset#sAP10#62.1
+Line Segment Detection#wireframe dataset#LAP#61.5
+Line Segment Detection#wireframe dataset#Params (M)#1.5
+Line Segment Detection#wireframe dataset#FPS#115.4

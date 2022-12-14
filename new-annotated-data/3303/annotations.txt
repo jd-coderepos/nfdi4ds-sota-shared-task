@@ -1,0 +1,24 @@
+Short Text Clustering#Biomedical#Acc#49.8
+Short Text Clustering#Biomedical#NMI#42.9
+Short Text Clustering#Stackoverflow#Acc#88.2
+Short Text Clustering#Stackoverflow#NMI#0.786
+Image Clustering#Imagenet-dog-15#Accuracy#0.644
+Image Clustering#Imagenet-dog-15#NMI#0.623
+Image Clustering#Imagenet-dog-15#ARI#0.516
+Image Clustering#ImageNet-10#Accuracy#0.895
+Image Clustering#ImageNet-10#NMI#0.875
+Image Clustering#ImageNet-10#ARI#0.837
+Image Clustering#CIFAR-100#Accuracy#0.531
+Image Clustering#CIFAR-100#NMI#0.529
+Image Clustering#CIFAR-100#Train Set#Train
+Image Clustering#CIFAR-100#ARI#0.357
+Image Clustering#STL-10#Accuracy#0.868
+Image Clustering#STL-10#NMI#0.799
+Image Clustering#STL-10#Train Split#Train
+Image Clustering#STL-10#ARI#0.757
+Image Clustering#STL-10#Backbone#ResNet-34
+Image Clustering#CIFAR-10#Accuracy#0.887
+Image Clustering#CIFAR-10#NMI#0.819
+Image Clustering#CIFAR-10#Train set#Train
+Image Clustering#CIFAR-10#ARI#0.780
+Image Clustering#CIFAR-10#Backbone#ResNet-34

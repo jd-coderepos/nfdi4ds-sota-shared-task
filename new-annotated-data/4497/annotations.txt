@@ -1,0 +1,2 @@
+Quantization#ImageNet#Accuracy#71.5
+Quantization#ImageNet#Top 1 Accuracy#65.8

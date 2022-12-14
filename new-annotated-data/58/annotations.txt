@@ -1,0 +1,4 @@
+Monocular Depth Estimation#Mid-Air Dataset#Abs Rel#0.1425
+Monocular Depth Estimation#Mid-Air Dataset#SQ Rel#3.6798
+Monocular Depth Estimation#Mid-Air Dataset#RMSE#8.8641
+Monocular Depth Estimation#Mid-Air Dataset#RMSE log#0.24571

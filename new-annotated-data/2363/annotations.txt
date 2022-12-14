@@ -1,0 +1,3 @@
+Language Modelling#LAMBADA#Accuracy#87.2
+Sentence Completion#HellaSwag#Accuracy#82.4
+Sentence Completion#HellaSwag#Accuracy#80.2

@@ -1,0 +1,5 @@
+Few-Shot Image Classification#Bongard-HOI#Avg. Accuracy#91.42
+Few-Shot Image Classification#Bongard-HOI#Avg. Accuracy#55.82
+Few-Shot Image Classification#Bongard-HOI#Avg. Accuracy#54.30
+Few-Shot Image Classification#Bongard-HOI#Avg. Accuracy#54.23
+Few-Shot Image Classification#Bongard-HOI#Avg. Accuracy#49.74

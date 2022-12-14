@@ -1,0 +1,4 @@
+Aspect-oriented  Opinion Extraction#SemEval 2014 Task 4 Sub Task 2#Restaurant 2014 (F1)#82.33
+Aspect-oriented  Opinion Extraction#SemEval 2014 Task 4 Sub Task 2#Laptop 2014 (F1)#75.77
+Aspect-oriented  Opinion Extraction#SemEval 2014 Task 4 Sub Task 2#Restaurant 2015 (F1)#78.81
+Aspect-oriented  Opinion Extraction#SemEval 2014 Task 4 Sub Task 2#Restaurant 2016 (F1)#86.01

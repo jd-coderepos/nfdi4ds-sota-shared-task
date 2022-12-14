@@ -1,0 +1,4 @@
+Anomaly Detection#CUHK Avenue#AUC#88.33%
+Anomaly Detection#ShanghaiTech#AUC#76.03%
+Anomaly Detection#Corridor#AUC#67.12
+Anomaly Detection#HR-ShanghaiTech#AUC#77.04

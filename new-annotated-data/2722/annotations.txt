@@ -1,0 +1,24 @@
+Real-Time Semantic Segmentation#Cityscapes val#mIoU#80.9%
+Real-Time Semantic Segmentation#Cityscapes val#Frame (fps)#31.1(3090)
+Real-Time Semantic Segmentation#Cityscapes val#Time (ms)#32.2
+Real-Time Semantic Segmentation#Cityscapes val#mIoU#79.9%
+Real-Time Semantic Segmentation#Cityscapes val#Frame (fps)#42.2(3090)
+Real-Time Semantic Segmentation#Cityscapes val#Time (ms)#23.7
+Real-Time Semantic Segmentation#Cityscapes val#mIoU#78.8%
+Real-Time Semantic Segmentation#Cityscapes val#Frame (fps)#93.2(3090)
+Real-Time Semantic Segmentation#Cityscapes val#Time (ms)#10.7
+Real-Time Semantic Segmentation#CamVid#mIoU#82.0
+Real-Time Semantic Segmentation#CamVid#Time (ms)#11.7
+Real-Time Semantic Segmentation#CamVid#Frame (fps)#85.6(3090)
+Real-Time Semantic Segmentation#CamVid#mIoU#80.1
+Real-Time Semantic Segmentation#CamVid#Time (ms)#6.5
+Real-Time Semantic Segmentation#CamVid#Frame (fps)#153.7(3090)
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#80.6%
+Real-Time Semantic Segmentation#Cityscapes test#Time (ms)#32.2
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#31.1(3090)
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#79.8%
+Real-Time Semantic Segmentation#Cityscapes test#Time (ms)#23.7
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#42.2(3090)
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#78.6%
+Real-Time Semantic Segmentation#Cityscapes test#Time (ms)#10.7
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#93.2(3090)

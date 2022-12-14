@@ -1,0 +1,4 @@
+Speech Separation#Libri5Mix#SI-SDRi#13.7
+Speech Separation#Libri10Mix#SI-SDRi#8.2
+Speech Separation#WSJ0-3mix#SI-SDRi#20.1
+Speech Separation#WSJ0-2mix#SI-SDRi#22.4

@@ -1,0 +1,14 @@
+Image Retrieval#iNaturalist#R@1#73.6
+Image Retrieval#iNaturalist#R@5#86.2
+Image Retrieval#iNaturalist#R@16#93.1
+Image Retrieval#iNaturalist#R@32#95.2
+Image Retrieval#iNaturalist#R@1#69.1
+Image Retrieval#iNaturalist#R@5#83.1
+Image Retrieval#iNaturalist#R@16#91.3
+Image Retrieval#iNaturalist#R@32#93.9
+Image Retrieval#SOP#R@1#86.0
+Image Retrieval#SOP#R@1#83.1
+Image Retrieval#CUB-200-2011#R@1#77.4
+Image Retrieval#CUB-200-2011#R@1#68.5
+Metric Learning#Stanford Online Products#R@1#86.0
+Metric Learning#Stanford Online Products#R@1#83.1

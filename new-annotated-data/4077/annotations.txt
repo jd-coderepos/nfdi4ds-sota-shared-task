@@ -1,0 +1,13 @@
+Image Classification#mini WebVision 1.0#Top-1 Accuracy#81.47
+Image Classification#mini WebVision 1.0#Top-5 Accuracy#94.03
+Image Classification#mini WebVision 1.0#ImageNet Top-1 Accuracy#75.45
+Image Classification#mini WebVision 1.0#ImageNet Top-5 Accuracy#93.11
+Image Classification#Clothing1M#Accuracy#75.19%
+Image Classification#CIFAR-10 (with noisy labels)#Accuracy (under 20% Sym. label noise)#96.7%
+Image Classification#CIFAR-10 (with noisy labels)#Accuracy (under 50% Sym. label noise)#96.3%
+Image Classification#CIFAR-10 (with noisy labels)#Accuracy (under 80% Sym. label noise)#94.7%
+Image Classification#CIFAR-10 (with noisy labels)#Accuracy (under 90% Sym. label noise)#84.0%
+Learning with noisy labels#CIFAR-10N-Random1#Accuracy (mean)#96.01
+Learning with noisy labels#CIFAR-100N#Accuracy (mean)#74.08
+Learning with noisy labels#CIFAR-10N-Worst#Accuracy (mean)#93.65
+Learning with noisy labels#CIFAR-10N-Aggregate#Accuracy (mean)#96.11

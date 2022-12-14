@@ -1,0 +1,4 @@
+Gaze Estimation#EYEDIAP (screen target)#Angular Error#3.38
+Gaze Estimation#EYEDIAP (screen target)#Angular Error#3.4
+Gaze Estimation#EYEDIAP (floating target)#Angular Error#5.19
+Gaze Estimation#EYEDIAP (floating target)#Angular Error#5.43

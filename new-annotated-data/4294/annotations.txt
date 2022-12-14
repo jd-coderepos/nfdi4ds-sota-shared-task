@@ -1,0 +1,3 @@
+Traffic Prediction#METR-LA#MAE @ 12 step#3.35
+Traffic Prediction#PEMS-BAY#MAE @ 12 step#1.85
+Traffic Prediction#PEMS-BAY#RMSE#4.30

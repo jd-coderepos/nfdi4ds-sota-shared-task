@@ -1,0 +1,7 @@
+Image Classification#Tiger-beetle-image-dataset#Accuracy#93.2
+Image Classification#EILAT#Accuracy#99.7
+Image Classification#Florida Wildlife Camera Trap Dataset#Accuracy#93.2
+Image Classification#RSMAS#Accuracy#1
+Image Classification#Data for: Deep Learning Classification of Lake Zooplankton#Accuracy#99.6
+Fine-Grained Image Classification#Stanford Dogs#Accuracy#97.2%
+Fine-Grained Image Classification#NABirds#Accuracy#93.5%

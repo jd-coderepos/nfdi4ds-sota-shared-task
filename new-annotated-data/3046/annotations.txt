@@ -1,0 +1,8 @@
+Aspect-Based Sentiment Analysis#Rest16#Acc#93.02
+Aspect-Based Sentiment Analysis#Rest16#Acc#89.84
+Aspect-Based Sentiment Analysis#Lap14#Acc#81.49
+Aspect-Based Sentiment Analysis#Lap14#Acc#78.64
+Aspect-Based Sentiment Analysis#Rest14#Acc#87.41
+Aspect-Based Sentiment Analysis#Rest14#Acc#84.09
+Aspect-Based Sentiment Analysis#Rest15#Acc#85.61
+Aspect-Based Sentiment Analysis#Rest15#Acc#82.66

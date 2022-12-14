@@ -1,0 +1,2 @@
+Speech Synthesis#North American English#Mean Opinion Score#4.526
+Speech Synthesis#North American English#Mean Opinion Score#4.341

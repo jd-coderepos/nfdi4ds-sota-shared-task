@@ -1,0 +1,4 @@
+Entity Alignment#DBP2.0 zh-en#dangling entity detection F1#0.767
+Entity Alignment#DBP2.0 zh-en#Entity Alignment (Consolidated) F1#0.335
+Entity Alignment#DBP2.0 zh-en#dangling entity detection F1#0.643
+Entity Alignment#DBP2.0 zh-en#Entity Alignment (Consolidated) F1#0.238

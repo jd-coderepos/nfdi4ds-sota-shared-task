@@ -1,0 +1,2 @@
+Audio-Visual Active Speaker Detection#AVA-ActiveSpeaker#validation mean average precision#88.8%
+Audio-Visual Active Speaker Detection#AVA-ActiveSpeaker#validation mean average precision#85.1%

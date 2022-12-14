@@ -1,0 +1,20 @@
+Video Prediction#KTH#LPIPS#0.0736±0.0029
+Video Prediction#KTH#PSNR#29.69±032
+Video Prediction#KTH#FVD#222 ± 3
+Video Prediction#KTH#SSIM#0.8697±0.0046
+Video Prediction#KTH#Cond#10
+Video Prediction#KTH#Pred#30
+Video Prediction#KTH#Train#10
+Video Prediction#KTH 64x64 cond10 pred30#FVD#222
+Video Prediction#Cityscapes 128x128#SSIM#0.603±0.016
+Video Prediction#Cityscapes 128x128#LPIPS#0.447±0.014
+Video Prediction#Cityscapes 128x128#Cond.#10
+Video Prediction#Cityscapes 128x128#PSNR#20.97±0.43
+Video Prediction#Cityscapes 128x128#Pred#20
+Video Generation#BAIR Robot Pushing#FVD score#162 ± 4
+Video Generation#BAIR Robot Pushing#Cond#2
+Video Generation#BAIR Robot Pushing#SSIM#0.8196±0.0084
+Video Generation#BAIR Robot Pushing#PSNR#19.59±0.27
+Video Generation#BAIR Robot Pushing#LPIPS#0.0574±0.0032
+Video Generation#BAIR Robot Pushing#Pred#28
+Video Generation#BAIR Robot Pushing#Train#12

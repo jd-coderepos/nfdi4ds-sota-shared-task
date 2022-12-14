@@ -1,0 +1,3 @@
+Object Detection#SpaceNet 2#F1 Score (Avg. over Cities)#0.60
+Object Detection#SpaceNet 2#F1 Score (Avg. over Cities)#0.57
+Object Detection#SpaceNet 1#F1 Score#0.21

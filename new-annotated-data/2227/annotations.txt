@@ -1,0 +1,48 @@
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#BLEU#61.01
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#METEOR#46.32
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#ROUGE#73.57
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#BLEU#58.66
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#METEOR#46.04
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#ROUGE#73.06
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#BLEU#58.55
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#METEOR#45.01
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#ROUGE#72.31
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#BLEU#56.65
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#METEOR#44.51
+KG-to-Text Generation#WebNLG 2.0 (Constrained)#ROUGE#70.94
+KG-to-Text Generation#PathQuestion#BLEU#65.89
+KG-to-Text Generation#PathQuestion#METEOR#48.25
+KG-to-Text Generation#PathQuestion#ROUGE#78.87
+KG-to-Text Generation#PathQuestion#BLEU#63.74
+KG-to-Text Generation#PathQuestion#METEOR#47.23
+KG-to-Text Generation#PathQuestion#ROUGE#77.76
+KG-to-Text Generation#PathQuestion#BLEU#60.45
+KG-to-Text Generation#PathQuestion#METEOR#45.38
+KG-to-Text Generation#PathQuestion#ROUGE#77.59
+KG-to-Text Generation#PathQuestion#BLEU#58.95
+KG-to-Text Generation#PathQuestion#METEOR#44.72
+KG-to-Text Generation#PathQuestion#ROUGE#76.58
+KG-to-Text Generation#WebQuestions#BLEU#30.02
+KG-to-Text Generation#WebQuestions#METEOR#32.05
+KG-to-Text Generation#WebQuestions#ROUGE#55.6
+KG-to-Text Generation#WebQuestions#BLEU#29.61
+KG-to-Text Generation#WebQuestions#METEOR#31.48
+KG-to-Text Generation#WebQuestions#ROUGE#55.42
+KG-to-Text Generation#WebQuestions#BLEU#28.95
+KG-to-Text Generation#WebQuestions#METEOR#31.29
+KG-to-Text Generation#WebQuestions#ROUGE#54.47
+KG-to-Text Generation#WebQuestions#BLEU#28.78
+KG-to-Text Generation#WebQuestions#METEOR#30.55
+KG-to-Text Generation#WebQuestions#ROUGE#55.12
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#BLEU#66.14
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#METEOR#47.25
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#ROUGE#75.91
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#BLEU#65.92
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#METEOR#47.15
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#ROUGE#76.10
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#BLEU#64.55
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#METEOR#46.51
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#ROUGE#75.13
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#BLEU#64.42
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#METEOR#46.58
+KG-to-Text Generation#WebNLG 2.0 (Unconstrained)#ROUGE#74.77

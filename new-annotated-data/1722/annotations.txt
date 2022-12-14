@@ -1,0 +1,5 @@
+Anomaly Detection#Fashion-MNIST#ROC AUC#95.0
+Anomaly Detection#MVTec AD#Detection AUROC#98.5
+Anomaly Detection#MVTec AD#Segmentation AUROC#97.8
+Anomaly Detection#MVTec AD#Segmentation AUPRO#93.9
+Anomaly Detection#One-class CIFAR-10#AUROC#86.5

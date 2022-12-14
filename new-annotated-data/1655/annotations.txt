@@ -1,0 +1,8 @@
+Video Prediction#Moving MNIST#MSE#41.5
+Video Prediction#Moving MNIST#SSIM#0.924
+Video Prediction#Moving MNIST#LPIPS#0.047
+Video Prediction#KTH#LPIPS#159.8
+Video Prediction#KTH#PSNR#27.5
+Video Prediction#KTH#SSIM#0.879
+Video Prediction#KTH#Cond#10
+Video Prediction#KTH#Pred#40

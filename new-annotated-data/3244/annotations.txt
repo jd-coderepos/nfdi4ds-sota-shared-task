@@ -1,0 +1,4 @@
+Image Captioning#Flickr30k Captions test#BLEU-4#21.3
+Image Captioning#Flickr30k Captions test#CIDEr#46.4
+Image Captioning#Flickr30k Captions test#METEOR#20.0
+Image Captioning#Flickr30k Captions test#SPICE#-

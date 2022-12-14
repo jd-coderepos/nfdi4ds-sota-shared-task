@@ -1,0 +1,9 @@
+Spatial Relation Recognition#Rel3D#Acc#94.25
+Spatial Relation Recognition#Rel3D#Acc#85.03
+Spatial Relation Recognition#Rel3D#Acc#81.24
+Spatial Relation Recognition#Rel3D#Acc#74.14
+Spatial Relation Recognition#Rel3D#Acc#73.3
+Spatial Relation Recognition#Rel3D#Acc#73.25
+Spatial Relation Recognition#Rel3D#Acc#72.32
+Spatial Relation Recognition#Rel3D#Acc#72.27
+Spatial Relation Recognition#Rel3D#Acc#50

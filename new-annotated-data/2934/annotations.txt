@@ -1,0 +1,2 @@
+Pose Estimation#ITOP front-view#Mean mAP#88.75
+Pose Estimation#ITOP top-view#Mean mAP#86.92

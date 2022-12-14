@@ -1,0 +1,20 @@
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#Recall (0.3m, 15 degrees)#92.4
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#RE (all)#8.9
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#TE (all)#0.23
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#Recall (0.3m, 15 degrees)#91.3
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#RE (all)#9.8
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#TE (all)#0.24
+Point Cloud Registration#3DMatch (at least 30% overlapped - sample 5k interest points)#Recall ( correspondence RMSE below 0.2)#85.5
+Point Cloud Registration#KITTI (FCGF setting)#Recall (0.6m, 5 degrees)#98
+Point Cloud Registration#KITTI (FCGF setting)#RE (all)#0.79
+Point Cloud Registration#KITTI (FCGF setting)#TE (all)#0.12
+Point Cloud Registration#KITTI (FCGF setting)#Recall (0.6m, 5 degrees)#97.4
+Point Cloud Registration#KITTI (FCGF setting)#RE (all)#1.04
+Point Cloud Registration#KITTI (FCGF setting)#TE (all)#0.17
+Point Cloud Registration#KITTI (FCGF setting)#Recall (0.6m, 5 degrees)#97.2
+Point Cloud Registration#KITTI (FCGF setting)#RE (all)#1.00
+Point Cloud Registration#KITTI (FCGF setting)#TE (all)#0.18
+Point Cloud Registration#KITTI (FCGF setting)#Recall (0.6m, 5 degrees)#96.5
+Point Cloud Registration#KITTI (FCGF setting)#RE (all)#1.17
+Point Cloud Registration#KITTI (FCGF setting)#TE (all)#0.22
+Point Cloud Registration#3DLoMatch (10-30% overlap)#Recall ( correspondence RMSE below 0.2)#54.9

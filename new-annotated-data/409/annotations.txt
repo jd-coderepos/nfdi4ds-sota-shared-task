@@ -1,0 +1,5 @@
+Text-to-Image Generation#COCO#FID#14.6
+Text-to-Image Generation#CUB#FID#10.21
+Text-to-Image Generation#CUB#Inception score#5.36
+Text-to-Image Generation#Oxford 102 Flowers#FID#16.04
+Text-to-Image Generation#Oxford 102 Flowers#Inception score#4.09

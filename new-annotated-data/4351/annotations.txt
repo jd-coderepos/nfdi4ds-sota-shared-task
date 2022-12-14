@@ -1,0 +1,4 @@
+Spoof Detection#ASVspoof 2019 - LA#EER#1.89
+Spoof Detection#ASVspoof 2019 - LA#t-DCF#0.0507
+Spoof Detection#ASVspoof 2019 - PA#EER#0.86
+Spoof Detection#ASVspoof 2019 - PA#t-DCF#0.0239

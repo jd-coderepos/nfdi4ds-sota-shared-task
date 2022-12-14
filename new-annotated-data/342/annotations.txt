@@ -1,0 +1,3 @@
+Facial Attribute Classification#FairFace#race-top1#93.7
+Facial Attribute Classification#FairFace#gender-top1#94.2
+Facial Attribute Classification#FairFace#age-top1#59.7

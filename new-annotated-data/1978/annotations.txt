@@ -1,0 +1,3 @@
+Question Answering#Torque#F1#75.2
+Question Answering#Torque#EM#51.1
+Question Answering#Torque#C#34.5

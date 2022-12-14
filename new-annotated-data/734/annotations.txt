@@ -1,0 +1,18 @@
+Relation Extraction#ACE 2004#NER Micro F1#89.3
+Relation Extraction#ACE 2004#RE+ Micro F1#62.5
+Relation Extraction#ACE 2004#Cross Sentence#No
+Relation Extraction#ACE 2005#NER Micro F1#89.0
+Relation Extraction#ACE 2005#RE+ Micro F1#66.8
+Relation Extraction#ACE 2005#Sentence Encoder#ALBERT
+Relation Extraction#ACE 2005#Cross Sentence#No
+Relation Extraction#SciERC#RE+ Micro F1#38.4
+Relation Extraction#SciERC#NER Micro F1#66.8
+Relation Extraction#ADE Corpus#NER Macro F1#91.3
+Relation Extraction#ADE Corpus#RE+ Macro F1#83.2
+Relation Extraction#NYT#F1#92.4
+Relation Extraction#NYT#NER Micro F1#95.8
+Relation Extraction#WebNLG#F1#93.6
+Relation Extraction#WebNLG#NER Micro F1#98.0
+Joint Entity and Relation Extraction#SciERC#Entity F1#66.8
+Joint Entity and Relation Extraction#SciERC#RE+ Micro F1#38.4
+Joint Entity and Relation Extraction#SciERC#Cross Sentence#No

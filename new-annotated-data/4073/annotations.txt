@@ -1,0 +1,2 @@
+Image Classification#Imagenette#Accuracy#69.7
+Image Classification#CIFAR-10#Percentage correct#73.5

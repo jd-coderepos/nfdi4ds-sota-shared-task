@@ -1,0 +1,7 @@
+Novel View Synthesis#RTMV#PSNR#14.588
+Novel View Synthesis#RTMV#SSIM#0.483
+Novel View Synthesis#RTMV#PSNR#12.149
+Novel View Synthesis#RTMV#SSIM#0.629
+Novel View Synthesis#RTMV#SSIM#0.523
+Novel View Synthesis#RTMV#PSNR#12.126
+Novel View Synthesis#RTMV#SSIM#0.318

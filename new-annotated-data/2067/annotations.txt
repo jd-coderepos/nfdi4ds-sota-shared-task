@@ -1,0 +1,2 @@
+Mathematical Question Answering#Geometry3K#Accuracy (%)#74.1
+Scene Parsing#PGDP5K#Total Accuracy#84.7

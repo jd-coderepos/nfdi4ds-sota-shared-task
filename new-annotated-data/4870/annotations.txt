@@ -1,0 +1,3 @@
+Video Instance Segmentation#OVIS validation#mask AP#17.4
+Video Instance Segmentation#OVIS validation#AP50#34.9
+Video Instance Segmentation#OVIS validation#AP75#15.0

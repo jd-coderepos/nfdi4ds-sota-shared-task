@@ -1,0 +1,8 @@
+Sound Event Localization and Detection#STARSS22#Localization-dependent error rate (20°)#71
+Sound Event Localization and Detection#STARSS22#location-dependent F1-score (macro)#21
+Sound Event Localization and Detection#STARSS22#location-dependent F1-score (micro)#0.36
+Sound Event Localization and Detection#STARSS22#Class-dependent localization error#29.3
+Sound Event Localization and Detection#STARSS22#Class-dependent localization recall#46
+Sound Event Localization and Detection#STARSS22#location-dependent F1-score (macro)#18
+Sound Event Localization and Detection#STARSS22#Class-dependent localization error#32.2
+Sound Event Localization and Detection#STARSS22#Class-dependent localization recall#47

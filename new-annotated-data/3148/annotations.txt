@@ -1,0 +1,8 @@
+Building change detection for remote sensing images#LEVIR-CD#F1#91.25
+Building change detection for remote sensing images#LEVIR-CD#IoU#83.92
+Building change detection for remote sensing images#LEVIR-CD#F1#90.4
+Building change detection for remote sensing images#LEVIR-CD#F1#89.7
+Building change detection for remote sensing images#LEVIR-CD#F1#87.6
+Change Detection#LEVIR-CD#F1#91.25
+Change Detection#LEVIR-CD#IoU#83.92
+Change Detection#LEVIR-CD#Overall Accuracy#-

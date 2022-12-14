@@ -1,0 +1,1 @@
+Image Generation#FFHQ 256 x 256#FID#3.31

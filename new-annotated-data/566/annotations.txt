@@ -1,0 +1,13 @@
+Domain Generalization#ImageNet-A#Top-1 accuracy %#14.3
+Domain Generalization#ImageNet-C#mean Corruption Error (mCE)#53.8
+Image Classification#CIFAR-100#Percentage correct#90.3
+Image Classification#CIFAR-100#PARAMS#54M
+Image Classification#ImageNet#Top 1 Accuracy#82.9%
+Image Classification#ImageNet#Top 5 Accuracy#96.2%
+Image Classification#ImageNet#Number of params#54M
+Image Classification#ImageNet#GFLOPs#8.6
+Image Classification#Stanford Cars#Accuracy#93.2
+Image Classification#Flowers-102#Accuracy#98.8
+Image Classification#Flowers-102#PARAMS#54M
+Image Classification#CIFAR-10#Percentage correct#99.0
+Image Classification#CIFAR-10#PARAMS#54M

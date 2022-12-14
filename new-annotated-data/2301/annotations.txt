@@ -1,0 +1,6 @@
+Visual Commonsense Reasoning#GD-VCR#Accuracy#88.84
+Visual Commonsense Reasoning#GD-VCR#Accuracy#59.99
+Visual Commonsense Reasoning#GD-VCR#Gap (West)#-7.28
+Visual Commonsense Reasoning#GD-VCR#Accuracy#53.95
+Visual Commonsense Reasoning#GD-VCR#Gap (West)#-10.42
+Visual Commonsense Reasoning#GD-VCR#Accuracy#35.33

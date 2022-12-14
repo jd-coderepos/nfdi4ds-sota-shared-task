@@ -1,0 +1,12 @@
+Face Recognition#CFP-FP#Accuracy#0.9874
+Face Recognition#XQLFW#Accuracy#0.8395
+Face Recognition#AgeDB-30#Accuracy#0.9850
+Face Recognition#LFW#Accuracy#0.9983
+Face Verification#CFP-FP#Accuracy#0.9874
+Face Verification#IJB-B#TAR @ FAR=0.01#97.72%
+Face Verification#IJB-B#TAR @ FAR=0.001#96.48
+Face Verification#IJB-B#TAR@FAR=0.0001#94.7
+Face Verification#IJB-C#TAR @ FAR=1e-2#98.51
+Face Verification#IJB-C#TAR @ FAR=1e-3#97.62
+Face Verification#IJB-C#TAR @ FAR=1e-4#96.19%
+Face Verification#AgeDB-30#Accuracy#0.9850

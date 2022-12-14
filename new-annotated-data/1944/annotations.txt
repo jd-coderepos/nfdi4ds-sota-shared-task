@@ -1,0 +1,1 @@
+Transfer Learning#Retinal Fundus MultiDisease Image Dataset (RFMiD)#AUROC#0.95

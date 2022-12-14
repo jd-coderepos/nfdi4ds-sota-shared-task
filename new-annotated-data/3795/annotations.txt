@@ -1,0 +1,9 @@
+Monocular 3D Object Detection#KITTI Cyclist Hard#AP Hard#3.30
+Monocular 3D Object Detection#KITTI Cars Hard#AP Hard#11.46
+Monocular 3D Object Detection#KITTI Cyclist Moderate#AP Medium#3.41
+Monocular 3D Object Detection#KITTI Cars Moderate#AP Medium#13.41
+Monocular 3D Object Detection#KITTI Pedestrian Moderate#AP Medium#8.14
+Monocular 3D Object Detection#KITTI Cars Easy#AP Easy#19.17
+Monocular 3D Object Detection#KITTI Pedestrian Hard#AP Hard#6.76
+Monocular 3D Object Detection#KITTI Pedestrian Easy#AP Easy#12.87
+Monocular 3D Object Detection#KITTI Cyclist Easy#AP Easy#7.00

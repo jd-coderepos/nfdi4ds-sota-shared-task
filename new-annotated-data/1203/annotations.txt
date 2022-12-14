@@ -1,0 +1,3 @@
+Image Generation#CIFAR-10#FID#24.08
+Image Generation#CelebA 256x256#FID#24.79
+Image Generation#CelebA 64x64#FID#5.25

@@ -1,0 +1,37 @@
+Neural Architecture Search#NAS-Bench-201, CIFAR-100#Accuracy (Test)#71.00
+Neural Architecture Search#NAS-Bench-201, CIFAR-100#Accuracy (Val)#70.94
+Neural Architecture Search#NAS-Bench-201, CIFAR-100#Search time (s)#9845
+Neural Architecture Search#ImageNet#Top-1 Error Rate#24.7
+Neural Architecture Search#ImageNet#Accuracy#75.34
+Neural Architecture Search#ImageNet#Params#4.6M
+Neural Architecture Search#ImageNet#MACs#388M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#24.9
+Neural Architecture Search#ImageNet#Accuracy#75.1
+Neural Architecture Search#ImageNet#Params#4.5M
+Neural Architecture Search#ImageNet#MACs#345M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#25.4
+Neural Architecture Search#ImageNet#Accuracy#74.69
+Neural Architecture Search#ImageNet#Params#4.4M
+Neural Architecture Search#ImageNet#MACs#321M
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Accuracy (Test)#42.19
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Accuracy (val)#41.90
+Neural Architecture Search#NAS-Bench-201, ImageNet-16-120#Search time (s)#9845
+Neural Architecture Search#CIFAR-10#Top-1 Error Rate#1.8%
+Neural Architecture Search#CIFAR-10#Search Time (GPU days)#8
+Neural Architecture Search#CIFAR-10#Parameters#3
+Neural Architecture Search#CIFAR-10#FLOPS#391
+Neural Architecture Search#NAS-Bench-201, CIFAR-10#Accuracy (Test)#93.23
+Neural Architecture Search#NAS-Bench-201, CIFAR-10#Accuracy (val)#90.07
+Neural Architecture Search#NAS-Bench-201, CIFAR-10#Search time (s)#9845
+Image Classification#ImageNet#Top 1 Accuracy#75.34%
+Image Classification#ImageNet#Top 5 Accuracy#92.38
+Image Classification#ImageNet#Number of params#4.6M
+Image Classification#ImageNet#GFLOPs#0.776
+Image Classification#ImageNet#Top 1 Accuracy#75.10%
+Image Classification#ImageNet#Top 5 Accuracy#92.30
+Image Classification#ImageNet#Number of params#4.5M
+Image Classification#ImageNet#GFLOPs#0.690
+Image Classification#ImageNet#Top 1 Accuracy#74.69%
+Image Classification#ImageNet#Top 5 Accuracy#92.12
+Image Classification#ImageNet#Number of params#4.4M
+Image Classification#ImageNet#GFLOPs#0.642

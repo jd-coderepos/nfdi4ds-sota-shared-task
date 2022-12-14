@@ -1,0 +1,10 @@
+Incremental Learning#ImageNet100 - 20 steps#Average Incremental Accuracy#74.49
+Incremental Learning#CIFAR-100 - 50 classes + 5 steps of 10 classes#Average Incremental Accuracy#69.46
+Incremental Learning#ImageNet-100 - 50 classes + 10 steps of 5 classes#Average Incremental Accuracy#77.54
+Incremental Learning#CIFAR100-B0(10steps of 10 classes)#Average Incremental Accuracy#72.9
+Incremental Learning#CIFAR-100 - 50 classes + 25 steps of 2 classes#Average Incremental Accuracy#63.83
+Incremental Learning#ImageNet-100 - 50 classes + 25 steps of 2 classes#Average Incremental Accuracy#69.34
+Incremental Learning#CIFAR100B020Step(5ClassesPerStep)#Average Incremental Accuracy#70.65
+Incremental Learning#ImageNet - 10 steps#Average Incremental Accuracy#68.34
+Incremental Learning#ImageNet100 - 10 steps#Average Incremental Accuracy#77.75
+Incremental Learning#CIFAR-100 - 50 classes + 10 steps of 5 classes#Average Incremental Accuracy#67.95

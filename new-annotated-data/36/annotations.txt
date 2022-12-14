@@ -1,0 +1,7 @@
+Trajectory Prediction#ETH#Avg AMD/AMV 8/12#1.42
+Trajectory Prediction#Stanford Drone#ADE-8/12 @K = 20#27.23
+Trajectory Prediction#Stanford Drone#FDE-8/12 @K= 20#41.44
+Trajectory Prediction#Stanford Drone#ADE (8/12) @K=5#27.25
+Trajectory Prediction#Stanford Drone#FDE(8/12) @K=5#41.44
+Trajectory Prediction#ETH/UCY#ADE-8/12#0.58
+Trajectory Prediction#ETH/UCY#Avg AMD/AMV 8/12#1.42

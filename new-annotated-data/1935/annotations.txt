@@ -1,0 +1,6 @@
+Generalized Zero-Shot Learning#AwA2#Accuracy Unseen#65.4
+Generalized Zero-Shot Learning#AwA2#Accuracy Seen#82.2
+Generalized Zero-Shot Learning#AwA2#H#72.8
+Generalized Zero-Shot Learning#aPY#H#46
+Generalized Zero-Shot Learning#SUN Attribute#H#43.2
+Generalized Zero-Shot Learning#Caltech-UCSD Birds 200 - 2011#H#68.7

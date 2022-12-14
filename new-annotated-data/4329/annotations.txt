@@ -1,0 +1,9 @@
+Graph Regression#ZINC-500k#MAE#0.088
+Graph Regression#ZINC-500k#MAE#0.101
+Graph Regression#ZINC#MAE#0.088
+Graph Regression#ZINC#MAE#0.101
+Graph Classification#REDDIT-B#Accuracy#93.15
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2986 ± 0.0025
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.3075 ± 0.0020
+Graph Property Prediction#ogbg-molpcba#Number of params#6115728
+Graph Property Prediction#ogbg-molpcba#Ext. data#No

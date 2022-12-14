@@ -1,0 +1,6 @@
+Face Recognition#CASIA-WebFace+masks#Accuracy#91.47
+Face Recognition#CASIA-WebFace+masks#Accuracy#88.06
+Face Recognition#CASIA-WebFace+masks#Accuracy#86.85
+Face Recognition#CelebA+masks#Accuracy#95.43
+Face Recognition#CelebA+masks#Accuracy#93.58
+Face Recognition#CelebA+masks#Accuracy#91.51

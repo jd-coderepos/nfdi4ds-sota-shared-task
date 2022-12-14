@@ -1,0 +1,8 @@
+Image Classification#ImageNet#Top 1 Accuracy#87.94%
+Image Classification#ImageNet#Top 1 Accuracy#85.3%
+Image Classification#ImageNet#Top 1 Accuracy#76.44%
+Image Classification#ImageNet#Number of params#46M
+Image Classification#ImageNet ReaL#Accuracy#90.18%
+Image Classification#ImageNet ReaL#Params#409M
+Image Classification#ImageNet ReaL#Accuracy#87.86%
+Image Classification#OmniBenchmark#Average Top-1 Accuracy#32.2

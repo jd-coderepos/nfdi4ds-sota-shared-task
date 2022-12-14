@@ -1,0 +1,27 @@
+Semi-Supervised Semantic Segmentation#Cityscapes 12.5% labeled#Validation mIoU#77.1%
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (1% Labels)#55.3
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (10% Labels)#69.9
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (20% Labels)#71.8
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (50% Labels)#73.2
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (1% Labels)#49.5
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (10% Labels)#68.2
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (20% Labels)#70.6
+Semi-Supervised Semantic Segmentation#nuScenes#mIoU (50% Labels)#73.0
+Semi-Supervised Semantic Segmentation#Cityscapes 50% labeled#Validation mIoU#79.1%
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (1% Labels)#44.2
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (10% Labels)#53.7
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (20% Labels)#55.1
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (50% Labels)#56.8
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (1% Labels)#38.3
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (10% Labels)#54.4
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (20% Labels)#55.6
+Semi-Supervised Semantic Segmentation#ScribbleKITTI#mIoU (50% Labels)#58.7
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (1% Labels)#50.6
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (10% Labels)#60.0
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (20% Labels)#61.9
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (50% Labels)#62.3
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (1% Labels)#43.4
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (10% Labels)#58.8
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (20% Labels)#59.4
+Semi-Supervised Semantic Segmentation#SemanticKITTI#mIoU (50% Labels)#61.4
+Semi-Supervised Semantic Segmentation#Cityscapes 25% labeled#Validation mIoU#78.3%

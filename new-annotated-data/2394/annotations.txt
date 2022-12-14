@@ -1,0 +1,3 @@
+Speaker Identification#EVI pl-PL#Top-1 (%)#95.13
+Speaker Identification#EVI en-GB#Top-1 (%)#67.77
+Speaker Identification#EVI fr-FR#Top-1 (%)#80.83

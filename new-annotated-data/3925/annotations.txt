@@ -1,0 +1,4 @@
+Text Classification#20NEWS#Accuracy#87.3
+Text Classification#20NEWS#F-measure#86.6
+Text Classification#20NEWS#Precision#87.1
+Text Classification#20NEWS#Recall#86.6

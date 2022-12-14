@@ -1,0 +1,6 @@
+3D Human Pose Estimation#Geometric Pose Affordance#PCK3D (CS)#82.0
+3D Human Pose Estimation#Geometric Pose Affordance#PCK3D (CA)#84.8
+3D Human Pose Estimation#Geometric Pose Affordance#MPJPE (CS)#97.8
+3D Human Pose Estimation#Geometric Pose Affordance#MPJPE (CA)#85.6
+3D Human Pose Estimation#Geometric Pose Affordance#MPJPE#94.1
+3D Human Pose Estimation#Geometric Pose Affordance#PCK#82.9

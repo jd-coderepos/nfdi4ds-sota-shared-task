@@ -1,0 +1,13 @@
+Action Recognition#Something-Something V2#Top-1 Accuracy#68.5
+Action Recognition#Something-Something V2#Top-5 Accuracy#90.4
+Action Recognition#EPIC-KITCHENS-100#Action@1#50.5
+Action Recognition#EPIC-KITCHENS-100#Verb@1#69.9
+Action Recognition#EPIC-KITCHENS-100#Noun@1#63.9
+Action Classification#Moments in Time#Top 1 Accuracy#47.2
+Action Classification#Moments in Time#Top 5 Accuracy#75.7
+Action Classification#Kinetics-600#Top-1 Accuracy#90.3
+Action Classification#Kinetics-600#Top-5 Accuracy#98.5
+Action Classification#Kinetics-400#Acc@1#89.9
+Action Classification#Kinetics-400#Acc@5#98.3
+Action Classification#Kinetics-700#Top-1 Accuracy#83.4
+Action Classification#Kinetics-700#Top-5 Accuracy#96.2

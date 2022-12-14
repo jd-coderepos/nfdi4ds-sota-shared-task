@@ -1,0 +1,3 @@
+CARLA MAP Leaderboard#CARLA#Driving score#15.55
+CARLA MAP Leaderboard#CARLA#Route completion#40.63
+CARLA MAP Leaderboard#CARLA#Infraction penalty#0.47

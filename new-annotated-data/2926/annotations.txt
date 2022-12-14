@@ -1,0 +1,20 @@
+Pose Estimation#CrowdPose#AP#78.3
+Pose Estimation#CrowdPose#AP50#85.3
+Pose Estimation#CrowdPose#AP75#81.4
+Pose Estimation#CrowdPose#APM#86.6
+Pose Estimation#CrowdPose#AP Hard#67.9
+Pose Estimation#OCHuman#Test AP#93.3
+Pose Estimation#OCHuman#Validation AP#92.8
+Pose Estimation#MPII Human Pose#PCKh-0.5#94.3
+Pose Estimation#COCO test-dev#AP#81.1
+Pose Estimation#COCO test-dev#AP50#95.0
+Pose Estimation#COCO test-dev#AP75#88.2
+Pose Estimation#COCO test-dev#APL#86.0
+Pose Estimation#COCO test-dev#APM#77.8
+Pose Estimation#COCO test-dev#AR#85.6
+Pose Estimation#COCO test-dev#AP#80.9
+Pose Estimation#COCO test-dev#AP50#94.8
+Pose Estimation#COCO test-dev#AP75#88.1
+Pose Estimation#COCO test-dev#APL#85.9
+Pose Estimation#COCO test-dev#APM#77.5
+Pose Estimation#COCO test-dev#AR#85.4

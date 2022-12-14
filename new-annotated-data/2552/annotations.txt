@@ -1,0 +1,5 @@
+Semantic Segmentation#SpaceNet 1#Mean IoU#78.48
+Semantic Segmentation#SpaceNet 1#Mean IoU#78.05
+Semantic Segmentation#SpaceNet 1#Mean IoU#75.57
+Semantic Segmentation#SpaceNet 1#Mean IoU#75.23
+Semantic Segmentation#SpaceNet 1#Mean IoU#74.93

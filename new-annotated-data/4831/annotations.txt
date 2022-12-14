@@ -1,0 +1,6 @@
+Vision and Language Navigation#map2seq#Task Completion (TC)#46.7
+Vision and Language Navigation#map2seq#Task Completion (TC)#45.1
+Vision and Language Navigation#map2seq#Task Completion (TC)#17
+Vision and Language Navigation#map2seq#Task Completion (TC)#14.7
+Vision and Language Navigation#Touchdown Dataset#Task Completion (TC)#29.1
+Vision and Language Navigation#Touchdown Dataset#Task Completion (TC)#24.2

@@ -1,0 +1,9 @@
+Intent Classification#MASSIVE#Intent Accuracy#86.1
+Intent Classification#MASSIVE#Intent Accuracy#85.3
+Intent Classification#MASSIVE#Intent Accuracy#85.1
+Slot Filling#MASSIVE#Slot F1 Score#83.6
+Slot Filling#MASSIVE#Slot F1 Score#82.2
+Slot Filling#MASSIVE#Slot F1 Score#81.3
+Zero-shot Slot Filling#MASSIVE#Slot F1 Score#64.2
+Zero-shot Slot Filling#MASSIVE#Slot F1 Score#56.9
+Zero-shot Slot Filling#MASSIVE#Slot F1 Score#50.6

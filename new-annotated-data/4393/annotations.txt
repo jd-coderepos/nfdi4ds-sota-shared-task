@@ -1,0 +1,9 @@
+Depth Completion#KITTI Depth Completion#iRMSE#2.95
+Depth Completion#KITTI Depth Completion#iMAE#1.02
+Depth Completion#KITTI Depth Completion#RMSE#1069.47
+Depth Completion#KITTI Depth Completion#MAE#256.76
+Depth Completion#KITTI Depth Completion#Runtime [ms]#16
+Depth Completion#VOID#MAE#39.80
+Depth Completion#VOID#RMSE#95.86
+Depth Completion#VOID#iMAE#21.16
+Depth Completion#VOID#iRMSE#49.72

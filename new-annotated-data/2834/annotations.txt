@@ -1,0 +1,3 @@
+Spatio-Temporal Action Localization#AVA-Kinetics#val mAP#40.97
+Spatio-Temporal Action Localization#AVA-Kinetics#test mAP#40.67
+Spatio-Temporal Action Localization#AVA-Kinetics#val mAP#37.95

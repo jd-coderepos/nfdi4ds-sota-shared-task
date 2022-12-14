@@ -1,0 +1,1 @@
+Text-Image Retrieval#Fashion IQ#(Recall@10+Recall@50)/2#40.64

@@ -1,0 +1,2 @@
+3D Object Detection#KITTI Cars Moderate#AP#82.08%
+3D Object Detection#waymo vehicle#AP#76.3

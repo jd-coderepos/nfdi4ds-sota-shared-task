@@ -1,0 +1,3 @@
+3D Object Detection#Heavy Snowfall#mod. Car AP@.7IoU#41.79
+3D Object Detection#Light Snowfall#mod. Car AP@.7IoU#41.79
+3D Object Detection#Clear Weather#mod. Car AP@.7IoU#45.71

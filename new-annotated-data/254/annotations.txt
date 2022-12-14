@@ -1,0 +1,1 @@
+Face Detection#WIDER FACE#Average Top-1 Accuracy#68.98

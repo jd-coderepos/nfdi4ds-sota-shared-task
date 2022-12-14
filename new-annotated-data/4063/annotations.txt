@@ -1,0 +1,3 @@
+Image Classification#iNaturalist 2019#Top-1 Accuracy#82.85
+Fine-Grained Image Classification#Herbarium 2021 Half–Earth#Test F1 score#.719
+Fine-Grained Image Classification#Herbarium 2022#Test F1 score (private)#.868

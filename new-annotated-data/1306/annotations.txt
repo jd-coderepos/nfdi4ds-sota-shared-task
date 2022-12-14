@@ -1,0 +1,4 @@
+Person Re-Identification#SYSU-30k#Rank-1#14.8
+Self-Supervised Person Re-Identification#SYSU-30k#Rank-1#14.8
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#75.9%
+Self-Supervised Image Classification#ImageNet#Number of Params#23.56M

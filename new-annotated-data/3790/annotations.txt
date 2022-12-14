@@ -1,0 +1,3 @@
+3D Object Detection#ScanNetV2#mAP@0.25#48.1
+3D Object Detection#ScanNetV2#mAP@0.5#22.7
+Monocular 3D Object Detection#SUN RGB-D#AP@0.15#48.74

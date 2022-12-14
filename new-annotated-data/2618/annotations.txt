@@ -1,0 +1,21 @@
+Semantic Segmentation#ADE20K val#mIoU#49.69
+Semantic Segmentation#ADE20K val#Pixel Accuracy#83.43
+Semantic Segmentation#ADE20K val#mIoU#47.63
+Semantic Segmentation#ADE20K val#Pixel Accuracy#82.60
+Semantic Segmentation#ADE20K val#mIoU#45.07
+Semantic Segmentation#ADE20K val#Pixel Accuracy#81.79
+Image Classification#ImageNet#Top 1 Accuracy#83.01%
+Image Classification#ImageNet#Top 5 Accuracy#96.32%
+Image Classification#ImageNet#Number of params#39.8M
+Image Classification#ImageNet#GFLOPs#7.0
+Image Classification#ImageNet#Top 1 Accuracy#81.71%
+Image Classification#ImageNet#Top 5 Accuracy#95.80%
+Image Classification#ImageNet#Number of params#21.8M
+Image Classification#ImageNet#GFLOPs#3.6
+Image Classification#ImageNet#Top 1 Accuracy#80.32%
+Image Classification#ImageNet#Top 5 Accuracy#95.08%
+Image Classification#ImageNet#Number of params#15.5M
+Image Classification#ImageNet#GFLOPs#2.3
+Instance Segmentation#COCO test-dev#mask AP#45.03
+Instance Segmentation#COCO test-dev#mask AP#44.16
+Instance Segmentation#COCO test-dev#mask AP#42.87

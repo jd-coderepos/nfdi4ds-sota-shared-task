@@ -1,0 +1,10 @@
+Monocular Cross-View Road Scene Parsing(Road)#Kitti Odometry#mAP#88.28%
+Monocular Cross-View Road Scene Parsing(Road)#Kitti Odometry#mIOU#77.15%
+Monocular Cross-View Road Scene Parsing(Road)#Kitti Raw#mIoU#65.86%
+Monocular Cross-View Road Scene Parsing(Road)#Kitti Raw#mAP#86.56%
+Monocular Cross-View Road Scene Parsing(Road)#Argoverse#mAP#88.87%
+Monocular Cross-View Road Scene Parsing(Road)#Argoverse#mIOU#76.71%
+Monocular Cross-View Road Scene Parsing(Vehicle)#Argoverse#mIoU#48.04%
+Monocular Cross-View Road Scene Parsing(Vehicle)#Argoverse#mAP#68.96%
+Monocular Cross-View Road Scene Parsing(Vehicle)#KITTI2012#mIoU#39.44%
+Monocular Cross-View Road Scene Parsing(Vehicle)#KITTI2012#mAP#58.89%

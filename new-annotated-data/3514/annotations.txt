@@ -1,0 +1,8 @@
+Gait Recognition#Gait3D#Rank-1#46.30
+Gait Recognition#Gait3D#Rank-5#64.50
+Gait Recognition#Gait3D#mAP#37.16
+Gait Recognition#Gait3D#mINP#22.23
+Gait Recognition in the Wild#Gait3D#Rank-1#46.30
+Gait Recognition in the Wild#Gait3D#Rank-5#64.50
+Gait Recognition in the Wild#Gait3D#mAP#37.16
+Gait Recognition in the Wild#Gait3D#mINP#22.23

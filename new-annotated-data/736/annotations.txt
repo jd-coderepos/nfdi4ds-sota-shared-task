@@ -1,0 +1,18 @@
+Relation Extraction#TACRED#F1#76.8
+Relation Extraction#FewRel#F1#98.4
+Relation Extraction#FewRel#F1 (5-way 5-shot#100
+Relation Extraction#FewRel#F1 (10-way 1-shot)#97.8
+Relation Extraction#FewRel#F1 (10-way 5-shot)#99.8
+Relation Extraction#ADE Corpus#RE+ Micro F1#83.8
+Relation Extraction#ADE Corpus#NER Micro F1#60.7
+Relation Extraction#ADE Corpus#RE+ Micro F1#10.6
+Relation Extraction#NYT#F1#93.9
+Relation Extraction#NYT#NER Micro F1#95.9
+Relation Extraction#CoNLL04#RE+ Micro F1#78.3
+Relation Extraction#CoNLL04#NER Micro F1#90.7
+Relation Extraction#CoNLL04#RE+ Micro F1#25.8
+Relation Extraction#CoNLL04#NER Micro F1#48.3
+Relation Extraction#CoNLL04#NER Micro F1#91.1
+Open Information Extraction#OIE2016#F1#71.3
+Open Information Extraction#NYT#F1#45
+Open Information Extraction#Penn Treebank#F1#54.5

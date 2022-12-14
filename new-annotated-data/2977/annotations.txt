@@ -1,0 +1,9 @@
+6D Pose Estimation using RGB#LineMOD#Mean ADD#76.3
+6D Pose Estimation using RGB#LineMOD#Mean IoU#99.4
+6D Pose Estimation using RGB#OCCLUSION#MAP#0.38
+6D Pose Estimation using RGBD#LineMOD#Mean ADD#90.9
+6D Pose Estimation using RGBD#LineMOD#Mean IoU#96.5
+6D Pose Estimation using RGBD#Tejani#IoU-2D#0.988
+6D Pose Estimation using RGBD#Tejani#IoU-3D#0.963
+6D Pose Estimation using RGBD#Tejani#VSS-2D#0.724
+6D Pose Estimation using RGBD#Tejani#VSS-3D#0.854

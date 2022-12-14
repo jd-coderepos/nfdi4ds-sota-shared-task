@@ -1,0 +1,1 @@
+Recommendation Systems#MovieLens 100K#RMSE (u1 Splits)#0.996

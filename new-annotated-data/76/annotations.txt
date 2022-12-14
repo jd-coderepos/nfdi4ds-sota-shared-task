@@ -1,0 +1,19 @@
+Monocular Depth Estimation#NYU-Depth V2#RMSE#0.334
+Monocular Depth Estimation#NYU-Depth V2#absolute relative error#0.095
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25#0.922
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25^2#0.992
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25^3#0.998
+Monocular Depth Estimation#NYU-Depth V2#log 10#0.041
+Monocular Depth Estimation#Matterport3D#absolute relative error#0.0793
+Monocular Depth Estimation#Matterport3D#absolute error#0.197
+Monocular Depth Estimation#Matterport3D#RMSE#0.4279
+Monocular Depth Estimation#Matterport3D#Delta < 1.25#0.9376
+Monocular Depth Estimation#Matterport3D#Delta < 1.25^2#0.9812
+Monocular Depth Estimation#Matterport3D#Delta < 1.25^3#0.9933
+Monocular Depth Estimation#KITTI Eigen split#absolute relative error#0.052
+Monocular Depth Estimation#KITTI Eigen split#RMSE#2.129
+Monocular Depth Estimation#KITTI Eigen split#Sq Rel#0.155
+Monocular Depth Estimation#KITTI Eigen split#RMSE log#0.079
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25#0.974
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^2#0.997
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^3#0.999

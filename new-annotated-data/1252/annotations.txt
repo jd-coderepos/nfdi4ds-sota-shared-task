@@ -1,0 +1,3 @@
+Image Inpainting#CelebA-HQ#FID#12.84
+Image Inpainting#CelebA-HQ#P-IDS#0.13
+Image Inpainting#CelebA-HQ#U-IDS#0.58

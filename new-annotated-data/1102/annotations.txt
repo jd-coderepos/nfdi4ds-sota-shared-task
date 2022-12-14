@@ -1,0 +1,2 @@
+Multimodal Machine Translation#Hindi Visual Genome (Challenge Set)#BLEU (EN-HI)#51.6
+Multimodal Machine Translation#Hindi Visual Genome (Test Set)#BLEU (EN-HI)#44.6

@@ -1,0 +1,10 @@
+Emotion Recognition#RAVDESS#Accuracy#74.8
+Audio Classification#ESC-50#Top-1 Accuracy#96.1
+Audio Classification#ESC-50#PRE-TRAINING DATASET#AudioSet
+Audio Classification#ESC-50#Accuracy (5-fold)#96.1
+Audio Classification#AudioSet#Test mAP#0.450
+Audio Classification#AudioSet#AUC#0.976
+Audio Classification#AudioSet#d-prime#2.804
+Audio Classification#RAVDESS#Top-1 Accuracy#74.8
+Audio Tagging#AudioSet#mean average precision#0.450
+Emotion Classification#RAVDESS#Top-1 Accuracy#74.8

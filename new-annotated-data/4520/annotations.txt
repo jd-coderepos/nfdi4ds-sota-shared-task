@@ -1,0 +1,6 @@
+Interactive Segmentation#Berkeley#NoC@90#2.12
+Interactive Segmentation#SBD#NoC@85#3.33
+Interactive Segmentation#SBD#NoC@90#5.25
+Interactive Segmentation#DAVIS#NoC@85#4.03
+Interactive Segmentation#DAVIS#NoC@90#5.22
+Interactive Segmentation#GrabCut#NoC@90#1.68

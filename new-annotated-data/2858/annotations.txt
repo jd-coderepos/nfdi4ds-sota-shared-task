@@ -1,0 +1,14 @@
+Semantic Textual Similarity#STS Benchmark#Spearman Correlation#0.787
+Semantic Textual Similarity#STS Benchmark#Spearman Correlation#0.764
+Semantic Textual Similarity#STS15#Spearman Correlation#0.814
+Semantic Textual Similarity#STS15#Spearman Correlation#0.798
+Semantic Textual Similarity#STS13#Spearman Correlation#0.819
+Semantic Textual Similarity#STS13#Spearman Correlation#0.796
+Semantic Textual Similarity#STS12#Spearman Correlation#0.674
+Semantic Textual Similarity#STS12#Spearman Correlation#0.648
+Semantic Textual Similarity#STS16#Spearman Correlation#0.78
+Semantic Textual Similarity#STS16#Spearman Correlation#0.743
+Semantic Textual Similarity#SICK#Spearman Correlation#0.706
+Semantic Textual Similarity#SICK#Spearman Correlation#0.703
+Semantic Textual Similarity#STS14#Spearman Correlation#0.732
+Semantic Textual Similarity#STS14#Spearman Correlation#0.713

@@ -1,0 +1,3 @@
+Semantic Segmentation#ZJU-RGB-P#mIoU#85.7
+Semantic Segmentation#ZJU-RGB-P#mIoU#85.4
+Semantic Segmentation#ZJU-RGB-P#mIoU#83.4

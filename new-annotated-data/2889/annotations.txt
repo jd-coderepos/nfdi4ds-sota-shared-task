@@ -1,0 +1,2 @@
+Dependency Parsing#Tweebank#Labelled Attachment Score#79.4
+Dependency Parsing#Tweebank#Unlabeled Attachment Score#83.4

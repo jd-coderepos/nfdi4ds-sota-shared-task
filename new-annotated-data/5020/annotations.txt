@@ -1,0 +1,16 @@
+Font Recognition#AdobeVFR real#Top-1 Error Rate#28.58
+Font Recognition#AdobeVFR real#Top 5 Error Rate#18.21
+Font Recognition#AdobeVFR real#Top 1 Accuracy#71.42
+Font Recognition#AdobeVFR real#Top 5 Accuracy#81.79
+Font Recognition#VFR-Wild#Top-1 Error Rate#38.15
+Font Recognition#VFR-Wild#Top 5 Error Rate#20.62
+Font Recognition#VFR-Wild#Top 1 Accuracy#61.85
+Font Recognition#VFR-Wild#Top 5 Accuracy#79.38
+Font Recognition#AdobeVFR syn#Top-1 Error Rate#1.03
+Font Recognition#AdobeVFR syn#Top 5 Error Rate#0
+Font Recognition#AdobeVFR syn#Top 1 Accuracy#98.97
+Font Recognition#AdobeVFR syn#Top 5 Accuracy#100
+Font Recognition#AdobeVFR syn#Top-1 Error Rate#6.58
+Font Recognition#AdobeVFR syn#Top 1 Accuracy#93.42
+Font Recognition#AdobeVFR syn#Top-1 Error Rate#7.4
+Font Recognition#AdobeVFR syn#Top 1 Accuracy#92.6

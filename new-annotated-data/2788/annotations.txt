@@ -1,0 +1,4 @@
+Speech Emotion Recognition#CREMA-D#Accuracy#70.47
+Audio Classification#ESC-50#Top-1 Accuracy#91.13
+Audio Classification#ESC-50#PRE-TRAINING DATASET#-
+Time Series#Speech Commands#% Test Accuracy#98.51

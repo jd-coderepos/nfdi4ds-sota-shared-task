@@ -1,0 +1,4 @@
+Crowd Counting#ShanghaiTech A#MAE#62.2
+Crowd Counting#ShanghaiTech A#MSE#101.2
+Crowd Counting#ShanghaiTech B#MAE#6.9
+Crowd Counting#ShanghaiTech B#MSE#11.8

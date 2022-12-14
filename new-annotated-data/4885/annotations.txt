@@ -1,0 +1,6 @@
+Neural Stylization#Meshes#Mean Opinion Score (Q1:Overall)#3.9 ± 0.37
+Neural Stylization#Meshes#Mean Opinion Score (Q2: Content)#4.04 ± 0.53
+Neural Stylization#Meshes#Mean Opinion Score (Q3: Style)#3.91 ± 0.51
+Neural Stylization#Meshes#Mean Opinion Score (Q1:Overall)#2.83 ± 0.39
+Neural Stylization#Meshes#Mean Opinion Score (Q2: Content)#3.6 ± 0.68
+Neural Stylization#Meshes#Mean Opinion Score (Q3: Style)#2.59 ± 0.44

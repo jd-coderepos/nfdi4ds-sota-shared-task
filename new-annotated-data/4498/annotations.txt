@@ -1,0 +1,4 @@
+Data Free Quantization#CIFAR-100#CIFAR-100 W5A5 Top-1 Accuracy#69.02
+Data Free Quantization#CIFAR-100#CIFAR-100 W4A4 Top-1 Accuracy#65.10
+Data Free Quantization#CIFAR10#CIFAR-10 W4A4 Top-1 Accuracy#91.26
+Data Free Quantization#CIFAR10#CIFAR-10 W5A5 Top-1 Accuracy#93.46

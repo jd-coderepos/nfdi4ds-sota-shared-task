@@ -1,0 +1,2 @@
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#46.3
+Domain Adaptation#Synscapes-to-Cityscapes#mIoU#54.2

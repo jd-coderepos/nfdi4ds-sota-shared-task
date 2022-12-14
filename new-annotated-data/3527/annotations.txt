@@ -1,0 +1,4 @@
+Image Denoising#ELD SonyA7S2 x100#PSNR (Raw)#45.44
+Image Denoising#ELD SonyA7S2 x100#SSIM#0.975
+Image Denoising#ELD SonyA7S2 x200#PSNR (Raw)#43.42
+Image Denoising#ELD SonyA7S2 x200#SSIM#0.954

@@ -1,0 +1,6 @@
+Grammatical Error Correction#CoNLL-2014 Shared Task#F0.5#63.7
+Grammatical Error Correction#JFLEG#GLEU#62.1
+Grammatical Error Correction#BEA-2019 (test)#F0.5#68.9
+Grammatical Error Detection#FCE#F0.5#72.2
+Grammatical Error Detection#CoNLL-2014 A1#F0.5#54.3
+Grammatical Error Detection#CoNLL-2014 A2#F0.5#63.1

@@ -1,0 +1,8 @@
+Physical Video Anomaly Detection#PHANTOM#Avg. ROC-AUC#0.78
+Physical Video Anomaly Detection#PHANTOM#Architecture#ViT
+Physical Video Anomaly Detection#PHANTOM#Avg. ROC-AUC#0.76
+Physical Video Anomaly Detection#PHANTOM#Architecture#TimeSformer
+General Action Video Anomaly Detection#Something-Something V2#Avg. ROC-AUC#0.58
+General Action Video Anomaly Detection#Something-Something V2#Architecture#ViT
+General Action Video Anomaly Detection#Something-Something V2#Avg. ROC-AUC#0.52
+General Action Video Anomaly Detection#Something-Something V2#Architecture#TimeSformer

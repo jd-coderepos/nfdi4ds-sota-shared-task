@@ -1,0 +1,4 @@
+Graph Property Prediction#ogbg-code2#Test F1 score#0.1937 ± 0.0028
+Graph Property Prediction#ogbg-code2#Validation F1 score#0.1773 ± 0.0023
+Graph Property Prediction#ogbg-code2#Number of params#15734000
+Graph Property Prediction#ogbg-code2#Ext. data#No

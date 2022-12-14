@@ -1,0 +1,13 @@
+Image Classification#CIFAR-100#Percentage correct#94.95
+Image Classification#ImageNet#Top 1 Accuracy#86.74%
+Image Classification#DTD#Accuracy#81.0
+Image Classification#KMNIST#Accuracy#98.68
+Image Classification#EMNIST-Digits#Accuracy (%)#99.82
+Image Classification#MNIST#Accuracy#99.75
+Image Classification#EuroSAT#Accuracy (%)#99.2
+Image Classification#EMNIST-Letters#Accuracy#93.68
+Image Classification#CIFAR-10#Percentage correct#99.49
+Fine-Grained Image Classification#SUN397#Accuracy#84.8
+Fine-Grained Image Classification#Caltech-101#Top-1 Error Rate#7%
+Fine-Grained Image Classification#Oxford-IIIT Pet Dataset#Accuracy#95.3%
+Fine-Grained Image Classification#Oxford 102 Flowers#Accuracy#99.61%

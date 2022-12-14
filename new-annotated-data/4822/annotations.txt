@@ -1,0 +1,6 @@
+Column Type Annotation#T2Dv2#Accuracy (%)#96.2
+Column Type Annotation#WikiTables-TURL-CTA#F1 (%)#94.75
+Column Type Annotation#WikipediaGS-CTA#Accuracy (%)#74.6
+Cell Entity Annotation#WikiTables-TURL-CEA#F1 (%)#68
+Cell Entity Annotation#WikipediaGS#F1 (%)#67
+Columns Property Annotation#WikiTables-TURL-CPA#F1 (%)#94.91

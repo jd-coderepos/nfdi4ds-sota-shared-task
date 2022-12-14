@@ -1,0 +1,16 @@
+Face Recognition#IJB-B#TAR @ FAR=1e-5#0.9095
+Face Recognition#IJB-B#TAR @ FAR=1e-4#0.9461
+Face Recognition#IJB-B#TAR @ FAR=1e-3#0.9621
+Face Recognition#IJB-B#Rank-1#0.9496
+Face Recognition#IJB-B#Rank-5#0.9684
+Face Verification#IJB-S#Rank-1 (Video2Single)#72.54
+Face Verification#IJB-S#Rank-1 (Video2Booking)#72.65
+Face Verification#IJB-S#Rank-1 (Video2Video)#39.14
+Face Verification#IJB-S#Rank-1 (Video2Single)#63.86
+Face Verification#IJB-S#Rank-1 (Video2Booking)#65.95
+Face Verification#IJB-S#Rank-1 (Video2Video)#21.38
+Face Verification#IJB-C#TAR @ FAR=1e-4#95.9%
+Face Verification#IJB-C#TAR @ FAR=1e-5#94.06%
+Face Verification#IJB-C#TAR @ FAR=1e-6#89.34%
+Face Verification#IJB-C#Rank-1#96.31
+Face Verification#IJB-C#Rank-5#97.48

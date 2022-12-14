@@ -1,0 +1,5 @@
+Arrhythmia Detection#MIT-BIH Arrhythmia Database#Accuracy#98.2
+Arrhythmia Detection#MIT-BIH Arrhythmia Database#specificity#98.8
+Arrhythmia Detection#MIT-BIH Arrhythmia Database#Precision#91.9
+Arrhythmia Detection#MIT-BIH Arrhythmia Database#Recall#93.7
+Arrhythmia Detection#MIT-BIH Arrhythmia Database#F1#92.8

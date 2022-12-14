@@ -1,0 +1,3 @@
+Unsupervised Video Object Segmentation#SegTrack v2#Jaccard (Mean)#74.9
+Unsupervised Video Object Segmentation#FBMS#Jaccard (Mean)#70
+Unsupervised Video Object Segmentation#DAVIS 2016#Jaccard (Mean)#80.2

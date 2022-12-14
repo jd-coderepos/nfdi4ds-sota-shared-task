@@ -1,0 +1,2 @@
+Entity Linking#Rare Diseases Mentions in MIMIC-III (Text-to-UMLS)#F1#0.858
+Entity Linking#Rare Diseases Mentions in MIMIC-III#F1#0.702

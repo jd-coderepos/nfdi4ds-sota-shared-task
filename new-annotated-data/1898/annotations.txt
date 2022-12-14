@@ -1,0 +1,2 @@
+Long-tail Learning#ImageNet-LT#Top-1 Accuracy#58.0
+Image Classification#iNaturalist 2018#Top-1 Accuracy#74.0%

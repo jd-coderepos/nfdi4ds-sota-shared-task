@@ -1,0 +1,2 @@
+Multivariate Time Series Imputation#Electricity#MAE (100 steps, 10% data missing)#0.735
+Multivariate Time Series Imputation#PhysioNet Challenge 2012#MAE (10% of data as GT)#0.186

@@ -1,0 +1,6 @@
+Trajectory Prediction#PROX#FDE#288
+Trajectory Prediction#PROX#ADE#280
+Trajectory Prediction#PROX#STB#6
+Trajectory Prediction#GTA-IM Dataset#FDE#208
+Trajectory Prediction#GTA-IM Dataset#ADE#192
+Trajectory Prediction#GTA-IM Dataset#STB#11

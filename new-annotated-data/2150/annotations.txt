@@ -1,0 +1,1 @@
+Time Series Classification#EigenWorms#% Test Accuracy#83.8

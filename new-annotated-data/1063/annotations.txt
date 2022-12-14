@@ -1,0 +1,10 @@
+Real-Time Object Detection#COCO#FPS (V100, b=1)#6.5
+Real-Time Object Detection#COCO#box AP#53.6
+Object Detection#COCO test-dev#box AP#60.1
+Object Detection#COCO test-dev#box AP#59.4
+Object Detection#COCO minival#box AP#59.6
+Object Detection#COCO minival#box AP#59.1
+Instance Segmentation#COCO test-dev#mask AP#52.3
+Instance Segmentation#COCO test-dev#mask AP#51.6
+Instance Segmentation#COCO minival#mask AP#51.8
+Instance Segmentation#COCO minival#mask AP#51

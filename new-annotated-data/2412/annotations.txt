@@ -1,0 +1,2 @@
+Product Recommendation#Coveo Data Challenge Dataset#MRR#0.2784
+Product Recommendation#Coveo Data Challenge Dataset#F1#0.0748

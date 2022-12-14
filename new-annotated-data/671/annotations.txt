@@ -1,0 +1,4 @@
+Dialogue State Tracking#CoSQL#question match accuracy#39.7
+Dialogue State Tracking#CoSQL#interaction match accuracy#12.8
+Text-To-Sql#SParC#interaction match accuracy#23.5
+Text-To-Sql#SParC#question match accuracy#45.9

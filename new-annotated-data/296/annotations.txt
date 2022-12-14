@@ -1,0 +1,21 @@
+Face Alignment#300W#NME_inter-ocular (%, Full)#2.88
+Face Alignment#300W#NME_inter-ocular (%, Common)#2.50
+Face Alignment#300W#NME_inter-ocular (%, Challenge)#4.42
+Face Alignment#300W#NME_inter-pupil (%, Full)#4.05
+Face Alignment#300W#NME_inter-pupil (%, Common)#3.46
+Face Alignment#300W#NME_inter-pupil (%, Challenge)#6.38
+Face Alignment#300W#NME_inter-ocular (%, Full)#2.93
+Face Alignment#300W#NME_inter-ocular (%, Common)#2.56
+Face Alignment#300W#NME_inter-ocular (%, Challenge)#4.45
+Face Alignment#300W#NME_inter-pupil (%, Full)#4.11
+Face Alignment#300W#NME_inter-pupil (%, Common)#3.53
+Face Alignment#300W#NME_inter-pupil (%, Challenge)#6.42
+Face Alignment#WFLW#NME_inter-ocular (%, all)#3.96
+Face Alignment#WFLW#AUC_inter-ocular@0.1 (%, all)#61.16
+Face Alignment#WFLW#FR_inter-ocular@0.1(%, all)#1.76
+Face Alignment#AFLW-19#NME_diag (%, Full)#0.943
+Face Alignment#AFLW-19#NME_diag (%, Frontal)#0.821
+Face Alignment#AFLW-19#NME_box (%, Full)#1.334
+Face Alignment#AFLW-19#AUC_box@0.07 (%, Full)#81.3
+Face Parsing#LaPa#Mean F1#93.88
+Face Parsing#CelebAMask-HQ#Mean F1#89.56

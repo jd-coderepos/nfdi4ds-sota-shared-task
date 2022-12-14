@@ -1,0 +1,4 @@
+Medical Image Segmentation#Kvasir-SEG#mean Dice#0.9385
+Medical Image Segmentation#Kvasir-SEG#mIoU#0.8903
+Medical Image Segmentation#CVC-ClinicDB#mean Dice#0.9469
+Medical Image Segmentation#CVC-ClinicDB#mIoU#0.9020

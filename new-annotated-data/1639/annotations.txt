@@ -1,0 +1,8 @@
+Video Retrieval#MSR-VTT#text-to-video R@1#10.7
+Video Retrieval#MSR-VTT#text-to-video R@5#29.6
+Video Retrieval#MSR-VTT#text-to-video R@10#41.2
+Video Retrieval#MSR-VTT#text-to-video Median Rank#17
+Video Retrieval#YouCook2#text-to-video Median Rank#53
+Video Retrieval#YouCook2#text-to-video R@1#6.3
+Video Retrieval#YouCook2#text-to-video R@10#25.2
+Video Retrieval#YouCook2#text-to-video R@5#16.9

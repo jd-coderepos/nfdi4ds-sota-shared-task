@@ -1,0 +1,33 @@
+Real-Time Object Detection#COCO#FPS (V100, b=1)#11.6
+Real-Time Object Detection#COCO#box AP#51.9
+Semantic Segmentation#FoodSeg103#mIoU#41.6
+Semantic Segmentation#ADE20K#Validation mIoU#53.50
+Semantic Segmentation#ADE20K#Test Score#62.8
+Semantic Segmentation#ADE20K#Validation mIoU#49.7
+Semantic Segmentation#ADE20K val#mIoU#53.5
+Semantic Segmentation#ADE20K val#mIoU#49.7
+Thermal Image Segmentation#MFN Dataset#mIOU#49.0
+Object Detection#COCO test-dev#box AP#58.7
+Object Detection#COCO test-dev#box AP#57.7
+Object Detection#COCO minival#box AP#58
+Object Detection#COCO minival#box AP#57.1
+Image Classification#ImageNet#Top 1 Accuracy#87.3%
+Image Classification#ImageNet#Number of params#197M
+Image Classification#ImageNet#GFLOPs#103.9
+Image Classification#ImageNet#Top 1 Accuracy#86.4%
+Image Classification#ImageNet#Number of params#88M
+Image Classification#ImageNet#GFLOPs#47
+Image Classification#ImageNet#Top 1 Accuracy#81.3%
+Image Classification#ImageNet#Number of params#29M
+Image Classification#ImageNet#GFLOPs#4.5
+Image Classification#OmniBenchmark#Average Top-1 Accuracy#46.4
+Instance Segmentation#COCO test-dev#mask AP#51.1
+Instance Segmentation#COCO test-dev#mask AP#50.2
+Instance Segmentation#Occluded COCO#Mean Recall#62.90
+Instance Segmentation#Occluded COCO#Mean Recall#61.14
+Instance Segmentation#Occluded COCO#Mean Recall#58.81
+Instance Segmentation#Separated COCO#Mean Recall#36.31
+Instance Segmentation#Separated COCO#Mean Recall#33.67
+Instance Segmentation#Separated COCO#Mean Recall#31.94
+Instance Segmentation#COCO minival#mask AP#50.4
+Instance Segmentation#COCO minival#mask AP#49.5

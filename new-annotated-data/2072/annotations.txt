@@ -1,0 +1,2 @@
+Math Word Problem Solving#Math23K#Accuracy (5-fold)#80.8
+Math Word Problem Solving#Math23K#Accuracy (training-test)#82.3

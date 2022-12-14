@@ -1,0 +1,8 @@
+Action Classification#Kinetics-600#Top-1 Accuracy#91.1
+Action Classification#Kinetics-600#Top-5 Accuracy#97.1
+Action Classification#Kinetics-600#Top-1 Accuracy#89.7
+Action Classification#Kinetics-600#Top-5 Accuracy#96.6
+Action Classification#Kinetics-600#Top-1 Accuracy#89.4
+Action Classification#Kinetics-600#Top-5 Accuracy#96.3
+Action Classification#Kinetics-600#Top-1 Accuracy#88.1
+Action Classification#Kinetics-600#Top-5 Accuracy#95.8

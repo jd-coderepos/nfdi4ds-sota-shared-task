@@ -1,0 +1,9 @@
+Network Pruning#ImageNet#Accuracy#78.79
+Network Pruning#ImageNet#GFLOPs#2.335
+Network Pruning#ImageNet#MParams#14.811
+Network Pruning#ImageNet#Accuracy#78.07
+Network Pruning#ImageNet#GFLOPs#1.635
+Network Pruning#ImageNet#MParams#10.511
+Network Pruning#ImageNet#Accuracy#76.376
+Network Pruning#ImageNet#GFLOPs#1.075
+Network Pruning#ImageNet#MParams#6.954

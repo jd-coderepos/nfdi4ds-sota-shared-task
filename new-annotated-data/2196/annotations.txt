@@ -1,0 +1,5 @@
+Scene Recognition#ADE20K#Top 1 Accuracy#62.55
+Scene Recognition#SUN397#Accuracy#74.04
+Scene Recognition#Places365#Top 1 Accuracy#56.51
+Scene Recognition#Places365#Top 5 Accuracy#86.00
+Scene Recognition#MIT Indoor Scenes#Accuracy#87.10

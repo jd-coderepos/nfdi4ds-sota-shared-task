@@ -1,0 +1,6 @@
+Pose Estimation#OCHuman#Test AP#36.0
+Pose Estimation#OCHuman#Validation AP#41.8
+Keypoint Detection#OCHuman#Test AP#36.0
+Keypoint Detection#OCHuman#Validation AP#41.8
+2D Human Pose Estimation#OCHuman#Test AP#36.0
+2D Human Pose Estimation#OCHuman#Validation AP#41.8

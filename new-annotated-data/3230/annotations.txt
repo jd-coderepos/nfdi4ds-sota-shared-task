@@ -1,0 +1,5 @@
+Point Cloud Registration#KITTI (trained on 3DMatch)#Success Rate#98.92
+Point Cloud Registration#3DMatch (trained on KITTI)#Recall#0.922
+Point Cloud Registration#3DMatch Benchmark#Feature Matching Recall#97.9
+Point Cloud Registration#ETH (trained on 3DMatch)#Recall#0.982
+Point Cloud Registration#KITTI#Success Rate#99.82

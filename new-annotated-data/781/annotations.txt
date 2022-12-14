@@ -1,0 +1,2 @@
+Relation Extraction#NYT#F1#92.5
+Relation Extraction#NYT#F1 (strict)#90.2

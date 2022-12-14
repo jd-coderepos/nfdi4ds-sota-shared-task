@@ -1,0 +1,4 @@
+Sentiment Analysis#SST-5 Fine-grained classification#Accuracy#45.02
+Sentiment Analysis#MR#Accuracy#78.26
+Subjectivity Analysis#SUBJ#Accuracy#91.85
+Text Classification#TREC-6#Error#7

@@ -1,0 +1,8 @@
+Visual Object Tracking#LaSOT#AUC#66.8
+Visual Object Tracking#LaSOT#Normalized Precision#75.5
+Visual Object Tracking#GOT-10k#Average Overlap#67.5
+Visual Object Tracking#GOT-10k#Success Rate 0.5#76.8
+Visual Object Tracking#GOT-10k#Success Rate 0.75#60.3
+Visual Object Tracking#TrackingNet#Precision#81.4
+Visual Object Tracking#TrackingNet#Normalized Precision#87.5
+Visual Object Tracking#TrackingNet#Accuracy#82.8

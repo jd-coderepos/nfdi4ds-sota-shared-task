@@ -1,0 +1,2 @@
+Speaker Verification#CALLHOME#Cosine EER#3.55
+Speaker Verification#CALLHOME#Cosine EER#2.38

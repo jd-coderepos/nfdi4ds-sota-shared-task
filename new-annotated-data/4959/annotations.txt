@@ -1,0 +1,4 @@
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7883 ± 0.0100
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.7904 ± 0.0115
+Graph Property Prediction#ogbg-molhiv#Number of params#526201
+Graph Property Prediction#ogbg-molhiv#Ext. data#No

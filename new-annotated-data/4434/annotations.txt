@@ -1,0 +1,6 @@
+3D Instance Segmentation#S3DIS#mRec#71.1
+3D Instance Segmentation#S3DIS#mPrec#75.3
+3D Instance Segmentation#S3DIS#mCov#70.3
+3D Instance Segmentation#S3DIS#mWCov#72.8
+3D Instance Segmentation#ScanNet(v2)#mAP#53.2
+3D Instance Segmentation#ScanNet(v2)#mAP @ 50#71.8

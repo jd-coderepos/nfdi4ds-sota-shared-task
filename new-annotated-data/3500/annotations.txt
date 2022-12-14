@@ -1,0 +1,1 @@
+Data Augmentation#ImageNet#Accuracy (%)#78.07

@@ -1,0 +1,6 @@
+Sentiment Analysis#Yelp Fine-grained classification#Error#32.39
+Sentiment Analysis#IMDb#Accuracy#94.1
+Sentiment Analysis#Yelp Binary classification#Error#2.9
+Text Classification#DBpedia#Error#0.84
+Text Classification#AG News#Error#6.57
+Text Classification#RCV1#Accuracy#92.85

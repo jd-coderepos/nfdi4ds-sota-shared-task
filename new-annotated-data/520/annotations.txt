@@ -1,0 +1,8 @@
+Domain Adaptation#Noisy-Amazon (45%)#Average Accuracy#56.01
+Domain Adaptation#Noisy-SYND-to-MNIST#Average Accuracy#94.09
+Domain Adaptation#Noisy-Amazon (20%)#Average Accuracy#71.53
+Domain Adaptation#Noisy-MNIST-to-SYND#Average Accuracy#57.55
+Wildly Unsupervised Domain Adaptation#Noisy-SYND-to-MNIST#Average Accuracy#94.09
+Wildly Unsupervised Domain Adaptation#Noisy-Amazon (20%)#Average Accuracy#71.53
+Wildly Unsupervised Domain Adaptation#Noisy-Amazon (45%)#Average Accuracy#56.01
+Wildly Unsupervised Domain Adaptation#Noisy-MNIST-to-SYND#Average Accuracy#57.55

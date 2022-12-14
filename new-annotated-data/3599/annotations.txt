@@ -1,0 +1,6 @@
+Lay Summarization#eLife#ROUGE-1#46.57
+Lay Summarization#eLife#ROUGE-2#11.65
+Lay Summarization#eLife#ROUGE-L#43.70
+Lay Summarization#PLOS#ROUGE-1#42.35
+Lay Summarization#PLOS#ROUGE-2#12.96
+Lay Summarization#PLOS#ROUGE-L#38.57

@@ -1,0 +1,2 @@
+Time Series Classification#FordA#mean average precision#97%
+Time Series Classification#FordA#F1 score#97%

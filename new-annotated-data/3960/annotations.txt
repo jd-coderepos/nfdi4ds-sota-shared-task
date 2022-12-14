@@ -1,0 +1,12 @@
+Image Classification#CIFAR-100#Percentage correct#90.2
+Image Classification#DTD#Accuracy#81.9
+Image Classification#OmniBenchmark#Average Top-1 Accuracy#45.4
+Image Classification#ObjectNet#Top-1 Accuracy#53.9
+Image Classification#ObjectNet#Top-1 Accuracy#38.8
+Image Classification#Flowers-102#Accuracy#99.7
+Image Classification#CIFAR-10#Percentage correct#98.2
+Image Classification#Food-101#Accuracy (%)#92.9
+Fine-Grained Image Classification#Stanford Cars#Accuracy#93.9%
+Fine-Grained Image Classification#SUN397#Accuracy#79.5
+Fine-Grained Image Classification#Caltech-101#Accuracy#94.8
+Fine-Grained Image Classification#Oxford-IIIT Pet Dataset#Accuracy#95.1%

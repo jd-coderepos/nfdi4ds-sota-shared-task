@@ -1,0 +1,6 @@
+Person Re-Identification#SYSU-30k#Rank-1#36.0
+Unsupervised Person Re-Identification#Market-1501#Rank-1#89.5
+Unsupervised Person Re-Identification#Market-1501#MAP#72.9
+Unsupervised Person Re-Identification#Market-1501#Rank-10#97.0
+Unsupervised Person Re-Identification#Market-1501#Rank-5#95.2
+Unsupervised Person Re-Identification#DukeMTMCreID#Rank-1#80.0

@@ -1,0 +1,2 @@
+Graph Learning#CAMELS#R^2#0.97
+Graph Learning#CAMELS#absolute relative error#0.7

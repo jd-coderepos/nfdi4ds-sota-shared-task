@@ -1,0 +1,77 @@
+SMAC#SMAC corridor#Median Win Rate#95.4
+SMAC#SMAC corridor#Average Score#20
+SMAC#SMAC corridor#Median Win Rate#91.62
+SMAC#SMAC corridor#Average Score#19.68
+SMAC#SMAC corridor#Median Win Rate#90.45
+SMAC#SMAC corridor#Average Score#19.66
+SMAC#SMAC corridor#Median Win Rate#85.34
+SMAC#SMAC corridor#Average Score#19.47
+SMAC#SMAC corridor#Median Win Rate#84.87
+SMAC#SMAC corridor#Average Score#19.42
+SMAC#SMAC corridor#Median Win Rate#37.61
+SMAC#SMAC corridor#Average Score#15.07
+SMAC#SMAC 27m_vs_30m#Median Win Rate#91.48
+SMAC#SMAC 27m_vs_30m#Average Score#19.71
+SMAC#SMAC 27m_vs_30m#Median Win Rate#85.45
+SMAC#SMAC 27m_vs_30m#Average Score#19.43
+SMAC#SMAC 27m_vs_30m#Median Win Rate#84.77
+SMAC#SMAC 27m_vs_30m#Average Score#19.41
+SMAC#SMAC 27m_vs_30m#Median Win Rate#63.12
+SMAC#SMAC 27m_vs_30m#Average Score#18.45
+SMAC#SMAC 27m_vs_30m#Median Win Rate#6.02
+SMAC#SMAC 27m_vs_30m#Average Score#14.45
+SMAC#SMAC 27m_vs_30m#Median Win Rate#2.27
+SMAC#SMAC 27m_vs_30m#Average Score#14.01
+SMAC#SMAC 3s5z_vs_3s6z#Median Win Rate#94.03
+SMAC#SMAC 3s5z_vs_3s6z#Average Score#20.94
+SMAC#SMAC 3s5z_vs_3s6z#Median Win Rate#91.08
+SMAC#SMAC 3s5z_vs_3s6z#Average Score#19.7
+SMAC#SMAC 3s5z_vs_3s6z#Median Win Rate#89.2
+SMAC#SMAC 3s5z_vs_3s6z#Average Score#19.75
+SMAC#SMAC 3s5z_vs_3s6z#Median Win Rate#67.22
+SMAC#SMAC 3s5z_vs_3s6z#Average Score#20.16
+SMAC#SMAC 3s5z_vs_3s6z#Median Win Rate#62.22
+SMAC#SMAC 3s5z_vs_3s6z#Average Score#17.52
+SMAC#SMAC 3s5z_vs_3s6z#Median Win Rate#29.83
+SMAC#SMAC 3s5z_vs_3s6z#Average Score#16.54
+SMAC#SMAC 6h_vs_8z#Median Win Rate#83.92
+SMAC#SMAC 6h_vs_8z#Average Score#19.4
+SMAC#SMAC 6h_vs_8z#Median Win Rate#49.43
+SMAC#SMAC 6h_vs_8z#Average Score#17.14
+SMAC#SMAC 6h_vs_8z#Median Win Rate#12.78
+SMAC#SMAC 6h_vs_8z#Average Score#14.37
+SMAC#SMAC 6h_vs_8z#Median Win Rate#0
+SMAC#SMAC 6h_vs_8z#Average Score#15.41
+SMAC#SMAC 6h_vs_8z#Median Win Rate#0.00
+SMAC#SMAC 6h_vs_8z#Average Score#14.94
+SMAC#SMAC 6h_vs_8z#Average Score#13.78
+SMAC#SMAC MMM2#Median Win Rate#97.22
+SMAC#SMAC MMM2#Average Score#20.9
+SMAC#SMAC MMM2#Median Win Rate#95.11
+SMAC#SMAC MMM2#Average Score#19.87
+SMAC#SMAC MMM2#Median Win Rate#92.44
+SMAC#SMAC MMM2#Average Score#19.42
+SMAC#SMAC MMM2#Median Win Rate#89.2
+SMAC#SMAC MMM2#Average Score#19.36
+SMAC#SMAC MMM2#Median Win Rate#85.23
+SMAC#SMAC MMM2#Average Score#19.21
+SMAC#SMAC MMM2#Median Win Rate#68.92
+SMAC#SMAC MMM2#Average Score#17.5
+SMAC+#Off_Distant_parallel#Median Win Rate#0.0
+SMAC+#Def_Armored_sequential#Median Win Rate#81.3
+SMAC+#Def_Armored_sequential#Median Win Rate#71.9
+SMAC+#Def_Armored_sequential#Median Win Rate#53.1
+SMAC+#Off_Complicated_parallel#Median Win Rate#0.0
+SMAC+#Off_Superhard_parallel#Median Win Rate#0.0
+SMAC+#Def_Infantry_sequential#Median Win Rate#100
+SMAC+#Def_Infantry_sequential#Median Win Rate#93.8
+SMAC+#Def_Infantry_sequential#Median Win Rate#90.6
+SMAC+#Off_Hard_parallel#Median Win Rate#0.0
+SMAC+#Def_Armored_parallel#Median Win Rate#90.0
+SMAC+#Def_Armored_parallel#Median Win Rate#0.0
+SMAC+#Def_Infantry_parallel#Median Win Rate#90.0
+SMAC+#Def_Infantry_parallel#Median Win Rate#20.0
+SMAC+#Def_Outnumbered_sequential#Median Win Rate#0.0
+SMAC+#Def_Outnumbered_parallel#Median Win Rate#5.0
+SMAC+#Def_Outnumbered_parallel#Median Win Rate#0.0
+SMAC+#Off_Near_parallel#Median Win Rate#0.0

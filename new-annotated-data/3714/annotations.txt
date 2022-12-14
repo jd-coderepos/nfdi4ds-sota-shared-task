@@ -1,0 +1,4 @@
+Object Detection#SeaDronesSee#mAP@0.5#59.20
+Object Detection#SeaDronesSee#mAP@0.5#59.08
+Object Detection#SeaDronesSee#mAP@0.5#54.74
+Object Detection#SeaDronesSee#mAP@0.5#38.74

@@ -1,0 +1,3 @@
+Visual Question Answering#VCR (Q-AR) test#Accuracy#60.3
+Visual Question Answering#VCR (QA-R) test#Accuracy#78.6
+Visual Question Answering#VCR (Q-A) test#Accuracy#76.4

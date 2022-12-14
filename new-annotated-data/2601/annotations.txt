@@ -1,0 +1,4 @@
+Semantic Segmentation#ADE20K#Validation mIoU#47.54
+Semantic Segmentation#ADE20K#Validation mIoU#47.38
+Semantic Segmentation#PASCAL Context#mIoU#57
+Semantic Segmentation#PASCAL Context#mIoU#56.0

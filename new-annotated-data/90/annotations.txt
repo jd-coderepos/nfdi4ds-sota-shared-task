@@ -1,0 +1,5 @@
+Monocular Depth Estimation#NYU-Depth V2#absolute relative error#0.09
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25#0.916
+Monocular Depth Estimation#IBims-1#ORD#0.196
+Monocular Depth Estimation#IBims-1#δ1.25#0.885
+Indoor Monocular Depth Estimation#DIODE#Delta < 1.25^3#0.900

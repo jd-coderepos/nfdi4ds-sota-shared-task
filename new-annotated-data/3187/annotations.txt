@@ -1,0 +1,3 @@
+Sarcasm Detection#MUStARD++#Precision#70.2
+Sarcasm Detection#MUStARD++#Recall#70.2
+Sarcasm Detection#MUStARD++#F1#70.2

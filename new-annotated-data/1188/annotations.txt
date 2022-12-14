@@ -1,0 +1,4 @@
+Image Generation#CIFAR-10#FID#3.26
+Image Generation#LSUN Bedroom 256 x 256#FID#5.68
+Image Generation#LSUN Churches 256 x 256#FID#8.69
+Image Generation#CelebA 64x64#FID#2.71

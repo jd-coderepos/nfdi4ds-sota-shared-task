@@ -1,0 +1,2 @@
+Image Classification#MNIST#Percentage error#0.09
+Image Classification#MNIST#Accuracy#99.91

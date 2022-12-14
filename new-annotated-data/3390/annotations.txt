@@ -1,0 +1,4 @@
+Multi-Label Image Classification#BigEarthNet#FScore#79
+Multi-Label Image Classification#BigEarthNet#FScore#77.1
+Multi-Label Image Classification#BigEarthNet#FScore#76.8
+Multi-Label Image Classification#BigEarthNet#FScore#75.2

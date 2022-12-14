@@ -1,0 +1,6 @@
+Multi-Object Tracking#MOT20#MOTA#77.8
+Multi-Object Tracking#MOT20#IDF1#77.5
+Multi-Object Tracking#MOT20#HOTA#63.3
+Multi-Object Tracking#MOT17#MOTA#80.5
+Multi-Object Tracking#MOT17#IDF1#80.2
+Multi-Object Tracking#MOT17#HOTA#65.0

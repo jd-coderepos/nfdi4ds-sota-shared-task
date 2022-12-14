@@ -1,0 +1,4 @@
+Dialogue State Tracking#CoSQL#question match accuracy#14.1
+Dialogue State Tracking#CoSQL#interaction match accuracy#2.2
+Dialogue State Tracking#CoSQL#question match accuracy#13.9
+Dialogue State Tracking#CoSQL#interaction match accuracy#2.6

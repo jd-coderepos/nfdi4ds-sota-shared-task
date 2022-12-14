@@ -1,0 +1,8 @@
+Video Denoising#Set8 sigma50#PSNR#30.06
+Video Denoising#Set8 sigma40#PSNR#30.97
+Video Denoising#CRVD#PSNR (Raw)#44.39
+Video Denoising#CRVD#SSIM (Raw)#0.9894
+Video Denoising#CRVD#PSNR (sRBG)#40.48
+Video Denoising#CRVD#SSIM (sRGB)#0.9820
+Video Denoising#DAVIS sigma40#PSNR#33.86
+Video Denoising#DAVIS sigma50#PSNR#32.91

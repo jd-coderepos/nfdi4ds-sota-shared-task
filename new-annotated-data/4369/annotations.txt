@@ -1,0 +1,25 @@
+Vehicle Re-Identification#VeRi-Wild Small#mAP#86.9
+Vehicle Re-Identification#VeRi-Wild Small#Rank1#96.5
+Vehicle Re-Identification#VeRi-Wild Small#Rank5#99.2
+Vehicle Re-Identification#VeRi-776#mAP#81.2
+Vehicle Re-Identification#VeRi-776#Rank-1#96.8
+Vehicle Re-Identification#VeRi-776#Rank1#96.8
+Vehicle Re-Identification#VeRi-776#Rank5#98.4
+Vehicle Re-Identification#VeRi-Wild Medium#mAP#82.5
+Vehicle Re-Identification#VeRi-Wild Medium#Rank1#95.2
+Vehicle Re-Identification#VeRi-Wild Medium#Rank5#98.3
+Vehicle Re-Identification#VeRi-Wild Large#mAP#75.9
+Vehicle Re-Identification#VeRi-Wild Large#Rank1#92.5
+Vehicle Re-Identification#VeRi-Wild Large#Rank5#97.2
+Vehicle Re-Identification#VehicleID Medium#Rank-1#82.8
+Vehicle Re-Identification#VehicleID Medium#Rank-5#96.2
+Vehicle Re-Identification#VehicleID Medium#Rank1#82.8
+Vehicle Re-Identification#VehicleID Medium#Rank5#96.2
+Vehicle Re-Identification#VehicleID Small#Rank-1#87.9
+Vehicle Re-Identification#VehicleID Small#Rank-5#97.8
+Vehicle Re-Identification#VehicleID Small#Rank1#87.9
+Vehicle Re-Identification#VehicleID Small#Rank5#97.8
+Vehicle Re-Identification#VehicleID Large#Rank-1#80.5
+Vehicle Re-Identification#VehicleID Large#Rank-5#94.6
+Vehicle Re-Identification#VehicleID Large#Rank1#80.5
+Vehicle Re-Identification#VehicleID Large#Rank5#94.6

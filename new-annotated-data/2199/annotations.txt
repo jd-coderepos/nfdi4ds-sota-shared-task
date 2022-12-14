@@ -1,0 +1,3 @@
+Face Parsing#LaPa#Mean F1#92.4
+Face Parsing#Helen#Mean F1#93.8
+Face Parsing#CelebAMask-HQ#Mean F1#86.1

@@ -1,0 +1,2 @@
+Audio Classification#AudioSet#Test mAP#0.398
+Audio Classification#AudioSet#AUC#0.972

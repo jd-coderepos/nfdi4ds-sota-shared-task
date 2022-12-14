@@ -1,0 +1,3 @@
+Deep Clustering#Coil-20#NMI#80.06
+Deep Clustering#MNIST#NMI#91.06
+Deep Clustering#USPS#NMI#82.23

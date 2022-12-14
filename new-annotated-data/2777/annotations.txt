@@ -1,0 +1,6 @@
+Weakly-Supervised Object Localization#ImageNet#GT-known localization accuracy#65.4
+Weakly-Supervised Object Localization#ImageNet#Top-1 Localization Accuracy#52.3
+Weakly-Supervised Object Localization#CUB-200-2011#Top-1 Localization Accuracy#72.9
+Weakly-Supervised Object Localization#CUB#Top-1 Localization Accuracy#72.9
+Single-object discovery#COCO_20k#CorLoc#62.6
+Single-object discovery#COCO_20k#CorLoc#58.8

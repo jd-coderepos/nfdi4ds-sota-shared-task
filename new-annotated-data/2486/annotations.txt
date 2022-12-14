@@ -1,0 +1,7 @@
+Semantic Segmentation#DADA-seg#mIoU#20.5
+Semantic Segmentation#EventScape#mIoU#36.67
+Semantic Segmentation#DensePASS#mIoU#25.67%
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#75.5%
+Semantic Segmentation#ZJU-RGB-P#mIoU#80.3
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#75.5%
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#39.9

@@ -1,0 +1,2 @@
+Age Estimation#IMDB-Clean#Average mean absolute error#4.68
+Age Estimation#KANFace#Average mean absolute error#6.81

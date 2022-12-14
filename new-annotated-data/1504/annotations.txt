@@ -1,0 +1,4 @@
+Action Recognition#HMDB-51#Average accuracy of 3 splits#87.21
+Action Recognition#HMDB-51#Average accuracy of 3 splits#85.70
+Scene Recognition#YUP++#Accuracy (%)#93.1
+Scene Recognition#YUP++#Accuracy (%)#92.5

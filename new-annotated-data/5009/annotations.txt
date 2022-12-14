@@ -1,0 +1,7 @@
+EditCompletion#C# EditCompletion#Accuracy#53.2
+EditCompletion#C# EditCompletion#Accuracy#41.4
+EditCompletion#C# EditCompletion#Accuracy#40.9
+EditCompletion#C# EditCompletion#Accuracy#32.6
+EditCompletion#C# EditCompletion#Accuracy#30.7
+EditCompletion#C# EditCompletion#Accuracy#25.5
+EditCompletion#C# EditCompletion#Accuracy#22.5

@@ -1,0 +1,7 @@
+Question Answering#WikiQA#MAP#0.885
+Question Answering#WikiQA#MRR#0.890
+Question Answering#TrecQA#MAP#0.911
+Question Answering#TrecQA#MRR#0.952
+Answer Selection#ASNQ#MAP#0.673
+Answer Selection#ASNQ#MRR#0.737
+Fact Verification#FEVER#Accuracy#74.4

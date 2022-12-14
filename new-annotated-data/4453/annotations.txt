@@ -1,0 +1,9 @@
+Referring Expression Segmentation#Refer-YouTube-VOS#Precision@0.5#38.6
+Referring Expression Segmentation#Refer-YouTube-VOS#Precision@0.9#6.9
+Referring Expression Segmentation#Refer-YouTube-VOS#Mean IoU#39.5
+Referring Expression Segmentation#Refer-YouTube-VOS#Precision@0.5#32.3
+Referring Expression Segmentation#Refer-YouTube-VOS#Precision@0.9#1.8
+Referring Expression Segmentation#Refer-YouTube-VOS#Mean IoU#35.0
+Referring Expression Segmentation#DAVIS 2017 (val)#J&F 1st frame#45.3
+Referring Expression Segmentation#DAVIS 2017 (val)#J&F Full video#44.8
+Referring Expression Segmentation#DAVIS 2017 (val)#J&F 1st frame#45.1

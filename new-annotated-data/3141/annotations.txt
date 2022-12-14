@@ -1,0 +1,4 @@
+Slot Filling#MixSNIPS#F1#94.9
+Slot Filling#MixATIS#F1#88.3
+Intent Detection#MixSNIPS#Accuracy#95.6
+Intent Detection#MixATIS#Accuracy#76.3

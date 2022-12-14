@@ -1,0 +1,34 @@
+Action Classification#Moments in Time#Top 1 Accuracy#49.0
+Action Classification#Moments in Time#Top 1 Accuracy#47.4
+Action Classification#Kinetics-600#Top-1 Accuracy#89.4
+Action Classification#Kinetics-600#Top-1 Accuracy#88.5
+Action Classification#Kinetics-400#Acc@1#88.9
+Action Classification#Kinetics-400#Acc@1#88.0
+Action Classification#Kinetics-700#Top-1 Accuracy#82.7
+Action Classification#Kinetics-700#Top-1 Accuracy#81.1
+Video Retrieval#MSR-VTT#text-to-video R@1#30.0
+Video Retrieval#MSR-VTT#text-to-video R@5#52.4
+Video Retrieval#MSR-VTT#text-to-video R@10#61.6
+Video Retrieval#MSR-VTT#video-to-text R@1#49.9
+Video Retrieval#MSR-VTT#video-to-text R@5#73.4
+Video Retrieval#MSR-VTT#video-to-text R@10#81.4
+Visual Question Answering#VQA v2 test-dev#Accuracy#82.3
+Visual Reasoning#NLVR2 Dev#Accuracy#86.1
+Visual Reasoning#NLVR2 Test#Accuracy#87.0
+Visual Entailment#SNLI-VE test#Accuracy#87.1
+Visual Entailment#SNLI-VE val#Accuracy#87.0
+Image Captioning#COCO Captions#BLEU-4#40.9
+Image Captioning#COCO Captions#METEOR#33.9
+Image Captioning#COCO Captions#CIDER#143.6
+Image Captioning#COCO Captions#SPICE#24.7
+Image Classification#ImageNet#Top 1 Accuracy#91.0%
+Image Classification#ImageNet#Number of params#2100M
+Image Classification#ImageNet#Top 1 Accuracy#90.60%
+Image Classification#ObjectNet#Top-1 Accuracy#82.7
+Zero-Shot Transfer Image Classification#ObjectNet#Accuracy (Private)#82.7
+Zero-Shot Transfer Image Classification#ImageNet V2#Accuracy (Private)#80.7
+Zero-Shot Transfer Image Classification#ImageNet#Accuracy (Private)#86.3
+Zero-Shot Transfer Image Classification#ImageNet-Sketch#Accuracy (Private)#77.6
+Zero-Shot Transfer Image Classification#ImageNet-R#Accuracy (Private)#96.5
+Zero-Shot Transfer Image Classification#ImageNet-A#Accuracy (Private)#90.2
+Classification#ImageNet#Params(M)#2100

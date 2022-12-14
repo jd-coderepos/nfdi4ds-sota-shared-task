@@ -1,0 +1,4 @@
+Novel View Synthesis#PhotoShape#PSNR#37.67
+Novel View Synthesis#PhotoShape#LPIPS#0.022
+Novel View Synthesis#Dosovitskiy Chairs#PSNR#21.78
+Novel View Synthesis#Dosovitskiy Chairs#LPIPS#0.141

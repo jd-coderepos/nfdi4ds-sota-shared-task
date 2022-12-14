@@ -1,0 +1,9 @@
+Neural Architecture Search#ImageNet#Top-1 Error Rate#21.24
+Neural Architecture Search#ImageNet#Accuracy#78.76
+Neural Architecture Search#ImageNet#Params#602M
+Neural Architecture Search#CIFAR-100#Percentage Error#19.39
+Neural Architecture Search#CIFAR-100#PARAMS#602M
+Neural Architecture Search#CIFAR-100#Search Time (GPU days)#1.57
+Neural Architecture Search#CIFAR-10#Top-1 Error Rate#3.277%
+Neural Architecture Search#CIFAR-10#Search Time (GPU days)#0.1
+Neural Architecture Search#CIFAR-10#FLOPS#602M

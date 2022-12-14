@@ -1,0 +1,4 @@
+Long-tail Learning#CIFAR-10-LT (ρ=100)#Error Rate#15.68
+Long-tail Learning#CIFAR-100-LT (ρ=100)#Error Rate#46.1
+Long-tail Learning#ImageNet-LT#Top-1 Accuracy#57.1
+Long-tail Learning#iNaturalist 2018#Top-1 Accuracy#71.8%

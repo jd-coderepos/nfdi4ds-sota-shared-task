@@ -1,0 +1,4 @@
+Visual Question Answering#CLEVR#Accuracy#95.50
+Image Retrieval with Multi-Modal Query#Fashion200k#Recall@1#13
+Image Retrieval with Multi-Modal Query#Fashion200k#Recall@10#40.5
+Image Retrieval with Multi-Modal Query#Fashion200k#Recall@50#62.4

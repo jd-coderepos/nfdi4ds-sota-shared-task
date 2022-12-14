@@ -1,0 +1,4 @@
+Person Re-Identification#Market-1501#Rank-1#95.4
+Person Re-Identification#Market-1501#Rank-5#98.5
+Person Re-Identification#Market-1501#Rank-10#99.2
+Person Re-Identification#Market-1501#mAP#89.2

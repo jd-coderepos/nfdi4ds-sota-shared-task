@@ -1,0 +1,2 @@
+License Plate Recognition#SSIG-SegPlate#Rank-1 Recognition Rate#85.45
+License Plate Recognition#UFPR-ALPR#Rank-1 Recognition Rate#64.89

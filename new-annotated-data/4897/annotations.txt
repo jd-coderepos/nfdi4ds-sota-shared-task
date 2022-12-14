@@ -1,0 +1,4 @@
+Optic Disc Detection#IDRiD#Euclidean Distance (ED)#20.5
+Fovea Detection#REFUGE#Euclidean Distance (ED)#32.5
+Fovea Detection#IDRiD#Euclidean Distance (ED)#32.1
+Fovea Detection#ADAM#Euclidean Distance (ED)#25.4

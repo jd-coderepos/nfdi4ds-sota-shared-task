@@ -1,0 +1,7 @@
+Speech Recognition#Common Voice German#Test WER#3.64%
+Speech Recognition#Common Voice German#Test CER#1.54%
+Speech Recognition#Common Voice German#Test WER#3.70%
+Speech Recognition#Common Voice German#Test WER#4.38%
+Speech Recognition#Common Voice German#Test CER#1.62%
+Speech Recognition#Common Voice German#Test WER#10.10%
+Speech Recognition#Common Voice German#Test WER#12.06%

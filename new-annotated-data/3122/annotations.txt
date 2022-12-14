@@ -1,0 +1,2 @@
+Table-based Fact Verification#TabFact#Test#82.1
+Table-based Fact Verification#TabFact#Val#82.7

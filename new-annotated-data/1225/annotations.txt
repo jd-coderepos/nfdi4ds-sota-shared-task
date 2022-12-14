@@ -1,0 +1,18 @@
+Image Generation#ImageNet 64x64#Inception Score#34.952
+Image Generation#ImageNet 64x64#FID#29.184
+Image Generation#ImageNet 64x64#KID#3.766
+Image Generation#ImageNet 64x64#Inception Score#25.926
+Image Generation#ImageNet 64x64#FID#29.219
+Image Generation#ImageNet 64x64#KID#5.325
+Image Generation#ImageNet 64x64#Inception Score#25.017
+Image Generation#ImageNet 64x64#FID#30.462
+Image Generation#ImageNet 64x64#KID#6.174
+Image Generation#ImageNet 64x64#Inception Score#22.077
+Image Generation#ImageNet 64x64#FID#30.871
+Image Generation#ImageNet 64x64#KID#7.952
+Question Answering#GSM8K#BS=1#16.831
+Question Answering#GSM8K#BS=5#20.773
+Video Question Answering#ActivityNet-QA#Accuracy#61.168
+Video Question Answering#ActivityNet-QA#Vocabulary Size#304
+Video Question Answering#ActivityNet-QA#Accuracy#58.389
+Video Question Answering#ActivityNet-QA#Vocabulary Size#267

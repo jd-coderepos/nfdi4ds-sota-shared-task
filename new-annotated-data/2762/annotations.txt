@@ -1,0 +1,4 @@
+Unsupervised Semantic Segmentation#Cityscapes val#mIoU#21.8
+Unsupervised Semantic Segmentation#Nighttime Driving#mIoU#18.9
+Unsupervised Semantic Segmentation#ACDC (Adverse Conditions Dataset with Correspondences)#mIoU#16.7
+Unsupervised Semantic Segmentation#Dark Zurich#mIoU#14.2

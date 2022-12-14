@@ -1,0 +1,4 @@
+Click-Through Rate Prediction#MovieLens 20M#AUC#0.7348
+Click-Through Rate Prediction#MovieLens 20M#AUC#0.7337
+Click-Through Rate Prediction#Amazon#AUC#0.8871
+Click-Through Rate Prediction#Amazon#AUC#0.8818

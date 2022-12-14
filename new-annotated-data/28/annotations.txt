@@ -1,0 +1,4 @@
+Deblurring#GoPro#PSNR#31.82
+Deblurring#GoPro#SSIM#0.923
+Video Super-Resolution#Vimeo90K#PSNR#37.63
+Video Enhancement#MFQE v2#Incremental PSNR#0.93

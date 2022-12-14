@@ -1,0 +1,3 @@
+Machine Translation#IWSLT2014 German-English#BLEU score#31.15
+Machine Translation#WMT2014 English-German#BLEU score#26.6
+Machine Translation#WMT2014 German-English#BLEU score#30.75

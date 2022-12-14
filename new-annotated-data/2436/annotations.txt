@@ -1,0 +1,4 @@
+Fraud Detection#Amazon-Fraud#AUC-ROC#96.19
+Fraud Detection#Yelp-Fraud#AUC-ROC#83.54
+Node Classification#Yelp-Fraud#AUC-ROC#83.54
+Node Classification#Amazon-Fraud#AUC-ROC#96.19

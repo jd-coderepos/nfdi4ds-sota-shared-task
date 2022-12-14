@@ -1,0 +1,3 @@
+Disjoint 15-1#PASCAL VOC 2012#mIoU#46.5
+Disjoint 10-1#PASCAL VOC 2012#mIoU#8.4
+Disjoint 15-5#PASCAL VOC 2012#Mean IoU#64.3

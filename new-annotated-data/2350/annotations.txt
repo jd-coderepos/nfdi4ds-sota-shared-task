@@ -1,0 +1,7 @@
+Natural Language Inference#MultiNLI#Matched#87.9
+Natural Language Inference#MultiNLI#Mismatched#87.4
+Semantic Textual Similarity#SentEval#MRPC#92.7/90.3
+Semantic Textual Similarity#SentEval#SICK-R#-
+Semantic Textual Similarity#SentEval#SICK-E#-
+Semantic Textual Similarity#SentEval#STS#91.1/90.7*
+Sentiment Analysis#SST-2 Binary classification#Accuracy#96.5

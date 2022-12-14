@@ -1,0 +1,2 @@
+Retinal Vessel Segmentation#DRIVE#AUC#0.9855
+Retinal Vessel Segmentation#DRIVE#Accuracy#0.9712

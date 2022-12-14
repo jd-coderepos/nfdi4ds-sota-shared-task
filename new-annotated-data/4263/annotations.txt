@@ -1,0 +1,8 @@
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#55.4%
+Self-Supervised Image Classification#ImageNet#Top 5 Accuracy#77.9%
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#51.4%
+Self-Supervised Image Classification#ImageNet#Top 5 Accuracy#74.0%
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#46.0%
+Self-Supervised Image Classification#ImageNet#Top 5 Accuracy#68.8%
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#44.6%
+Self-Supervised Image Classification#ImageNet#Top 5 Accuracy#68.0%

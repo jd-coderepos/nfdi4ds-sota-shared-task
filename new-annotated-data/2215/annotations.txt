@@ -1,0 +1,1 @@
+Data-to-Text Generation#AMR3.0#Bleu#48.0

@@ -1,0 +1,1 @@
+Point Cloud Quality Assessment#M-PCCD#Pearson Correlation Coefficient#95.6

@@ -1,0 +1,10 @@
+Multi-Object Tracking#MOT20#MOTA#77.8
+Multi-Object Tracking#MOT20#IDF1#75.2
+Multi-Object Tracking#MOT20#HOTA#61.3
+Multi-Object Tracking#DanceTrack#HOTA#47.1
+Multi-Object Tracking#DanceTrack#DetA#70.5
+Multi-Object Tracking#DanceTrack#AssA#31.5
+Multi-Object Tracking#DanceTrack#MOTA#88.2
+Multi-Object Tracking#DanceTrack#IDF1#51.9
+Multi-Object Tracking#MOT17#MOTA#80.3
+Multi-Object Tracking#MOT17#IDF1#77.3

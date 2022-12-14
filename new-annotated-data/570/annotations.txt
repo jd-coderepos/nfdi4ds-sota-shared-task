@@ -1,0 +1,5 @@
+Domain Generalization#DomainNet#Average Accuracy#43.63
+Domain Generalization#DomainNet#Average Accuracy#43.62
+Domain Generalization#PACS#Average Accuracy#83.37
+Domain Generalization#PACS#Average Accuracy#81.46
+Domain Generalization#PACS#Average Accuracy#73.32

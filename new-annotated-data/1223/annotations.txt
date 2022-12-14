@@ -1,0 +1,28 @@
+Image Generation#NASA Perseverance#RMSE Signature#11601
+Image Generation#NASA Perseverance#RMSE log-signature#7397
+Image Generation#NASA Perseverance#MAE Signature#9086
+Image Generation#NASA Perseverance#MAE log-signature#5717
+Image Generation#AFHQ Dog#RMSE Signature#38861
+Image Generation#AFHQ Dog#RMSE log-signature#31686
+Image Generation#AFHQ Dog#MAE Signature#30441
+Image Generation#AFHQ Dog#MAE log-signature#24612
+Image Generation#AFHQ Wild#RMSE Signature#33306
+Image Generation#AFHQ Wild#RMSE log-signature#26622
+Image Generation#AFHQ Wild#MAE Signature#25578
+Image Generation#AFHQ Wild#MAE log-signature#20359
+Image Generation#MetFaces#RMSE Signature#30894
+Image Generation#MetFaces#RMSE log-signature#21560
+Image Generation#MetFaces#MAE Signature#19872
+Image Generation#MetFaces#MAE log-signature#13761
+Image Generation#MetFaces#RMSE Signature#34977
+Image Generation#MetFaces#RMSE log-signature#24707
+Image Generation#MetFaces#MAE Signature#22799
+Image Generation#MetFaces#MAE log-signature#16539
+Image Generation#MetFaces#RMSE Signature#33247
+Image Generation#MetFaces#RMSE log-signature#25685
+Image Generation#MetFaces#MAE Signature#23428
+Image Generation#MetFaces#MAE log-signature#18071
+Image Generation#AFHQ Cat#RMSE Signature#61450
+Image Generation#AFHQ Cat#RMSE log-signature#29201
+Image Generation#AFHQ Cat#MAE Signature#45968
+Image Generation#AFHQ Cat#MAE log-signature#22297

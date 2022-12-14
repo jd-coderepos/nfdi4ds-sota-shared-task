@@ -1,0 +1,5 @@
+Human Pose Forecasting#AMASS#Average MPJPE (mm) 1000 msec#45.5
+Human Pose Forecasting#3DPW#Average MPJPE (mm) 1000 msec#42.3
+Human Pose Forecasting#Human3.6M#MAR, walking, 400ms#0.55
+Human Pose Forecasting#Human3.6M#MAR, walking, 1,000ms#0.87
+Human Pose Forecasting#Human3.6M#Average MPJPE (mm) 1000 msec#75.6

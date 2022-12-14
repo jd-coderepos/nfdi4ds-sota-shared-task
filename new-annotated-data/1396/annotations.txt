@@ -1,0 +1,14 @@
+Multi-Object Tracking#MOTS20#sMOTSA#68.9
+Multi-Object Tracking#MOTS20#IDF1#67.2
+Multi-Object Tracking#MOTS20#IDs#622
+Multi-Object Tracking#MOT16#MOTA#74.7
+Multi-Object Tracking#MOT16#IDF1#71.8
+Multi-Object Tracking#MOT16#IDs#683
+Visual Object Tracking#OTB-2015#AUC#0.618
+Video Object Segmentation#DAVIS 2017#mIoU#58.4
+Pose Estimation#J-HMDB#Mean PCK@0.2#80.5
+Pose Estimation#J-HMDB#Mean PCK@0.1#58.3
+Pose Tracking#PoseTrack2018#MOTA#63.5
+Pose Tracking#PoseTrack2018#IDF1#73.2
+Pose Tracking#PoseTrack2018#IDs#6760
+Video Instance Segmentation#YouTube-VIS validation#mask AP#30.1

@@ -1,0 +1,3 @@
+Image Classification#Clothing1M#Accuracy#74.37%
+Image Classification#WebVision#Top 1 Accuracy#77.28
+Image Classification#WebVision#Top 5 Accuracy#91.44

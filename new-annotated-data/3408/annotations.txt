@@ -1,0 +1,2 @@
+Medical Report Generation#10,000 People - Re-ID Data in Real Surveillance Scenes#10 steps MAE#12
+2D Human Pose Estimation#hoanghuy#0..5sec#1

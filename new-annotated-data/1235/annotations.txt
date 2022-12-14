@@ -1,0 +1,1 @@
+Image Generation#ImageNet 32x32#bpd#3.76

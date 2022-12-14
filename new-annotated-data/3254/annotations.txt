@@ -1,0 +1,5 @@
+Image Captioning#COCO Captions#BLEU-4#25.7
+Image Captioning#COCO Captions#METEOR#23.6
+Image Captioning#COCO Captions test#BLEU-4#56.7
+Image Captioning#COCO Captions test#CIDEr#92.5
+Image Captioning#COCO Captions test#METEOR#33.1

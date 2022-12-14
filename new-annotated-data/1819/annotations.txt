@@ -1,0 +1,26 @@
+Few-Shot Image Classification#ImageNet - 5-shot#Top 1 Accuracy#82.78
+Few-Shot Image Classification#ImageNet - 5-shot#Top 1 Accuracy#78.21
+Few-Shot Image Classification#ImageNet - 5-shot#Top 1 Accuracy#78.08
+Few-Shot Image Classification#ImageNet - 5-shot#Top 1 Accuracy#77.1
+Few-Shot Image Classification#ImageNet - 5-shot#Top 1 Accuracy#76.95
+Few-Shot Image Classification#ImageNet - 1-shot#Top 1 Accuracy#68.66
+Few-Shot Image Classification#ImageNet - 1-shot#Top 1 Accuracy#63.38
+Few-Shot Image Classification#ImageNet - 1-shot#Top 1 Accuracy#62.95
+Few-Shot Image Classification#ImageNet - 1-shot#Top 1 Accuracy#62.41
+Few-Shot Image Classification#ImageNet - 1-shot#Top 1 Accuracy#62.34
+Few-Shot Image Classification#ImageNet - 10-shot#Top 1 Accuracy#84.29
+Few-Shot Image Classification#ImageNet - 10-shot#Top 1 Accuracy#80.33
+Few-Shot Image Classification#ImageNet - 10-shot#Top 1 Accuracy#80.1
+Few-Shot Image Classification#ImageNet - 10-shot#Top 1 Accuracy#79.01
+Image Classification#ImageNet#Top 1 Accuracy#88.36%
+Image Classification#ImageNet#Number of params#7200M
+Image Classification#ImageNet#Top 1 Accuracy#88.23%
+Image Classification#ImageNet#Number of params#2700M
+Image Classification#ImageNet#Top 1 Accuracy#88.08%
+Image Classification#ImageNet#Number of params#656M
+Image Classification#ImageNet#Top 1 Accuracy#87.41%
+Image Classification#ImageNet#Number of params#3400M
+Image Classification#JFT-300M#prec@1#60.62
+Image Classification#JFT-300M#prec@1#60.12
+Image Classification#JFT-300M#prec@1#57.65
+Image Classification#JFT-300M#prec@1#56.68

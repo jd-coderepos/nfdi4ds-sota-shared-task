@@ -1,0 +1,3 @@
+Out-of-Distribution Detection#CIFAR-10#FPR95#3.87
+Out-of-Distribution Detection#CIFAR-10#AUROC#99.43
+Out-of-Distribution Detection#CIFAR10#AUROC#99.3

@@ -1,0 +1,2 @@
+Weakly Supervised Action Localization#THUMOS 2014#mAP@0.5#6.8
+Weakly Supervised Action Localization#THUMOS 2014#mAP@0.1:0.7#-

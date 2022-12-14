@@ -1,0 +1,6 @@
+Named Entity Recognition#CoNLL 2002 (Dutch)#F1#95.21
+Named Entity Recognition#CoNLL 2002 (Spanish)#F1#90.14
+Named Entity Recognition#CoNLL 2003 (German) Revised#F1#92.23
+Named Entity Recognition#CoNLL 2003 (German)#F1#88.34
+Named Entity Recognition#CoNLL 2003 (English)#F1#94.09
+Named Entity Recognition#FindVehicle#F1 Score#80.9

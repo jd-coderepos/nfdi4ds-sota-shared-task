@@ -1,0 +1,4 @@
+2D object detection#Clear Weather#clear hard (AP)#79.48
+2D object detection#Dense Fog#light fog hard (AP)#86.5
+2D object detection#Dense Fog#dense fog hard (AP)#78.21
+2D object detection#Dense Fog#snow/rain hard (AP)#78.09

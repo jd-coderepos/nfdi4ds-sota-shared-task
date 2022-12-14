@@ -1,0 +1,15 @@
+Image Generation#AFHQ Dog#clean-KID#0.38 ± .01
+Image Generation#AFHQ Dog#clean-FID#4.73 ± .02
+Image Generation#AFHQ Dog#FID#4.60
+Image Generation#AFHQ Wild#clean-KID#0.38 ± .02
+Image Generation#AFHQ Wild#clean-FID#2.35 ± .02
+Image Generation#AFHQ Wild#FID#2.25
+Image Generation#LSUN Horse 256 x 256#FID#2.15
+Image Generation#LSUN Horse 256 x 256#Clean-FID (trainfull)#2.11
+Image Generation#LSUN Cat 256 x 256#FID#3.87
+Image Generation#LSUN Cat 256 x 256#Clean-FID (trainfull)#3.98 ± 0.03
+Image Generation#LSUN Churches 256 x 256#FID#1.72
+Image Generation#LSUN Churches 256 x 256#Clean-FID (trainfull)#1.72 ± 0.01
+Image Generation#AFHQ Cat#clean-KID#0.46 ± .03
+Image Generation#AFHQ Cat#clean-FID#2.51 ± .02
+Image Generation#AFHQ Cat#FID#2.44

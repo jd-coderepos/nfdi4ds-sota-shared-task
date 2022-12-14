@@ -1,0 +1,4 @@
+Node Classification#AIFB#Accuracy#95.83
+Node Classification#AM#Accuracy#89.29
+Node Classification#BGS#Accuracy#83.10
+Node Classification#MUTAG#Accuracy#73.23

@@ -1,0 +1,2 @@
+Color Image Denoising#RENOIR#Average PSNR#36.355
+Color Image Denoising#RENOIR#Average PSNR#33.755

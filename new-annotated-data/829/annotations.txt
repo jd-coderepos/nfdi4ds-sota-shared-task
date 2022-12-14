@@ -1,0 +1,11 @@
+Visual Keyword Spotting#LRS3-TED#Top-1 Accuracy#52
+Visual Keyword Spotting#LRS3-TED#Top-5 Accuracy#77.1
+Visual Keyword Spotting#LRS3-TED#mAP#55.4
+Visual Keyword Spotting#LRS3-TED#mAP IOU@0.5#53.6
+Visual Keyword Spotting#LRW#Top-1 Accuracy#85.8
+Visual Keyword Spotting#LRW#Top-5 Accuracy#99.6
+Visual Keyword Spotting#LRW#mAP#64.1
+Visual Keyword Spotting#LRS2#Top-1 Accuracy#65
+Visual Keyword Spotting#LRS2#Top-5 Accuracy#87.1
+Visual Keyword Spotting#LRS2#mAP#69.2
+Visual Keyword Spotting#LRS2#mAP IOU@0.5#68.3

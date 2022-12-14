@@ -1,0 +1,1 @@
+Image Classification#Colored-MNIST(with spurious correlation)#Accuracy#66.9

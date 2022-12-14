@@ -1,0 +1,12 @@
+Image Classification#ImageNet#Top 1 Accuracy#90.88%
+Image Classification#ImageNet#Number of params#2440M
+Image Classification#ImageNet#GFLOPs#2586
+Image Classification#ImageNet#Top 1 Accuracy#90.45%
+Image Classification#ImageNet#Number of params#1470M
+Image Classification#ImageNet#GFLOPs#1521
+Image Classification#ImageNet#Top 1 Accuracy#88.52%
+Image Classification#ImageNet#Number of params#168M
+Image Classification#ImageNet#GFLOPs#114
+Image Classification#GasHisSDB#Accuracy#98.74
+Image Classification#GasHisSDB#Precision#99.97
+Image Classification#GasHisSDB#F1-Score#99.38

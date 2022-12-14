@@ -1,0 +1,1 @@
+Visual Question Answering#VQA v2 test-dev#Accuracy#81.26

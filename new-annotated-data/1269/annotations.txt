@@ -1,0 +1,14 @@
+Person Re-Identification#DukeMTMC-reID#Rank-1#92.91
+Person Re-Identification#DukeMTMC-reID#mAP#91.0
+Person Re-Identification#MSMT17#Rank-1#88.35
+Person Re-Identification#MSMT17#mAP#79.09
+Person Re-Identification#P-DukeMTMC-reID#Rank-1#91.96
+Person Re-Identification#P-DukeMTMC-reID#Rank-5#95.28
+Person Re-Identification#P-DukeMTMC-reID#Rank-10#96.39
+Person Re-Identification#P-DukeMTMC-reID#mAP#82.93
+Person Re-Identification#Occluded-DukeMTMC#Rank-1#64.39
+Person Re-Identification#Occluded-DukeMTMC#Rank-5#77.10
+Person Re-Identification#Occluded-DukeMTMC#Rank-10#82.26
+Person Re-Identification#Occluded-DukeMTMC#mAP#55.75
+Person Re-Identification#Market-1501#Rank-1#96.17
+Person Re-Identification#Market-1501#mAP#94.89

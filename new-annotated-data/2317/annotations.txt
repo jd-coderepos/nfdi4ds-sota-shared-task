@@ -1,0 +1,36 @@
+Common Sense Reasoning#OpenBookQA#Accuracy#94.4
+Common Sense Reasoning#OpenBookQA#Accuracy#93
+Common Sense Reasoning#OpenBookQA#Accuracy#92
+Common Sense Reasoning#OpenBookQA#Accuracy#90
+Common Sense Reasoning#OpenBookQA#Accuracy#86.4
+Common Sense Reasoning#OpenBookQA#Accuracy#84.4
+Common Sense Reasoning#ARC-c#Accuracy#89.8
+Common Sense Reasoning#ARC-c#Accuracy#88.7
+Common Sense Reasoning#ARC-c#Accuracy#88.3
+Common Sense Reasoning#ARC-c#Accuracy#87.2
+Common Sense Reasoning#ARC-c#Accuracy#87.1
+Common Sense Reasoning#ARC-c#Accuracy#85.2
+Natural Language Inference#ANLI-A2#Accuracy#66.5
+Natural Language Inference#ANLI-A2#Accuracy#65.3
+Natural Language Inference#ANLI-A2#Accuracy#64.8
+Natural Language Inference#ANLI-A2#Accuracy#64.5
+Natural Language Inference#ANLI-A2#Accuracy#58.9
+Natural Language Inference#ANLI-A2#Accuracy#55.8
+Natural Language Inference#ANLI-A3#Accuracy#67.9
+Natural Language Inference#ANLI-A3#Accuracy#67.3
+Natural Language Inference#ANLI-A3#Accuracy#66.9
+Natural Language Inference#ANLI-A3#Accuracy#63.4
+Natural Language Inference#ANLI-A3#Accuracy#60.6
+Natural Language Inference#ANLI-A3#Accuracy#55.8
+Arithmetic Reasoning#GSM8K#Accuracy#82.1
+Arithmetic Reasoning#GSM8K#Accuracy#74.4
+Arithmetic Reasoning#GSM8K#Accuracy#73.5
+Arithmetic Reasoning#GSM8K#Accuracy#56.5
+Arithmetic Reasoning#GSM8K#Accuracy#32.2
+Arithmetic Reasoning#GSM8K#Accuracy#17.9
+Arithmetic Reasoning#DROP#Accuracy#83
+Arithmetic Reasoning#DROP#Accuracy#78.2
+Arithmetic Reasoning#DROP#Accuracy#76.2
+Arithmetic Reasoning#DROP#Accuracy#71.7
+Arithmetic Reasoning#DROP#Accuracy#70.6
+Arithmetic Reasoning#DROP#Accuracy#60

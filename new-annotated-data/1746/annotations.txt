@@ -1,0 +1,8 @@
+Anomaly Detection#CUHK Avenue#AUC#85.1%
+Anomaly Detection#CUHK Avenue#RBDC#19.59
+Anomaly Detection#CUHK Avenue#TBDC#56.01
+Anomaly Detection#ShanghaiTech#AUC#72.8%
+Anomaly Detection#ShanghaiTech#RBDC#17.03
+Anomaly Detection#ShanghaiTech#TBDC#54.23
+Traffic Accident Detection#SA#AUC#50.4
+Traffic Accident Detection#A3D#AUC#46.1

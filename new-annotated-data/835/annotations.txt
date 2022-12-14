@@ -1,0 +1,9 @@
+3D Human Pose Estimation#AIST++#MPJPE#67.2
+3D Human Pose Estimation#AIST++#Single-view#Y
+3D Human Pose Estimation#3DPW#PA-MPJPE#46.4
+3D Human Pose Estimation#3DPW#MPJPE#75.5
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#53.1
+Pose Estimation#J-HMDB#Mean PCK@0.2#99.0
+Pose Estimation#J-HMDB#Mean PCK@0.1#94.6
+Pose Estimation#J-HMDB#Mean PCK@0.05#80.6
+2D Human Pose Estimation#JHMDB (2D poses only)#PCK#98.8

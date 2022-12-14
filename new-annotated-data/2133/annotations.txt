@@ -1,0 +1,2 @@
+Visual Question Answering#VCR (Q-A) test#Accuracy#79.6
+Visual Entailment#SNLI-VE test#Accuracy#80.32

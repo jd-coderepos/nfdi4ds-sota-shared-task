@@ -1,0 +1,2 @@
+Graph Property Prediction#ogbg-code2#Test F1 score#0.1751 ± 0.0049
+Graph Property Prediction#ogbg-code2#Validation F1 score#0.1607 ± 0.0040

@@ -1,0 +1,1 @@
+Semantic Segmentation#RELLIS-3D Dataset#Mean IoU (class)#74.44

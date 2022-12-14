@@ -1,0 +1,3 @@
+Video Quality Assessment#LIVE-VQC#PLCC#0.791
+Video Quality Assessment#LIVE-FB LSVQ#PLCC#0.827
+Video Quality Assessment#KoNViD-1k#PLCC#0.770

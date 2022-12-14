@@ -1,0 +1,3 @@
+Audio Super-Resolution#Voice Bank corpus (VCTK)#Log-Spectral Distance#2.3
+Audio Super-Resolution#Piano#Log-Spectral Distance#1.5
+Audio Super-Resolution#VCTK Multi-Speaker#Log-Spectral Distance#1.7

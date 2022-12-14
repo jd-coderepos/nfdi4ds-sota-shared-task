@@ -1,0 +1,37 @@
+Object Detection#COCO 2017#AP#53.4
+Object Detection#COCO 2017#AP50#72.9
+Object Detection#COCO 2017#AP75#58.1
+Object Detection#COCO 2017#APM#45.7
+Object Detection#COCO 2017#APM50#70.3
+Object Detection#COCO 2017#APM75#50
+Object Detection#COCO 2017#AP#53.1
+Object Detection#COCO 2017#AP50#72.5
+Object Detection#COCO 2017#APM#45.4
+Object Detection#COCO 2017#APM50#69.8
+Object Detection#COCO 2017#APM75#49.5
+Object Detection#COCO 2017#AP#52.1
+Object Detection#COCO 2017#AP50#71.9
+Object Detection#COCO 2017#AP75#56.8
+Object Detection#COCO 2017#APM#44.6
+Object Detection#COCO 2017#APM50#69.1
+Object Detection#COCO 2017#APM75#48.4
+Image Classification#ImageNet#Top 1 Accuracy#89.53%
+Image Classification#ImageNet#Top 1 Accuracy#89.41%
+Image Classification#ImageNet#Top 1 Accuracy#89.12%
+Image Classification#ImageNet#Top 1 Accuracy#88.82%
+Image Classification#ImageNet#Top 1 Accuracy#88.7%
+Image Classification#ImageNet#Top 1 Accuracy#88.69%
+Image Classification#ImageNet#Top 1 Accuracy#88.51%
+Image Classification#ImageNet#Top 1 Accuracy#88.46%
+Image Classification#ImageNet#Top 1 Accuracy#88.38%
+Image Classification#ImageNet#Top 1 Accuracy#88.32%
+Image Classification#ImageNet#Top 1 Accuracy#88.24%
+Image Classification#ImageNet#Top 1 Accuracy#86.7%
+Image Classification#ImageNet#Top 1 Accuracy#86.4%
+Image Classification#ImageNet#Top 1 Accuracy#86.34%
+Image Classification#ImageNet#Top 1 Accuracy#86.19%
+Image Classification#ImageNet#Top 1 Accuracy#85.72%
+Image Classification#ImageNet#Top 1 Accuracy#85.24%
+Image Classification#ImageNet#Top 1 Accuracy#84.95%
+Image Classification#ImageNet#Top 1 Accuracy#84.45%
+Image Classification#ImageNet#Top 1 Accuracy#83.62%

@@ -1,0 +1,11 @@
+Action Recognition#AVA v2.1#mAP (Val)#23
+Action Recognition#UCF101#3-fold Accuracy#97.6
+Action Recognition#UCF101#3-fold Accuracy#97.1
+Action Recognition#UCF101#3-fold Accuracy#97
+Action Recognition#HMDB-51#Average accuracy of 3 splits#80.5
+Action Recognition#HMDB-51#Average accuracy of 3 splits#79.3
+Action Recognition#HMDB-51#Average accuracy of 3 splits#78.7
+Action Classification#Kinetics-600#Top-1 Accuracy#79.1
+Action Classification#Kinetics-600#Top-1 Accuracy#77.9
+Action Classification#Kinetics-400#Acc@1#76.5
+Action Classification#Kinetics-400#Acc@1#75.9

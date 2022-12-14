@@ -1,0 +1,2 @@
+Semantic Segmentation#Nighttime Driving#mIoU#41.6
+Semantic Segmentation#Dark Zurich#mIoU#34.5

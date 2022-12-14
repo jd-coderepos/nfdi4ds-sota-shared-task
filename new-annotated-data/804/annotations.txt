@@ -1,0 +1,3 @@
+Relationship Extraction (Distant Supervised)#New York Times Corpus#P@10%#84.5
+Relationship Extraction (Distant Supervised)#New York Times Corpus#P@30%#71.5
+Relationship Extraction (Distant Supervised)#New York Times Corpus#AUC#0.52

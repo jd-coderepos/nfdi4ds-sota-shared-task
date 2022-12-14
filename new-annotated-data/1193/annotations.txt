@@ -1,0 +1,4 @@
+Image Generation#CIFAR-10#Inception score#9.89
+Image Generation#CIFAR-10#FID#4.57
+Image Generation#CIFAR-10#Inception score#9.3
+Image Generation#CIFAR-10#FID#6.66

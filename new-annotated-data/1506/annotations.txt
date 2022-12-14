@@ -1,0 +1,30 @@
+Action Recognition#RareAct#mWAP#40.7
+Few-Shot Image Classification#ImageNet - 0-Shot#Accuracy#63.2%
+Few-Shot Image Classification#ImageNet - 0-Shot#Accuracy#59.6%
+Image Classification#OmniBenchmark#Average Top-1 Accuracy#42.1
+Image Classification#ObjectNet#Top-1 Accuracy#72.3
+Semi-Supervised Image Classification#ImageNet - 0.2% labeled data#ImageNet Top-1 Accuracy#40%
+Meme Classification#Hateful Memes#ROC-AUC#0.661
+Zero-Shot Transfer Image Classification#ObjectNet#Accuracy (Private)#72.3
+Zero-Shot Transfer Image Classification#ObjectNet#Accuracy (Public)#-
+Zero-Shot Transfer Image Classification#SUN#Accuracy#58.5
+Zero-Shot Transfer Image Classification#ImageNet V2#Accuracy (Private)#70.1
+Zero-Shot Transfer Image Classification#ImageNet V2#Accuracy (Public)#-
+Zero-Shot Transfer Image Classification#ImageNet#Accuracy (Private)#59.6
+Zero-Shot Transfer Image Classification#ImageNet#Accuracy (Public)#31.3
+Zero-Shot Transfer Image Classification#ImageNet#Accuracy#76.2
+Zero-Shot Transfer Image Classification#ImageNet-R#Accuracy (Private)#88.9
+Zero-Shot Transfer Image Classification#ImageNet-R#Accuracy (Public)#-
+Zero-Shot Transfer Image Classification#ImageNet-A#Accuracy (Private)#77.2
+Zero-Shot Transfer Image Classification#ImageNet-A#Accuracy (Public)#-
+Zero-Shot Transfer Image Classification#aYahoo#Accuracy#98.4
+Object Categorization#GRIT#Categorization (ablation)#48.1
+Prompt Engineering#ImageNet-R#Top-1 accuracy %#73.96
+Prompt Engineering#UCF101#Harmonic mean#73.85
+Prompt Engineering#ImageNet-A#Top-1 accuracy %#47.77
+Prompt Engineering#ImageNet#Harmonic mean#70.22
+Prompt Engineering#EuroSAT#Harmonic mean#60.03
+Prompt Engineering#ImageNet-S#Top-1 accuracy %#46.15
+Prompt Engineering#ImageNet V2#Top-1 accuracy %#60.83
+Prompt Engineering#FGVC-Aircraft#Harmonic mean#31.09
+Prompt Engineering#SUN397#Harmonic mean#72.23

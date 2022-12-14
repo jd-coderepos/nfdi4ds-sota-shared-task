@@ -1,0 +1,7 @@
+Image Generation#FFHQ 1024 x 1024#FID#6.37
+Image Generation#CelebA 256x256#FID#3.39
+Image Generation#FFHQ 256 x 256#FID#2.58
+Image Generation#FFHQ 256 x 256#FID#2.95
+Image Generation#FFHQ 256 x 256#FID#3.06
+Image Generation#CelebA-HQ 1024x1024#FID#8.83
+Image Generation#ImageNet 128x128#FID#30.83

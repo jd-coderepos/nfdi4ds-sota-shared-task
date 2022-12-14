@@ -1,0 +1,2 @@
+Anomaly Detection#One-class CIFAR-100#AUROC#97.7
+Anomaly Detection#One-class CIFAR-10#AUROC#98.3

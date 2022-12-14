@@ -1,0 +1,21 @@
+Video Frame Interpolation#Vid4 - 4x upscaling#PSNR#26.43
+Video Frame Interpolation#Vid4 - 4x upscaling#SSIM#0.7994
+Video Frame Interpolation#Vid4 - 4x upscaling#Parameters#7670000
+Video Frame Interpolation#Vid4 - 4x upscaling#PSNR#26.37
+Video Frame Interpolation#Vid4 - 4x upscaling#SSIM#0.7978
+Video Frame Interpolation#Vid4 - 4x upscaling#Parameters#6080000
+Video Frame Interpolation#Vid4 - 4x upscaling#PSNR#26.29
+Video Frame Interpolation#Vid4 - 4x upscaling#SSIM#0.7941
+Video Frame Interpolation#Vid4 - 4x upscaling#Parameters#4490000
+Space-time Video Super-resolution#Vimeo90K-Medium#PSNR#35.66
+Space-time Video Super-resolution#Vimeo90K-Medium#SSIM#0.9381
+Space-time Video Super-resolution#Vimeo90K-Medium#PSNR#35.62
+Space-time Video Super-resolution#Vimeo90K-Medium#SSIM#0.9377
+Space-time Video Super-resolution#Vimeo90K-Medium#PSNR#35.43
+Space-time Video Super-resolution#Vimeo90K-Medium#SSIM#0.9358
+Space-time Video Super-resolution#Vimeo90K-Fast#PSNR#36.80
+Space-time Video Super-resolution#Vimeo90K-Fast#SSIM#0.9403
+Space-time Video Super-resolution#Vimeo90K-Fast#PSNR#36.78
+Space-time Video Super-resolution#Vimeo90K-Fast#SSIM#0.9401
+Space-time Video Super-resolution#Vimeo90K-Fast#PSNR#36.58
+Space-time Video Super-resolution#Vimeo90K-Fast#SSIM#0.9381

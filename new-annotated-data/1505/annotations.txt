@@ -1,0 +1,6 @@
+Action Recognition#RareAct#mWAP#60.8
+Zero-Shot Learning#iVQA#Accuracy#0.407
+Temporal/Casual QA#NExT-QA#WUPS#33.5
+Visual Question Answering#MSRVTT-QA#Accuracy#0.310
+Visual Question Answering#MSRVTT-QA#Accuracy#0.174
+Meme Classification#Hateful Memes#ROC-AUC#0.700

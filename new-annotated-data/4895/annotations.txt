@@ -1,0 +1,1 @@
+Semi-Supervised Object Detection#COCO 10% labeled data#mAP#32.166

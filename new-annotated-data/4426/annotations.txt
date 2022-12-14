@@ -1,0 +1,1 @@
+Instance Segmentation#iShape#mask AP#62.93

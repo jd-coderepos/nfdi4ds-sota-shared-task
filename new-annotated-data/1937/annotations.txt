@@ -1,0 +1,6 @@
+Multi-label zero-shot learning#NUS-WIDE#mAP#31.1
+Multi-Label Classification#OpenImages-v6#mAP#86.8
+Multi-Label Classification#MS-COCO#mAP#91.4
+Multi-Label Classification#MS-COCO#mAP#91.1
+Image Classification#CIFAR-100#Percentage correct#95.1
+Fine-Grained Image Classification#Stanford Cars#Accuracy#96.41%

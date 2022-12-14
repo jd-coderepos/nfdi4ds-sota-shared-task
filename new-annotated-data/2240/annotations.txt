@@ -1,0 +1,6 @@
+Paraphrase Generation#MSCOCO#iBLEU#19.04
+Paraphrase Generation#MSCOCO#BLEU#27.90
+Paraphrase Generation#Quora Question Pairs#iBLEU#18.42
+Paraphrase Generation#Quora Question Pairs#BLEU#33.11
+Paraphrase Generation#Paralex#iBLEU#24.93
+Paraphrase Generation#Paralex#BLEU#39.49

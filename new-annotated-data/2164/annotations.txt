@@ -1,0 +1,4 @@
+Univariate Time Series Forecasting#Solar-Power#RRSE#0.4643
+Univariate Time Series Forecasting#Electricity#RRSE#0.0864
+Univariate Time Series Forecasting#Electricity#RRSE#0.0931
+Univariate Time Series Forecasting#Electricity#RRSE#0.1007

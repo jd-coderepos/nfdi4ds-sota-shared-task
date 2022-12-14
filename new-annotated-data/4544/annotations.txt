@@ -1,0 +1,5 @@
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#SI-SDR-WB#18.6
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-WB#2.69
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#SI-SDR-WB#18.0
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-WB#2.60
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#Unsupervised#Semi (pr-tr on WHAM!)

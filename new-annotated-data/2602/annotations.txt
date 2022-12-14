@@ -1,0 +1,5 @@
+Semantic Segmentation#ADE20K#Validation mIoU#45.58
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#75%
+Self-Supervised Image Classification#ImageNet#Number of Params#29M
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#72.8%
+Self-Supervised Image Classification#ImageNet#Number of Params#22M

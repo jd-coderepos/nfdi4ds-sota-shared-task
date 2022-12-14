@@ -1,0 +1,3 @@
+Anomaly Detection#MVTec AD#Detection AUROC#95.1
+Few Shot Anomaly Detection#MVTec AD#Detection AUROC#89.02
+Few Shot Anomaly Detection#MVTec AD#Detection AUROC#85.61

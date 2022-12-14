@@ -1,0 +1,8 @@
+Text Summarization#SAMSum Corpus#ROUGE-1#54.3
+Text Summarization#SAMSum Corpus#ROUGE-2#29.3
+Text Summarization#SAMSum Corpus#ROUGE-L#45.2
+Text Summarization#SAMSum Corpus#BertScoreF1#54
+Text Summarization#SAMSum Corpus#ROUGE-1#52.6
+Text Summarization#SAMSum Corpus#ROUGE-2#27
+Text Summarization#SAMSum Corpus#ROUGE-L#42.1
+Text Summarization#SAMSum Corpus#BertScoreF1#52.1

@@ -1,0 +1,1 @@
+Robotic Grasping#Jacquard dataset#Accuracy (%)#95.6

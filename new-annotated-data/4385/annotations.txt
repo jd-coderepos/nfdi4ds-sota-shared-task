@@ -1,0 +1,11 @@
+SMAC+#Off_Distant_parallel#Median Win Rate#0.0
+SMAC+#Def_Armored_sequential#Median Win Rate#0.0
+SMAC+#Off_Complicated_parallel#Median Win Rate#0.0
+SMAC+#Off_Superhard_parallel#Median Win Rate#0.0
+SMAC+#Def_Infantry_sequential#Median Win Rate#37.5
+SMAC+#Off_Hard_parallel#Median Win Rate#0.0
+SMAC+#Def_Armored_parallel#Median Win Rate#0.0
+SMAC+#Def_Infantry_parallel#Median Win Rate#30.0
+SMAC+#Def_Outnumbered_sequential#Median Win Rate#0.0
+SMAC+#Def_Outnumbered_parallel#Median Win Rate#0.0
+SMAC+#Off_Near_parallel#Median Win Rate#0.0

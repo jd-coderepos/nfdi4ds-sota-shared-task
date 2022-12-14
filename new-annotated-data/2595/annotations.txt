@@ -1,0 +1,30 @@
+Semantic Segmentation#ADE20K#Validation mIoU#49.4
+Semantic Segmentation#ADE20K#Validation mIoU#46.3
+Semantic Segmentation#ADE20K val#mIoU#48.8
+Semantic Segmentation#ADE20K val#mIoU#46.3
+Object Detection#COCO minival#box AP#49.9
+Object Detection#COCO minival#box AP#49.5
+Object Detection#COCO minival#box AP#47.4
+Image Classification#ImageNet#Top 1 Accuracy#90.4%
+Image Classification#ImageNet#Number of params#1437M
+Image Classification#ImageNet#GFLOPs#1038
+Image Classification#ImageNet#Top 1 Accuracy#90.2%
+Image Classification#ImageNet#Number of params#362M
+Image Classification#ImageNet#GFLOPs#334
+Image Classification#ImageNet#Top 1 Accuracy#87.5%
+Image Classification#ImageNet#Number of params#196.8M
+Image Classification#ImageNet#GFLOPs#103
+Image Classification#ImageNet#Top 1 Accuracy#86.9%
+Image Classification#ImageNet#Number of params#87.9M
+Image Classification#ImageNet#GFLOPs#46.4
+Image Classification#ImageNet#Top 1 Accuracy#84.6%
+Image Classification#ImageNet#GFLOPs#15.5
+Image Classification#ImageNet#Top 1 Accuracy#84.2%
+Image Classification#ImageNet#Number of params#49.7M
+Image Classification#ImageNet#GFLOPs#8.8
+Image Classification#ImageNet#Top 1 Accuracy#82.8%
+Image Classification#ImageNet#Number of params#28.3M
+Image Classification#ImageNet#GFLOPs#4.5
+Instance Segmentation#COCO minival#mask AP#44.6
+Instance Segmentation#COCO minival#mask AP#44.3
+Instance Segmentation#COCO minival#mask AP#42.9

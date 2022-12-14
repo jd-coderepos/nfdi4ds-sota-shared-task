@@ -1,0 +1,2 @@
+Image Classification#FlickrLogos-32#Accuracy#96.0
+Image Classification#FlickrLogos-32#Accuracy#91.7

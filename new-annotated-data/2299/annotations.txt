@@ -1,0 +1,9 @@
+Visual Reasoning#WinoGAViL#Jaccard Index#90
+Visual Reasoning#WinoGAViL#Jaccard Index#52
+Visual Reasoning#WinoGAViL#Jaccard Index#46
+Visual Reasoning#WinoGAViL#Jaccard Index#41
+Visual Reasoning#WinoGAViL#Jaccard Index#40
+Visual Reasoning#WinoGAViL#Jaccard Index#38
+Visual Reasoning#WinoGAViL#Jaccard Index#35
+Visual Reasoning#WinoGAViL#Jaccard Index#15
+Common Sense Reasoning#WinoGAViL#Jaccard Index#52

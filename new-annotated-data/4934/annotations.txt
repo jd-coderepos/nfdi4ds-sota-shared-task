@@ -1,0 +1,12 @@
+Link Property Prediction#ogbl-ppa#Test Hits@100#0.4123 ± 0.0159
+Link Property Prediction#ogbl-ppa#Validation Hits@100#0.4332 ± 0.0092
+Link Property Prediction#ogbl-ppa#Number of params#36904259
+Link Property Prediction#ogbl-ppa#Ext. data#No
+Link Property Prediction#ogbl-citation2#Test MRR#0.8549 ± 0.0029
+Link Property Prediction#ogbl-citation2#Validation MRR#0.8556 ± 0.0033
+Link Property Prediction#ogbl-citation2#Number of params#306716
+Link Property Prediction#ogbl-citation2#Ext. data#No
+Link Property Prediction#ogbl-ddi#Test Hits@20#0.9538 ± 0.0094
+Link Property Prediction#ogbl-ddi#Validation Hits@20#0.8943 ± 0.0281
+Link Property Prediction#ogbl-ddi#Number of params#3506691
+Link Property Prediction#ogbl-ddi#Ext. data#No

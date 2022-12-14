@@ -1,0 +1,3 @@
+Question Answering#BoolQ#Accuracy#92.4
+Common Sense Reasoning#ARC (Easy)#Accuracy#95.2
+Common Sense Reasoning#ARC (Challenge)#Accuracy#86.5

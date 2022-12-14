@@ -1,0 +1,20 @@
+Named Entity Recognition#ACE 2004#F1#88.14
+Named Entity Recognition#ACE 2004#Multi-Task Supervision#n
+Named Entity Recognition#Ontonotes v5 (English)#F1#90.96
+Named Entity Recognition#Few-NERD (SUP)#Precision#70.16
+Named Entity Recognition#Few-NERD (SUP)#Recall#69.18
+Named Entity Recognition#Few-NERD (SUP)#F1-Measure#69.67
+Named Entity Recognition#Few-NERD (SUP)#Precision#67.37
+Named Entity Recognition#Few-NERD (SUP)#Recall#69.12
+Named Entity Recognition#Few-NERD (SUP)#F1-Measure#68.23
+Named Entity Recognition#Few-NERD (SUP)#Precision#64.69
+Named Entity Recognition#Few-NERD (SUP)#Recall#70.87
+Named Entity Recognition#Few-NERD (SUP)#F1-Measure#67.64
+Named Entity Recognition#CoNLL 2003 (English)#F1#92.87
+Named Entity Recognition#ACE 2005#F1#87.42
+Nested Named Entity Recognition#ACE 2004#F1#88.14
+Nested Named Entity Recognition#TAC-KBP 2017#F1#84.5
+Nested Named Entity Recognition#GENIA#F1#81.77
+Nested Named Entity Recognition#ACE 2005#F1#87.42
+Nested Named Entity Recognition#NNE#Micro F1#94.04
+Chinese Named Entity Recognition#MSRA#F1#93.48

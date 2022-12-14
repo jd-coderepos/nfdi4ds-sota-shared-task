@@ -1,0 +1,21 @@
+Medical Image Segmentation#CVC-VideoClinicDB#Dice#0.8125
+Medical Image Segmentation#CVC-VideoClinicDB#mIoU#0.8467
+Medical Image Segmentation#CVC-VideoClinicDB#Recall#0.6896
+Medical Image Segmentation#CVC-VideoClinicDB#precision#0.6421
+Medical Image Segmentation#CVC-VideoClinicDB#Dice#0.8130
+Medical Image Segmentation#CVC-VideoClinicDB#mIoU#0.8477
+Medical Image Segmentation#CVC-VideoClinicDB#Recall#0.6875
+Medical Image Segmentation#CVC-VideoClinicDB#precision#0.6276
+Medical Image Segmentation#CVC-VideoClinicDB#Dice#0.8811
+Medical Image Segmentation#CVC-VideoClinicDB#mIoU#0.8739
+Medical Image Segmentation#CVC-VideoClinicDB#Recall#0.7743
+Medical Image Segmentation#CVC-VideoClinicDB#precision#0.6706
+Medical Image Segmentation#Kvasir-SEG#mean Dice#0.8508
+Medical Image Segmentation#Kvasir-SEG#mIoU#0.7800
+Medical Image Segmentation#Kvasir-SEG#FPS#69.59
+Medical Image Segmentation#CVC-ClinicDB#mean Dice#0.9020
+Medical Image Segmentation#CVC-ClinicDB#mean Dice#0.9017
+Medical Image Segmentation#CVC-ColonDB#mean Dice#0.8474
+Medical Image Segmentation#CVC-ColonDB#mIoU#0.8466
+Medical Image Segmentation#ETIS-LARIBPOLYPDB#mIoU#0.7458
+Medical Image Segmentation#ETIS-LARIBPOLYPDB#mean Dice#0.6136

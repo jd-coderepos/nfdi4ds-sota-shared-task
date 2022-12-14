@@ -1,0 +1,2 @@
+Fact Verification#FEVER#Accuracy#74.1
+Fact Verification#FEVER#FEVER#70.4

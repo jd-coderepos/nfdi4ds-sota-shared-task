@@ -1,0 +1,3 @@
+Vehicle Re-Identification#VeRi-776#mAP#83.41
+Vehicle Re-Identification#VeRi-776#Rank1#96.78
+Vehicle Re-Identification#VehicleID#Rank1#83.64

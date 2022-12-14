@@ -1,0 +1,4 @@
+Named Entity Recognition#HiNER-original#F1-score (Weighted)#88.78
+Named Entity Recognition#HiNER-original#F1-score (Weighted)#88.27
+Named Entity Recognition#HiNER-collapsed#F1-score (Weighted)#92.22
+Named Entity Recognition#HiNER-collapsed#F1-score (Weighted)#92.11

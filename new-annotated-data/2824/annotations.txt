@@ -1,0 +1,3 @@
+Action Segmentation#Breakfast#Acc#70.8
+Object Detection#COCO 2017 val#AP#50.9
+Instance Segmentation#COCO 2017 val#AP#44.3

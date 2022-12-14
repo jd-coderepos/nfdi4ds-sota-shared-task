@@ -1,0 +1,2 @@
+Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Linear Classifier [mIoU]#58.7
+Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Clustering [mIoU]#45.8

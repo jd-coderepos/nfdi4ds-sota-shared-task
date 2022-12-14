@@ -1,0 +1,16 @@
+Deblurring#HIDE (trained on GOPRO)#PSNR (sRGB)#31.49
+Deblurring#HIDE (trained on GOPRO)#SSIM (sRGB)#0.945
+Deblurring#HIDE (trained on GOPRO)#PSNR (sRGB)#31.19
+Deblurring#HIDE (trained on GOPRO)#SSIM (sRGB)#0.942
+Deblurring#GoPro#PSNR#33.8
+Deblurring#GoPro#SSIM#0.966
+Deblurring#GoPro#PSNR#33.57
+Deblurring#GoPro#PSNR#33.31
+Deblurring#GoPro#SSIM#0.964
+Deblurring#GoPro#PSNR#33.08
+Deblurring#GoPro#SSIM#0.962
+Color Image Denoising#Urban100 sigma30#PSNR#33.06
+Color Image Denoising#Urban100 sigma50#PSNR#30.17
+Grayscale Image Denoising#Urban100 sigma25#PSNR#31.55
+Grayscale Image Denoising#urban100 sigma15#PSNR#33.85
+Grayscale Image Denoising#Urban100 sigma50#PSNR#28.41

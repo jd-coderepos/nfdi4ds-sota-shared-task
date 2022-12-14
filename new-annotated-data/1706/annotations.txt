@@ -1,0 +1,12 @@
+Anomaly Detection In Surveillance Videos#UCSD Peds2#AUC#98.7
+Anomaly Detection#UCSD Peds2#AUC#98.7
+Anomaly Detection#CUHK Avenue#AUC#92.3%
+Anomaly Detection#CUHK Avenue#RBDC#65.05
+Anomaly Detection#CUHK Avenue#TBDC#66.95
+Anomaly Detection#ShanghaiTech#AUC#82.7%
+Anomaly Detection#ShanghaiTech#RBDC#41.34
+Anomaly Detection#ShanghaiTech#TBDC#78.79
+Anomaly Detection#UBnormal#AUC#61.3%
+Anomaly Detection#UBnormal#RBDC#25.43
+Anomaly Detection#UBnormal#TBDC#56.27
+Abnormal Event Detection In Video#UCSD Ped2#AUC#98.7%

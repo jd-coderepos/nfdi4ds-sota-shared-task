@@ -1,0 +1,6 @@
+Burst Image Super-Resolution#SyntheticBurst#PSNR#41.56
+Burst Image Super-Resolution#SyntheticBurst#SSIM#0.964
+Burst Image Super-Resolution#SyntheticBurst#LPIPS#0.045
+Burst Image Super-Resolution#BurstSR#PSNR#48.33
+Burst Image Super-Resolution#BurstSR#SSIM#0.985
+Burst Image Super-Resolution#BurstSR#LPIPS#0.023

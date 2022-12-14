@@ -1,0 +1,2 @@
+Anomaly Detection#MVTec AD#Detection AUROC#90
+Anomaly Detection#One-class CIFAR-10#AUROC#88.4

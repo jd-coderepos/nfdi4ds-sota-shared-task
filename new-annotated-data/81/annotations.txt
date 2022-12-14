@@ -1,0 +1,6 @@
+Monocular Depth Estimation#NYU-Depth V2#RMSE#0.352
+Monocular Depth Estimation#NYU-Depth V2#absolute relative error#0.101
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25#0.910
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25^2#0.985
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25^3#0.997
+Monocular Depth Estimation#NYU-Depth V2#log 10#0.043

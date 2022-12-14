@@ -1,0 +1,49 @@
+Natural Language Understanding#LexGLUE#ECtHR Task A#71.4 / 64.0
+Natural Language Understanding#LexGLUE#ECtHR Task B#87.6 / 77.8
+Natural Language Understanding#LexGLUE#SCOTUS#70.5 / 60.9
+Natural Language Understanding#LexGLUE#EUR-LEX#71.6 / 55.6
+Natural Language Understanding#LexGLUE#LEDGAR#87.7 / 82.2
+Natural Language Understanding#LexGLUE#UNFAIR-ToS#87.5 / 81.0
+Natural Language Understanding#LexGLUE#CaseHOLD#70.7
+Natural Language Understanding#LexGLUE#ECtHR Task A#71.2 / 64.6
+Natural Language Understanding#LexGLUE#ECtHR Task B#88.0 / 77.2
+Natural Language Understanding#LexGLUE#SCOTUS#76.2 / 65.8
+Natural Language Understanding#LexGLUE#EUR-LEX#72.2 / 56.2
+Natural Language Understanding#LexGLUE#LEDGAR#88.1 / 82.7
+Natural Language Understanding#LexGLUE#UNFAIR-ToS#88.6 / 82.3
+Natural Language Understanding#LexGLUE#CaseHOLD#75.1
+Natural Language Understanding#LexGLUE#ECtHR Task A#71.2 / 64.2
+Natural Language Understanding#LexGLUE#ECtHR Task B#88.0 / 77.5
+Natural Language Understanding#LexGLUE#SCOTUS#76.4 / 66.2
+Natural Language Understanding#LexGLUE#EUR-LEX#71.0 / 55.9
+Natural Language Understanding#LexGLUE#LEDGAR#88.0 / 82.3
+Natural Language Understanding#LexGLUE#UNFAIR-ToS#88.3 / 81.0
+Natural Language Understanding#LexGLUE#CaseHOLD#75.6
+Natural Language Understanding#LexGLUE#ECtHR Task A#70.5 / 63.8
+Natural Language Understanding#LexGLUE#ECtHR Task B#88.1 / 76.6
+Natural Language Understanding#LexGLUE#SCOTUS#71.7 / 61.4
+Natural Language Understanding#LexGLUE#EUR-LEX#71.8 / 56.6
+Natural Language Understanding#LexGLUE#LEDGAR#87.7 / 82.1
+Natural Language Understanding#LexGLUE#UNFAIR-ToS#87.7 / 80.2
+Natural Language Understanding#LexGLUE#CaseHOLD#70.4
+Natural Language Understanding#LexGLUE#ECtHR Task A#69.6 / 62.4
+Natural Language Understanding#LexGLUE#ECtHR Task B#88.0 / 77.8
+Natural Language Understanding#LexGLUE#SCOTUS#72.2 / 62.5
+Natural Language Understanding#LexGLUE#EUR-LEX#71.9 / 56.7
+Natural Language Understanding#LexGLUE#LEDGAR#87.7 / 82.3
+Natural Language Understanding#LexGLUE#UNFAIR-ToS#87.7 / 80.1
+Natural Language Understanding#LexGLUE#CaseHOLD#72.0
+Natural Language Understanding#LexGLUE#ECtHR Task A#69.5 / 60.7
+Natural Language Understanding#LexGLUE#ECtHR Task B#87.2 / 77.3
+Natural Language Understanding#LexGLUE#SCOTUS#70.8 / 61.2
+Natural Language Understanding#LexGLUE#EUR-LEX#71.8 / 57.5
+Natural Language Understanding#LexGLUE#LEDGAR#87.9 / 82.1
+Natural Language Understanding#LexGLUE#UNFAIR-ToS#87.7 / 81.5
+Natural Language Understanding#LexGLUE#CaseHOLD#71.7
+Natural Language Understanding#LexGLUE#ECtHR Task A#69.1 / 61.2
+Natural Language Understanding#LexGLUE#ECtHR Task B#87.4 / 77.3
+Natural Language Understanding#LexGLUE#SCOTUS#70.0 / 60.0
+Natural Language Understanding#LexGLUE#EUR-LEX#72.3 / 57.2
+Natural Language Understanding#LexGLUE#LEDGAR#87.9 / 82.0
+Natural Language Understanding#LexGLUE#UNFAIR-ToS#87.2 / 78.8
+Natural Language Understanding#LexGLUE#CaseHOLD#72.1

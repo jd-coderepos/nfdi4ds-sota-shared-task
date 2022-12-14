@@ -1,0 +1,2 @@
+Traffic Prediction#PeMSD4#12 steps MAE#18.70
+Traffic Prediction#PeMSD8#12 steps MAE#14.85

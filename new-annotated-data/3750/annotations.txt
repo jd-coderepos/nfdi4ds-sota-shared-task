@@ -1,0 +1,2 @@
+Object Detection#Gazi University Wrist Bone X-ray Images#AP50#0.8639
+Medical Object Detection#Gazi University Wrist Bone X-ray Images#AP50#0.8639

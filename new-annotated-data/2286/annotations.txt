@@ -1,0 +1,29 @@
+Video & Kinematic Base Workflow Recognition#PETRAW#Average AD-Accuracy#93.09
+Video & Kinematic Base Workflow Recognition#PETRAW#Average AD-Accuracy#91.61
+Video & Kinematic Base Workflow Recognition#PETRAW#Average AD-Accuracy#91.33
+Video & Kinematic Base Workflow Recognition#PETRAW#Average AD-Accuracy#90.18
+Video & Kinematic Base Workflow Recognition#PETRAW#Average AD-Accuracy#86.98
+Video & Kinematic Base Workflow Recognition#PETRAW#Average AD-Accuracy#84.8
+Semantic Segmentation#PETRAW#Mean IoU (class)#96.9
+Semantic Segmentation#PETRAW#Mean IoU (class)#96.4
+Semantic Segmentation#PETRAW#Mean IoU (class)#94
+Semantic Segmentation#PETRAW#Mean IoU (class)#85
+Video, Kinematic & Segmentation Base Workflow Recognition#PETRAW#Average AD-Accuracy#93.09
+Video, Kinematic & Segmentation Base Workflow Recognition#PETRAW#Average AD-Accuracy#91.37
+Video, Kinematic & Segmentation Base Workflow Recognition#PETRAW#Average AD-Accuracy#91.27
+Video, Kinematic & Segmentation Base Workflow Recognition#PETRAW#Average AD-Accuracy#89.81
+Video Based Workflow Recognition#PETRAW#Average AD-Accuracy#90.77
+Video Based Workflow Recognition#PETRAW#Average AD-Accuracy#90.51
+Video Based Workflow Recognition#PETRAW#Average AD-Accuracy#89.15
+Video Based Workflow Recognition#PETRAW#Average AD-Accuracy#87.77
+Video Based Workflow Recognition#PETRAW#Average AD-Accuracy#84.31
+Kinematic Based Workflow Recognition#PETRAW#Average AD-Accuracy#90.72
+Kinematic Based Workflow Recognition#PETRAW#Average AD-Accuracy#90.32
+Kinematic Based Workflow Recognition#PETRAW#Average AD-Accuracy#89.71
+Kinematic Based Workflow Recognition#PETRAW#Average AD-Accuracy#89.66
+Kinematic Based Workflow Recognition#PETRAW#Average AD-Accuracy#86.45
+Kinematic Based Workflow Recognition#PETRAW#Average AD-Accuracy#84.31
+Segmentation Based Workflow Recognition#PETRAW#Average AD-Accuracy#88.51
+Segmentation Based Workflow Recognition#PETRAW#Average AD-Accuracy#87.71
+Segmentation Based Workflow Recognition#PETRAW#Average AD-Accuracy#87.22
+Segmentation Based Workflow Recognition#PETRAW#Average AD-Accuracy#60.28

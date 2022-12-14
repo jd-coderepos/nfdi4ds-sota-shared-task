@@ -1,0 +1,8 @@
+Action Classification#Kinetics-600#Top-1 Accuracy#88.3
+Action Classification#Kinetics-600#Top-5 Accuracy#97.7
+Action Classification#Kinetics-400#Acc@1#87.7
+Action Classification#Kinetics-400#Acc@5#97.4
+Zero-Shot Action Recognition#HMDB51#Top-1 Accuracy#44.6
+Zero-Shot Action Recognition#UCF101#Top-1 Accuracy#72.0
+Zero-Shot Action Recognition#Kinetics#Top-1 Accuracy#65.2
+Zero-Shot Action Recognition#Kinetics#Top-5 Accuracy#86.1

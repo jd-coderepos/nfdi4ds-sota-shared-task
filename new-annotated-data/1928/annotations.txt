@@ -1,0 +1,1 @@
+Zero-Shot Learning#CUB-200-2011#average top-1 classification accuracy#69.4

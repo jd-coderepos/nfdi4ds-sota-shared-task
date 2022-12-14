@@ -1,0 +1,4 @@
+Text Simplification#ASSET#SARI (EASSE>=0.2.1)#43.21
+Text Simplification#TurkCorpus#SARI (EASSE>=0.2.1)#41.46
+Text Simplification#PWKP / WikiSmall#SARI#44.67
+Text Simplification#PWKP / WikiSmall#SARI (EASSE>=0.2.1)#44.67

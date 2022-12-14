@@ -1,0 +1,7 @@
+Machine Translation#WMT2014 English-French#BLEU score#40.56
+Machine Translation#WMT2014 English-French#Hardware Burden#142G
+Machine Translation#WMT2014 English-German#BLEU score#26.03
+Machine Translation#WMT2014 English-German#Hardware Burden#24G
+Language Modelling#One Billion Word#PPL#28.0
+Language Modelling#One Billion Word#Number of params#5B
+Language Modelling#One Billion Word#PPL#34.1

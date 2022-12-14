@@ -1,0 +1,6 @@
+3D-Aware Image Synthesis#CelebAMask-HQ#FID#41.52
+3D-Aware Image Synthesis#CelebAMask-HQ#IS#2.03
+3D-Aware Image Synthesis#CelebAMask-HQ#FID#55.56
+3D-Aware Image Synthesis#CelebAMask-HQ#IS#1.74
+3D-Aware Image Synthesis#CelebAMask-HQ#FID#67.32
+3D-Aware Image Synthesis#CelebAMask-HQ#IS#1.72

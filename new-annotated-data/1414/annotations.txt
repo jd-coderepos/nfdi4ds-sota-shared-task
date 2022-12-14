@@ -1,0 +1,3 @@
+Visual Object Tracking#LaSOT#Precision#67.1
+Visual Object Tracking#LaSOT#IS#66
+Visual Object Tracking#TOTB#Precision#67.6

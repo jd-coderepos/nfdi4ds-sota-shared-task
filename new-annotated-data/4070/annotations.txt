@@ -1,0 +1,5 @@
+Image Classification#Red MiniImageNet 20% label noise#Accuracy#61.24
+Image Classification#Red MiniImageNet 80% label noise#Accuracy#43.42
+Image Classification#WebVision#Top 1 Accuracy#78.84
+Image Classification#Red MiniImageNet 60% label noise#Accuracy#52.84
+Image Classification#Red MiniImageNet 40% label noise#Accuracy#56.22

@@ -1,0 +1,3 @@
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#61.2
+Domain Adaptation#GTA5 to Cityscapes#mIoU#61.2
+Unsupervised Domain Adaptation#GTAV-to-Cityscapes Labels#mIoU#61.2

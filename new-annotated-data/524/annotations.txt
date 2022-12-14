@@ -1,0 +1,3 @@
+Domain Adaptation#Office-Home#Accuracy#74.5
+Semi-Supervised Image Classification#CIFAR-10, 40 Labels#Percentage error#5.88±1.19
+Semi-Supervised Image Classification#CIFAR-100, 400 Labels#Percentage error#42.38±2.52

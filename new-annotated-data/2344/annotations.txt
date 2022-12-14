@@ -1,0 +1,8 @@
+Natural Language Inference#QNLI#Accuracy#94.7%
+Natural Language Inference#RTE#Accuracy#85.4%
+Natural Language Inference#MultiNLI#Matched#90.2
+Language Modelling#C4#Perplexity#12.45
+Semantic Textual Similarity#STS Benchmark#Pearson Correlation#0.919
+Semantic Textual Similarity#MRPC#Accuracy#91.0%
+Sentiment Analysis#SST-2 Binary classification#Accuracy#96.4
+Linguistic Acceptability#CoLA#Accuracy#68.6%

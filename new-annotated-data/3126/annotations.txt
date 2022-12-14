@@ -1,0 +1,4 @@
+Heart rate estimation#BIDMC#MAE [bpm, session-wise]#1.33
+Heart rate estimation#MTHS#MAE [bpm, session-wise]#6.96
+SpO2 estimation#BIDMC#MAE [bpm, session-wise]#92
+SpO2 estimation#MTHS#MAE [bpm, session-wise]#1.34

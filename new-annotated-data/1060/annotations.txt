@@ -1,0 +1,4 @@
+Real-Time Object Detection#Argoverse-HD (Detection-Only, Test)#AP#13.61
+Real-Time Object Detection#Argoverse-HD (Full-Stack, Val)#AP#21.06
+Real-Time Object Detection#Argoverse-HD (Detection-Only, Val)#AP#14.91
+Real-Time Object Detection#Argoverse-HD (Full-Stack, Test)#AP#21.06

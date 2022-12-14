@@ -1,0 +1,1 @@
+3D Semantic Segmentation#SensatUrban#mIoU#61.7

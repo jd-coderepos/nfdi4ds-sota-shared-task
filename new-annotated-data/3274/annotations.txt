@@ -1,0 +1,10 @@
+Image Retrieval#Oxf105k#MAP#87.2%
+Image Retrieval#Oxf105k#MAP#31.3%
+Image Retrieval#Paris6k#mAP#96.6
+Image Retrieval#INSTRE#MAP#82.4
+Image Retrieval#Oxf5k#MAP#92%
+Image Retrieval#Oxf5k#MAP#83.5%
+Image Retrieval#Oxf5k#MAP#82.6%
+Image Retrieval#Oxf5k#MAP#77.9%
+Image Retrieval#Oxf5k#MAP#62.2%
+Image Retrieval#Oxf5k#MAP#51.7%

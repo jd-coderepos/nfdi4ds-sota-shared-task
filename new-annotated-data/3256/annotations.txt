@@ -1,0 +1,4 @@
+Image Captioning#COCO Captions Karpathy Test#BLEU-4#2.6
+Image Captioning#COCO Captions Karpathy Test#CIDEr#14.6
+Image Captioning#COCO Captions Karpathy Test#METEOR#11.5
+Image Captioning#COCO Captions Karpathy Test#SPICE#5.5

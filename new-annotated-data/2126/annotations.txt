@@ -1,0 +1,23 @@
+Visual Question Answering#VQA v2 test-dev#Accuracy#78.22
+Visual Reasoning#NLVR2 Dev#Accuracy#84.41
+Visual Reasoning#NLVR2 Test#Accuracy#84.76
+Image Captioning#COCO Captions#BLEU-4#41.3
+Image Captioning#COCO Captions#CIDER#140.8
+Image Retrieval#Flickr30K 1K test#R@1#86.9
+Image Retrieval#Flickr30K 1K test#R@10#98.7
+Image Retrieval#Flickr30K 1K test#R@5#97.3
+Cross-Modal Retrieval#COCO 2014#Image-to-text R@1#81.2
+Cross-Modal Retrieval#COCO 2014#Image-to-text R@10#98.2
+Cross-Modal Retrieval#COCO 2014#Image-to-text R@5#95.6
+Cross-Modal Retrieval#COCO 2014#Text-to-image R@1#63.4
+Cross-Modal Retrieval#COCO 2014#Text-to-image R@10#91.5
+Cross-Modal Retrieval#COCO 2014#Text-to-image R@5#85.8
+Cross-Modal Retrieval#Flickr30k#Image-to-text R@1#97.1
+Cross-Modal Retrieval#Flickr30k#Image-to-text R@10#100.0
+Cross-Modal Retrieval#Flickr30k#Image-to-text R@5#100.0
+Cross-Modal Retrieval#Flickr30k#Text-to-image R@1#86.9
+Cross-Modal Retrieval#Flickr30k#Text-to-image R@10#98.7
+Cross-Modal Retrieval#Flickr30k#Text-to-image R@5#97.3
+Visual Grounding#RefCOCO+ testA#Accuracy (%)#89.00
+Visual Grounding#RefCOCO+ test B#Accuracy (%)#76.91
+Visual Grounding#RefCOCO+ val#Accuracy (%)#84.51

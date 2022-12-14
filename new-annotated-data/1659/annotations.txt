@@ -1,0 +1,8 @@
+Video Prediction#KTH#LPIPS#0.092
+Video Prediction#KTH#PSNR#27.11
+Video Prediction#KTH#FVD#144.2
+Video Prediction#KTH#SSIM#0.837
+Video Prediction#KTH#Cond#10
+Video Prediction#KTH#Pred#40
+Video Prediction#KTH#Params (M)#2.0
+Video Prediction#KTH#Train#10

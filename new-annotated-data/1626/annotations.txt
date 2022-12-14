@@ -1,0 +1,21 @@
+Video Retrieval#ActivityNet#text-to-video R@1#47.1
+Video Retrieval#ActivityNet#text-to-video R@5#75.5
+Video Retrieval#ActivityNet#text-to-video R@10#85.5
+Video Retrieval#MSR-VTT-1kA#text-to-video R@1#41.5
+Video Retrieval#MSR-VTT-1kA#text-to-video R@5#68.7
+Video Retrieval#MSR-VTT-1kA#text-to-video R@10#77
+Video Retrieval#DiDeMo#text-to-video R@1#53.9
+Video Retrieval#DiDeMo#text-to-video R@5#79.4
+Video Retrieval#DiDeMo#text-to-video R@10#86.9
+Video Retrieval#SSv2-template retrieval#text-to-video R@1#77.6
+Video Retrieval#SSv2-template retrieval#text-to-video R@5#96
+Video Retrieval#SSv2-template retrieval#text-to-video R@10#98.9
+Video Retrieval#SSv2-label retrieval#text-to-video R@1#47.4
+Video Retrieval#SSv2-label retrieval#text-to-video R@5#75.9
+Video Retrieval#SSv2-label retrieval#text-to-video R@10#84
+Video Question Answering#MSRVTT-MC#Accuracy#93.7
+Video Question Answering#MSRVTT-MC#Accuracy#92.1
+Video Question Answering#ActivityNet-QA#Accuracy#0.441
+Video Question Answering#ActivityNet-QA#Accuracy#0.431
+Video Question Answering#MSRVTT-QA#Accuracy#43.9
+Video Question Answering#MSRVTT-QA#Accuracy#43.5

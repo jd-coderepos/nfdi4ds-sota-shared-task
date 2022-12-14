@@ -1,0 +1,12 @@
+Text-Image Retrieval#FooDI-ML (Global)#A-R@1#0.005
+Text-Image Retrieval#FooDI-ML (Global)#A-R@5#0.02
+Text-Image Retrieval#FooDI-ML (Global)#A-R@10#0.05
+Text-Image Retrieval#FooDI-ML (Global)#Re-R@1#0.01
+Text-Image Retrieval#FooDI-ML (Global)#Re-R@5#0.03
+Text-Image Retrieval#FooDI-ML (Global)#Re-R@10#0.045
+Text-Image Retrieval#FooDI-ML (Spain)#A-R@1#0.93
+Text-Image Retrieval#FooDI-ML (Spain)#A-R@5#3.33
+Text-Image Retrieval#FooDI-ML (Spain)#A-R@10#5.8
+Text-Image Retrieval#FooDI-ML (Spain)#Re-R@1#0.73
+Text-Image Retrieval#FooDI-ML (Spain)#Re-R@5#2.93
+Text-Image Retrieval#FooDI-ML (Spain)#Re-R@10#5.67

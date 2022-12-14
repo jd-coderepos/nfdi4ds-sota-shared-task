@@ -1,0 +1,11 @@
+Video Prediction#KTH#PSNR#29.85
+Video Prediction#KTH#SSIM#0.893
+Video Prediction#KTH#Cond#10
+Video Prediction#KTH#Pred#20
+Video Generation#BAIR Robot Pushing#FVD score#159.6
+Video Generation#BAIR Robot Pushing#Cond#2
+Video Generation#BAIR Robot Pushing#SSIM#0.844
+Video Generation#BAIR Robot Pushing#PSNR#21.02
+Video Generation#BAIR Robot Pushing#LPIPS#0.0936
+Video Generation#BAIR Robot Pushing#Pred#28
+Video Generation#BAIR Robot Pushing#Train#14

@@ -1,0 +1,6 @@
+Multi-tissue Nucleus Segmentation#Kumar#Dice#0.843
+Multi-tissue Nucleus Segmentation#Kumar#Jaccard Index#0.652
+Multi-tissue Nucleus Segmentation#Kumar#PQ#0.625
+Multi-tissue Nucleus Segmentation#CoNSeP#Dice#0.855
+Multi-tissue Nucleus Segmentation#CoNSeP#Jaccard Index#0.576
+Multi-tissue Nucleus Segmentation#CoNSeP#PQ#0.559

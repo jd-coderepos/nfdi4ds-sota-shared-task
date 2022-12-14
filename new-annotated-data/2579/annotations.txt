@@ -1,0 +1,5 @@
+Semantic Segmentation#ADE20K#Validation mIoU#55.70
+Semantic Segmentation#ADE20K val#mIoU#55.7
+Image Classification#ImageNet#Top 1 Accuracy#87.5%
+Image Classification#ImageNet#Number of params#173M
+Image Classification#ImageNet#GFLOPs#96.8

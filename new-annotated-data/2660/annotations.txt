@@ -1,0 +1,6 @@
+Semantic Segmentation#PASTIS#Number of Params#1.1M
+Semantic Segmentation#PASTIS#Overall Accuracy#83.2
+Semantic Segmentation#PASTIS#Mean IoU (test)#63.1
+Panoptic Segmentation#PASTIS#SQ#81.3
+Panoptic Segmentation#PASTIS#RQ#49.2
+Panoptic Segmentation#PASTIS#PQ#40.4

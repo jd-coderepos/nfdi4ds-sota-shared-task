@@ -1,0 +1,4 @@
+Image Matting#Composition-1K#MSE#4.0
+Image Matting#Composition-1K#SAD#23.8
+Image Matting#Composition-1K#Grad#8.7
+Image Matting#Composition-1K#Conn#18.9

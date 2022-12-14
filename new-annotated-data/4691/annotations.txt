@@ -1,0 +1,8 @@
+Partial Label Learning#ISIC 2019#Balanced Multi-Class Accuracy#0.7258
+Partial Label Learning#Autoimmune Dataset#F1 score#0.8717
+Partial Label Learning#Autoimmune Dataset#F1 score#0.8445
+Classification#Autoimmune Dataset#F1 score#0.8894
+Classification#Autoimmune Dataset#F1 score#0.8639
+Classification#ISIC 2019#Balanced Multi-Class Accuracy#0.6519
+Classification#Brain Tumor MRI Dataset#F1 score#0.9909
+Classification#Brain Tumor MRI Dataset#F1-score#0.99

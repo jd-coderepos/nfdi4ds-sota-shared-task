@@ -1,0 +1,14 @@
+Parameter Prediction#ImageNet#Top 5 Accuracy (ID-test)#27.2
+Parameter Prediction#ImageNet#Top 5 Accuracy (Wide)#19.4
+Parameter Prediction#ImageNet#Top 5 Accuracy (Deep)#24.7
+Parameter Prediction#ImageNet#Top 5 Accuracy (Dense)#26.4
+Parameter Prediction#ImageNet#Top 5 Accuracy (BN-free)#7.2
+Parameter Prediction#ImageNet#Top 5 Accuracy (ResNet-50)#5.3
+Parameter Prediction#ImageNet#Top 5 Accuracy (ViT)#4.4
+Parameter Prediction#CIFAR10#Classification Accuracy (Deep)#60.5
+Parameter Prediction#CIFAR10#Classification Accuracy (ID-test)#66.9
+Parameter Prediction#CIFAR10#Classification Accuracy (Wide)#64
+Parameter Prediction#CIFAR10#Classification Accuracy (Dense)#65.8
+Parameter Prediction#CIFAR10#Classification Accuracy (BN-free)#36.8
+Parameter Prediction#CIFAR10#Classification Accuracy (ResNet-50)#58.6
+Parameter Prediction#CIFAR10#Classification Accuracy (ViT)#11.4

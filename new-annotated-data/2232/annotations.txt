@@ -1,0 +1,20 @@
+KG-to-Text Generation#WikiGraphs#Test perplexity#25.85
+KG-to-Text Generation#WikiGraphs#rBLEU (Valid)#10.97
+KG-to-Text Generation#WikiGraphs#rBLEU (Test)#9.98
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Valid)#27.98
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Test)#24.07
+KG-to-Text Generation#WikiGraphs#Test perplexity#26.65
+KG-to-Text Generation#WikiGraphs#rBLEU (Valid)#29.53
+KG-to-Text Generation#WikiGraphs#rBLEU (Test)#24.41
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Valid)#32.41
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Test)#27.39
+KG-to-Text Generation#WikiGraphs#Test perplexity#26.93
+KG-to-Text Generation#WikiGraphs#rBLEU (Valid)#31.39
+KG-to-Text Generation#WikiGraphs#rBLEU (Test)#26.22
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Valid)#32.65
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Test)#28.35
+KG-to-Text Generation#WikiGraphs#Test perplexity#27.4
+KG-to-Text Generation#WikiGraphs#rBLEU (Valid)#30.51
+KG-to-Text Generation#WikiGraphs#rBLEU (Test)#25.31
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Valid)#32.60
+KG-to-Text Generation#WikiGraphs#rBLEU(w/title)(Test)#27.43

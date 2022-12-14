@@ -1,0 +1,6 @@
+KG-to-Text Generation#PathQuestion#BLEU#61.48
+KG-to-Text Generation#PathQuestion#METEOR#44.57
+KG-to-Text Generation#PathQuestion#ROUGE#77.72
+KG-to-Text Generation#WebQuestions#BLEU#29.45
+KG-to-Text Generation#WebQuestions#METEOR#30.96
+KG-to-Text Generation#WebQuestions#ROUGE#55.45

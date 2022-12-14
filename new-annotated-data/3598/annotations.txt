@@ -1,0 +1,3 @@
+Extractive Text Summarization#GovReport#Avg. Test Rouge1#56.86
+Extractive Text Summarization#GovReport#Avg. Test Rouge2#22.62
+Extractive Text Summarization#GovReport#Avg. Test RougeLsum#53.82

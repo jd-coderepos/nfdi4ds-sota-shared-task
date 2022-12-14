@@ -1,0 +1,3 @@
+Multi-tissue Nucleus Segmentation#CoNSeP#Dice#0.822
+Multi-tissue Nucleus Segmentation#CoNSeP#Jaccard Index#0.56
+Multi-tissue Nucleus Segmentation#CoNSeP#PQ#0.545

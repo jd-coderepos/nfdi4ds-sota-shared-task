@@ -1,0 +1,2 @@
+Medical Image Segmentation#Medical Segmentation Decathlon#Dice (Average)#77.93
+Medical Image Segmentation#Medical Segmentation Decathlon#NSD#88.68

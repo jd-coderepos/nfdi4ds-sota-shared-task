@@ -1,0 +1,3 @@
+Relation Extraction#DWIE#F1-Hard#52.1
+Named Entity Recognition#DWIE#F1-Hard#75.0
+Coreference Resolution#DWIE#Avg. F1#91.5

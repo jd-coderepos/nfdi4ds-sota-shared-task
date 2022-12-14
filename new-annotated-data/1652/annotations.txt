@@ -1,0 +1,3 @@
+Video Prediction#Moving MNIST#MSE#19.8
+Video Prediction#Moving MNIST#MAE#60.3
+Video Prediction#Moving MNIST#SSIM#0.957

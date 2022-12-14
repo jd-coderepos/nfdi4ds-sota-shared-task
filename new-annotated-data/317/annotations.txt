@@ -1,0 +1,25 @@
+3D Face Reconstruction#Stirling-HQ (FG2018 3D face reconstruction challenge)#Mean Reconstruction Error (mm)#1.89
+3D Face Reconstruction#Stirling-LQ (FG2018 3D face reconstruction challenge)#Mean Reconstruction Error (mm)#1.91
+3D Face Reconstruction#NoW Benchmark#Mean Reconstruction Error (mm)#1.38
+3D Face Reconstruction#NoW Benchmark#Stdev Reconstruction Error (mm)#1.18
+3D Face Reconstruction#NoW Benchmark#Median Reconstruction Error#1.09
+3D Face Reconstruction#REALY (side-view)#@nose#1.903 (±1.050)
+3D Face Reconstruction#REALY (side-view)#all#2.107
+3D Face Reconstruction#REALY (side-view)#@mouth#2.472 (±1.079)
+3D Face Reconstruction#REALY (side-view)#@forehead#2.423 (±0.720)
+3D Face Reconstruction#REALY (side-view)#@cheek#1.630 (±1.135)
+3D Face Reconstruction#REALY (side-view)#@nose#2.286 (±1.103)
+3D Face Reconstruction#REALY (side-view)#all#2.261
+3D Face Reconstruction#REALY (side-view)#@mouth#2.684 (±1.041)
+3D Face Reconstruction#REALY (side-view)#@forehead#2.519 (±0.718)
+3D Face Reconstruction#REALY (side-view)#@cheek#1.555 (±0.822)
+3D Face Reconstruction#REALY#@nose#1.697 (±0.355)
+3D Face Reconstruction#REALY#@mouth#2.516 (±0.839)
+3D Face Reconstruction#REALY#@forehead#2.394 (±0.576)
+3D Face Reconstruction#REALY#@cheek#1.479 (±0.535)
+3D Face Reconstruction#REALY#all#2.010
+3D Face Reconstruction#REALY#@nose#2.138 (±0.461)
+3D Face Reconstruction#REALY#@mouth#2.802 (±0.868)
+3D Face Reconstruction#REALY#@forehead#2.457 (±0.559)
+3D Face Reconstruction#REALY#@cheek#1.443 (±0.498)
+3D Face Reconstruction#REALY#all#2.210

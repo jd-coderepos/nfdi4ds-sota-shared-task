@@ -1,0 +1,3 @@
+3D Semantic Scene Completion from a single RGB image#NYUv2#mIoU#22.91
+3D Semantic Scene Completion from a single RGB image#SemanticKITTI#mIoU#6.23
+3D Semantic Scene Completion#NYUv2#mIoU#41.1

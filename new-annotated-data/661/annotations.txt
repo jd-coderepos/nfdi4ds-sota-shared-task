@@ -1,0 +1,4 @@
+Part-Of-Speech Tagging#DaNE#Accuracy (%)#98.37
+Dependency Parsing#DaNE#UAS#90.85
+Dependency Parsing#DaNE#LAS#88.44
+Named Entity Recognition#DaNE#Micro-average F1#84.39

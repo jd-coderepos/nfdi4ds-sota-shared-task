@@ -1,0 +1,6 @@
+Video Generation#UCF-101#Inception Score#82.55
+Video Generation#UCF-101#FVD#81.25
+Video Generation#UCF-101#Inception Score#33
+Video Generation#UCF-101#FVD#367.23
+Text-to-Video Generation#MSR-VTT#FID#13.17
+Text-to-Video Generation#MSR-VTT#CLIPSIM#0.3049

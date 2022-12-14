@@ -1,0 +1,21 @@
+Semantic Segmentation#DADA-seg#mIoU#27.0
+Semantic Segmentation#DADA-seg#mIoU#21.2
+Semantic Segmentation#DADA-seg#mIoU#16.6
+Semantic Segmentation#Cityscapes val#mIoU#84.0
+Semantic Segmentation#SynPASS#mIoU#37.24%
+Semantic Segmentation#EventScape#mIoU#59.86
+Semantic Segmentation#EventScape#mIoU#58.69
+Semantic Segmentation#DensePASS#mIoU#42.4%
+Semantic Segmentation#DensePASS#mIoU#38.5%
+Semantic Segmentation#ADE20K#Validation mIoU#51.8
+Semantic Segmentation#ADE20K#Params (M)#84.7
+Semantic Segmentation#ADE20K#Validation mIoU#51.1
+Semantic Segmentation#ADE20K#Params (M)#64.1
+Semantic Segmentation#ADE20K#Validation mIoU#37.4
+Semantic Segmentation#ADE20K#Params (M)#3.8
+Semantic Segmentation#ADE20K val#mIoU#51.8
+Semantic Segmentation#COCO-Stuff full#Mean IoU (class)#46.7
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#83.1%
+Semantic Segmentation#ZJU-RGB-P#mIoU#89.6
+Thermal Image Segmentation#MFN Dataset#mIOU#54.8
+Thermal Image Segmentation#MFN Dataset#mIOU#53.2

@@ -1,0 +1,13 @@
+Face Alignment#AFLW2000-3D#Mean NME#3.46%
+3D Face Reconstruction#AFLW2000-3D#Mean NME#3.25%
+3D Face Reconstruction#REALY (side-view)#@nose#1.771 (±0.521)
+3D Face Reconstruction#REALY (side-view)#all#1.958
+3D Face Reconstruction#REALY (side-view)#@mouth#1.560 (±0.462)
+3D Face Reconstruction#REALY (side-view)#@forehead#2.490 (±0.566)
+3D Face Reconstruction#REALY (side-view)#@cheek#2.010 (±0.715)
+3D Face Reconstruction#REALY#@nose#1.791 (±0.542)
+3D Face Reconstruction#REALY#@mouth#1.591 (±0.488)
+3D Face Reconstruction#REALY#@forehead#2.413 (±0.537)
+3D Face Reconstruction#REALY#@cheek#1.856 (±0.701)
+3D Face Reconstruction#REALY#all#1.913
+Head Pose Estimation#AFLW2000-3D#Average 3D Error#3.82

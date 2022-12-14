@@ -1,0 +1,22 @@
+Dialogue Generation#FusedChat#Slot Accuracy#0.973
+Dialogue Generation#FusedChat#Joint SA#0.600
+Dialogue Generation#FusedChat#Inform#75.1
+Dialogue Generation#FusedChat#Inform_mct#90.8
+Dialogue Generation#FusedChat#Success#60.9
+Dialogue Generation#FusedChat#Success_mct#74.4
+Dialogue Generation#FusedChat#BLEU#12.17
+Dialogue Generation#FusedChat#PPL#10.50
+Dialogue Generation#FusedChat#Sensibleness#0.58
+Dialogue Generation#FusedChat#Specificity#0.51
+Dialogue Generation#FusedChat#SSA#0.55
+Dialogue Generation#FusedChat#Slot Accuracy#0.972
+Dialogue Generation#FusedChat#Joint SA#0.592
+Dialogue Generation#FusedChat#Inform#70.4
+Dialogue Generation#FusedChat#Inform_mct#90.1
+Dialogue Generation#FusedChat#Success#57.0
+Dialogue Generation#FusedChat#Success_mct#72.7
+Dialogue Generation#FusedChat#BLEU#12.05
+Dialogue Generation#FusedChat#PPL#10.49
+Dialogue Generation#FusedChat#Sensibleness#0.52
+Dialogue Generation#FusedChat#Specificity#0.47
+Dialogue Generation#FusedChat#SSA#0.50

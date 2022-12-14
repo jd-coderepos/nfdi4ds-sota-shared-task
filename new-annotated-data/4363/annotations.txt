@@ -1,0 +1,5 @@
+3D Object Retrieval#ModelNet40#Mean AP#92.9
+3D Object Retrieval#ShapeNetCore 55#Mean AP#82.9
+3D Point Cloud Classification#ScanObjectNN#Overall Accuracy#82.8
+3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.8
+3D Point Cloud Classification#ModelNet40#Mean Accuracy#92.2

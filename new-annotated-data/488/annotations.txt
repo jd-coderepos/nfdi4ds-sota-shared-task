@@ -1,0 +1,3 @@
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#51.66
+Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (16 classes)#46.45
+Domain Generalization#WildDash#Mean IoU#31.2

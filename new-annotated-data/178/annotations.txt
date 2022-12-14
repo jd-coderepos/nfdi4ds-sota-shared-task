@@ -1,0 +1,5 @@
+Image Super-Resolution#DIV8K val - 16x upscaling#LPIPS#0.321
+Image Super-Resolution#Urban100 - 4x upscaling#LPIPS#0.1007
+Image Super-Resolution#Set14 - 4x upscaling#LPIPS#0.1104
+Image Super-Resolution#Set5 - 4x upscaling#LPIPS#0.04998
+Image Super-Resolution#BSD100 - 4x upscaling#LPIPS#0.1209

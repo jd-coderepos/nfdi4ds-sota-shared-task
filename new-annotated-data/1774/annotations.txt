@@ -1,0 +1,3 @@
+Anomaly Detection#MVTec AD#Segmentation AUROC#98.2
+Unsupervised Anomaly Detection#KolektorSDD2#Segmentation AUROC#98.1
+Unsupervised Anomaly Detection#KolektorSDD#Segmentation AUROC#96.0

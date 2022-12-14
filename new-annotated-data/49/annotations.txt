@@ -1,0 +1,29 @@
+Depth Estimation#NYU-Depth V2#RMS#0.287
+Depth Estimation#NYU-Depth V2#RMS#0.304
+Monocular Depth Estimation#NYU-Depth V2#RMSE#0.287
+Monocular Depth Estimation#NYU-Depth V2#absolute relative error#0.083
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25#0.949
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25^2#0.994
+Monocular Depth Estimation#NYU-Depth V2#Delta < 1.25^3#0.999
+Monocular Depth Estimation#NYU-Depth V2#log 10#0.035
+Monocular Depth Estimation#KITTI Eigen split#absolute relative error#0.050
+Monocular Depth Estimation#KITTI Eigen split#RMSE#1.966
+Monocular Depth Estimation#KITTI Eigen split#Sq Rel#0.139
+Monocular Depth Estimation#KITTI Eigen split#RMSE log#0.075
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25#0.977
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^2#0.998
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^3#1.000
+Monocular Depth Estimation#KITTI Eigen split#absolute relative error#0.052
+Monocular Depth Estimation#KITTI Eigen split#RMSE#2.050
+Monocular Depth Estimation#KITTI Eigen split#Sq Rel#0.148
+Monocular Depth Estimation#KITTI Eigen split#RMSE log#0.078
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25#0.976
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^3#0.999
+Visual Object Tracking#LaSOT#AUC#70.7
+Visual Object Tracking#LaSOT#AUC#70
+Visual Object Tracking#GOT-10k#Average Overlap#72.9
+Visual Object Tracking#GOT-10k#Average Overlap#70.8
+Pose Estimation#CrowdPose#AP#75.5
+Pose Estimation#CrowdPose#AP#74.9
+Pose Estimation#COCO test-dev#AP#77.2
+Pose Estimation#COCO test-dev#AP#76.7

@@ -1,0 +1,45 @@
+Object Detection#COCO test-dev#box AP#42.8
+Object Detection#COCO test-dev#AP50#62.1
+Object Detection#COCO test-dev#AP75#46.3
+Object Detection#COCO test-dev#APS#23.7
+Object Detection#COCO test-dev#APM#45.5
+Object Detection#COCO test-dev#APL#55.2
+Object Detection#COCO test-dev#box AP#40.6
+Object Detection#COCO test-dev#AP50#59.9
+Object Detection#COCO test-dev#AP75#44
+Object Detection#COCO test-dev#APS#22.6
+Object Detection#COCO test-dev#APM#42.7
+Object Detection#COCO test-dev#APL#52.1
+Object Detection#COCO test-dev#Hardware Burden#12G
+Object Detection#COCO test-dev#box AP#38.8
+Object Detection#COCO test-dev#AP50#61.1
+Object Detection#COCO test-dev#AP75#41.9
+Object Detection#COCO test-dev#APS#21.3
+Object Detection#COCO test-dev#APM#41.8
+Object Detection#COCO test-dev#APL#49.8
+Object Detection#COCO test-dev#Hardware Burden#3G
+Object Detection#COCO test-dev#box AP#36.5
+Object Detection#COCO test-dev#AP50#59
+Object Detection#COCO test-dev#AP75#39.2
+Object Detection#COCO test-dev#APS#20.3
+Object Detection#COCO test-dev#APM#38.8
+Object Detection#COCO test-dev#APL#46.4
+Object Detection#COCO minival#box AP#42.7
+Object Detection#COCO minival#AP50#61.6
+Object Detection#COCO minival#AP75#46.6
+Object Detection#COCO minival#APS#23.8
+Object Detection#COCO minival#APM#46.2
+Object Detection#COCO minival#APL#57.4
+Object Detection#COCO minival#box AP#40.3
+Object Detection#COCO minival#AP50#59.4
+Object Detection#COCO minival#AP75#43.7
+Object Detection#COCO minival#APS#22.9
+Object Detection#COCO minival#APM#43.7
+Object Detection#COCO minival#APL#54.1
+Object Detection#AI-TOD#AP#13.8
+Object Detection#AI-TOD#AP50#30.8
+Object Detection#AI-TOD#AP75#10.5
+Object Detection#AI-TOD#APvt#0.0
+Object Detection#AI-TOD#APt#10.6
+Object Detection#AI-TOD#APs#25.5
+Object Detection#AI-TOD#APm#26.6

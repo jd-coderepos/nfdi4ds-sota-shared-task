@@ -1,0 +1,4 @@
+Atari Games#Atari 2600 Montezuma's Revenge#Score#75
+Atari Games#Atari 2600 Freeway#Score#34.0
+Atari Games#Atari 2600 Frostbite#Score#5214.0
+Atari Games#Atari 2600 Venture#Score#445.0

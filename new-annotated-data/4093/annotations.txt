@@ -1,0 +1,4 @@
+Image Classification#mini WebVision 1.0#Top-1 Accuracy#77.41
+Image Classification#mini WebVision 1.0#Top-5 Accuracy#92.25
+Image Classification#mini WebVision 1.0#ImageNet Top-1 Accuracy#74.09
+Image Classification#mini WebVision 1.0#ImageNet Top-5 Accuracy#92.09

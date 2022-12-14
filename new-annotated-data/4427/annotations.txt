@@ -1,0 +1,2 @@
+Instance Segmentation#COCO minival#mask AP#47.0
+Instance Segmentation#COCO minival#mask AP#45.8

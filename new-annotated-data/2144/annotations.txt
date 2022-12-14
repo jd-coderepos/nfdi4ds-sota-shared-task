@@ -1,0 +1,38 @@
+Remaining Length of Stay#HiRID#MAE#56.9±0.4
+Remaining Length of Stay#HiRID#MAE#57.0±0.3
+Remaining Length of Stay#HiRID#MAE#59.5±2.8
+Remaining Length of Stay#HiRID#MAE#59.8±2.8
+Remaining Length of Stay#HiRID#MAE#60.6±0.9
+Remaining Length of Stay#HiRID#MAE#60.7±1.6
+ICU Mortality#HiRID#AUPRC#0.626±0.000
+ICU Mortality#HiRID#AUPRC#0.610±0.008
+ICU Mortality#HiRID#AUPRC#0.603 ±0.016
+ICU Mortality#HiRID#AUPRC#0.602±0.011
+ICU Mortality#HiRID#AUPRC#0.600±0.009
+ICU Mortality#HiRID#AUPRC#0.581±0.000
+ICU Mortality#HiRID#AUPRC#0.546±0.008
+Patient Phenotyping#HiRID#Balanced Accuracy#45.8±2.0
+Patient Phenotyping#HiRID#Balanced Accuracy#42.7±1.4
+Patient Phenotyping#HiRID#Balanced Accuracy#41.6±2.3
+Patient Phenotyping#HiRID#Balanced Accuracy#40.4±0.8
+Patient Phenotyping#HiRID#Balanced Accuracy#39.5±1.2
+Patient Phenotyping#HiRID#Balanced Accuracy#39.2±2.1
+Patient Phenotyping#HiRID#Balanced Accuracy#39.1±0.0
+Circulatory Failure#HiRID#AUPRC#0.389±0.003
+Circulatory Failure#HiRID#AUPRC#0.388±0.002
+Circulatory Failure#HiRID#AUPRC#0.368±0.005
+Circulatory Failure#HiRID#AUPRC#0.352±0.006
+Circulatory Failure#HiRID#AUPRC#0.305±0.000
+Circulatory Failure#HiRID#AUPRC#0.32.2±0.008
+Circulatory Failure#HiRID#AUPRC#0.35.8±0.006
+Kidney Function#HiRID#MAE#0.45±0.00
+Kidney Function#HiRID#MAE#0.48±0.02
+Kidney Function#HiRID#MAE#0.49±0.02
+Kidney Function#HiRID#MAE#0.50±0.01
+Respiratory Failure#HiRID#AUPRC#0.604±0.002
+Respiratory Failure#HiRID#AUPRC#0.594±0.003
+Respiratory Failure#HiRID#AUPRC#0.592±0.003
+Respiratory Failure#HiRID#AUPRC#0.589±0.003
+Respiratory Failure#HiRID#AUPRC#0.585±0.001
+Respiratory Failure#HiRID#AUPRC#0.569±0.003
+Respiratory Failure#HiRID#AUPRC#0.530±0.000

@@ -1,0 +1,2 @@
+Few-Shot Image Classification#Dirichlet Mini-Imagenet (5-way, 1-shot)#1:1 Accuracy#47.8
+Few-Shot Image Classification#Dirichlet Mini-Imagenet (5-way, 5-shot)#1:1 Accuracy#61.9

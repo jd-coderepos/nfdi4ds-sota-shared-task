@@ -1,0 +1,2 @@
+Natural Language Inference#XNLI French#Accuracy#83.4
+Natural Language Inference#XNLI French#Accuracy#80.6

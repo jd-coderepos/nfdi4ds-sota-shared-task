@@ -1,0 +1,4 @@
+Amodal Panoptic Segmentation#BDD100K-APS#APQ#46.3
+Amodal Panoptic Segmentation#BDD100K-APS#APC#47.3
+Amodal Panoptic Segmentation#BDD100K-APS#AP#29.2
+Amodal Panoptic Segmentation#BDD100K-APS#mIoU#53.3

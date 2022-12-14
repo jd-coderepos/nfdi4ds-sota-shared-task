@@ -1,0 +1,11 @@
+Face Recognition#CASIA-WebFace+masks#Accuracy#87.95
+Face Recognition#CelebA+masks#Accuracy#91.78
+Face Verification#Trillion Pairs Dataset#Accuracy#57.45
+Face Verification#YouTube Faces DB#Accuracy#98.02%
+Face Verification#MegaFace#Accuracy#98.48%
+Face Verification#Labeled Faces in the Wild#Accuracy#99.83%
+Face Verification#IJB-C#TAR @ FAR=1e-5#96.07%
+Face Verification#IJB-C#training dataset#IBUG-500K
+Face Verification#IJB-C#model#R100
+Face Identification#MegaFace#Accuracy#98.35%
+Face Identification#Trillion Pairs Dataset#Accuracy#57.48

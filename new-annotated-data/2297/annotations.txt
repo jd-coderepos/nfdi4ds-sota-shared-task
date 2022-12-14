@@ -1,0 +1,6 @@
+Visual Reasoning#Winoground#Text Score#38.00
+Visual Reasoning#Winoground#Image Score#14.00
+Visual Reasoning#Winoground#Group Score#10.50
+Visual Reasoning#Winoground#Text Score#37.75
+Visual Reasoning#Winoground#Image Score#17.75
+Visual Reasoning#Winoground#Group Score#14.50

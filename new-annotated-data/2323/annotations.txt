@@ -1,0 +1,21 @@
+Sleep Stage Detection#MASS SS3#Accuracy#86.7%
+Sleep Stage Detection#MASS SS3#Macro-F1#0.817
+Sleep Stage Detection#MASS SS3#Cohen's kappa#0.803
+Sleep Stage Detection#Sleep-EDF#Accuracy#86.6%
+Sleep Stage Detection#Sleep-EDF#Macro-F1#0.810
+Sleep Stage Detection#Sleep-EDF#Cohen's kappa#0.816
+Sleep Stage Detection#Sleep-EDF#Accuracy#86.3%
+Sleep Stage Detection#Sleep-EDF#Macro-F1#0.805
+Sleep Stage Detection#Sleep-EDF#Cohen's kappa#0.813
+Multimodal Sleep Stage Detection#Sleep-EDF-ST#Accuracy#83.6%
+Multimodal Sleep Stage Detection#Sleep-EDF-ST#Macro-F1#0.795
+Multimodal Sleep Stage Detection#Sleep-EDF-ST#Cohen's kappa#0.765
+Multimodal Sleep Stage Detection#Sleep-EDF-ST#Accuracy#82.9%
+Multimodal Sleep Stage Detection#Sleep-EDF-ST#Macro-F1#0.792
+Multimodal Sleep Stage Detection#Sleep-EDF-ST#Cohen's kappa#0.759
+Multimodal Sleep Stage Detection#Sleep-EDF-SC#Accuracy#86.4%
+Multimodal Sleep Stage Detection#Sleep-EDF-SC#Macro-F1#0.802
+Multimodal Sleep Stage Detection#Sleep-EDF-SC#Cohen's kappa#0.812
+Multimodal Sleep Stage Detection#Sleep-EDF-SC#Accuracy#85.7%
+Multimodal Sleep Stage Detection#Sleep-EDF-SC#Macro-F1#0.809
+Multimodal Sleep Stage Detection#Sleep-EDF-SC#Cohen's kappa#0.806

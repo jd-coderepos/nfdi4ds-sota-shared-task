@@ -1,0 +1,3 @@
+3D Reconstruction#DTU#Acc#0.296
+3D Reconstruction#DTU#Overall#0.351
+3D Reconstruction#DTU#Comp#0.406

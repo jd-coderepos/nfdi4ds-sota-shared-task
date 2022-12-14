@@ -1,0 +1,7 @@
+Natural Language Inference#KUAKE-QQR#Accuracy#84.7
+Natural Language Inference#KUAKE-QTR#Accuracy#62.9
+Semantic Similarity#CHIP-STS#Macro F1#85.6
+Medical Relation Extraction#CMeIE#Micro F1#55.9
+Intent Classification#KUAKE-QIC#Accuracy#85.5
+Named Entity Recognition#CMeEE#Micro F1#62.4
+Sentence Classification#CHIP-CTC#Macro F1#70.9

@@ -1,0 +1,14 @@
+Medical Code Prediction#MIMIC-III#Macro-AUC#88.5
+Medical Code Prediction#MIMIC-III#Micro-AUC#98.1
+Medical Code Prediction#MIMIC-III#Macro-F1#3.6
+Medical Code Prediction#MIMIC-III#Micro-F1#40.7
+Medical Code Prediction#MIMIC-III#Precision@8#61.4
+Multi-Label Text Classification#MIMIC-III-50#Micro-F1#64.1
+Multi-Label Text Classification#MIMIC-III#AUC#0.919
+Multi-Label Text Classification#MIMIC-III#Macro F1#57.1
+Multi-Label Text Classification#MIMIC-III#P@5#62.5
+Multi-Label Text Classification#MIMIC-III#Macro Precision#65
+Multi-Label Text Classification#MIMIC-III#Macro Recall#51
+Multi-Label Text Classification#MIMIC-III#Micro Precision#72.9
+Multi-Label Text Classification#MIMIC-III#Micro Recall#57.3
+Multi-Label Text Classification#MIMIC-III#Micro-F1#40.7

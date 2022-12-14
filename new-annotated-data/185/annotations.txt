@@ -1,0 +1,6 @@
+Image Super-Resolution#Set14 - 4x upscaling#PSNR#26.13
+Image Super-Resolution#Set14 - 4x upscaling#SSIM#0.694
+Image Super-Resolution#Set5 - 4x upscaling#PSNR#29.82
+Image Super-Resolution#Set5 - 4x upscaling#SSIM#0.840
+Image Super-Resolution#BSD100 - 4x upscaling#PSNR#25.33
+Image Super-Resolution#BSD100 - 4x upscaling#SSIM#0.651

@@ -1,0 +1,1 @@
+Visual Entailment#SNLI-VE val#Accuracy#80.20

@@ -1,0 +1,6 @@
+Continual Learning#20Newsgroup (10 tasks)#F1 - macro#0.9180
+Continual Learning#ASC (19 tasks)#F1 - macro#0.7452
+Continual Learning#ASC (19 tasks)#F1 - macro#0.5243
+Continual Learning#F-CelebA (10 tasks)#Acc#0.6545
+Continual Learning#DSC (10 tasks)#F1 - macro#0.6576
+class-incremental learning#cifar100#10-stage average accuracy#50.53

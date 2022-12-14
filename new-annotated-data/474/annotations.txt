@@ -1,0 +1,7 @@
+Unsupervised Image-To-Image Translation#SVNH-to-MNIST#Classification Accuracy#76.0%
+Domain Adaptation#MNIST-to-USPS#Accuracy#90.1
+Domain Adaptation#SVHN-to-MNIST#Accuracy#80.1
+Unsupervised Domain Adaptation#EPIC-KITCHENS-100#Average Accuracy#37.4
+Unsupervised Domain Adaptation#UCF-HMDB#Accuracy#79.17
+Unsupervised Domain Adaptation#HMDB-UCF#Accuracy#88.44
+Unsupervised Domain Adaptation#Jester#Accuracy#52.3

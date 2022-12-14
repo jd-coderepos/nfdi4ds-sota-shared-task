@@ -1,0 +1,2 @@
+Semantic Segmentation#INRIA Aerial Image Labeling#IoU#80.32
+Semantic Segmentation#AIRS#IoU#91.7

@@ -1,0 +1,4 @@
+Affordance Recognition#HICO-DET#HICO#37.32
+Affordance Recognition#HICO-DET#COCO-Val2017#25.11
+Affordance Recognition#HICO-DET#Object365#25.21
+Affordance Recognition#HICO-DET#Novel classes#6.80

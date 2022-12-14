@@ -1,0 +1,12 @@
+Skill Generalization#RGB-Stacking#Group 1#23
+Skill Generalization#RGB-Stacking#Group 2#39.3
+Skill Generalization#RGB-Stacking#Group 3#39.3
+Skill Generalization#RGB-Stacking#Group 4#77.5
+Skill Generalization#RGB-Stacking#Group 5#66
+Skill Generalization#RGB-Stacking#Average#49
+Skill Mastery#RGB-Stacking#Group 1#75.6
+Skill Mastery#RGB-Stacking#Group 2#60.8
+Skill Mastery#RGB-Stacking#Group 3#70.8
+Skill Mastery#RGB-Stacking#Group 4#87.8
+Skill Mastery#RGB-Stacking#Group 5#78.3
+Skill Mastery#RGB-Stacking#Average#74.6

@@ -1,0 +1,3 @@
+3D Multi-Object Tracking#KITTI#MOTA#76.15%
+3D Multi-Object Tracking#KITTI#MOTP#83.42%
+Multiple Object Tracking#KITTI Tracking test#MOTA#76.15

@@ -1,0 +1,4 @@
+Optical Flow Estimation#KITTI 2015 (train)#F1-all#14.7
+Optical Flow Estimation#KITTI 2015 (train)#EPE#4.09
+Optical Flow Estimation#Sintel-clean#Average End-Point Error#1.16
+Optical Flow Estimation#Sintel-final#Average End-Point Error#2.09

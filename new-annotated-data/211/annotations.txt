@@ -1,0 +1,13 @@
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#Subjective score#2.686
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#ERQAv1.0#0.538
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#QRCRv1.0#0
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#SSIM#0.745
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#PSNR#24.195
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#FPS#1.562
+Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#1 - LPIPS#0.793
+Blind Face Restoration#CelebA-Test#LPIPS#36.46
+Blind Face Restoration#CelebA-Test#FID#42.62
+Blind Face Restoration#CelebA-Test#NIQE#4.077
+Blind Face Restoration#CelebA-Test#Deg.#34.60
+Blind Face Restoration#CelebA-Test#PSNR#25.08
+Blind Face Restoration#CelebA-Test#SSIM#0.6777

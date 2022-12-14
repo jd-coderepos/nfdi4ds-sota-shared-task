@@ -1,0 +1,2 @@
+Text-Line Extraction#DIVA-HisDB#Line IoU#99.42
+Text-Line Extraction#DIVA-HisDB#Pixel IoU#96.11

@@ -1,0 +1,31 @@
+Referring Expression Segmentation#A2D Sentences#Precision@0.5#0.5
+Referring Expression Segmentation#A2D Sentences#Precision@0.9#0.004
+Referring Expression Segmentation#A2D Sentences#IoU overall#0.551
+Referring Expression Segmentation#A2D Sentences#IoU mean#0.426
+Referring Expression Segmentation#A2D Sentences#Precision@0.6#0.376
+Referring Expression Segmentation#A2D Sentences#Precision@0.7#0.231
+Referring Expression Segmentation#A2D Sentences#Precision@0.8#0.094
+Referring Expression Segmentation#A2D Sentences#AP#0.215
+Referring Expression Segmentation#A2D Sentences#Precision@0.5#0.475
+Referring Expression Segmentation#A2D Sentences#Precision@0.9#0.002
+Referring Expression Segmentation#A2D Sentences#IoU overall#0.536
+Referring Expression Segmentation#A2D Sentences#IoU mean#0.421
+Referring Expression Segmentation#A2D Sentences#Precision@0.6#0.347
+Referring Expression Segmentation#A2D Sentences#Precision@0.7#0.211
+Referring Expression Segmentation#A2D Sentences#Precision@0.8#0.08
+Referring Expression Segmentation#A2D Sentences#AP#0.198
+Referring Expression Segmentation#J-HMDB#Precision@0.5#0.712
+Referring Expression Segmentation#J-HMDB#Precision@0.6#0.518
+Referring Expression Segmentation#J-HMDB#Precision@0.7#0.264
+Referring Expression Segmentation#J-HMDB#Precision@0.8#0.030
+Referring Expression Segmentation#J-HMDB#Precision@0.9#0.000
+Referring Expression Segmentation#J-HMDB#AP#0.267
+Referring Expression Segmentation#J-HMDB#IoU overall#0.555
+Referring Expression Segmentation#J-HMDB#IoU mean#0.570
+Referring Expression Segmentation#J-HMDB#Precision@0.5#0.699
+Referring Expression Segmentation#J-HMDB#Precision@0.6#0.460
+Referring Expression Segmentation#J-HMDB#Precision@0.7#0.173
+Referring Expression Segmentation#J-HMDB#Precision@0.8#0.014
+Referring Expression Segmentation#J-HMDB#AP#0.233
+Referring Expression Segmentation#J-HMDB#IoU overall#0.541
+Referring Expression Segmentation#J-HMDB#IoU mean#0.542

@@ -1,0 +1,5 @@
+Face Swapping#FaceForensics++#FID#3.51
+Face Swapping#FaceForensics++#FID#3.81
+Face Swapping#FaceForensics++#FID#4.05
+Face Swapping#FaceForensics++#FID#4.29
+Face Swapping#FaceForensics++#FID#4.35

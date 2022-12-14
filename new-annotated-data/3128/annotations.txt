@@ -1,0 +1,4 @@
+Photoplethysmography (PPG) heart rate estimation#MMSE-HR#MAE#3.04
+Photoplethysmography (PPG) heart rate estimation#MMSE-HR#MAPE (%)#3.41%
+Photoplethysmography (PPG) heart rate estimation#MMSE-HR#Pearson Correlation#0.89
+Photoplethysmography (PPG) heart rate estimation#UBFC-rPPG#RMSE#2.72

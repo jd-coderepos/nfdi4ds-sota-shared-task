@@ -1,0 +1,10 @@
+Adversarial Robustness#AdvGLUE#Accuracy#0.6086
+Adversarial Robustness#AdvGLUE#Accuracy#0.5922
+Adversarial Robustness#AdvGLUE#Accuracy#0.5682
+Adversarial Robustness#AdvGLUE#Accuracy#0.5371
+Adversarial Robustness#AdvGLUE#Accuracy#0.5048
+Adversarial Robustness#AdvGLUE#Accuracy#0.5021
+Adversarial Robustness#AdvGLUE#Accuracy#0.4603
+Adversarial Robustness#AdvGLUE#Accuracy#0.4169
+Adversarial Robustness#AdvGLUE#Accuracy#0.3369
+Adversarial Robustness#AdvGLUE#Accuracy#0.3029

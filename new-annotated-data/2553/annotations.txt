@@ -1,0 +1,2 @@
+Semantic Segmentation#FoodSeg103#mIoU#43.9
+Semantic Segmentation#FoodSeg103#mIoU#36.8

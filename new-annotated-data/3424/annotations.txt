@@ -1,0 +1,8 @@
+Image Reconstruction#Edge-to-Handbags#FID#0.069
+Image Reconstruction#Edge-to-Handbags#LPIPS#0.168
+Image Reconstruction#Edge-to-Handbags#HP#57.10
+Image Reconstruction#Edge-to-Handbags#MMD#0.112
+Image Reconstruction#Edge-to-Shoes#FID#0.015
+Image Reconstruction#Edge-to-Shoes#LPIPS#0.085
+Image Reconstruction#Edge-to-Shoes#HP#62.30
+Image Reconstruction#Edge-to-Shoes#MMD#0.081

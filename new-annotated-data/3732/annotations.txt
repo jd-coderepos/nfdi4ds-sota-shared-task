@@ -1,0 +1,3 @@
+Object Detection#PeopleArt#MAP#36
+Object Detection#PeopleArt#mAP@0.5#68
+Object Detection#PeopleArt#mAP@0.75#33

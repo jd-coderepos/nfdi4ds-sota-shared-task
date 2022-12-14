@@ -1,0 +1,2 @@
+Semantic Textual Similarity#MRPC#Accuracy#88.8%
+Semantic Textual Similarity#MRPC#Number of Params#25.3M

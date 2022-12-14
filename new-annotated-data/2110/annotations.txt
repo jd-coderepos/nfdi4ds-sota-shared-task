@@ -1,0 +1,3 @@
+Visual Question Answering#GQA test-dev#Accuracy#72.1
+Visual Question Answering#VQA v2 test-dev#Accuracy#72.5
+Visual Question Answering#Visual7W#Percentage correct#71.9

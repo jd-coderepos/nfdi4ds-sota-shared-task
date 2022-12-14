@@ -1,0 +1,3 @@
+Multivariate Time Series Imputation#Beijing Multi-Site Air-Quality Dataset#MAE (PM2.5)#10.51
+Traffic Data Imputation#METR-LA Point Missing#MAE#1.91
+Traffic Data Imputation#PEMS-BAY Point Missing#MAE#0.67

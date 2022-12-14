@@ -1,0 +1,4 @@
+Image Classification#ObjectNet#Top-5 Accuracy#61.43
+Image Classification#ObjectNet#Top-1 Accuracy#39.38
+Image Classification#ObjectNet#Top-5 Accuracy#48.02
+Image Classification#ObjectNet#Top-1 Accuracy#27.03

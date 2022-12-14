@@ -1,0 +1,5 @@
+Pedestrian Detection#FLIR-aligned#mAP#40.0
+Pedestrian Detection#LLVIP#AP#0.636
+Pedestrian Detection#LLVIP#log average miss rate#5.40%
+Multispectral Object Detection#FLIR-aligned#mAP#40.2
+Multispectral Object Detection#FLIR-aligned#mAP50#78.7

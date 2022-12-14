@@ -1,0 +1,4 @@
+3D Object Detection#V2XSet#AP0.5 (Perfect)#0.844
+3D Object Detection#V2XSet#AP0.7 (Perfect)#0.695
+3D Object Detection#V2XSet#AP0.5 (Noisy)#0.798
+3D Object Detection#V2XSet#AP0.7 (Noisy)#0.541

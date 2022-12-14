@@ -1,0 +1,15 @@
+Image Classification#CIFAR-100, 60% Symmetric Noise#Percentage correct#64.6
+Image Classification#Red MiniImageNet 20% label noise#Accuracy#51.42
+Image Classification#CIFAR-10, 60% Symmetric Noise#Percentage correct#91.3
+Image Classification#CIFAR-10, 60% Symmetric Noise#Percentage correct#26.42
+Image Classification#mini WebVision 1.0#Top-1 Accuracy#79.4
+Image Classification#mini WebVision 1.0#Top-5 Accuracy#92.80
+Image Classification#mini WebVision 1.0#ImageNet Top-1 Accuracy#77
+Image Classification#mini WebVision 1.0#ImageNet Top-5 Accuracy#92.76
+Image Classification#Red MiniImageNet 80% label noise#Accuracy#35.5
+Image Classification#CIFAR-10, 40% Symmetric Noise#Percentage correct#95.37
+Image Classification#CIFAR-10, 40% Symmetric Noise#Percentage correct#94.2
+Image Classification#CIFAR-100, 40% Symmetric Noise#Percentage correct#75.91
+Image Classification#CIFAR-100, 40% Symmetric Noise#Percentage correct#71.3
+Image Classification#Red MiniImageNet 60% label noise#Accuracy#45.1
+Image Classification#Red MiniImageNet 40% label noise#Accuracy#48.06

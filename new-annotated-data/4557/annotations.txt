@@ -1,0 +1,4 @@
+Speech Dereverberation#WHAMR!#SI-SDR#12.26
+Speech Dereverberation#WHAMR!#PESQ#3.5
+Speech Dereverberation#WHAMR!#ESTOI#93.5
+Speech Dereverberation#WHAMR!#SRMR#8.8

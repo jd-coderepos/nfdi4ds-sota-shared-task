@@ -1,0 +1,5 @@
+SMAC#SMAC corridor#Median Win Rate#1
+SMAC#SMAC 27m_vs_30m#Median Win Rate#49
+SMAC#SMAC 3s5z_vs_3s6z#Median Win Rate#2
+SMAC#SMAC 6h_vs_8z#Median Win Rate#3
+SMAC#SMAC MMM2#Median Win Rate#69

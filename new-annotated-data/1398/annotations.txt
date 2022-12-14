@@ -1,0 +1,2 @@
+3D Multi-Object Tracking#Waymo Open Dataset#3DMOTA#0.6030
+3D Multi-Object Tracking#nuScenes#amota#0.67

@@ -1,0 +1,5 @@
+Weakly Supervised Action Localization#ActivityNet-1.2#mAP@0.5#41.0
+Weakly Supervised Action Localization#ActivityNet-1.2#Mean mAP#24.4
+Weakly Supervised Action Localization#THUMOS 2014#mAP@0.5#28.8
+Weakly Supervised Action Localization#THUMOS 2014#mAP@0.1:0.7#37.0
+Weakly Supervised Action Localization#THUMOS 2014#mAP@0.1:0.5#45.6

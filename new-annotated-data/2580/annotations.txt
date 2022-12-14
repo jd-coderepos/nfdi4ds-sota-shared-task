@@ -1,0 +1,13 @@
+Semantic Segmentation#ADE20K#Validation mIoU#55.6
+Semantic Segmentation#ADE20K#Validation mIoU#48.1
+Semantic Segmentation#ADE20K val#mIoU#55.6
+Semantic Segmentation#Mapillary val#mIoU#55.4
+Panoptic Segmentation#COCO test-dev#PQ#53.3
+Panoptic Segmentation#COCO test-dev#PQst#44.5
+Panoptic Segmentation#COCO test-dev#PQth#59.1
+Panoptic Segmentation#COCO minival#PQ#52.7
+Panoptic Segmentation#COCO minival#SQ#81.8
+Panoptic Segmentation#COCO minival#RQ#63.5
+Panoptic Segmentation#COCO minival#PQth#58.5
+Panoptic Segmentation#COCO minival#PQst#44.0
+Panoptic Segmentation#ADE20K val#PQ#35.7

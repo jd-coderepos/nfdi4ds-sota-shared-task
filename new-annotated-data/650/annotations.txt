@@ -1,0 +1,75 @@
+Speech Recognition#SLUE#VoxPopuli (Dev)#21.6
+Speech Recognition#SLUE#VoxPopuli (Test)#22.4
+Speech Recognition#SLUE#VoxCeleb (Dev)#29.9
+Speech Recognition#SLUE#VoxCeleb (Test)#33.4
+Speech Recognition#SLUE#VoxPopuli (Dev)#18.6
+Speech Recognition#SLUE#VoxPopuli (Test)#19.1
+Speech Recognition#SLUE#VoxCeleb (Dev)#19.6
+Speech Recognition#SLUE#VoxCeleb (Test)#21.2
+Speech Recognition#SLUE#VoxPopuli (Dev)#17.2
+Speech Recognition#SLUE#VoxPopuli (Test)#17.9
+Speech Recognition#SLUE#VoxCeleb (Dev)#17.2
+Speech Recognition#SLUE#VoxCeleb (Test)#20.5
+Speech Recognition#SLUE#VoxPopuli (Dev)#14.6
+Speech Recognition#SLUE#VoxPopuli (Test)#15.2
+Speech Recognition#SLUE#VoxCeleb (Dev)#15.2
+Speech Recognition#SLUE#VoxCeleb (Test)#18.2
+Speech Recognition#SLUE#VoxPopuli (Dev)#14.0
+Speech Recognition#SLUE#VoxPopuli (Test)#12.1
+Speech Recognition#SLUE#VoxCeleb (Dev)#11.0
+Speech Recognition#SLUE#VoxCeleb (Test)#13.5
+Speech Recognition#SLUE#VoxPopuli (Dev)#12.0
+Speech Recognition#SLUE#VoxPopuli (Test)#12.5
+Speech Recognition#SLUE#VoxCeleb (Dev)#11.8
+Speech Recognition#SLUE#VoxCeleb (Test)#13.8
+Speech Recognition#SLUE#VoxPopuli (Test)#12.2
+Speech Recognition#SLUE#VoxCeleb (Dev)#13.2
+Speech Recognition#SLUE#VoxCeleb (Test)#15.8
+Speech Recognition#SLUE#VoxPopuli (Dev)#9.1
+Speech Recognition#SLUE#VoxPopuli (Test)#9.3
+Speech Recognition#SLUE#VoxCeleb (Dev)#9.1
+Speech Recognition#SLUE#VoxCeleb (Test)#10.8
+Sentiment Analysis#SLUE#Recall (%)#60.4
+Sentiment Analysis#SLUE#F1 (%)#63.3
+Sentiment Analysis#SLUE#Text model#DeBERTa-L
+Sentiment Analysis#SLUE#Recall (%)#60.2
+Sentiment Analysis#SLUE#Recall (%)#60.0
+Sentiment Analysis#SLUE#F1 (%)#62.9
+Sentiment Analysis#SLUE#Recall (%)#59.0
+Sentiment Analysis#SLUE#F1 (%)#61.8
+Sentiment Analysis#SLUE#Recall (%)#49.2
+Sentiment Analysis#SLUE#F1 (%)#48.5
+Sentiment Analysis#SLUE#Text model#N/A
+Sentiment Analysis#SLUE#Recall (%)#47.5
+Sentiment Analysis#SLUE#F1 (%)#48.0
+Sentiment Analysis#SLUE#Recall (%)#46.0
+Sentiment Analysis#SLUE#F1 (%)#46.6
+Sentiment Analysis#SLUE#Recall (%)#38.7
+Sentiment Analysis#SLUE#F1 (%)#38.4
+Named Entity Recognition#SLUE#F1 (%)#69.6
+Named Entity Recognition#SLUE#label-F1 (%)#82.2
+Named Entity Recognition#SLUE#Text model#DeBERTa-L
+Named Entity Recognition#SLUE#F1 (%)#68.0
+Named Entity Recognition#SLUE#label-F1 (%)#79.8
+Named Entity Recognition#SLUE#F1 (%)#64.8
+Named Entity Recognition#SLUE#label-F1 (%)#73.3
+Named Entity Recognition#SLUE#Text model#N/A
+Named Entity Recognition#SLUE#F1 (%)#63.4
+Named Entity Recognition#SLUE#label-F1 (%)#71.7
+Named Entity Recognition#SLUE#F1 (%)#61.9
+Named Entity Recognition#SLUE#label-F1 (%)#70.3
+Named Entity Recognition#SLUE#F1 (%)#61.8
+Named Entity Recognition#SLUE#label-F1 (%)#69.8
+Named Entity Recognition#SLUE#F1 (%)#57.8
+Named Entity Recognition#SLUE#label-F1 (%)#78.8
+Named Entity Recognition#SLUE#F1 (%)#50.9
+Named Entity Recognition#SLUE#label-F1 (%)#64.7
+Named Entity Recognition#SLUE#Text model#-
+Named Entity Recognition#SLUE#F1 (%)#50.2
+Named Entity Recognition#SLUE#label-F1 (%)#64.0
+Named Entity Recognition#SLUE#F1 (%)#49.8
+Named Entity Recognition#SLUE#label-F1 (%)#62.9
+Named Entity Recognition#SLUE#F1 (%)#49.5
+Named Entity Recognition#SLUE#label-F1 (%)#74.2
+Named Entity Recognition#SLUE#F1 (%)#47.9
+Named Entity Recognition#SLUE#label-F1 (%)#60.8

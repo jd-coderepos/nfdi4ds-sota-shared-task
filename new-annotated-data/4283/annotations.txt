@@ -1,0 +1,1 @@
+Unsupervised Image Classification#CIFAR-20#Accuracy#56.1

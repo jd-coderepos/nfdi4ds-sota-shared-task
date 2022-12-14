@@ -1,0 +1,11 @@
+Speech Enhancement#EasyCom#STOI#0.544
+Speech Enhancement#EasyCom#PESQ#1.17
+Speech Enhancement#EasyCom#ViSQOL#1.68
+Speech Enhancement#EasyCom#HASQI#0.249
+Speech Enhancement#EasyCom#SIIB#139
+Speech Enhancement#EasyCom#HASPI#0.830
+Speech Enhancement#EasyCom#ESTOI#0.379
+Speech Enhancement#EasyCom#SDR#-12.9
+Speech Enhancement#EasyCom#SegSNR#-12.2
+Speech Enhancement#EasyCom#SNR#-10.1
+Speech Enhancement#EasyCom#SI-SDR#-23.4

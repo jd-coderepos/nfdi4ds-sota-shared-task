@@ -1,0 +1,9 @@
+Dialogue State Tracking#CoSQL#question match accuracy#54.6
+Dialogue State Tracking#CoSQL#interaction match accuracy#23.7
+Semantic Parsing#spider#Accuracy#71.9
+Text-To-Sql#spider#Accuracy (Dev)#75.5
+Text-To-Sql#spider#Accuracy (Test)#71.9
+Text-To-Sql#SPIDER#Exact Match Accuracy (in Dev)#75.5
+Text-To-Sql#SPIDER#Execution Accuracy (in Dev)#79.3
+Text-To-Sql#SPIDER#Exact Match Accuracy (in Dev)#71.5
+Text-To-Sql#SPIDER#Execution Accuracy (in Dev)#74.4

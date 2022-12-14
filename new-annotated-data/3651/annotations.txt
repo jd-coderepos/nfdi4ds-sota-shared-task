@@ -1,0 +1,3 @@
+Recommendation Systems#MovieLens 100K#RMSE (u1 Splits)#0.8889
+Recommendation Systems#Douban Monti#RMSE#0.7208
+Recommendation Systems#MovieLens 1M#RMSE#0.8227

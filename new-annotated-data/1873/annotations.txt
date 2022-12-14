@@ -1,0 +1,4 @@
+Unsupervised Few-Shot Image Classification#Mini-Imagenet 5-way (1-shot)#Accuracy#41.09
+Unsupervised Few-Shot Image Classification#Tiered ImageNet 5-way (5-shot)#Accuracy#57.53
+Unsupervised Few-Shot Image Classification#Mini-Imagenet 5-way (5-shot)#Accuracy#55.38
+Unsupervised Few-Shot Image Classification#Tiered ImageNet 5-way (1-shot)#Accuracy#43.01

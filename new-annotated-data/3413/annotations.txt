@@ -1,0 +1,5 @@
+Zero-Shot Cross-Lingual Transfer#XTREME#Sentence-pair Classification#87.5
+Zero-Shot Cross-Lingual Transfer#XTREME#Structured Prediction#71.9
+Zero-Shot Cross-Lingual Transfer#XTREME#Question Answering#68.5
+Zero-Shot Cross-Lingual Transfer#XTREME#Sentence Retrieval#84.4
+Zero-Shot Cross-Lingual Transfer#XTREME#Avg#77.0

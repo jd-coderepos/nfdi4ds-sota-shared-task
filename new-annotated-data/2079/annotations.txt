@@ -1,0 +1,5 @@
+Unsupervised Extractive Summarization#FacetSum#ROUGE-L#42.89
+Unsupervised Extractive Summarization#FacetSum#ROUGE-L#42.18
+Unsupervised Extractive Summarization#FacetSum#ROUGE-L#41.87
+Unsupervised Extractive Summarization#FacetSum#ROUGE-L#38.71
+Unsupervised Extractive Summarization#FacetSum#ROUGE-L#35.98

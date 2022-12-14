@@ -1,0 +1,10 @@
+Language Modelling#WikiText-2#Validation perplexity#42.41
+Language Modelling#WikiText-2#Test perplexity#40.68
+Language Modelling#WikiText-2#Number of params#35M
+Language Modelling#WikiText-2#Validation perplexity#63.88
+Language Modelling#WikiText-2#Test perplexity#61.45
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#48.33
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#47.69
+Language Modelling#Penn Treebank (Word Level)#Params#22M
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#56.54
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#54.44

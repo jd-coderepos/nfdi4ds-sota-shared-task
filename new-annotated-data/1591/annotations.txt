@@ -1,0 +1,2 @@
+Video Object Segmentation#YouTube-VOS 2018 validation#Jaccard (Seen)#80.9
+Video Object Segmentation#YouTube-VOS 2018 validation#Jaccard (Unseen)#76.6

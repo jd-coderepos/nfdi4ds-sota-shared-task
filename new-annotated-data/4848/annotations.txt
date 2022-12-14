@@ -1,0 +1,2 @@
+Dialogue Evaluation#USR-TopicalChat#Spearman Correlation#0.5109
+Dialogue Evaluation#USR-TopicalChat#Pearson Correlation#0.4575

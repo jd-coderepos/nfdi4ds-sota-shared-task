@@ -1,0 +1,2 @@
+Table-to-Text Generation#WikiBio#BLEU#41.56
+Table-to-Text Generation#WikiBio#PARENT#56.16

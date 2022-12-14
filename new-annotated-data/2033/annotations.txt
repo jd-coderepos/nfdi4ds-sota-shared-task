@@ -1,0 +1,4 @@
+Question Answering#MedQA-USMLE#Accuracy#38.0
+Question Answering#OpenBookQA#Accuracy#82.8
+Common Sense Reasoning#CommonsenseQA#Accuracy#76.1
+Riddle Sense#Riddle Sense#Accuracy (%)#67

@@ -1,0 +1,4 @@
+Video Captioning#ActivityNet Captions#ROUGE-L#35.99
+Video Captioning#ActivityNet Captions#METEOR#17.48
+Video Captioning#ActivityNet Captions#BLEU4#13.38
+Video Captioning#ActivityNet Captions#CIDEr#31.29

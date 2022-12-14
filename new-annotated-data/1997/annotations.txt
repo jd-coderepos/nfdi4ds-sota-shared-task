@@ -1,0 +1,14 @@
+Question Answering#catbAbI LM-mode#Accuracy (mean)#93.04%
+Question Answering#catbAbI LM-mode#Accuracy (mean)#90.23%
+Question Answering#catbAbI LM-mode#Accuracy (mean)#80.15%
+Question Answering#catbAbI LM-mode#Accuracy (mean)#69.3%
+Question Answering#catbAbI QA-mode#1:1 Accuracy#96.75%
+Question Answering#catbAbI QA-mode#1:1 Accuracy#88.97%
+Question Answering#catbAbI QA-mode#1:1 Accuracy#87.66%
+Question Answering#catbAbI QA-mode#1:1 Accuracy#80.88%
+Language Modelling#WikiText-2#Validation perplexity#54.48
+Language Modelling#WikiText-2#Test perplexity#61.65
+Language Modelling#WikiText-2#Number of params#37M
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#56.76
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#54.48
+Language Modelling#Penn Treebank (Word Level)#Params#24M

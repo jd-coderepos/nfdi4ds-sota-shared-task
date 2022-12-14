@@ -1,0 +1,18 @@
+Visual Question Answering#GRIT#VQA (ablation)#72.4
+Visual Question Answering#VQA v2 test-dev#Accuracy#82.0
+Visual Question Answering#VQA v2 test-std#overall#81.98
+Visual Question Answering#VQA v2 test-std#yes/no#94.66
+Visual Question Answering#VQA v2 test-std#number#71.44
+Visual Question Answering#VQA v2 test-std#other#73.35
+Visual Entailment#SNLI-VE test#Accuracy#91.2
+Visual Entailment#SNLI-VE val#Accuracy#91.0
+Image Captioning#COCO Captions#BLEU-4#44.9
+Image Captioning#COCO Captions#METEOR#32.5
+Image Captioning#COCO Captions#CIDER#154.9
+Image Captioning#COCO Captions#SPICE#26.6
+Text Summarization#GigaWord#ROUGE-1#39.81
+Text Summarization#GigaWord#ROUGE-2#20.66
+Text Summarization#GigaWord#ROUGE-L#37.11
+Self-Supervised Image Classification#ImageNet (finetuned)#Number of Params#473M
+Self-Supervised Image Classification#ImageNet (finetuned)#Top 1 Accuracy#85.6%
+Object Categorization#GRIT#Categorization (ablation)#22.6

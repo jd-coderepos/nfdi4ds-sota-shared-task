@@ -1,0 +1,8 @@
+Dense Video Captioning#ActivityNet Captions#METEOR#9.03
+Dense Video Captioning#ActivityNet Captions#BLEU-4#2.17
+Dense Video Captioning#ActivityNet Captions#CIDEr#31.14
+Dense Video Captioning#ActivityNet Captions#SODA#6.05
+Dense Video Captioning#YouCook2#METEOR#4.74
+Dense Video Captioning#YouCook2#CIDEr#22.71
+Dense Video Captioning#YouCook2#BLEU4#0.8
+Dense Video Captioning#YouCook2#SODA#4.42

@@ -1,0 +1,1 @@
+Semantic Segmentation#Cityscapes val#mIoU#77.0%

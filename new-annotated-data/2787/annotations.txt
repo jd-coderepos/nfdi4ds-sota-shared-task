@@ -1,0 +1,3 @@
+Speech Emotion Recognition#CREMA-D#Accuracy#70.95
+Audio Classification#ESC-50#Top-1 Accuracy#91.58
+Audio Classification#ESC-50#Accuracy (5-fold)#91.58

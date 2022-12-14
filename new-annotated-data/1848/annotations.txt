@@ -1,0 +1,2 @@
+Few-Shot Image Classification#Mini-Imagenet 5-way (5-shot)#Accuracy#85.16
+Few-Shot Image Classification#Mini-Imagenet 5-way (1-shot)#Accuracy#69.28

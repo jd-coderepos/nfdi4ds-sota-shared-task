@@ -1,0 +1,3 @@
+Instance Segmentation#LVIS v1.0 val#mask AP#28.8
+Instance Segmentation#LVIS v1.0 val#mask AP#27.5
+Instance Segmentation#LVIS v1.0 val#mask AP#23.7

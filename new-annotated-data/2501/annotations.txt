@@ -1,0 +1,3 @@
+Semantic Segmentation#UAVid#Mean IoU#64.6
+Semantic Segmentation#ISPRS Vaihingen#Overall Accuracy#90.5
+Semantic Segmentation#ISPRS Potsdam#Overall Accuracy#91.06

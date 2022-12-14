@@ -1,0 +1,7 @@
+Hand Gesture Recognition#SHREC 2017 track on 3D Hand Gesture Recognition#14 gestures accuracy#73121216
+Hand-Gesture Recognition#VIVA Hand Gestures Dataset#Accuracy#77.5
+Hand-Gesture Recognition#VIVA Hand Gestures Dataset#Accuracy#6.86
+Hand-Gesture Recognition#VIVA Hand Gestures Dataset#Accuracy-CN#2303240
+Hand-Gesture Recognition#VIVA Hand Gestures Dataset#Accuracy-CN#-13585591
+Quantization#CIFAR-10#MAP#160327.04
+Quantization#Knowledge-based:#All#84809664

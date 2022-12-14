@@ -1,0 +1,5 @@
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#AUROC#89.6
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#Network#ResNet-18
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#ROC-AUC#96.5
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#Network#ResNet-34
+Anomaly Detection#One-class CIFAR-10#AUROC#90.0

@@ -1,0 +1,18 @@
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#AUROC#96.7
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#Network#ViT
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#AUROC#93.3
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#Network#ResNet-152
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#AUROC#90.8
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#Network#ResNet-18
+Anomaly Detection#Unlabeled CIFAR-10 vs CIFAR-100#AUROC#90.2
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#ROC-AUC#99.1
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#Network#ViT
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#ROC-AUC#95.7
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#Network#ResNet-152
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#ROC-AUC#94.3
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#Network#ResNet-18
+Anomaly Detection#Anomaly Detection on Unlabeled CIFAR-10 vs LSUN (Fix)#ROC-AUC#90.2
+Anomaly Detection#Anomaly Detection on Anomaly Detection on Unlabeled ImageNet-30 vs Flowers-102#ROC-AUC#98.3
+Anomaly Detection#Anomaly Detection on Anomaly Detection on Unlabeled ImageNet-30 vs Flowers-102#Network#ViT
+Anomaly Detection#Anomaly Detection on Unlabeled ImageNet-30 vs CUB-200#ROC-AUC#99.4
+Anomaly Detection#Anomaly Detection on Unlabeled ImageNet-30 vs CUB-200#Network#ViT

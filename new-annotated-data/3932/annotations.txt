@@ -1,0 +1,8 @@
+Topic coverage#Topic modeling topic coverage dataset - bio#SupCov#0.44
+Topic coverage#Topic modeling topic coverage dataset - bio#AuCDC#0.67
+Topic coverage#Topic modeling topic coverage dataset - bio#SupCov#0.23
+Topic coverage#Topic modeling topic coverage dataset - bio#AuCDC#0.56
+Topic coverage#Topic modeling topic coverage dataset#Spearman Correlation#0.95
+Topic coverage#Topic modeling topic coverage dataset - news#SupCov#0.64
+Topic coverage#Topic modeling topic coverage dataset - news#AuCDC#0.65
+Topic coverage#Topic modeling topic coverage dataset - news#SupCov#0.54

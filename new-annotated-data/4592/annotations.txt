@@ -1,0 +1,2 @@
+Graph Classification#COLLAB#Accuracy#80.32%
+Node Classification#Cora: fixed 20 node per class#Accuracy#84.2

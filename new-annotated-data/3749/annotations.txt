@@ -1,0 +1,6 @@
+Object Detection#GEN1 Detection#mAP#18.9
+Object Detection#GEN1 Detection#mAP#17.4
+Object Detection#GEN1 Detection#mAP#14.7
+Classification#N-CARS#Accuracy#92.4
+Classification#N-CARS#Accuracy#91.7
+Classification#N-CARS#Accuracy#90.4

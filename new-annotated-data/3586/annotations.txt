@@ -1,0 +1,12 @@
+Text Summarization#X-Sum#ROUGE-1#48.12
+Text Summarization#X-Sum#ROUGE-2#24.95
+Text Summarization#X-Sum#ROUGE-L#40.00
+Text Summarization#Reddit TIFU#ROUGE-1#29.83
+Text Summarization#Reddit TIFU#ROUGE-2#9.5
+Text Summarization#Reddit TIFU#ROUGE-L#23.47
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-1#47.16
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-2#22.61
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-L#43.87
+Document Summarization#CNN / Daily Mail#ROUGE-1#47.16
+Document Summarization#CNN / Daily Mail#ROUGE-2#22.55
+Document Summarization#CNN / Daily Mail#ROUGE-L#43.87

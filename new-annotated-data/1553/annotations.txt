@@ -1,0 +1,15 @@
+Action Triplet Recognition#CholecT50#Mean AP#29.5
+Action Triplet Recognition#CholecT50#Mean AP#23.3
+Action Triplet Recognition#CholecT50#Mean AP#21.6
+Action Triplet Recognition#CholecT50 (cross-val)#mAP#29.4±2.5
+Action Triplet Recognition#CholecT50 (cross-val)#mAP#27.2±2.9
+Action Triplet Recognition#CholecT50 (cross-val)#mAP#25.3±2.4
+Action Triplet Recognition#CholecT45 (cross-val)#mAP#29.4±2.8
+Action Triplet Recognition#CholecT45 (cross-val)#mAP#27.2±2.7
+Action Triplet Recognition#CholecT45 (cross-val)#mAP#24.4±4.7
+Action Triplet Recognition#CholecT45#mAP#29.4±2.8
+Action Triplet Recognition#CholecT45#mAP#27.2±2.7
+Action Triplet Recognition#CholecT45#mAP#24.4±4.7
+Action Triplet Recognition#CholecT50 (Challenge)#mAP#32.8
+Action Triplet Recognition#CholecT50 (Challenge)#mAP#27.7
+Action Triplet Recognition#CholecT50 (Challenge)#mAP#27.4

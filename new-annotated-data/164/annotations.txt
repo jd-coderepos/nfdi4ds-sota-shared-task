@@ -1,0 +1,3 @@
+Super-Resolution#Pavia Centre#Average PSNR#38.65
+Super-Resolution#Botswana#Average PSNR#32.12
+Image Super-Resolution#Chikusei Dataset#PSNR#43.53

@@ -1,0 +1,3 @@
+Edge Detection#SBD#Maximum F-measure#71.4%
+Edge Detection#Cityscapes test#Maximum F-measure#71.3%
+Edge Detection#Cityscapes test#AP#70.8%

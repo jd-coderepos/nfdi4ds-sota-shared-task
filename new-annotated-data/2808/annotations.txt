@@ -1,0 +1,10 @@
+Emotion Recognition in Conversation#EmoWoz#Weighted F1#79.7
+Emotion Recognition in Conversation#EmoWoz#Macro F1#54.3
+Emotion Recognition in Conversation#EmoWoz#Weighted F1#77.1
+Emotion Recognition in Conversation#EmoWoz#Macro F1#56.3
+Emotion Recognition in Conversation#EmoWoz#Weighted F1#75.5
+Emotion Recognition in Conversation#EmoWoz#Macro F1#52.1
+Emotion Recognition in Conversation#EmoWoz#Weighted F1#74.6
+Emotion Recognition in Conversation#EmoWoz#Macro F1#40.1
+Emotion Recognition in Conversation#EmoWoz#Weighted F1#73.5
+Emotion Recognition in Conversation#EmoWoz#Macro F1#50.1

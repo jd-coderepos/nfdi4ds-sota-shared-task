@@ -1,0 +1,2 @@
+Atari Games#Atari-57#Medium Human-Normalized Score#155%
+Atari Games#Atari-57#Mean Human Normalized Score#504%

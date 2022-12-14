@@ -1,0 +1,74 @@
+Implicit Relations#BIG-bench#Accuracy#49.4
+LAMBADA#BIG-bench#Accuracy#77.4
+Intent Recognition#BIG-bench#Accuracy#92.8
+Question Selection#BIG-bench#Accuracy#52.6
+Implicatures#BIG-bench#Accuracy#75
+English Proverbs#BIG-bench#Accuracy#82.4
+Fantasy Reasoning#BIG-bench#Accuracy#69
+Figure Of Speech Detection#BIG-bench#Accuracy#63.3
+Formal Fallacies Syllogisms Negation#BIG-bench#Accuracy#52.1
+GRE Reading Comprehension#BIG-bench#Accuracy#53.1
+Hyperbaton#BIG-bench#Accuracy#54.2
+Movie Dialog Same Or Different#BIG-bench#Accuracy#54.5
+Nonsense Words Grammar#BIG-bench#Accuracy#78
+Phrase Relatedness#BIG-bench#Accuracy#94
+Multi-task Language Understanding#MMLU#Humanities#73.1
+Multi-task Language Understanding#MMLU#Average (%)#67.5
+Multi-task Language Understanding#MMLU#Parameters (Billions)#70
+Multi-task Language Understanding#MMLU#STEM#55
+Multi-task Language Understanding#MMLU#Social Sciences#78.8
+Multi-task Language Understanding#MMLU#Other#70.3
+Multi-task Language Understanding#MMLU#Tokens (Billions)#1400
+Question Answering#BoolQ#Accuracy#83.7
+Question Answering#Natural Questions#EM#35.5
+Question Answering#SIQA#Accuracy#51.3
+Question Answering#PIQA#Accuracy#81.8
+Riddle Sense#BIG-bench#Accuracy#85.7
+Winowhy#BIG-bench#Accuracy#62.5
+Discourse Marker Prediction#BIG-bench#Accuracy#13.1
+Timedial#BIG-bench#Accuracy#68.8
+Anachronisms#BIG-bench#Accuracy#69.1
+Causal Judgment#BIG-bench#Accuracy#57.4
+Crash Blossom#BIG-bench#Accuracy#47.6
+Crass AI#BIG-bench#Accuracy#75.0
+Disambiguation Q#BIG-bench#Accuracy#54.7
+Empirical Judgments#BIG-bench#Accuracy#67.7
+Irony Identification#BIG-bench#Accuracy#73.0
+Understanding Fables#BIG-bench#Accuracy#60.3
+Language Modelling#LAMBADA#Accuracy#77.7
+Mathematical Induction#BIG-bench#Accuracy#47.3
+Analogical Similarity#BIG-bench#Accuracy#38.1
+Identify Odd Metapor#BIG-bench#Accuracy#68.8
+Odd One Out#BIG-bench#Accuracy#70.9
+Sentence Completion#HellaSwag#Accuracy#80.8
+Dark Humor Detection#BIG-bench#Accuracy#66.2
+Ruin Names#BIG-bench#Accuracy#47.1
+SNARKS#BIG-bench#Accuracy#58.6
+Moral Permissibility#BIG-bench#Accuracy#57.3
+Misconceptions#BIG-bench#Accuracy#65.3
+Known Unknowns#BIG-bench#Accuracy#65.2
+Sentence Ambiguity#BIG-bench#Accuracy#71.7
+General Knowledge#BIG-bench#Accuracy#94.3
+Movie Recommendation#BIG-bench#Accuracy#75.6
+Sports Understanding#BIG-bench#Accuracy#71
+Similarities Abstraction#BIG-bench#Accuracy#87
+Navigate#BIG-bench#Accuracy#52.6
+Temporal Sequences#BIG-bench#Accuracy#32.0
+Novel Concepts#BIG-bench#Accuracy#65.6
+Physical Intuition#BIG-bench#Accuracy#79
+Date Understanding#BIG-bench#Accuracy#52.3
+StrategyQA#BIG-bench#Accuracy#68.3
+Logic Grid Puzzle#BIG-bench#Accuracy#44
+Logical Fallacy Detection#BIG-bench#Accuracy#72.1
+Logical Sequence#BIG-bench#Accuracy#64.1
+Analytic Entailment#BIG-bench#Accuracy#67.1
+Entailed Polarity#BIG-bench#Accuracy#94
+Epistemic Reasoning#BIG-bench#Accuracy#60.6
+Evaluating Information Essentiality#BIG-bench#Accuracy#17.6
+Logical Args#BIG-bench#Accuracy#56.2
+Metaphor Boolean#BIG-bench#Accuracy#93.1
+Penguins In A Table#BIG-bench#Accuracy#48.7
+Presuppositions As NLI#BIG-bench#Accuracy#49.9
+Reasoning About Colored Objects#BIG-bench#Accuracy#59.7
+Human Organs Senses Multiple Choice#BIG-bench#Accuracy#85.7
+Physics MC#BIG-bench#Accuracy#65.5

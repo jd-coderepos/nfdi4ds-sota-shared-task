@@ -1,0 +1,8 @@
+Image Dehazing#SOTS Indoor#PSNR#40.05
+Image Dehazing#SOTS Indoor#SSIM#0.996
+Image Dehazing#RESIDE-6K#PSNR#31.45
+Image Dehazing#RESIDE-6K#SSIM#0.98
+Image Dehazing#RS-Haze#PSNR#39.87
+Image Dehazing#RS-Haze#SSIM#0.971
+Image Dehazing#SOTS Outdoor#PSNR#34.95
+Image Dehazing#SOTS Outdoor#SSIM#0.984

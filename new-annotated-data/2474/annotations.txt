@@ -1,0 +1,7 @@
+Temporal Tagging#TempEval-3#F1#74.8
+Temporal Tagging#Spanish TimeBank 1.0#F1#79.55
+Temporal Tagging#French Timebank#F1#62.58
+Temporal Tagging#TimeBankPT#F1#75.47
+Temporal Tagging#Basque TimeBank#F1#47.87
+Temporal Tagging#Catalan TimeBank 1.0#F1#64.21
+Temporal Tagging#KRAUTS#F1#66.53

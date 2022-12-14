@@ -1,0 +1,6 @@
+Few-Shot Image Classification#Dirichlet Tiered-Imagenet (5-way, 1-shot)#1:1 Accuracy#74.4
+Few-Shot Image Classification#Dirichlet Mini-Imagenet (5-way, 1-shot)#1:1 Accuracy#67.4
+Few-Shot Image Classification#Dirichlet CUB-200 (5-way, 5-shot)#1:1 Accuracy#89.8
+Few-Shot Image Classification#Dirichlet Tiered-Imagenet (5-way, 5-shot)#1:1 Accuracy#86.6
+Few-Shot Image Classification#Dirichlet Mini-Imagenet (5-way, 5-shot)#1:1 Accuracy#82.5
+Few-Shot Image Classification#Dirichlet CUB-200 (5-way, 1-shot)#1:1 Accuracy#75.7

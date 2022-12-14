@@ -1,0 +1,12 @@
+Relation Classification#TACRED#F1#49.2
+Relation Classification#TACRED#F1#76.4
+Relation Classification#FewRel#F1#48.8
+Relation Classification#FewRel#F1#92.9
+Open Information Extraction#OIE2016#F1#72.6
+Open Information Extraction#OIE2016#AUC#58.6
+Open Information Extraction#NYT#F1#85.5
+Open Information Extraction#NYT#AUC#72.5
+Open Information Extraction#Web#F1#91.2
+Open Information Extraction#Web#AUC#82.4
+Open Information Extraction#Penn Treebank#F1#88.5
+Open Information Extraction#Penn Treebank#AUC#81.5

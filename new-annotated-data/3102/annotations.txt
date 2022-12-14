@@ -1,0 +1,6 @@
+Named Entity Recognition#CoNLL 2003 (English)#F1#92.94
+Named Entity Recognition#ACE 2005#F1#86.67
+Nested Named Entity Recognition#ACE 2004#F1#87.41
+Nested Named Entity Recognition#GENIA#F1#80.54
+Nested Named Entity Recognition#ACE 2005#F1#86.67
+Chinese Named Entity Recognition#Weibo NER#F1#69.16

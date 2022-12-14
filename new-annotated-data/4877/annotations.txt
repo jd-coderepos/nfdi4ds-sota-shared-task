@@ -1,0 +1,13 @@
+Fact Selection#ArgSciChat#Fact-F1#16.22
+Fact Selection#ArgSciChat#Fact-F1#13.65
+Fact Selection#ArgSciChat#Fact-F1#10.58
+Fact Selection#ArgSciChat#Fact-F1#8.50
+Response Generation#ArgSciChat#Message-F1#19.54
+Response Generation#ArgSciChat#BScore#86.64
+Response Generation#ArgSciChat#Mover#8.53
+Response Generation#ArgSciChat#Message-F1#16.14
+Response Generation#ArgSciChat#BScore#86.00
+Response Generation#ArgSciChat#Mover#4.54
+Response Generation#ArgSciChat#Message-F1#14.25
+Response Generation#ArgSciChat#BScore#85.85
+Response Generation#ArgSciChat#Mover#2.25

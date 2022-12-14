@@ -1,0 +1,6 @@
+Facial Expression Recognition#BP4D#ICC#0.719
+Facial Expression Recognition#DISFA#ICC#0.598
+Face Alignment#WFLW#NME_inter-ocular (%, all)#4.57
+Face Alignment#COFW#NME#3.32
+Face Alignment#AFLW-19#NME_diag (%, Full)#1.55
+3D Face Reconstruction#AFLW2000-3D#Mean NME#3.42%

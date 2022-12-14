@@ -1,0 +1,10 @@
+Image-to-Image Translation#SYNTHIA-to-Cityscapes#mIoU (13 classes)#69.2
+Image-to-Image Translation#SYNTHIA-to-Cityscapes#mIoU (13 classes)#59.7
+Image-to-Image Translation#GTAV-to-Cityscapes Labels#mIoU#70.0
+Image-to-Image Translation#GTAV-to-Cityscapes Labels#mIoU#55.2
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#70.0
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#55.2
+Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (13 classes)#69.2
+Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (13 classes)#59.7
+Unsupervised Domain Adaptation#GTAV-to-Cityscapes Labels#mIoU#70.0
+Unsupervised Domain Adaptation#GTAV-to-Cityscapes Labels#mIoU#55.2

@@ -1,0 +1,61 @@
+Image Classification#CIFAR-100 (alpha=0, 20 clients per round)#ACC@1-100Clients#51.58
+Federated Learning#CIFAR-100 (alpha=0, 20 clients per round)#ACC@1-100Clients#41.62
+Federated Learning#CIFAR-100 (alpha=0, 20 clients per round)#ACC@1-100Clients#40.81
+Federated Learning#CIFAR-100 (alpha=0, 20 clients per round)#ACC@1-100Clients#39.24
+Federated Learning#CIFAR-100 (alpha=0, 20 clients per round)#ACC@1-100Clients#38.59
+Federated Learning#CIFAR-100 (alpha=0, 20 clients per round)#ACC@1-100Clients#38.56
+Federated Learning#CIFAR-100 (alpha=0.5, 10 clients per round)#ACC@1-100Clients#48.72
+Federated Learning#CIFAR-100 (alpha=0.5, 10 clients per round)#ACC@1-100Clients#46.76
+Federated Learning#CIFAR-100 (alpha=0.5, 10 clients per round)#ACC@1-100Clients#46.58
+Federated Learning#CIFAR-100 (alpha=0.5, 10 clients per round)#ACC@1-100Clients#44.84
+Federated Learning#CIFAR-100 (alpha=0.5, 10 clients per round)#ACC@1-100Clients#41.27
+Federated Learning#Landmarks-User-160k#Acc@1-1262Clients#68.32
+Federated Learning#Landmarks-User-160k#Acc@1-1262Clients#68.12
+Federated Learning#Landmarks-User-160k#Acc@1-1262Clients#67.52
+Federated Learning#Landmarks-User-160k#Acc@1-1262Clients#64.23
+Federated Learning#Landmarks-User-160k#Acc@1-1262Clients#63.72
+Federated Learning#Landmarks-User-160k#Acc@1-1262Clients#61.91
+Federated Learning#CIFAR-100 (alpha=1000, 20 clients per round)#ACC@1-100Clients#54.5
+Federated Learning#CIFAR-100 (alpha=1000, 20 clients per round)#ACC@1-100Clients#54.36
+Federated Learning#CIFAR-100 (alpha=1000, 20 clients per round)#ACC@1-100Clients#54.1
+Federated Learning#CIFAR-100 (alpha=1000, 20 clients per round)#ACC@1-100Clients#53.97
+Federated Learning#CIFAR-100 (alpha=1000, 20 clients per round)#ACC@1-100Clients#50.66
+Federated Learning#CIFAR-100 (alpha=0, 5 clients per round)#ACC@1-100Clients#42.01
+Federated Learning#CIFAR-100 (alpha=0, 5 clients per round)#ACC@1-100Clients#39.3
+Federated Learning#CIFAR-100 (alpha=0, 5 clients per round)#ACC@1-100Clients#36.04
+Federated Learning#CIFAR-100 (alpha=0, 5 clients per round)#ACC@1-100Clients#31.04
+Federated Learning#CIFAR-100 (alpha=0, 5 clients per round)#ACC@1-100Clients#30.25
+Federated Learning#CIFAR-100 (alpha=1000, 5 clients per round)#ACC@1-100Clients#54.81
+Federated Learning#CIFAR-100 (alpha=1000, 5 clients per round)#ACC@1-100Clients#54.01
+Federated Learning#CIFAR-100 (alpha=1000, 5 clients per round)#ACC@1-100Clients#53.9
+Federated Learning#CIFAR-100 (alpha=1000, 5 clients per round)#ACC@1-100Clients#53.86
+Federated Learning#CIFAR-100 (alpha=1000, 5 clients per round)#ACC@1-100Clients#49.92
+Federated Learning#Cityscapes heterogeneous#mIoU#49.75
+Federated Learning#Cityscapes heterogeneous#mIoU#49.1
+Federated Learning#Cityscapes heterogeneous#mIoU#45.96
+Federated Learning#Cityscapes heterogeneous#mIoU#43.42
+Federated Learning#Cityscapes heterogeneous#mIoU#43.02
+Federated Learning#Cityscapes heterogeneous#mIoU#42.48
+Federated Learning#Cityscapes heterogeneous#mIoU#42.27
+Federated Learning#Cityscapes heterogeneous#mIoU#41.22
+Federated Learning#Cityscapes heterogeneous#mIoU#38.65
+Federated Learning#CIFAR-100 (alpha=1000, 10 clients per round)#ACC@1-100Clients#54.97
+Federated Learning#CIFAR-100 (alpha=1000, 10 clients per round)#ACC@1-100Clients#54.79
+Federated Learning#CIFAR-100 (alpha=1000, 10 clients per round)#ACC@1-100Clients#53.67
+Federated Learning#CIFAR-100 (alpha=1000, 10 clients per round)#ACC@1-100Clients#53.39
+Federated Learning#CIFAR-100 (alpha=1000, 10 clients per round)#ACC@1-100Clients#50.25
+Federated Learning#CIFAR-100 (alpha=0.5, 5 clients per round)#ACC@1-100Clients#49.17
+Federated Learning#CIFAR-100 (alpha=0.5, 5 clients per round)#ACC@1-100Clients#47.96
+Federated Learning#CIFAR-100 (alpha=0.5, 5 clients per round)#ACC@1-100Clients#45.61
+Federated Learning#CIFAR-100 (alpha=0.5, 5 clients per round)#ACC@1-100Clients#44.73
+Federated Learning#CIFAR-100 (alpha=0.5, 5 clients per round)#ACC@1-100Clients#40.43
+Federated Learning#CIFAR-100 (alpha=0, 10 clients per round)#ACC@1-100Clients#42.64
+Federated Learning#CIFAR-100 (alpha=0, 10 clients per round)#ACC@1-100Clients#39.76
+Federated Learning#CIFAR-100 (alpha=0, 10 clients per round)#ACC@1-100Clients#39.51
+Federated Learning#CIFAR-100 (alpha=0, 10 clients per round)#ACC@1-100Clients#36.93
+Federated Learning#CIFAR-100 (alpha=0, 10 clients per round)#ACC@1-100Clients#36.74
+Federated Learning#CIFAR-100 (alpha=0.5, 20 clients per round)#ACC@1-100Clients#48.27
+Federated Learning#CIFAR-100 (alpha=0.5, 20 clients per round)#ACC@1-100Clients#47.78
+Federated Learning#CIFAR-100 (alpha=0.5, 20 clients per round)#ACC@1-100Clients#46.47
+Federated Learning#CIFAR-100 (alpha=0.5, 20 clients per round)#ACC@1-100Clients#46.05
+Federated Learning#CIFAR-100 (alpha=0.5, 20 clients per round)#ACC@1-100Clients#42.17

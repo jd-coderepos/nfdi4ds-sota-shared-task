@@ -1,0 +1,2 @@
+Zero-Shot Cross-Lingual Transfer#MaRVL#Accuracy (%)#56.1
+Zero-Shot Cross-Lingual Transfer#MaRVL#Accuracy (%)#54.0

@@ -1,0 +1,4 @@
+Drone navigation#University-1652#AP#81.53
+Drone navigation#University-1652#Recall@1#87.87
+Drone-view target localization#University-1652#AP#84.82
+Drone-view target localization#University-1652#Recall@1#82.25

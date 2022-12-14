@@ -1,0 +1,6 @@
+3D Multi-Person Pose Estimation (root-relative)#MuPoTS-3D#3DPCK#65
+3D Multi-Person Pose Estimation (root-relative)#MuPoTS-3D#MPJPE#132
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#69.9
+3D Human Pose Estimation#MPI-INF-3DHP#AUC#37.8
+3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#122.2
+3D Human Pose Estimation#MPI-INF-3DHP#PCK#75.2

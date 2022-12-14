@@ -1,0 +1,3 @@
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Sub Task 2#Restaurant (Acc)#89.54
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Sub Task 2#Laptop (Acc)#81.96
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Sub Task 2#Mean Acc (Restaurant + Laptop)#85.75

@@ -1,0 +1,18 @@
+Generalizable Person Re-identification#MSMT->Market-1501#Rank-1#80.1
+Generalizable Person Re-identification#MSMT->Market-1501#mAP#52.0
+Generalizable Person Re-identification#MSMT17(all)->CUHK03-NP (detected)#Rank-1#31.9
+Generalizable Person Re-identification#MSMT17(all)->CUHK03-NP (detected)#mAP#30.7
+Generalizable Person Re-identification#Market-1501->MSMT17#Rank-1#47.3
+Generalizable Person Re-identification#Market-1501->MSMT17#mAP#18.4
+Generalizable Person Re-identification#RandPerson->Market-1501#Rank-1#77.3
+Generalizable Person Re-identification#RandPerson->Market-1501#mAP#49.1
+Generalizable Person Re-identification#MSMT17(all)->Market-1501#Rank-1#82.6
+Generalizable Person Re-identification#MSMT17(all)->Market-1501#mAP#58.4
+Generalizable Person Re-identification#Market-1501->CUHK03-NP (detected)#Rank-1#22.2
+Generalizable Person Re-identification#Market-1501->CUHK03-NP (detected)#mAP#21.4
+Generalizable Person Re-identification#RandPerson->CUHK03-NP (detected)#Rank-1#17.1
+Generalizable Person Re-identification#RandPerson->CUHK03-NP (detected)#mAP#16.0
+Generalizable Person Re-identification#RandPerson->MSMT17#Rank-1#48.3
+Generalizable Person Re-identification#RandPerson->MSMT17#mAP#17.7
+Generalizable Person Re-identification#MSMT->CUHK03-NP (detected)#Rank-1#23.7
+Generalizable Person Re-identification#MSMT->CUHK03-NP (detected)#mAP#22.5

@@ -1,0 +1,13 @@
+Unsupervised Domain Adaptation#ImageNet-C#mean Corruption Error (mCE)#38.0
+Unsupervised Domain Adaptation#ImageNet-C#mean Corruption Error (mCE)#40.7
+Unsupervised Domain Adaptation#ImageNet-C#mean Corruption Error (mCE)#45.4
+Unsupervised Domain Adaptation#ImageNet-C#mean Corruption Error (mCE)#48.4
+Unsupervised Domain Adaptation#ImageNet-C#mean Corruption Error (mCE)#62.2
+Unsupervised Domain Adaptation#ImageNet-C#mean Corruption Error (mCE)#65.0
+Unsupervised Domain Adaptation#ImageNet-R#Top 1 Error#44.0
+Unsupervised Domain Adaptation#ImageNet-R#Top 1 Error#48.9
+Unsupervised Domain Adaptation#ImageNet-R#Top 1 Error#59.9
+Image Classification#ObjectNet#Top-5 Accuracy#50.2
+Image Classification#ObjectNet#Top-1 Accuracy#29.2
+Image Classification#ObjectNet#Top-5 Accuracy#48.6
+Image Classification#ObjectNet#Top-1 Accuracy#28.5

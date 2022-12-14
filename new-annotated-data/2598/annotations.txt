@@ -1,0 +1,24 @@
+Semantic Segmentation#ADE20K#Validation mIoU#49
+Semantic Segmentation#ADE20K#Params (M)#125
+Semantic Segmentation#ADE20K#GFLOPs (512 x 512)#1348
+Semantic Segmentation#ADE20K#Validation mIoU#48.3
+Semantic Segmentation#ADE20K#Params (M)#84
+Semantic Segmentation#ADE20K#GFLOPs (512 x 512)#1163
+Semantic Segmentation#ADE20K#Validation mIoU#46.5
+Semantic Segmentation#ADE20K#Params (M)#58
+Semantic Segmentation#ADE20K#GFLOPs (512 x 512)#947
+Image Classification#ImageNet#Top 1 Accuracy#84.5%
+Image Classification#ImageNet#Number of params#90M
+Image Classification#ImageNet#GFLOPs#14.8
+Image Classification#ImageNet#Top 1 Accuracy#84.0%
+Image Classification#ImageNet#Number of params#51M
+Image Classification#ImageNet#GFLOPs#8.5
+Image Classification#ImageNet#Top 1 Accuracy#83.4%
+Image Classification#ImageNet#Number of params#28M
+Image Classification#ImageNet#GFLOPs#4.7
+Image Classification#ImageNet#Top 1 Accuracy#82.0%
+Image Classification#ImageNet#Number of params#20M
+Image Classification#ImageNet#GFLOPs#2.6
+Image Classification#ImageNet#Top 1 Accuracy#79.8%
+Image Classification#ImageNet#Number of params#12M
+Image Classification#ImageNet#GFLOPs#2.1

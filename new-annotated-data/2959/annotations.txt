@@ -1,0 +1,6 @@
+3D Pose Estimation#Google-AR#PCK@0.2#87.8
+3D Pose Estimation#Google-AR#PCK@0.2#84.1
+3D Pose Estimation#Google-AR#PCK@0.2#79.6
+3D Pose Estimation#Google-Yoga#PCK@0.2#84.5
+3D Pose Estimation#Google-Yoga#PCK@0.2#83.4
+3D Pose Estimation#Google-Yoga#PCK@0.2#77.6

@@ -1,0 +1,4 @@
+Link Prediction#Douban#AUC#82.3
+Link Prediction#Yelp#AUC#86.2
+Link Prediction#DBLP#AUC#90.1
+Link Prediction#IMDb#AUC#89.4

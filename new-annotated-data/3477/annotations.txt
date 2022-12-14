@@ -1,0 +1,6 @@
+Entity Resolution#WDC Watches-xlarge#F1 (%)#96.53
+Entity Resolution#WDC Computers-xlarge#F1 (%)#95.45
+Entity Resolution#WDC Watches-small#F1 (%)#85.12
+Entity Resolution#Abt-Buy#F1 (%)#89.33
+Entity Resolution#WDC Computers-small#F1 (%)#80.76
+Entity Resolution#Amazon-Google#F1 (%)#75.58

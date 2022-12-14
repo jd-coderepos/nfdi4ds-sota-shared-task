@@ -1,0 +1,2 @@
+Object Detection#A Dataset of Multispectral Potato Plants Images#Dice Score#0.74
+Object Detection#A Dataset of Multispectral Potato Plants Images#Average IOU#0.589

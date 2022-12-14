@@ -1,0 +1,1 @@
+Semantic Segmentation#Stanford2D3D Panoramic#mIoU#52.0%

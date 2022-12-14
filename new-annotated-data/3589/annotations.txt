@@ -1,0 +1,6 @@
+Text Summarization#arXiv Summarization Dataset#ROUGE-1#47.15
+Text Summarization#arXiv Summarization Dataset#ROUGE-2#19.99
+Text Summarization#arXiv Summarization Dataset#ROUGE-1#46.85
+Text Summarization#arXiv Summarization Dataset#ROUGE-2#19.39
+Text Summarization#Pubmed#ROUGE-1#47.81
+Text Summarization#Pubmed#ROUGE-2#21.14

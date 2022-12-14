@@ -1,0 +1,10 @@
+Neural Architecture Search#ImageNet#Top-1 Error Rate#24.4
+Neural Architecture Search#ImageNet#Accuracy#75.6
+Neural Architecture Search#ImageNet#Params#5.3
+Neural Architecture Search#ImageNet#MACs#599
+Neural Architecture Search#ImageNet#Params#5.1
+Neural Architecture Search#ImageNet#MACs#570
+Neural Architecture Search#ImageNet#Top-1 Error Rate#25.1
+Neural Architecture Search#ImageNet#Accuracy#74.9
+Neural Architecture Search#ImageNet#Params#4.9
+Neural Architecture Search#ImageNet#MACs#547

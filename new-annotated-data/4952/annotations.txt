@@ -1,0 +1,42 @@
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.7752 ± 0.0069
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.7484 ± 0.0052
+Graph Property Prediction#ogbg-ppa#Number of params#2336421
+Graph Property Prediction#ogbg-ppa#Ext. data#No
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.7245 ± 0.0114
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.6789 ± 0.0079
+Graph Property Prediction#ogbg-ppa#Number of params#3288042
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.6944 ± 0.0052
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.6638 ± 0.0055
+Graph Property Prediction#ogbg-ppa#Number of params#1930537
+Graph Property Prediction#ogbg-ppa#Test Accuracy#0.6905 ± 0.0092
+Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.6465 ± 0.0070
+Graph Property Prediction#ogbg-ppa#Number of params#1836942
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2842 ± 0.0043
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2952 ± 0.0029
+Graph Property Prediction#ogbg-molpcba#Number of params#5550208
+Graph Property Prediction#ogbg-molpcba#Ext. data#No
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2834 ± 0.0038
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2912 ± 0.0026
+Graph Property Prediction#ogbg-molpcba#Number of params#3374533
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2483 ± 0.0037
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2556 ± 0.0040
+Graph Property Prediction#ogbg-molpcba#Number of params#2017028
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2395 ± 0.0040
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2451 ± 0.0042
+Graph Property Prediction#ogbg-molpcba#Number of params#1923433
+Graph Property Prediction#ogbg-molpcba#Test AP#0.2116 ± 0.0017
+Graph Property Prediction#ogbg-molpcba#Validation AP#0.2150 ± 0.0022
+Graph Property Prediction#ogbg-molpcba#Number of params#565928
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7942 ± 0.0120
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8425 ± 0.0061
+Graph Property Prediction#ogbg-molhiv#Number of params#531976
+Graph Property Prediction#ogbg-molhiv#Ext. data#No
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7748 ± 0.0096
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8438 ± 0.0128
+Graph Property Prediction#ogbg-molhiv#Number of params#3336306
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7683 ± 0.0102
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8176 ± 0.0087
+Graph Property Prediction#ogbg-molhiv#Number of params#527701
+Graph Property Prediction#ogbg-molhiv#Test ROC-AUC#0.7654 ± 0.0114
+Graph Property Prediction#ogbg-molhiv#Validation ROC-AUC#0.8225 ± 0.0155
+Graph Property Prediction#ogbg-molhiv#Number of params#1885206

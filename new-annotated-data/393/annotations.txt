@@ -1,0 +1,21 @@
+3D Lane Detection#OpenLane#All#47.8
+3D Lane Detection#OpenLane#Up & Down#42.4
+3D Lane Detection#OpenLane#Curve#52.8
+3D Lane Detection#OpenLane#Extreme Weather#48.7
+3D Lane Detection#OpenLane#Night#46.0
+3D Lane Detection#OpenLane#Intersection#37.9
+3D Lane Detection#OpenLane#Merge & Split#44.6
+3D Lane Detection#OpenLane#All#40.2
+3D Lane Detection#OpenLane#Up & Down#37.7
+3D Lane Detection#OpenLane#Curve#43.2
+3D Lane Detection#OpenLane#Extreme Weather#43.0
+3D Lane Detection#OpenLane#Night#39.3
+3D Lane Detection#OpenLane#Intersection#29.3
+3D Lane Detection#OpenLane#Merge & Split#36.5
+3D Lane Detection#OpenLane#All#29.7
+3D Lane Detection#OpenLane#Up & Down#24.2
+3D Lane Detection#OpenLane#Curve#31.1
+3D Lane Detection#OpenLane#Extreme Weather#26.4
+3D Lane Detection#OpenLane#Night#17.5
+3D Lane Detection#OpenLane#Intersection#19.7
+3D Lane Detection#OpenLane#Merge & Split#27.4

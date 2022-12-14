@@ -1,0 +1,12 @@
+Spatio-Temporal Video Grounding#VidSTG#Declarative m_vIoU#30.4
+Spatio-Temporal Video Grounding#VidSTG#Declarative vIoU@0.3#42.5
+Spatio-Temporal Video Grounding#VidSTG#Declarative vIoU@0.5#28.2
+Spatio-Temporal Video Grounding#VidSTG#Interrogative m_vIoU#25.7
+Spatio-Temporal Video Grounding#VidSTG#Interrogative vIoU@0.3#35.7
+Spatio-Temporal Video Grounding#VidSTG#Interrogative vIoU@0.5#23.2
+Spatio-Temporal Video Grounding#HC-STVG1#m_vIoU#32.4
+Spatio-Temporal Video Grounding#HC-STVG1#vIoU@0.3#49.8
+Spatio-Temporal Video Grounding#HC-STVG1#vIoU@0.5#23.5
+Spatio-Temporal Video Grounding#HC-STVG2#Val m_vIoU#36.4
+Spatio-Temporal Video Grounding#HC-STVG2#Val vIoU@0.3#58.8
+Spatio-Temporal Video Grounding#HC-STVG2#Val vIoU@0.5#30.6

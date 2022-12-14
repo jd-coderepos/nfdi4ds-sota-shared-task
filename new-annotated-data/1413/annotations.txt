@@ -1,0 +1,6 @@
+Visual Object Tracking#LaSOT#AUC#57.2
+Visual Object Tracking#LaSOT#Normalized Precision#65.3
+Visual Object Tracking#LaSOT#Precision#58.7
+Visual Object Tracking#TrackingNet#Precision#71.2
+Visual Object Tracking#TrackingNet#Normalized Precision#81.0
+Visual Object Tracking#TrackingNet#Accuracy#75.3

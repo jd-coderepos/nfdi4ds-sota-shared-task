@@ -1,0 +1,14 @@
+Monocular Depth Estimation#KITTI Eigen split unsupervised#absolute relative error#0.104
+Monocular Depth Estimation#KITTI Eigen split unsupervised#RMSE#4.494
+Monocular Depth Estimation#KITTI Eigen split unsupervised#Sq Rel#0.720
+Monocular Depth Estimation#KITTI Eigen split unsupervised#RMSE log#0.181
+Monocular Depth Estimation#Make3D#Abs Rel#0.424
+Monocular Depth Estimation#Make3D#Sq Rel#3.075
+Monocular Depth Estimation#Make3D#RMSE#6.757
+Monocular Depth Estimation#KITTI#absolute relative error#0.104
+Monocular Depth Estimation#KITTI Eigen split#absolute relative error#0.104
+Monocular Depth Estimation#KITTI Eigen split#RMSE#4.494
+Monocular Depth Estimation#KITTI Eigen split#RMSE log#0.181
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25#0.888
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^2#0.965
+Monocular Depth Estimation#KITTI Eigen split#Delta < 1.25^3#0.984

@@ -1,0 +1,13 @@
+Image Classification#ObjectNet#Top-1 Accuracy#82.5
+Zero-Shot Transfer Image Classification#ObjectNet#Accuracy (Private)#81.1
+Zero-Shot Transfer Image Classification#ObjectNet#Accuracy (Public)#54.5
+Zero-Shot Transfer Image Classification#ImageNet V2#Accuracy (Private)#78.7
+Zero-Shot Transfer Image Classification#ImageNet V2#Accuracy (Public)#66.6
+Zero-Shot Transfer Image Classification#ImageNet#Accuracy (Private)#84.5
+Zero-Shot Transfer Image Classification#ImageNet#Accuracy (Public)#75.7
+Zero-Shot Transfer Image Classification#ImageNet-R#Accuracy (Private)#93.9
+Zero-Shot Transfer Image Classification#ImageNet-R#Accuracy (Public)#60.4
+Zero-Shot Transfer Image Classification#ImageNet ReaL#Accuracy (Private)#88.0
+Zero-Shot Transfer Image Classification#ImageNet ReaL#Accuracy (Public)#82.2
+Zero-Shot Transfer Image Classification#ImageNet-A#Accuracy (Private)#79.4
+Zero-Shot Transfer Image Classification#ImageNet-A#Accuracy (Public)#37.8

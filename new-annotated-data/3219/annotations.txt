@@ -1,0 +1,5 @@
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#Recall (0.3m, 15 degrees)#95.0
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#RE (all)#4.932
+Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#TE (all)#0.155
+Point Cloud Registration#3DMatch (at least 30% overlapped - sample 5k interest points)#Recall ( correspondence RMSE below 0.2)#92.9
+Point Cloud Registration#3DLoMatch (10-30% overlap)#Recall ( correspondence RMSE below 0.2)#71.9

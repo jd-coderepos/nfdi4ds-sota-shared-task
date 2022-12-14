@@ -1,0 +1,29 @@
+Image Classification#CIFAR-100#Accuracy#85.29%
+Image Classification#ImageNet#Top 1 Accuracy#83.67%
+Image Classification#ImageNet#Number of params#22.05M
+Image Classification#ImageNet#Top 1 Accuracy#82.46%
+Image Classification#ImageNet#Number of params#28.59M
+Image Classification#ImageNet#Top 1 Accuracy#82.16%
+Image Classification#ImageNet#Number of params#71.71M
+Image Classification#ImageNet#Top 1 Accuracy#81.15%
+Image Classification#ImageNet#Number of params#25.56M
+Image Classification#ImageNet#Top 1 Accuracy#80.64%
+Image Classification#ImageNet#Number of params#60.19M
+Image Classification#ImageNet#Top 1 Accuracy#79.86%
+Image Classification#ImageNet#Number of params#44.55M
+Image Classification#ImageNet#Top 1 Accuracy#79.03%
+Image Classification#ImageNet#Top 1 Accuracy#78.60%
+Image Classification#ImageNet#Number of params#5.29M
+Image Classification#ImageNet#Top 1 Accuracy#76.81%
+Image Classification#ImageNet#Number of params#5.48M
+Image Classification#ImageNet#Top 1 Accuracy#76.70%
+Image Classification#ImageNet#Number of params#21.8M
+Image Classification#ImageNet#Top 1 Accuracy#73.36%
+Image Classification#ImageNet#Number of params#11.69M
+Image Classification#DTD#Accuracy#76.49%
+Image Classification#SUN397#Accuracy#95.94%
+Image Classification#FGVC Aircraft#Accuracy#83.80%
+Image Classification#Stanford Cars#Accuracy#90.80%
+Image Classification#Flowers-102#Accuracy#97.85%
+Image Classification#CIFAR-10#Accuracy#97.61%
+Image Classification#Food-101#Accuracy#84.30%

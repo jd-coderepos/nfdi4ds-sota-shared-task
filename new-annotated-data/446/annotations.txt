@@ -1,0 +1,8 @@
+Skeleton Based Action Recognition#JHMDB (2D poses only)#Average accuracy of 3 splits#68.55
+Action Recognition#AVA v2.1#mAP (Val)#28.4
+Action Recognition#HMDB-51#Average accuracy of 3 splits#84.53
+Action Recognition#HMDB-51#Average accuracy of 3 splits#54.2
+Action Recognition#Mimetics#mAP#40
+Action Recognition#Mimetics#mAP#38.3
+Action Classification#Charades#MAP#43.23
+Action Classification#Charades#MAP#16.2

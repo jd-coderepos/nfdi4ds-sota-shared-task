@@ -1,0 +1,7 @@
+Point Cloud Registration#3DMatch Benchmark#Feature Matching Recall#96.8
+3D Point Cloud Classification#ScanObjectNN#Overall Accuracy#83.5
+3D Point Cloud Classification#ScanObjectNN#Mean Accuracy#81.0
+3D Point Cloud Classification#ScanObjectNN#Number of params#3.9M
+3D Point Cloud Classification#ScanObjectNN#FLOPs#1.19G
+3D Point Cloud Classification#ModelNet40#Overall Accuracy#92.6
+3D Point Cloud Classification#ModelNet40#Number of params#3.9M

@@ -1,0 +1,12 @@
+Czech Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#99.22
+Vietnamese Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#98.53
+Romanian Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#98.64
+Slovak Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#99.32
+Latvian Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#98.63
+Polish Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#99.66
+Irish Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#98.88
+Hungarian Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#99.41
+French Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#99.71
+Turkish Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#98.95
+Spanish Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#99.62
+Croatian Text Diacritization#Multilingual Dataset for Training and Evaluating Diacritics Restoration Systems#Alpha-Word accuracy#99.73

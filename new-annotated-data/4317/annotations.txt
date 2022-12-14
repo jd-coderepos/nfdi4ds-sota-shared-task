@@ -1,0 +1,1 @@
+Aspect Category Detection#Citysearch#F-measure (%)#86.4

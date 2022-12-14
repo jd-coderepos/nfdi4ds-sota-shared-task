@@ -1,0 +1,6 @@
+Action Recognition#EPIC-KITCHENS-100#Action@1#37.39
+Action Recognition#EPIC-KITCHENS-100#Action@1#36.81
+Action Recognition#EPIC-KITCHENS-100#Action@1#35.55
+Action Recognition#EPIC-KITCHENS-100#Action@1#35.28
+Action Recognition#EPIC-KITCHENS-100#Action@1#33.57
+Action Anticipation#EPIC-KITCHENS-100#Recall@5#13.94

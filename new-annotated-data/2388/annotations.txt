@@ -1,0 +1,10 @@
+Long-range modeling#LRA#ListOps#60.6
+Long-range modeling#LRA#Text#87.61
+Long-range modeling#LRA#Retrieval#84.27
+Long-range modeling#LRA#Image#64.49
+Long-range modeling#LRA#Pathfinder#91.00
+Long-range modeling#LRA#Avg#73.00
+Long-range modeling#LRA#Pathfinder-X#50
+Audio Classification#UCR Time Series Classification Archive#FruitFlies#97.09
+Audio Classification#UCR Time Series Classification Archive#RightWhaleCalls#91.99
+Audio Classification#UCR Time Series Classification Archive#MosquitoSound#91.54

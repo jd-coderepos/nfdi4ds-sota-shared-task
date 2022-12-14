@@ -1,0 +1,1 @@
+Line Segment Detection#York Urban Dataset#F1 score#0.415

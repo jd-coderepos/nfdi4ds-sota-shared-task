@@ -1,0 +1,5 @@
+Object Detection#UAVVaste#AP50#74.1
+Object Detection#Extended TACO-1#AP50#56.8
+Object Detection#MJU-Waste#AP50#97.9
+Object Detection#Extended TACO-7#mAP50#16.2
+Object Detection#Drinking Waste Classification#AP50#99.4

@@ -1,0 +1,3 @@
+Video Prediction#Moving MNIST#MSE#23.8
+Video Prediction#Moving MNIST#SSIM#0.948
+Video Prediction#Human3.6M#SSIM#0.904

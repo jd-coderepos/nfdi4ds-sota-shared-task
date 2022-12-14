@@ -1,0 +1,7 @@
+Visual Question Answering#VCR (Q-AR) test#Accuracy#58.9
+Visual Question Answering#VCR (QA-R) test#Accuracy#77.8
+Visual Question Answering#VCR (Q-A) test#Accuracy#75.3
+Image Captioning#Flickr30k Captions test#CIDEr#2.6
+Image Captioning#Flickr30k Captions test#SPICE#2.0
+Image Captioning#nocaps val#CIDEr#4.4
+Image Captioning#nocaps val#SPICE#5.3

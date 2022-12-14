@@ -1,0 +1,2 @@
+Out-of-Distribution Detection#CIFAR-10 vs CIFAR-100#AUPR#55.8
+Out-of-Distribution Detection#CIFAR-10 vs CIFAR-100#AUROC#87.9

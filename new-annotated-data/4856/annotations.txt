@@ -1,0 +1,25 @@
+Video Instance Segmentation#YouTube-VIS 2021 validation#mask AP#56.1
+Video Instance Segmentation#YouTube-VIS 2021 validation#AP50#80.8
+Video Instance Segmentation#YouTube-VIS 2021 validation#AP75#63.5
+Video Instance Segmentation#YouTube-VIS 2021 validation#AR10#60.1
+Video Instance Segmentation#YouTube-VIS 2021 validation#AR1#45
+Video Instance Segmentation#YouTube-VIS validation#mask AP#64.3
+Video Instance Segmentation#YouTube-VIS validation#AP50#87.5
+Video Instance Segmentation#YouTube-VIS validation#AP75#71.0
+Video Instance Segmentation#YouTube-VIS validation#AR1#55.6
+Video Instance Segmentation#YouTube-VIS validation#AR10#69.1
+Video Instance Segmentation#YouTube-VIS validation#mask AP#49.5
+Video Instance Segmentation#YouTube-VIS validation#AP50#74
+Video Instance Segmentation#YouTube-VIS validation#AP75#52.9
+Video Instance Segmentation#YouTube-VIS validation#AR1#47.7
+Video Instance Segmentation#YouTube-VIS validation#AR10#58.7
+Video Instance Segmentation#OVIS validation#mask AP#42.6
+Video Instance Segmentation#OVIS validation#AP50#65.7
+Video Instance Segmentation#OVIS validation#AP75#45.2
+Video Instance Segmentation#OVIS validation#AR1#17.9
+Video Instance Segmentation#OVIS validation#AR10#49.6
+Video Instance Segmentation#OVIS validation#mask AP#30.2
+Video Instance Segmentation#OVIS validation#AP50#51.3
+Video Instance Segmentation#OVIS validation#AP75#30
+Video Instance Segmentation#OVIS validation#AR1#15
+Video Instance Segmentation#OVIS validation#AR10#37.5

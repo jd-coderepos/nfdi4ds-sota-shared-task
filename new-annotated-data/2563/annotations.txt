@@ -1,0 +1,8 @@
+Semantic Segmentation#DensePASS#mIoU#43.18%
+Semantic Segmentation#ADE20K#Validation mIoU#42.7
+Object Detection#COCO minival#box AP#41.0
+Object Detection#COCO minival#AP50#63.1
+Object Detection#COCO minival#AP75#44.8
+Image Classification#ImageNet#Top 1 Accuracy#82.5%
+Image Classification#ImageNet#Number of params#73M
+Image Classification#ImageNet#GFLOPs#23.2

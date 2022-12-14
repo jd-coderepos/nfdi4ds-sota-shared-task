@@ -1,0 +1,21 @@
+Face Detection#COCO-WholeBody#AP#56.4
+Face Detection#COCO-WholeBody#AP50#82.4
+Face Detection#COCO-WholeBody#AP75#67.1
+Face Detection#COCO-WholeBody#APM#43.4
+Face Detection#COCO-WholeBody#APL#63.3
+Face Detection#COCO-WholeBody#AP#55.8
+Face Detection#COCO-WholeBody#AP50#82.3
+Face Detection#COCO-WholeBody#AP75#66.2
+Face Detection#COCO-WholeBody#APM#40
+Face Detection#COCO-WholeBody#APL#63.6
+Facial Landmark Detection#COCO-WholeBody#keypoint AP#75.4
+Facial Landmark Detection#COCO-WholeBody#keypoint AP#74.6
+Hand Pose Estimation#COCO-WholeBody#keypoint AP#50.4
+Hand Pose Estimation#COCO-WholeBody#keypoint AP#47
+Multi-Person Pose Estimation#COCO-WholeBody#keypoint AP#59.4
+Multi-Person Pose Estimation#COCO-WholeBody#keypoint AP#55.2
+2D Human Pose Estimation#COCO-WholeBody#WB#34.8
+2D Human Pose Estimation#COCO-WholeBody#body#59.4
+2D Human Pose Estimation#COCO-WholeBody#foot#53.0
+2D Human Pose Estimation#COCO-WholeBody#face#75.4
+2D Human Pose Estimation#COCO-WholeBody#hand#50.4

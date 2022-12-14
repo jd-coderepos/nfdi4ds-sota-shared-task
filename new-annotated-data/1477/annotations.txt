@@ -1,0 +1,5 @@
+Action Recognition#Something-Something V2#Top-1 Accuracy#72.3
+Action Recognition#Something-Something V2#Top-5 Accuracy#93.9
+Action Recognition#Something-Something V2#GFLOPs#8248
+Action Classification#Kinetics-400#Acc@1#87.2
+Action Classification#Kinetics-400#Acc@5#97.6

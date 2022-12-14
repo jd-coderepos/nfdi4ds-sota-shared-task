@@ -1,0 +1,8 @@
+Face Verification#IJB-C#TAR @ FAR=1e-4#95.64%
+Face Verification#IJB-C#TAR @ FAR=1e-5#93.73%
+Face Verification#IJB-C#TAR @ FAR=1e-6#90.24%
+Face Verification#IJB-C#training dataset#MS1M V3
+Face Verification#IJB-C#model#MobileFaceNet
+Face Verification#IJB-C#TAR @ FAR=1e-4#95.48%
+Face Verification#IJB-C#TAR @ FAR=1e-5#93.50%
+Face Verification#IJB-C#TAR @ FAR=1e-6#89.82%

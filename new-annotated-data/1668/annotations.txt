@@ -1,0 +1,6 @@
+Video Prediction#KTH#PSNR#26.29
+Video Prediction#KTH#SSIM#0.806
+Video Prediction#KTH#Cond#10
+Video Prediction#KTH#Pred#20
+Video Prediction#KTH#PSNR#25.95
+Video Prediction#KTH#SSIM#0.804

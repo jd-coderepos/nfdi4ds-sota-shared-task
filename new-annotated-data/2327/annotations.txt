@@ -1,0 +1,3 @@
+Spindle Detection#MODA dataset#F1-score (@IoU = 0.2, all age groups)#0.82
+Spindle Detection#MODA dataset#F1-score (@IoU = 0.2, young individuals)#0.84
+Spindle Detection#MODA dataset#F1-score (@IoU = 0.2, older individuals)#0.79

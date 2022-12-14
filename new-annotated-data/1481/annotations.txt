@@ -1,0 +1,4 @@
+Action Recognition#Something-Something V2#Top-1 Accuracy#70.1
+Action Recognition#Something-Something V2#Top-5 Accuracy#92.8
+Action Recognition#Something-Something V2#Parameters#68.5
+Action Recognition#Something-Something V2#GFLOPs#197x3

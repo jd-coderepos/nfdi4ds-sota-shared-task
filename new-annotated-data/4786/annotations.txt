@@ -1,0 +1,5 @@
+Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#1.047
+Point Cloud Segmentation#PointCloud-C#mean Corruption Error (mCE)#0.977
+Point Cloud Segmentation#PointCloud-C#mean Corruption Error (mCE)#1.130
+Point Cloud Segmentation#PointCloud-C#mean Corruption Error (mCE)#1.173
+3D Point Cloud Linear Classification#ModelNet40#Overall Accuracy#89.2

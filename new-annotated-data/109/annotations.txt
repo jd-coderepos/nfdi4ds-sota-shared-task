@@ -1,0 +1,7 @@
+Medical Code Prediction#MIMIC-III#Macro-AUC#94.8
+Medical Code Prediction#MIMIC-III#Micro-AUC#99.2
+Medical Code Prediction#MIMIC-III#Macro-F1#12.7
+Medical Code Prediction#MIMIC-III#Micro-F1#58.6
+Medical Code Prediction#MIMIC-III#Precision@5#82.9
+Medical Code Prediction#MIMIC-III#Precision@8#75.4
+Medical Code Prediction#MIMIC-III#Precision@15#60.1

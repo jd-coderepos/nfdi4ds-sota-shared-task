@@ -1,0 +1,6 @@
+Short Text Clustering#Searchsnippets#Acc#77.09
+Short Text Clustering#Searchsnippets#Acc#77.01
+Short Text Clustering#Biomedical#Acc#43.62
+Short Text Clustering#Biomedical#Acc#43
+Short Text Clustering#Stackoverflow#Acc#STC2-LE
+Short Text Clustering#Stackoverflow#Acc#STC2-LPI

@@ -1,0 +1,9 @@
+Novel View Synthesis#SWORD#PSNR#25.54
+Novel View Synthesis#SWORD#SSIM#0.79
+Novel View Synthesis#SWORD#LPIPS#0.113
+Novel View Synthesis#SWORD#PSNR#25.28
+Novel View Synthesis#SWORD#SSIM#0.78
+Novel View Synthesis#SWORD#LPIPS#0.102
+Novel View Synthesis#SWORD#PSNR#25.95
+Novel View Synthesis#SWORD#SSIM#0.81
+Novel View Synthesis#SWORD#LPIPS#0.096

@@ -1,0 +1,5 @@
+3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#72.3
+3D Human Pose Estimation#Human3.6M#PA-MPJPE#42.4
+3D Human Pose Estimation#MPI-INF-3DHP#AUC#40.7
+3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#97.2
+3D Human Pose Estimation#MPI-INF-3DHP#PA-MPJPE#62.5

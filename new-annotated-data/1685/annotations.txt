@@ -1,0 +1,10 @@
+Video Generation#LAION-400M#CLIP#25.19
+Video Generation#LAION-400M#CLIP R-Precision#92.12
+Video Generation#LAION-400M#CLIP R-Precision#90.97
+Video Generation#LAION-400M#CLIP#25.29
+Video Generation#LAION-400M#CLIP R-Precision#90.88
+Video Generation#LAION-400M#CLIP#25.03
+Video Generation#LAION-400M#CLIP R-Precision#89.91
+Video Generation#LAION-400M#CLIP R-Precision#89.68
+Video Generation#LAION-400M#CLIP#25.12
+Video Generation#LAION-400M#CLIP R-Precision#88.78

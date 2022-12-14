@@ -1,0 +1,10 @@
+Video Prediction#Moving MNIST#MSE#48.4
+Video Prediction#Moving MNIST#SSIM#0.891
+Video Prediction#Moving MNIST#LPIPS#0.071
+Video Prediction#KTH#LPIPS#0.139
+Video Prediction#KTH#PSNR#28.37
+Video Prediction#KTH#SSIM#0.839
+Video Prediction#KTH#Cond#10
+Video Prediction#KTH#Pred#20
+Weather Forecasting#SEVIR#MSE#3.9014
+Weather Forecasting#SEVIR#mCSI#0.4080

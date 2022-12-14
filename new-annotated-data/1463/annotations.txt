@@ -1,0 +1,5 @@
+Action Recognition#Jester#Val#98.15
+Action Recognition#Something-Something V2#Top-1 Accuracy#64.94
+Action Recognition#Something-Something V2#Top-5 Accuracy#87.9
+Action Classification#Kinetics-400#Acc@1#82.75
+Action Classification#Kinetics-400#Acc@5#94.86

@@ -1,0 +1,89 @@
+Emotion Recognition in Conversation#CPED#Accuracy of Sentiment#51.50
+Emotion Recognition in Conversation#CPED#Macro-F1 of Sentiment#48.02
+Personalized and Emotional Conversation#CPED#PPL#17.48
+Personalized and Emotional Conversation#CPED#BLEU#0.1342
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0614
+Personalized and Emotional Conversation#CPED#Distinct-2#0.3430
+Personalized and Emotional Conversation#CPED#Greedy Embedding#0.4996
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5588
+Personalized and Emotional Conversation#CPED#bertscore#0.5709
+Personalized and Emotional Conversation#CPED#PPL#17.70
+Personalized and Emotional Conversation#CPED#BLEU#0.1403
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0602
+Personalized and Emotional Conversation#CPED#Distinct-2#0.3388
+Personalized and Emotional Conversation#CPED#Greedy Embedding#0.5026
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5617
+Personalized and Emotional Conversation#CPED#bertscore#0.5719
+Personalized and Emotional Conversation#CPED#PPL#17.72
+Personalized and Emotional Conversation#CPED#BLEU#0.1372
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0605
+Personalized and Emotional Conversation#CPED#Distinct-2#0.3389
+Personalized and Emotional Conversation#CPED#Greedy Embedding#0.5017
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5610
+Personalized and Emotional Conversation#CPED#bertscore#0.5703
+Personalized and Emotional Conversation#CPED#PPL#17.80
+Personalized and Emotional Conversation#CPED#BLEU#0.1382
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0601
+Personalized and Emotional Conversation#CPED#Distinct-2#0.3404
+Personalized and Emotional Conversation#CPED#Greedy Embedding#05012
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5608
+Personalized and Emotional Conversation#CPED#bertscore#0.5722
+Personalized and Emotional Conversation#CPED#PPL#18.08
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0592
+Personalized and Emotional Conversation#CPED#Distinct-2#0.3363
+Personalized and Emotional Conversation#CPED#Greedy Embedding#0.5009
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5606
+Personalized and Emotional Conversation#CPED#bertscore#0.5715
+Personalized and Emotional Conversation#CPED#PPL#20.07
+Personalized and Emotional Conversation#CPED#BLEU#0.1171
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0482
+Personalized and Emotional Conversation#CPED#Distinct-2#0.2738
+Personalized and Emotional Conversation#CPED#Greedy Embedding#0.4922
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5509
+Personalized and Emotional Conversation#CPED#bertscore#0.5629
+Personalized and Emotional Conversation#CPED#PPL#21.60
+Personalized and Emotional Conversation#CPED#BLEU#0.1304
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0476
+Personalized and Emotional Conversation#CPED#Distinct-2#0.2785
+Personalized and Emotional Conversation#CPED#Greedy Embedding#0.4962
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5552
+Personalized and Emotional Conversation#CPED#bertscore#0.5674
+Personalized and Emotional Conversation#CPED#PPL#22.09
+Personalized and Emotional Conversation#CPED#BLEU#0.1272
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0473
+Personalized and Emotional Conversation#CPED#Distinct-2#0.2790
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5556
+Personalized and Emotional Conversation#CPED#bertscore#0.5669
+Personalized and Emotional Conversation#CPED#PPL#22.84
+Personalized and Emotional Conversation#CPED#BLEU#0.1252
+Personalized and Emotional Conversation#CPED#Distinct-1#0.0451
+Personalized and Emotional Conversation#CPED#Distinct-2#0.2746
+Personalized and Emotional Conversation#CPED#Greedy Embedding#0.4964
+Personalized and Emotional Conversation#CPED#Average Embedding#0.5564
+Personalized and Emotional Conversation#CPED#bertscore#0.5666
+Personality Recognition in Conversation#CPED#Accuracy (%)#67.25
+Personality Recognition in Conversation#CPED#Macro-F1#74.08
+Personality Recognition in Conversation#CPED#Accuracy of Neurotism#53.27
+Personality Recognition in Conversation#CPED#Accuracy of Extraversion#78.21
+Personality Recognition in Conversation#CPED#Accuracy of Openness#55.42
+Personality Recognition in Conversation#CPED#Accuracy of Agreeableness#85.89
+Personality Recognition in Conversation#CPED#Accuracy of Conscientiousness#63.48
+Personality Recognition in Conversation#CPED#Accuracy (%)#67.23
+Personality Recognition in Conversation#CPED#Macro-F1#72.93
+Personality Recognition in Conversation#CPED#Accuracy of Neurotism#50.75
+Personality Recognition in Conversation#CPED#Accuracy of Extraversion#78.08
+Personality Recognition in Conversation#CPED#Accuracy of Openness#57.93
+Personality Recognition in Conversation#CPED#Accuracy of Agreeableness#85.76
+Personality Recognition in Conversation#CPED#Accuracy of Conscientiousness#63.60
+Personality Recognition in Conversation#CPED#Accuracy (%)#66.32
+Personality Recognition in Conversation#CPED#Macro-F1#72.69
+Personality Recognition in Conversation#CPED#Accuracy of Neurotism#55.29
+Personality Recognition in Conversation#CPED#Accuracy of Openness#53.90
+Personality Recognition in Conversation#CPED#Accuracy of Agreeableness#80.98
+Personality Recognition in Conversation#CPED#Accuracy of Conscientiousness#63.35
+Personality Recognition in Conversation#CPED#Accuracy (%)#66.02
+Personality Recognition in Conversation#CPED#Macro-F1#71.89
+Personality Recognition in Conversation#CPED#Accuracy of Neurotism#53.4
+Personality Recognition in Conversation#CPED#Accuracy of Extraversion#77.71
+Personality Recognition in Conversation#CPED#Accuracy of Agreeableness#81.99
+Personality Recognition in Conversation#CPED#Accuracy of Conscientiousness#61.59

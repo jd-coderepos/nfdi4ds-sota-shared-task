@@ -1,0 +1,2 @@
+3D Object Detection#SUN-RGBD val#mAP@0.25#67.4
+3D Object Detection#SUN-RGBD val#mAP@0.5#51.2

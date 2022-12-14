@@ -1,0 +1,4 @@
+3D Point Cloud Classification#ScanObjectNN#Overall Accuracy#82.1
+3D Point Cloud Classification#ScanObjectNN#Mean Accuracy#79.1
+3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.7
+3D Point Cloud Classification#ModelNet40#Mean Accuracy#91.2

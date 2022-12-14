@@ -1,0 +1,4 @@
+Instance Segmentation#COCO 2017 val#mask AP*#43.1
+Instance Segmentation#BDD100K#AP#23.6
+Instance Segmentation#COCO test-dev#mask AP#42.2
+Instance Segmentation#BDD100K val#AP#23.6

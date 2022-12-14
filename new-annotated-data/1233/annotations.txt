@@ -1,0 +1,32 @@
+Image Generation#VLN-CE#FID#18.52
+Image Generation#VLN-CE#FID (SwAV)#3.63
+Image Generation#VLN-CE#FID#43.32
+Image Generation#VLN-CE#FID (SwAV)#6.19
+Image Generation#VLN-CE#FID#90.43
+Image Generation#VLN-CE#FID (SwAV)#8.65
+Image Generation#VLN-CE#FID#151.26
+Image Generation#VLN-CE#FID (SwAV)#14.07
+Image Generation#ARKitScenes#FID#37.35
+Image Generation#ARKitScenes#FID (SwAV)#4.14
+Image Generation#ARKitScenes#FID#79.54
+Image Generation#ARKitScenes#FID (SwAV)#10.21
+Image Generation#ARKitScenes#FID#87.06
+Image Generation#ARKitScenes#FID (SwAV)#13.44
+Image Generation#ARKitScenes#FID#134.8
+Image Generation#ARKitScenes#FID (SwAV)#15.58
+Image Generation#VizDoom#FID#33.7
+Image Generation#VizDoom#FID (SwAV)#3.24
+Image Generation#VizDoom#FID#37.21
+Image Generation#VizDoom#FID (SwAV)#4.56
+Image Generation#VizDoom#FID#47.5
+Image Generation#VizDoom#FID (SwAV)#5.44
+Image Generation#VizDoom#FID#143.55
+Image Generation#VizDoom#FID (SwAV)#15.26
+Image Generation#Replica#FID#18.75
+Image Generation#Replica#FID (SwAV)#1.76
+Image Generation#Replica#FID#41.75
+Image Generation#Replica#FID (SwAV)#4.14
+Image Generation#Replica#FID#65.37
+Image Generation#Replica#FID (SwAV)#5.76
+Image Generation#Replica#FID#166.55
+Image Generation#Replica#FID (SwAV)#13.17

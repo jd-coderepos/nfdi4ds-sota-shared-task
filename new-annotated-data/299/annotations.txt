@@ -1,0 +1,32 @@
+Face Alignment#300W#NME_inter-ocular (%, Full)#2.99
+Face Alignment#300W#NME_inter-ocular (%, Common)#2.59
+Face Alignment#300W#NME_inter-ocular (%, Challenge)#4.66
+Face Alignment#300W#NME_inter-pupil (%, Full)#4.20
+Face Alignment#300W#NME_inter-pupil (%, Common)#3.59
+Face Alignment#300W#NME_inter-pupil (%, Challenge)#6.73
+Face Alignment#WFLW#NME_inter-ocular (%, all)#4.06
+Face Alignment#WFLW#AUC_inter-ocular@0.1 (%, all)#60.56
+Face Alignment#WFLW#FR_inter-ocular@0.1(%, all)#2.08
+Face Alignment#MERL-RAV#NME (box)#1.51
+Face Alignment#MERL-RAV#AUC@7 (box)#78.47
+Face Alignment#300W Split 2#NME (box)#2.03
+Face Alignment#300W Split 2#AUC@7 (box)#71.0
+Face Alignment#300W Split 2#NME (inter-ocular)#3.43
+Face Alignment#300W Split 2#AUC@8 (inter-ocular)#57.27
+Face Alignment#300W Split 2#FR@8 (inter-ocular)#0.67
+Face Alignment#COFW-68#NME (box)#2.52
+Face Alignment#COFW-68#AUC@7 (box)#64.1
+Face Alignment#COFW-68#NME (inter-ocular)#3.93
+Facial Landmark Detection#300W#NME#2.99
+Pose Estimation#MERL-RAV#MAE mean (º)#2.39
+Pose Estimation#MERL-RAV#MAE yaw (º)#3.23
+Pose Estimation#MERL-RAV#MAE pitch (º)#2.24
+Pose Estimation#MERL-RAV#MAE roll (º)#1.71
+Pose Estimation#300W (Full)#MAE mean (º)#1.29
+Pose Estimation#300W (Full)#MAE yaw (º)#1.41
+Pose Estimation#300W (Full)#MAE pitch (º)#1.70
+Pose Estimation#300W (Full)#MAE roll (º)#0.77
+Head Pose Estimation#WFLW#MAE mean (º)#1.52
+Head Pose Estimation#WFLW#MAE yaw (º)#1.78
+Head Pose Estimation#WFLW#MAE pitch (º)#1.86
+Head Pose Estimation#WFLW#MAE roll (º)#0.93

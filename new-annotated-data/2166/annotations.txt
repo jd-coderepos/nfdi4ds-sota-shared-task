@@ -1,0 +1,4 @@
+Univariate Time Series Forecasting#Electricity#RRSE#0.0823
+Univariate Time Series Forecasting#Electricity#RRSE#0.0916
+Univariate Time Series Forecasting#Electricity#RRSE#0.0964
+Univariate Time Series Forecasting#Electricity#RRSE#0.1006

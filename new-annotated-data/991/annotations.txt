@@ -1,0 +1,8 @@
+Conditional Image Generation#Tiny ImageNet#FID#19.02
+Conditional Image Generation#Tiny ImageNet#Intra-FID#63.05
+Conditional Image Generation#ImageNet 128x128#FID#8.02
+Conditional Image Generation#ImageNet 128x128#Inception score#108.10
+Conditional Image Generation#CIFAR-100#FID#8.12
+Conditional Image Generation#CIFAR-100#Intra-FID#49.24
+Conditional Image Generation#CIFAR-10#FID#5.66
+Conditional Image Generation#CIFAR-10#Intra-FID#40.45

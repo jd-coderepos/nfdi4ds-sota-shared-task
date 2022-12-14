@@ -1,0 +1,2 @@
+Table Recognition#PubTabNet#TEDS (all samples)#90.1
+Table Recognition#PubTabNet#TEDS-Struct#90.1

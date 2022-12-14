@@ -1,0 +1,18 @@
+Co-Salient Object Detection#CoSal2015#MAE#0.067
+Co-Salient Object Detection#CoSal2015#S-measure#0.838
+Co-Salient Object Detection#CoSal2015#max F-measure#0.856
+Co-Salient Object Detection#CoSal2015#max E-measure#0.893
+Co-Salient Object Detection#CoSal2015#mean E-measure#0.889
+Co-Salient Object Detection#CoSal2015#mean F-measure#0.850
+Co-Salient Object Detection#CoCA#S-measure#0.710
+Co-Salient Object Detection#CoCA#max F-measure#0.598
+Co-Salient Object Detection#CoCA#mean E-measure#0.778
+Co-Salient Object Detection#CoCA#Mean F-measure#0.593
+Co-Salient Object Detection#CoCA#max E-measure#0.783
+Co-Salient Object Detection#CoCA#MAE#0.085
+Co-Salient Object Detection#CoSOD3k#S-measure#0.809
+Co-Salient Object Detection#CoSOD3k#max E-measure#0.871
+Co-Salient Object Detection#CoSOD3k#max F-measure#0.805
+Co-Salient Object Detection#CoSOD3k#MAE#0.067
+Co-Salient Object Detection#CoSOD3k#mean E-measure#0.871
+Co-Salient Object Detection#CoSOD3k#mean F-measure#0.800

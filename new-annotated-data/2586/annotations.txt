@@ -1,0 +1,8 @@
+Semantic Segmentation#ADE20K#Validation mIoU#53.63
+Semantic Segmentation#ADE20K#Validation mIoU#50.0
+Semantic Segmentation#ADE20K#Validation mIoU#49.61
+Semantic Segmentation#ADE20K val#mIoU#53.63
+Semantic Segmentation#ADE20K val#mIoU#50.0
+Semantic Segmentation#ADE20K val#mIoU#49.61
+Semantic Segmentation#ADE20K val#Pixel Accuracy#83.37
+Semantic Segmentation#PASCAL Context#mIoU#59.0
