@@ -38,7 +38,7 @@ scrapped as `txt` data encoded in the [TEI](https://en.wikipedia.org/wiki/Text_E
 Of the 7449 papers in the annotated-data, only 814 papers reported their
 code links as a mention within the text.
 
-#Of the 3183 papers in the annotated-data, only 117 papers reported their code links as a mention within the text.
+<!-- Of the 3183 papers in the annotated-data, only 117 papers reported their code links as a mention within the text.  -->
 
 ### Dataset statistics
 
