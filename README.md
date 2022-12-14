@@ -19,11 +19,13 @@ README
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
+	 |    |--- code-link.txt				#optional - if a code link was found in the paper, this annotation file is created; if not, it is not part of the folder.
 	 |___ ...
 [zero-shot-data]/				#not released
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
+	 |    |--- code-link.txt				#optional	 
 	 |___ ...
 ```
 
@@ -33,6 +35,8 @@ Each folder in the respective dump corresponds to a scholarly article
 originally downloaded in `pdf` format from arXiv, whose contents were then
 scrapped as `txt` data encoded in the [TEI](https://en.wikipedia.org/wiki/Text_Encoding_Initiative) XML format.
 
+Of the 7449 papers in the annotated-data, only 814 papers reported their
+code links as a mention within the text.
 
 ### Dataset statistics
 

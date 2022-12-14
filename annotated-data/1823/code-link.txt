@@ -1,0 +1,1 @@
+https://github.com/chihyaoma/Activity-Recognition-with-CNN-and-RNN
