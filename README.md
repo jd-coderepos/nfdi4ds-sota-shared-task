@@ -9,8 +9,49 @@ Instead of seeking out the answer buried in the ranked list of documents via a s
 In this Shared Task, we hope to go beyond the community curation of leaderboards and instead  realize the vision of obtaining the most efficient machine learning model capable of automatically detecting leaderboards. The efficiency of the submitted machine learning models as a solution to the shared task will be tested based on speed, model parameters, and leaderboard detection F1 measure.
 
 
+### What this repository contains?
+
+The repository is organized as follows:
+
+'''
+README
+[annotated-data]/				#PWC download timestamp May 10, 2021
+     |--- [article-counter-folder]/
+	 |    |--- [article-id].tei.xml
+	 |    |--- annotations.txt
+	 |___ ...
+[new-annotated-data]/			#PWC download timestamp November 04, 2022
+     |--- [article-counter-folder]/
+	 |    |--- [article-id].tei.xml
+	 |    |--- annotations.txt
+	 |___ ...
+'''
+
+The dataset dump originates from [paperswithcode.com](https://paperswithcode.com/).
+Two dump versions are created between the years 2021 and 2022.
+Each folder in the respective dump corresponds to a scholarly article
+originally downloaded in `pdf` format from arXiv, whose contents were then
+scrapped as `txt` data encoded in the TEI XML format.
+
+
+### Dataset statistics
+
+
 ### Rough Timeline:
 
 January 15, 2023 - first version training dataset public release and test dataset private release
 
 February 15, 2023 - second version dataset release incorporating any changes suggested for the first version
+
+### License
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
