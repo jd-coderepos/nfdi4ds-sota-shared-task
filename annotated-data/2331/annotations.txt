@@ -1,0 +1,5 @@
+Visual Question Answering#VizWiz 2018#number#28.81
+Visual Question Answering#VizWiz 2018#other#35.41
+Visual Question Answering#VizWiz 2018#overall#53.68
+Visual Question Answering#VizWiz 2018#unanswerable#84.03
+Visual Question Answering#VizWiz 2018#yes/no#68.12

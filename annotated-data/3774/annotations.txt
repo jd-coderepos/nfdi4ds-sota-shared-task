@@ -1,0 +1,4 @@
+Color Image Denoising#Darmstadt Noise Dataset#PSNR (Raw)#48.5
+Color Image Denoising#Darmstadt Noise Dataset#PSNR (sRGB)#39.4
+Color Image Denoising#Darmstadt Noise Dataset#SSIM (Raw)#0.9806
+Color Image Denoising#Darmstadt Noise Dataset#SSIM (sRGB)#0.9528

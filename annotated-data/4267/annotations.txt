@@ -1,0 +1,4 @@
+Sentence Classification#ACL-ARC#F1#67.9
+Sentence Classification#SciCite#F1#84
+Citation Intent Classification#SciCite#F1#84.0
+Citation Intent Classification#ACL-ARC#F1#67.9

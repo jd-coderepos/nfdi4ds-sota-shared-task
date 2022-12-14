@@ -1,0 +1,20 @@
+Fake News Detection#FNC-1#Per-class Accuracy (Agree)#43.82
+Fake News Detection#FNC-1#Per-class Accuracy (Disagree)#6.31
+Fake News Detection#FNC-1#Per-class Accuracy (Discuss)#85.68
+Fake News Detection#FNC-1#Per-class Accuracy (Unrelated)#98.04
+Fake News Detection#FNC-1#Weighted Accuracy#83.08
+Fake News Detection#FNC-1#Per-class Accuracy (Agree)#31.80
+Fake News Detection#FNC-1#Per-class Accuracy (Disagree)#0.00
+Fake News Detection#FNC-1#Per-class Accuracy (Discuss)#81.20
+Fake News Detection#FNC-1#Per-class Accuracy (Unrelated)#91.18
+Fake News Detection#FNC-1#Weighted Accuracy#76.18
+Fake News Detection#FNC-1#Per-class Accuracy (Agree)#50.70
+Fake News Detection#FNC-1#Per-class Accuracy (Disagree)#9.61
+Fake News Detection#FNC-1#Per-class Accuracy (Discuss)#53.38
+Fake News Detection#FNC-1#Per-class Accuracy (Unrelated)#96.05
+Fake News Detection#FNC-1#Weighted Accuracy#72.78
+Fake News Detection#FNC-1#Per-class Accuracy (Agree)#38.04
+Fake News Detection#FNC-1#Per-class Accuracy (Disagree)#4.59
+Fake News Detection#FNC-1#Per-class Accuracy (Discuss)#58.132
+Fake News Detection#FNC-1#Per-class Accuracy (Unrelated)#78.27
+Fake News Detection#FNC-1#Weighted Accuracy#63.11

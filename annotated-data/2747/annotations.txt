@@ -1,0 +1,10 @@
+Semantic Segmentation#S3DIS Area5#mAcc#66.5
+Semantic Segmentation#S3DIS Area5#mIoU#58.04
+Semantic Segmentation#S3DIS Area5#oAcc#86.38
+Semantic Segmentation#Semantic3D#mIoU#76.2%
+Semantic Segmentation#Semantic3D#oAcc#92.9%
+Semantic Segmentation#Semantic3D#mIoU#73.2%
+Semantic Segmentation#S3DIS#Mean IoU#62.1
+Semantic Segmentation#S3DIS#mAcc#73
+Semantic Segmentation#S3DIS#oAcc#85.5
+3D Semantic Segmentation#SemanticKITTI#mIoU#17.4%

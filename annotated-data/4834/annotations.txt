@@ -1,0 +1,3 @@
+Pneumonia Detection#ChestX-ray14#AUROC#0.844
+Pneumonia Detection#ChestX-ray14#FLOPS#2800M
+Pneumonia Detection#ChestX-ray14#Params#7.0M

@@ -1,0 +1,8 @@
+Graph Classification#NCI1#Accuracy#86.42%
+Graph Classification#NCI1#Accuracy#85.82%
+Graph Classification#NCI1#Accuracy#72.82%
+Graph Classification#PROTEINS#Accuracy#74.55%
+Graph Classification#MUTAG#Accuracy#88.42%
+Graph Classification#MUTAG#Accuracy#86.42%
+Graph Classification#MUTAG#Accuracy#83.26%
+Graph Classification#ENZYMES#Accuracy#71.00%

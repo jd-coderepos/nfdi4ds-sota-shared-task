@@ -1,0 +1,6 @@
+Knowledge Base Question Answering#ComplexWebQuestions#Accuracy#70.4
+Knowledge Base Question Answering#ComplexWebQuestions#Accuracy#45.9
+Knowledge Base Question Answering#ComplexWebQuestions#Accuracy#44.1
+Semantic Parsing#WebQuestionsSP#Accuracy#70
+Semantic Parsing#WebQuestionsSP#Accuracy#63.9
+Semantic Parsing#WebQuestionsSP#Accuracy#56.5

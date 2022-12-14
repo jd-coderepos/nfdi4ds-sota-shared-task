@@ -1,0 +1,2 @@
+Intent Detection#ATIS#Accuracy#98.43
+Intent Detection#ATIS#F1#95.87

@@ -1,0 +1,4 @@
+Image Classification#CINIC-10#Accuracy#91.45
+Image Classification#CINIC-10#Accuracy#91.26
+Image Classification#CINIC-10#Accuracy#90.27
+Image Classification#CINIC-10#Accuracy#87.77

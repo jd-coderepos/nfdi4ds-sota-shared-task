@@ -1,0 +1,2 @@
+sentiment_analysis#Sentihood#Aspect (F1)#69.3
+sentiment_analysis#Sentihood#Sentiment (acc)#81.9

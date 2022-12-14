@@ -1,0 +1,1 @@
+word_segmentation#Chinese Treebank 6#F1#96.0

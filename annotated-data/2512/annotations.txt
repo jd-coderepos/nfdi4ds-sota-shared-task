@@ -1,0 +1,3 @@
+Common Sense Reasoning#Winograd Schema Challenge#Score#63.7
+Common Sense Reasoning#Winograd Schema Challenge#Score#62.6
+Common Sense Reasoning#Winograd Schema Challenge#Score#57.9

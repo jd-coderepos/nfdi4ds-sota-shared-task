@@ -1,0 +1,8 @@
+Face Alignment#300W#AUC0.08 private#64.40
+Face Alignment#300W#Failure private#0.33%
+Face Alignment#300W#Fullset (public)#3.07
+Face Alignment#300W#Mean Error Rate private#3.56
+Face Alignment#300W#AUC0.08 private#55.76
+Face Alignment#300W#Failure private#0.83%
+Face Alignment#300W#Fullset (public)#4.31
+Face Alignment#COFW#Mean Error Rate#4.94%

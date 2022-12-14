@@ -1,0 +1,4 @@
+language_modeling#Hutter Prize#Bit per Character (BPC)#1.232
+language_modeling#Hutter Prize#Number of params#47M
+language_modeling#Penn Treebank#Bit per Character (BPC)#1.175
+language_modeling#Penn Treebank#Number of params#13.8M

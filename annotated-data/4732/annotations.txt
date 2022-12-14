@@ -1,0 +1,2 @@
+Network Pruning#ImageNet - ResNet 50 - 90% sparsity#Top-1 Accuracy#74.31
+Network Pruning#ImageNet - ResNet 50 - 90% sparsity#Top-1 Accuracy#73.91

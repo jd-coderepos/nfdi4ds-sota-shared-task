@@ -1,0 +1,2 @@
+Semi-Supervised Video Object Segmentation#DAVIS 2016#Jaccard (Mean)#86.3
+Unsupervised Video Object Segmentation#DAVIS 2016#Jaccard (Mean)#78.8

@@ -1,0 +1,2 @@
+Multi-Label Classification#PASCAL VOC 2007#mAP#95.0
+Multi-Label Classification#PASCAL VOC 2007#mAP#93.4

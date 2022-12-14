@@ -1,0 +1,7 @@
+machine_translation#The IWSLT 2015 Evaluation Campaign#BLEU#29.6
+dependency_parsing#Penn Treebank#POS#---
+dependency_parsing#Penn Treebank#UAS#96.61
+dependency_parsing#Penn Treebank#LAS#95.02
+named_entity_recognition#CoNLL 2003 (English)#F1#92.61
+named_entity_recognition#Ontonotes v5 (English)#F1#88.81
+ccg_supertagging#CCGBank#Accuracy#96.1

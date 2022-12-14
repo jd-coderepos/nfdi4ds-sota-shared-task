@@ -1,0 +1,3 @@
+Text Summarization#GigaWord#ROUGE-1#39.08
+Text Summarization#GigaWord#ROUGE-2#20.47
+Text Summarization#GigaWord#ROUGE-L#36.69

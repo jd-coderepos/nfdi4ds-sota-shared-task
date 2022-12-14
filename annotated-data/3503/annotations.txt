@@ -1,0 +1,3 @@
+Image Retrieval#CARS196#R@1#86.9
+Metric Learning#CUB-200-2011#R@1#63.6
+Metric Learning#CARS196#R@1#79.6

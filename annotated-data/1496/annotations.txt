@@ -1,0 +1,6 @@
+Scene Generation#Replica#FID#65.37
+Scene Generation#Replica#SwAV-FID#5.76
+Scene Generation#VizDoom#FID#47.50
+Scene Generation#VizDoom#SwAV-FID#5.44
+Scene Generation#AVD#FID#62.59
+Scene Generation#AVD#SwAV-FID#6.95

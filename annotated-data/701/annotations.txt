@@ -1,0 +1,8 @@
+Cross-View Image-to-Image Translation#cvusa#KL#2.55
+Cross-View Image-to-Image Translation#cvusa#PSNR#22.5766
+Cross-View Image-to-Image Translation#cvusa#SD#19.744
+Cross-View Image-to-Image Translation#cvusa#SSIM#0.5238
+Cross-View Image-to-Image Translation#Dayton (256×256) - aerial-to-ground#KL#2.18
+Cross-View Image-to-Image Translation#Dayton (256×256) - aerial-to-ground#PSNR#22.9949
+Cross-View Image-to-Image Translation#Dayton (256×256) - aerial-to-ground#SD#19.6145
+Cross-View Image-to-Image Translation#Dayton (256×256) - aerial-to-ground#SSIM#0.5457

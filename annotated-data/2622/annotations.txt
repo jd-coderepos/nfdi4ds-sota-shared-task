@@ -1,0 +1,6 @@
+Language Modelling#One Billion Word#Number of params#43B
+Language Modelling#One Billion Word#PPL#23.7
+Language Modelling#One Billion Word#Number of params#1.04B
+Language Modelling#One Billion Word#PPL#30.0
+Language Modelling#One Billion Word#Number of params#1.8B
+Language Modelling#One Billion Word#PPL#30.6

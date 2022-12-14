@@ -1,0 +1,2 @@
+Lipreading#LRS2#Word Error Rate (WER)#48.3%
+Lipreading#LRS2#Word Error Rate (WER)#54.7%

@@ -1,0 +1,5 @@
+Drug Discovery#BBBP#AUC#0.92
+Drug Discovery#BACE#AUC#0.873
+Graph Regression#Lipophilicity#RMSE#0.580
+Graph Regression#ESOL#RMSE#.594
+Graph Regression#Lipophilicity#RMSE#0.58

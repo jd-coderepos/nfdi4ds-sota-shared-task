@@ -1,0 +1,1 @@
+3D Semantic Instance Segmentation#ScanNetV2#mAP@0.50#24.8

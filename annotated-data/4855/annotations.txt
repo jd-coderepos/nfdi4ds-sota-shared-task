@@ -1,0 +1,3 @@
+Lung Nodule Classification#LIDC-IDRI#AUC#95.62
+Lung Nodule Classification#LIDC-IDRI#Accuracy#88.46
+Lung Nodule Classification#LIDC-IDRI#Accuracy(10-fold)#88.46

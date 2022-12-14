@@ -1,0 +1,2 @@
+Unsupervised MNIST#MNIST#Accuracy#96.61
+Unsupervised Image Classification#MNIST#Accuracy#96.61

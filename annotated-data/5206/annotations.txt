@@ -1,0 +1,3 @@
+language_modeling#WikiText-103#Validation perplexity#29.0
+language_modeling#WikiText-103#Test perplexity#29.2
+language_modeling#WikiText-103#Number of params#

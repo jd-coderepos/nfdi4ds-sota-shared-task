@@ -1,0 +1,4 @@
+Image Retrieval#Par106k#mAP#78.3%
+Image Retrieval#Oxf105k#MAP#77.9%
+Image Retrieval#Par6k#mAP#85.6%
+Image Retrieval#Oxf5k#MAP#82.9%

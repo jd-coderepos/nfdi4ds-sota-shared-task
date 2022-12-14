@@ -1,0 +1,2 @@
+Point Cloud Completion#ShapeNet#Chamfer Distance#9.969
+Point Cloud Completion#ShapeNet#F-Score@1%#0.705

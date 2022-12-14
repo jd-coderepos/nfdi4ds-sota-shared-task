@@ -1,0 +1,1 @@
+Out-of-Distribution Detection#MS-1M vs. IJB-C#AUROC#82.5

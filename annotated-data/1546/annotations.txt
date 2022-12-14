@@ -1,0 +1,4 @@
+Person Re-Identification#MARS#Rank-1#89.4
+Person Re-Identification#MARS#Rank-5#96.8
+Person Re-Identification#MARS#mAP#83.1
+Vehicle Re-Identification#VeRi#mAP#82.2

@@ -1,0 +1,6 @@
+Face Verification#Trillion Pairs Dataset#Accuracy#57.45
+Face Verification#MegaFace#Accuracy#98.48%
+Face Verification#YouTube Faces DB#Accuracy#98.02%
+Face Verification#Labeled Faces in the Wild#Accuracy#99.83%
+Face Identification#Trillion Pairs Dataset#Accuracy#57.48
+Face Identification#MegaFace#Accuracy#98.35%

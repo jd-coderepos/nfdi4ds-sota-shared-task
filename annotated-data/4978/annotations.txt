@@ -1,0 +1,8 @@
+Node Classification#Flickr#Accuracy#0.557
+Node Classification#Brazil Air-Traffic#Accuracy#0.466
+Node Classification#Brazil Air-Traffic#Accuracy#0.459
+Node Classification#Wiki-Vote#Accuracy#46.3
+Node Classification#USA Air-Traffic#Accuracy#58.2
+Node Classification#USA Air-Traffic#Accuracy#57.3
+Node Classification#Facebook#Accuracy#59.8
+Node Classification#Europe Air-Traffic#Accuracy#44.3

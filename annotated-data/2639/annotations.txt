@@ -1,0 +1,8 @@
+Language Modelling#WikiText-103#Test perplexity#29.2
+Language Modelling#WikiText-103#Validation perplexity#29.0
+Language Modelling#WikiText-103#Test perplexity#29.7
+Language Modelling#WikiText-103#Validation perplexity#29.9
+Language Modelling#WikiText-103#Test perplexity#34.3
+Language Modelling#WikiText-103#Validation perplexity#34.1
+Language Modelling#WikiText-103#Test perplexity#36.4
+Language Modelling#WikiText-103#Validation perplexity#36.0

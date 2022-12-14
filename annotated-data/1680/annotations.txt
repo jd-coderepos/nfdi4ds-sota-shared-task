@@ -1,0 +1,3 @@
+Action Classification#Kinetics-400#Vid acc@1#82.8
+Egocentric Activity Recognition#EPIC-KITCHENS-55#Actions Top-1 (S2)#25.6
+Egocentric Activity Recognition#EPIC-KITCHENS-55#Actions Top-1 (S2)#16.8

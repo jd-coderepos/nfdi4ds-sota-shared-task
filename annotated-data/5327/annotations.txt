@@ -1,0 +1,4 @@
+dialogue_state_tracking#Second dialogue state tracking challenge#Request Accuracy#95.7
+dialogue_state_tracking#Second dialogue state tracking challenge#Joint goal Accuracy#69
+dialogue_state_tracking#Wizard-of-Oz#Request Accuracy#87.1
+dialogue_state_tracking#Wizard-of-Oz#Joint goal Accuracy#70.8

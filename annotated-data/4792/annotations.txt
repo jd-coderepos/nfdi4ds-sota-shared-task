@@ -1,0 +1,4 @@
+Line Segment Detection#York Urban Dataset#sAP10#27.4
+Line Segment Detection#York Urban Dataset#sAP5#25.0
+Line Segment Detection#wireframe dataset#sAP10#66.6
+Line Segment Detection#wireframe dataset#sAP5#62.9

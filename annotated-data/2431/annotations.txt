@@ -1,0 +1,4 @@
+Data-to-Text Generation#E2E NLG Challenge#BLEU#66.19
+Data-to-Text Generation#E2E NLG Challenge#METEOR#44.54
+Data-to-Text Generation#E2E NLG Challenge#NIST#8.6130
+Data-to-Text Generation#E2E NLG Challenge#ROUGE-L#67.72

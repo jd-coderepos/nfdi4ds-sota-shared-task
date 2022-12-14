@@ -1,0 +1,10 @@
+Panoptic Segmentation#Cityscapes val#AP#39
+Panoptic Segmentation#Cityscapes val#PQ#60.4
+Panoptic Segmentation#Cityscapes val#PQst#63.3
+Panoptic Segmentation#Cityscapes val#PQth#56.1
+Panoptic Segmentation#Cityscapes val#mIoU#78
+Panoptic Segmentation#Cityscapes val#AP#37.6
+Panoptic Segmentation#Cityscapes val#PQ#59.2
+Panoptic Segmentation#Cityscapes val#PQst#61.5
+Panoptic Segmentation#Cityscapes val#PQth#56
+Panoptic Segmentation#Cityscapes val#mIoU#77.8

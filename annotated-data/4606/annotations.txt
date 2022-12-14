@@ -1,0 +1,2 @@
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#76.4%
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy (kNN, k=20)#72.4%

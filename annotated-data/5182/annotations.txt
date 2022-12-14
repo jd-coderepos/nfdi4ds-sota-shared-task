@@ -1,0 +1,3 @@
+Multi-target Domain Adaptation#Office-31#Accuracy#88.8
+Multi-target Domain Adaptation#DomainNet#Accuracy#34.4
+Multi-target Domain Adaptation#Office-Home#Accuracy#69.8

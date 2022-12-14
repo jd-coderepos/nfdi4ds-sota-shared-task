@@ -1,0 +1,2 @@
+Continual Learning#ImageNet-50 (5 tasks)#Accuracy#17.82
+Continual Learning#ImageNet-50 (5 tasks)#Accuracy#15.16

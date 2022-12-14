@@ -1,0 +1,3 @@
+Pose Estimation#FLIC Elbows#PCK@0.2#99.0%
+Pose Estimation#MPII Human Pose#PCKh-0.5#90.9%
+Pose Estimation#FLIC Wrists#PCK@0.2#97.0%

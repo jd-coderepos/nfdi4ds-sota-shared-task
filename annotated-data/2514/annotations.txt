@@ -1,0 +1,4 @@
+Common Sense Reasoning#SWAG#Dev#59.1
+Common Sense Reasoning#SWAG#Test#59.2
+Common Sense Reasoning#SWAG#Dev#51.9
+Common Sense Reasoning#SWAG#Test#52.7

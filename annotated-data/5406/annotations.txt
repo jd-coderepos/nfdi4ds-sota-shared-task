@@ -1,0 +1,2 @@
+relationship_extraction#New York Times Corpus#P@10%#39.9+
+relationship_extraction#New York Times Corpus#P@30%#-

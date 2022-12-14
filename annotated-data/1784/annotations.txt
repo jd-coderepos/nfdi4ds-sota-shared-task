@@ -1,0 +1,2 @@
+Interactive Video Object Segmentation#DAVIS 2017#AUC-J#0.691
+Interactive Video Object Segmentation#DAVIS 2017#J@60s#0.734

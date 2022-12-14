@@ -1,0 +1,6 @@
+Supervised Video Summarization#TvSum#F1-score (Augmented)#59.8
+Supervised Video Summarization#TvSum#F1-score (Canonical)#58.1
+Supervised Video Summarization#SumMe#F1-score (Augmented)#43.9
+Supervised Video Summarization#SumMe#F1-score (Canonical)#42.1
+Unsupervised Video Summarization#SumMe#F1-score#41.4
+Unsupervised Video Summarization#TvSum#F1-score#57.6

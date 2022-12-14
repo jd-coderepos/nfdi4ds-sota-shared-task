@@ -1,0 +1,2 @@
+Intent Detection#SNIPS#Slot F1 Score#93.60
+Intent Detection#ATIS#F1#95.80

@@ -1,0 +1,3 @@
+Single-object discovery#Object Discovery#CorLoc#83
+Single-object discovery#VOC_all#CorLoc#39.8
+Single-object discovery#VOC_6x2#CorLoc#60.2

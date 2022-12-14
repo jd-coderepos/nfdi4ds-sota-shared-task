@@ -1,0 +1,4 @@
+Pancreas Segmentation#TCIA Pancreas-CT Dataset#Dice Score#0.831
+Pancreas Segmentation#CT-150#Dice Score#0.840
+Pancreas Segmentation#CT-150#Precision#0.849
+Pancreas Segmentation#CT-150#Recall#0.841

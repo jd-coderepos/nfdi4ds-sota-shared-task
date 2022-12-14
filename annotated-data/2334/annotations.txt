@@ -1,0 +1,5 @@
+Visual Question Answering#CLEVR-Humans#Accuracy#75.9
+Visual Question Answering#CLEVR#Accuracy#97.7
+Image Retrieval with Multi-Modal Query#MIT-States#Recall@1#10.1
+Image Retrieval with Multi-Modal Query#MIT-States#Recall@10#38.3
+Image Retrieval with Multi-Modal Query#MIT-States#Recall@5#27.7

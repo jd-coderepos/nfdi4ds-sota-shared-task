@@ -1,0 +1,3 @@
+Abstractive Text Summarization#AESLC#ROUGE-1#23.67
+Abstractive Text Summarization#AESLC#ROUGE-2#10.29
+Abstractive Text Summarization#AESLC#ROUGE-L#23.44

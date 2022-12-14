@@ -1,0 +1,2 @@
+Conditional Image Generation#ImageNet 128x128#FID#15.94
+Conditional Image Generation#ImageNet 128x128#Inception score#57.22

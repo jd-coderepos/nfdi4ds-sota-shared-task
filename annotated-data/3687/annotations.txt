@@ -1,0 +1,5 @@
+Image Clustering#ImageNet#Accuracy#-
+Image Clustering#ImageNet#NMI#66.4
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#61.5%
+Self-Supervised Image Classification#ImageNet#Top 5 Accuracy#84.0%
+Self-Supervised Image Classification#ImageNet#Top 1 Accuracy#48.4%

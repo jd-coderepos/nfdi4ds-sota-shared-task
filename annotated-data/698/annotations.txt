@@ -1,0 +1,6 @@
+Cross-View Image-to-Image Translation#Ego2Top#SSIM#0.6024
+Cross-View Image-to-Image Translation#cvusa#SSIM#0.5323
+Cross-View Image-to-Image Translation#Dayton (256×256) - ground-to-aerial#SSIM#0.3284
+Cross-View Image-to-Image Translation#Dayton (256×256) - aerial-to-ground#SSIM#0.5938
+Cross-View Image-to-Image Translation#Dayton (64x64) - ground-to-aerial#SSIM#0.5118
+Cross-View Image-to-Image Translation#Dayton (64×64) - aerial-to-ground#SSIM#0.6865

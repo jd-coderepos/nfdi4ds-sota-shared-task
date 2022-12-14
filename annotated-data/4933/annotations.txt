@@ -1,0 +1,2 @@
+Graph Classification#IPC-lifted#Accuracy#86.9%
+Graph Classification#IPC-grounded#Accuracy#73.1%

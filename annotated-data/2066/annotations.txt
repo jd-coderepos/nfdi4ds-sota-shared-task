@@ -1,0 +1,6 @@
+Few-Shot Image Classification#Meta-Dataset#Accuracy#63.428
+Few-Shot Image Classification#Meta-Dataset#Accuracy#58.758
+Few-Shot Image Classification#Meta-Dataset#Accuracy#54.319
+Few-Shot Image Classification#Meta-Dataset Rank#Mean Rank#6.65
+Few-Shot Image Classification#Meta-Dataset Rank#Mean Rank#8.7
+Few-Shot Image Classification#Meta-Dataset Rank#Mean Rank#10.85

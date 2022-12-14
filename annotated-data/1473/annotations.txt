@@ -1,0 +1,2 @@
+Text-to-Image Generation#CUB#Inception score#4.56
+Text-to-Image Generation#COCO#Inception score#26.47

@@ -1,0 +1,1 @@
+named_entity_recognition#VLSP 2016 NER shared task#F1#89.58

@@ -1,0 +1,2 @@
+Metric Learning#CUB-200-2011#R@1#65.4
+Metric Learning#CARS196#R@1#84.5

@@ -1,0 +1,1 @@
+part-of-speech_tagging#VLSP 2013 POS tagging shared task#Accuracy#95.11

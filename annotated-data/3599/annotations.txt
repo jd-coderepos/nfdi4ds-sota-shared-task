@@ -1,0 +1,2 @@
+Human-Object Interaction Detection#HICO-DET#mAP#26.61
+Human-Object Interaction Detection#HICO-DET#mAP#23.46

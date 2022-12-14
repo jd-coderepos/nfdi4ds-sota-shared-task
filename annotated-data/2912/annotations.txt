@@ -1,0 +1,2 @@
+Panoptic Segmentation#COCO test-dev#PQ#47.8
+Panoptic Segmentation#Cityscapes test#PQ#60

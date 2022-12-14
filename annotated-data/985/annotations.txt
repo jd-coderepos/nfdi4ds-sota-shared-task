@@ -1,0 +1,4 @@
+Relation Extraction#CoNLL04#NER Macro F1#84.15
+Relation Extraction#CoNLL04#RE+ Macro F1#62.29
+Relation Extraction#ADE Corpus#NER Macro F1#87.02
+Relation Extraction#ADE Corpus#RE+ Macro F1#77.19

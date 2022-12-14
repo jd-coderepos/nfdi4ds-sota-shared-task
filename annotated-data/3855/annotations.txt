@@ -1,0 +1,4 @@
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-1#43.16
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-2#20.42
+Abstractive Text Summarization#CNN / Daily Mail#ROUGE-L#40.14
+Question Generation#SQuAD1.1#BLEU-4#24.43

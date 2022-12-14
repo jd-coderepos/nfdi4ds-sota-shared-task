@@ -1,0 +1,1 @@
+6D Pose Estimation#YCB-Video#ADDS AUC#93.3

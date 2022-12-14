@@ -1,0 +1,3 @@
+Semantic Segmentation#CamVid#Mean IoU#81.7%
+Semantic Segmentation#KITTI Semantic Segmentation#Mean IoU (class)#72.8%
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#83.5%

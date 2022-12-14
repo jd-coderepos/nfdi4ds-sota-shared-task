@@ -1,0 +1,2 @@
+Face Verification#IJB-A#TAR @ FAR=0.01#94.40%
+Face Identification#IJB-A#Accuracy#94.60%

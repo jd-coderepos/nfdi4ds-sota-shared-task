@@ -1,0 +1,2 @@
+Unsupervised Video Summarization#SumMe#F1-score#41.9
+Unsupervised Video Summarization#TvSum#F1-score#57.6

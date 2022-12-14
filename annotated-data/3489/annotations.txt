@@ -1,0 +1,3 @@
+Image Retrieval#Flickr30K 1K test#R@1#29.7
+Image Retrieval#Flickr30K 1K test#R@10#72.1
+Image Retrieval#Flickr30K 1K test#R@5#60.1

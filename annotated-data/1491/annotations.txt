@@ -1,0 +1,4 @@
+Layout-to-Image Generation#Visual Genome 64x64#FID#74.61
+Layout-to-Image Generation#Visual Genome 64x64#Inception Score#6.3
+Layout-to-Image Generation#COCO-Stuff 64x64#FID#67.96
+Layout-to-Image Generation#COCO-Stuff 64x64#Inception Score#7.3

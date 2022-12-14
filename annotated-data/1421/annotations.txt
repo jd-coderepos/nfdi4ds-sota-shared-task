@@ -1,0 +1,3 @@
+Image Generation#CIFAR-10#bits/dimension#3.49
+Image Generation#CIFAR-10#bits/dimension#3.5
+Image Generation#ImageNet 32x32#bpd#4.28

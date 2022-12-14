@@ -1,0 +1,2 @@
+Image Super-Resolution#FFHQ 256 x 256 - 4x upscaling#PSNR#15.74
+Image Super-Resolution#FFHQ 256 x 256 - 4x upscaling#SSIM#0.37

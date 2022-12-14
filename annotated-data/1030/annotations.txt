@@ -1,0 +1,3 @@
+Video Alignment#UPenn Action#Kendall's Tau#0.7672
+Video Alignment#UPenn Action#Kendall's Tau#0.7328
+Video Alignment#UPenn Action#Kendall's Tau#0.7286

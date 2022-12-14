@@ -1,0 +1,2 @@
+Depth Estimation#NYU-Depth V2#RMS#0.586
+Monocular Depth Estimation#NYU-Depth V2#RMSE#0.586

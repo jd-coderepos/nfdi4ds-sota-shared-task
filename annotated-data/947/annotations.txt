@@ -1,0 +1,5 @@
+Relation Extraction#Re-TACRED#F1#80.3
+Relation Extraction#TACRED#F1#68.2
+Relation Extraction#TACRED#F1#67.1
+Relation Extraction#TACRED#F1#66.4
+Relation Extraction#TACRED#F1#64.0

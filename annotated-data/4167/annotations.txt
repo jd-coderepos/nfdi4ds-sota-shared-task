@@ -1,0 +1,1 @@
+RGB-D Salient Object Detection#SIP#Average MAE#0.043

@@ -1,0 +1,3 @@
+Language Modelling#LAMBADA#Accuracy#54.34
+Music Transcription#MusicNet#APS#78.02
+Music Transcription#MusicNet#Number of params#3.06M

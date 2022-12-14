@@ -1,0 +1,1 @@
+Semantic Segmentation#GTAV-to-Cityscapes Labels#mIoU#48.3

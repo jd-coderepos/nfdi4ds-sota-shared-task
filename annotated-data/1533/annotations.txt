@@ -1,0 +1,3 @@
+Person Re-Identification#PRID2011#Rank-1#85.3
+Person Re-Identification#PRID2011#Rank-20#99.6
+Person Re-Identification#PRID2011#Rank-5#97.0

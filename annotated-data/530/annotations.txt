@@ -1,0 +1,3 @@
+Pedestrian Attribute Recognition#RAP#Accuracy#68.17%
+Pedestrian Attribute Recognition#PETA#Accuracy#79.52%
+Pedestrian Attribute Recognition#PA-100K#Accuracy#77.08%

@@ -1,0 +1,2 @@
+Language Modelling#Text8#Bit per Character (BPC)#1.49
+Language Modelling#Text8#Bit per Character (BPC)#1.63

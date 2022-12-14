@@ -1,0 +1,7 @@
+Skeleton Based Action Recognition#NTU RGB+D 120#Accuracy (Cross-Setup)#57.9%
+Skeleton Based Action Recognition#NTU RGB+D 120#Accuracy (Cross-Subject)#55.7%
+Skeleton Based Action Recognition#SBU#Accuracy#93.3%
+Skeleton Based Action Recognition#NTU RGB+D#Accuracy (CS)#69.2
+Skeleton Based Action Recognition#NTU RGB+D#Accuracy (CV)#77.7
+Skeleton Based Action Recognition#NTU RGB+D#Accuracy (CS)#61.70
+Skeleton Based Action Recognition#NTU RGB+D#Accuracy (CV)#75.50

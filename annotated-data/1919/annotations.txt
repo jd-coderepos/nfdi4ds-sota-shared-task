@@ -1,0 +1,4 @@
+Video Retrieval#LSMDC#text-to-video Median Rank#27
+Video Retrieval#LSMDC#text-to-video R@1#10.1
+Video Retrieval#LSMDC#text-to-video R@10#34.6
+Video Retrieval#LSMDC#text-to-video R@5#25.6

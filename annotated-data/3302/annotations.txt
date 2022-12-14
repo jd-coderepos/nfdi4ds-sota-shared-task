@@ -1,0 +1,4 @@
+Entity Alignment#DBP15k zh-en#Hits@1#0.7203
+Entity Alignment#DBP15k zh-en#Hits@1#0.6294
+Entity Alignment#DBP15k zh-en#Hits@1#0.4125
+Entity Alignment#DBP15k zh-en#Hits@1#0.3083

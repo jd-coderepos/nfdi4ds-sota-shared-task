@@ -1,0 +1,2 @@
+Image-to-Image Translation#SYNTHIA-to-Cityscapes#mIoU (13 classes)#46.5
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#46.5

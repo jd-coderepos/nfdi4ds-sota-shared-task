@@ -1,0 +1,9 @@
+Recommendation Systems#Million Song Dataset#Recall@20#0.333
+Recommendation Systems#Million Song Dataset#Recall@50#0.428
+Recommendation Systems#Million Song Dataset#nDCG@100#0.389
+Recommendation Systems#MovieLens 20M#Recall@20#0.391
+Recommendation Systems#MovieLens 20M#Recall@50#0.521
+Recommendation Systems#MovieLens 20M#nDCG@100#0.420
+Recommendation Systems#Netflix#Recall@20#0.362
+Recommendation Systems#Netflix#Recall@50#0.445
+Recommendation Systems#Netflix#nDCG@100#0.393

@@ -1,0 +1,2 @@
+Image Super-Resolution#WebFace - 8x upscaling#PSNR#23.10
+Image Super-Resolution#VggFace2 - 8x upscaling#PSNR#21.84

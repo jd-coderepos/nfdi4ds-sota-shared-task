@@ -1,0 +1,7 @@
+Action Recognition#Something-Something V1#Top 1 Accuracy#49.7
+Action Recognition#Something-Something V1#Top 1 Accuracy#49.5
+Action Recognition#Something-Something V1#Top 5 Accuracy#86.1
+Action Recognition#Something-Something V2#Top-1 Accuracy#62.2
+Action Recognition#Something-Something V2#Top-5 Accuracy#90.3
+Action Recognition#Something-Something V2#Top-1 Accuracy#61.3
+Action Recognition#Something-Something V2#Top-5 Accuracy#91.4

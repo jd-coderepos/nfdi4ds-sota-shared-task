@@ -1,0 +1,2 @@
+Text Simplification#Newsela#BLEU#19.55
+Text Simplification#Newsela#SARI#30.73

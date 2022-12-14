@@ -1,0 +1,2 @@
+Partial Domain Adaptation#Office-31#Accuracy (%)#96.9
+Partial Domain Adaptation#Office-Home#Accuracy (%)#72.3

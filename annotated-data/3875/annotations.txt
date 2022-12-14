@@ -1,0 +1,2 @@
+Extractive Text Summarization#CNN / Daily Mail#ROUGE-1#30.80
+Extractive Text Summarization#CNN / Daily Mail#ROUGE-2#12.6

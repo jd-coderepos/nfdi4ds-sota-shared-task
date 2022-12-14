@@ -1,0 +1,3 @@
+Human-Object Interaction Detection#HICO-DET#mAP#19.8
+Human-Object Interaction Detection#V-COCO#MAP#51.76
+Human-Object Interaction Detection#V-COCO#Time Per Frame(ms)#312

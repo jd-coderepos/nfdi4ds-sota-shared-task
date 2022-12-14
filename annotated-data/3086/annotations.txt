@@ -1,0 +1,2 @@
+Dependency Parsing#GENIA - LAS#F1#91.92
+Dependency Parsing#GENIA - UAS#F1#92.84

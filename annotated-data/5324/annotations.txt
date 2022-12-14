@@ -1,0 +1,1 @@
+natural_language_inference#SciTail#Accuracy#86.0

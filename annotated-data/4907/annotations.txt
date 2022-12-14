@@ -1,0 +1,5 @@
+Graph Classification#NCI1#Accuracy#73.5
+Graph Classification#REDDIT-B#Accuracy#89.4
+Graph Classification#PROTEINS#Accuracy#76.5
+Graph Classification#D&D#Accuracy#75.4
+Graph Classification#IMDb-B#Accuracy#72.2

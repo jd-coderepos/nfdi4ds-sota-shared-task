@@ -1,0 +1,6 @@
+Point Cloud Generation#ShapeNet Chair#1-NNA-CD#58.76
+Point Cloud Generation#ShapeNet Chair#MMD-CD#2.55
+Point Cloud Generation#ShapeNet Airplane#1-NNA-CD#75.31
+Point Cloud Generation#ShapeNet Airplane#MMD-CD#0.199
+Point Cloud Generation#ShapeNet Car#1-NNA-CD#59.66
+Point Cloud Generation#ShapeNet Car#MMD-CD#0.88

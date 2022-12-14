@@ -1,0 +1,8 @@
+Pedestrian Detection#CityPersons#Bare MR^-2#9.2
+Pedestrian Detection#CityPersons#Heavy MR^-2#52.0
+Pedestrian Detection#CityPersons#Partial MR^-2#15.9
+Pedestrian Detection#CityPersons#Reasonable MR^-2#14.4
+Pedestrian Detection#CityPersons#Bare MR^-2#10.0
+Pedestrian Detection#CityPersons#Heavy MR^-2#53.6
+Pedestrian Detection#CityPersons#Partial MR^-2#17.2
+Pedestrian Detection#CityPersons#Reasonable MR^-2#15.5

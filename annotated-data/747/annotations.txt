@@ -1,0 +1,2 @@
+Domain Adaptation#SYNTHIA-to-Cityscapes#mIoU#52.6
+Domain Adaptation#SYNTHIA-to-Cityscapes#mIoU#49.1

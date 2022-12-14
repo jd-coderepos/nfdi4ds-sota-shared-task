@@ -1,0 +1,3 @@
+Image Super-Resolution#BSD100 - 4x upscaling#PSNR#27.16
+Image Super-Resolution#Set5 - 4x upscaling#PSNR#31.10
+Image Super-Resolution#Set14 - 4x upscaling#PSNR#27.88

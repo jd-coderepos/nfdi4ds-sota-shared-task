@@ -1,0 +1,4 @@
+Semantic Role Labeling#CoNLL 2005#F1#88.5
+Semantic Role Labeling#CoNLL 2005#F1#87.6
+Semantic Role Labeling#OntoNotes#F1#87.0
+Semantic Role Labeling#OntoNotes#F1#86.2

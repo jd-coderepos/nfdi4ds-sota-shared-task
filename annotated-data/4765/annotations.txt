@@ -1,0 +1,6 @@
+Referring Expression Segmentation#RefCOCO+ testA#Overall IoU#47.60
+Referring Expression Segmentation#RefCOCO+ test B#Overall IoU#37.89
+Referring Expression Segmentation#RefCOCO testB#IoU#55.09
+Referring Expression Segmentation#RefCOCO+ val#Overall IoU#43.76
+Referring Expression Segmentation#RefCOCO testA#IoU#60.61
+Referring Expression Segmentation#RefCoCo val#IoU#58.32

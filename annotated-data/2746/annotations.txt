@@ -1,0 +1,4 @@
+Semantic Segmentation#S3DIS Area5#mAcc#67.0
+Semantic Segmentation#S3DIS Area5#mIoU#58.3
+3D Part Segmentation#ShapeNet-Part#Class Average IoU#81.8
+3D Part Segmentation#ShapeNet-Part#Instance Average IoU#85.1

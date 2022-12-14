@@ -1,0 +1,5 @@
+Semantic correspondence#PF-WILLOW#PCK#76.3
+Semantic correspondence#PF-PASCAL#PCK#88.3
+Semantic correspondence#SPair-71k#PCK#28.2
+Semantic correspondence#Caltech-101#IoU#63
+Semantic correspondence#Caltech-101#LT-ACC#87

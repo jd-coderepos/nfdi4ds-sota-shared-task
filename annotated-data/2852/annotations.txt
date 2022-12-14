@@ -1,0 +1,2 @@
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#56.7%
+Semantic Segmentation#PASCAL VOC 2012 val#mIoU#55.7%

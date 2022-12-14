@@ -1,0 +1,4 @@
+Relation Extraction#ChemProt#F1#72.94
+Drug–drug Interaction Extraction#DDI extraction 2013 corpus#Micro F1#79.13
+Named Entity Recognition#NCBI-disease#F1#87.54
+Named Entity Recognition#BC5CDR#F1#90.03

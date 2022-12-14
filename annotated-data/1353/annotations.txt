@@ -1,0 +1,2 @@
+Image Generation#CelebA-HQ 128x128#FID#15.4
+Image Generation#CIFAR-10#FID#16.1

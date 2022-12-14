@@ -1,0 +1,2 @@
+Visual Navigation#R2R#spl#0.38
+Vision-Language Navigation#Room2Room#spl#0.59

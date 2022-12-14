@@ -1,0 +1,5 @@
+Face Verification#Oulu-CASIA NIR-VIS#TAR @ FAR=0.001#84.9
+Face Verification#Oulu-CASIA NIR-VIS#TAR @ FAR=0.01#97.2
+Face Verification#CASIA NIR-VIS 2.0#TAR @ FAR=0.001#99.6
+Face Verification#BUAA-VisNir#TAR @ FAR=0.001#96.9
+Face Verification#BUAA-VisNir#TAR @ FAR=0.01#98.5

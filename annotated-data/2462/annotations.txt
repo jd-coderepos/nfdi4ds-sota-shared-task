@@ -1,0 +1,2 @@
+Egocentric Activity Recognition#EGTEA#Average Accuracy#69.58
+Egocentric Activity Recognition#EGTEA#Mean class accuracy#62.84

@@ -1,0 +1,5 @@
+Language Modelling#Penn Treebank (Character Level)#Bit per Character (BPC)#1.24
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#84.38
+Sequential Image Classification#Sequential MNIST#Unpermuted Accuracy#99.1%
+Music Modeling#Nottingham#NLL#2.37
+Music Modeling#Nottingham#NLL#3.34

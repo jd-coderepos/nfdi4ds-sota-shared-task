@@ -1,0 +1,2 @@
+Scene Text Detection#Total-Text#F-Measure#84.6%
+Curved Text Detection#SCUT-CTW1500#F-Measure#86.3%

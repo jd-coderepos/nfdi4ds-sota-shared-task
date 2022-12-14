@@ -1,0 +1,4 @@
+Visual Question Answering#MSRVTT-QA#Accuracy#0.356
+Visual Question Answering#MSVD-QA#Accuracy#0.361
+Video Question Answering#SUTD-TrafficQA#1/2#63.79
+Video Question Answering#SUTD-TrafficQA#1/4#36.49

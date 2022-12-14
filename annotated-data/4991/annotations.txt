@@ -1,0 +1,6 @@
+Node Classification#Cornell#Accuracy#85.68
+Node Classification#Squirrel#Accuracy#55.17
+Node Classification#Texas#Accuracy#84.86
+Node Classification#Chameleon#Accuracy#71.14
+Node Classification#Actor#Accuracy#37.54
+Node Classification#Wisconsin#Accuracy#86.86

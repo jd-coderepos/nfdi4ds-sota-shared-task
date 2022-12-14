@@ -1,0 +1,2 @@
+Time Series Classification#PhysioNet Challenge 2012#AUC#85.8%
+Time Series Classification#PhysioNet Challenge 2012#AUC#85.4%

@@ -1,0 +1,7 @@
+Dialogue State Tracking#Second dialogue state tracking challenge#Area#90
+Dialogue State Tracking#Second dialogue state tracking challenge#Food#84
+Dialogue State Tracking#Second dialogue state tracking challenge#Joint#73.4
+Dialogue State Tracking#Second dialogue state tracking challenge#Price#94
+Dialogue State Tracking#Second dialogue state tracking challenge#Request#96.5
+Dialogue State Tracking#Wizard-of-Oz#Joint#84.4
+Dialogue State Tracking#Wizard-of-Oz#Request#96.5

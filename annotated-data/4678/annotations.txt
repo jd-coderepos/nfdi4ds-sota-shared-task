@@ -1,0 +1,2 @@
+3D Object Classification#ModelNet10#Accuracy#93.8
+3D Point Cloud Classification#Sydney Urban Objects#F1#77.8

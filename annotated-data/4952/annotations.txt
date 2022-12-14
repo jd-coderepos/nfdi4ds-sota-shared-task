@@ -1,0 +1,3 @@
+Node Classification#Citeseer#Accuracy#80.09%
+Node Classification#Pubmed#Accuracy#90.21%
+Node Classification#Cora#Accuracy#86.80%

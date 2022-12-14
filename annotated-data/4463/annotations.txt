@@ -1,0 +1,9 @@
+Image Classification#Clothing1M#Accuracy#74.76%
+Image Classification#mini WebVision 1.0#ImageNet Top-1 Accuracy#75.20
+Image Classification#mini WebVision 1.0#ImageNet Top-5 Accuracy#91.64
+Image Classification#mini WebVision 1.0#Top-1 Accuracy#77.32
+Image Classification#mini WebVision 1.0#Top-5 Accuracy#91.64
+Image Classification#mini WebVision 1.0#ImageNet Top-1 Accuracy#74.42
+Image Classification#mini WebVision 1.0#ImageNet Top-5 Accuracy#91.21
+Image Classification#mini WebVision 1.0#Top-1 Accuracy#76.32
+Image Classification#mini WebVision 1.0#Top-5 Accuracy#90.65

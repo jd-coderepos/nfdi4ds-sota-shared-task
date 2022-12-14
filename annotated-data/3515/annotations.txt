@@ -1,0 +1,6 @@
+Ad-Hoc Information Retrieval#TREC Robust04#MAP#0.271
+Ad-Hoc Information Retrieval#TREC Robust04#P@20#0.389
+Ad-Hoc Information Retrieval#TREC Robust04#nDCG@20#0.464
+Ad-Hoc Information Retrieval#TREC Robust04#MAP#0.258
+Ad-Hoc Information Retrieval#TREC Robust04#P@20#0.374
+Ad-Hoc Information Retrieval#TREC Robust04#nDCG@20#0.445

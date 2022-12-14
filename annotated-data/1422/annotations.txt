@@ -1,0 +1,2 @@
+Image Generation#CIFAR-10#bits/dimension#3.51
+Image Generation#CIFAR-10#bits/dimension#3.65

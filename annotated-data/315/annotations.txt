@@ -1,0 +1,3 @@
+Face Detection#FDDB#AP#0.960
+Face Detection#PASCAL Face#AP#0.9630
+Face Detection#Annotated Faces in the Wild#AP#0.9891

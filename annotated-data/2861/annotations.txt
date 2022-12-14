@@ -1,0 +1,2 @@
+Semantic Segmentation#Cityscapes val#mIoU#83.04%
+Semantic Segmentation#PASCAL VOC 2012 val#mIoU#85.64%

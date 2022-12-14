@@ -1,0 +1,4 @@
+Speech Recognition#swb_hub_500 WER fullSWBCH#Percentage error#11.9
+Speech Recognition#Switchboard + Hub500#Percentage error#6.2
+Speech Recognition#Switchboard + Hub500#Percentage error#6.3
+Speech Recognition#Switchboard + Hub500#Percentage error#6.9

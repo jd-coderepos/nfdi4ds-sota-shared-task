@@ -1,0 +1,3 @@
+Dense Video Captioning#ActivityNet Captions#BLEU-3#2.6
+Dense Video Captioning#ActivityNet Captions#BLEU-4#1.07
+Dense Video Captioning#ActivityNet Captions#METEOR#7.31

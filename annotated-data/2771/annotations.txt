@@ -1,0 +1,1 @@
+Semantic Segmentation#LIP val#mIoU#51.37%

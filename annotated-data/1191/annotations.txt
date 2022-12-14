@@ -1,0 +1,2 @@
+Machine Translation#WMT2014 English-French#BLEU score#41.5
+Machine Translation#WMT2014 English-German#BLEU score#29.2

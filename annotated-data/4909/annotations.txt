@@ -1,0 +1,5 @@
+Graph Classification#NCI1#Accuracy#71.48
+Graph Classification#NCI109#Accuracy#70.07
+Graph Classification#FRANKENSTEIN#Accuracy#66.26
+Graph Classification#PROTEINS#Accuracy#74.19%
+Graph Classification#D&D#Accuracy#76.87

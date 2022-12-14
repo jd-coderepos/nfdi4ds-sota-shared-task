@@ -1,0 +1,6 @@
+Link Prediction#Citeseer#Accuracy#91.40%
+Link Prediction#Pubmed#Accuracy#97.1%
+Link Prediction#Cora#Accuracy#92.00%
+Graph Clustering#Citeseer#Accuracy#40.8%
+Graph Clustering#Cora#Accuracy#59.6%
+Graph Clustering#Pubmed#Accuracy#65.48%

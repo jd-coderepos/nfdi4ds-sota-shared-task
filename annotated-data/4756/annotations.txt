@@ -1,0 +1,3 @@
+3D Instance Segmentation#S3DIS#mPrec#68.5
+3D Instance Segmentation#S3DIS#mRec#50.8
+3D Instance Segmentation#ScanNet(v2)#Mean AP @ 0.5#63.8

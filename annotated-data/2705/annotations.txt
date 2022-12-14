@@ -1,0 +1,3 @@
+Adversarial Defense#ImageNet (non-targeted PGD, max perturbation=4)#Accuracy#36.0%
+Adversarial Defense#ImageNet (non-targeted PGD, max perturbation=4)#Accuracy#34.3%
+Adversarial Defense#ImageNet (non-targeted PGD, max perturbation=4)#Accuracy#31.8%

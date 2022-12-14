@@ -1,0 +1,6 @@
+Unsupervised Machine Translation#WMT2014 English-French#BLEU#36.2
+Unsupervised Machine Translation#WMT2016 German-English#BLEU#34.4
+Unsupervised Machine Translation#WMT2014 English-German#BLEU#22.5
+Unsupervised Machine Translation#WMT2014 French-English#BLEU#33.5
+Unsupervised Machine Translation#WMT2016 English-German#BLEU#26.9
+Unsupervised Machine Translation#WMT2014 German-English#BLEU#27.0

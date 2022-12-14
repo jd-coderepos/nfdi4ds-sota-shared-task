@@ -1,0 +1,7 @@
+Graph Classification#ENZYMES#Accuracy#78.39
+Graph Classification#ENZYMES#Accuracy#65.13
+Node Classification#CiteSeer with Public Split: fixed 20 nodes per class#Accuracy#73.3
+Node Classification#PubMed with Public Split: fixed 20 nodes per class#Accuracy#81.9%
+Node Classification#Cora: fixed 20 node per class#Accuracy#84.2
+Node Classification#PPI#F1#99.09
+Node Classification#Cora with Public Split: fixed 20 nodes per class#Accuracy#84.2%

@@ -1,0 +1,2 @@
+Recommendation Systems#Epinions#MAE#0.8168
+Recommendation Systems#Epinions#RMSE#1.0631

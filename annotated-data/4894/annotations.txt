@@ -1,0 +1,4 @@
+Graph Classification#RE-M5K#Accuracy#52.11%
+Graph Classification#COLLAB#Accuracy#71.76%
+Graph Classification#RE-M12K#Accuracy#48.13%
+Graph Classification#IMDb-B#Accuracy#70.40%

@@ -1,0 +1,2 @@
+Human Part Segmentation#PASCAL-Part#mIoU#72.82
+Human Part Segmentation#PASCAL-Part#mIoU#65.02

@@ -1,0 +1,4 @@
+Code Generation#WikiSQL#Exact Match Accuracy#61.0
+Code Generation#WikiSQL#Execution Accuracy#74.6
+Code Generation#WikiSQL#Exact Match Accuracy#60.7
+Code Generation#WikiSQL#Execution Accuracy#74.4

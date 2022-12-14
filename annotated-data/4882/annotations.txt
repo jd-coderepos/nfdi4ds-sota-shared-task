@@ -1,0 +1,16 @@
+Speech Enhancement#DEMAND#CBAK#3.43
+Speech Enhancement#DEMAND#COVL#3.72
+Speech Enhancement#DEMAND#CSIG#4.38
+Speech Enhancement#DEMAND#PESQ#3.02
+Speech Enhancement#DEMAND#CBAK#3.35
+Speech Enhancement#DEMAND#COVL#3.67
+Speech Enhancement#DEMAND#CSIG#4.36
+Speech Enhancement#DEMAND#PESQ#2.94
+Speech Enhancement#DEMAND#CBAK#3.32
+Speech Enhancement#DEMAND#COVL#3.62
+Speech Enhancement#DEMAND#CSIG#4.29
+Speech Enhancement#DEMAND#PESQ#2.93
+Speech Enhancement#DEMAND#CBAK#3.23
+Speech Enhancement#DEMAND#COVL#3.56
+Speech Enhancement#DEMAND#CSIG#4.27
+Speech Enhancement#DEMAND#PESQ#2.84

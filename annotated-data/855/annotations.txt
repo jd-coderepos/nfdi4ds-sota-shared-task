@@ -1,0 +1,1 @@
+Distant Speech Recognition#DIRHA English WSJ#Word Error Rate (WER)#29.8

@@ -1,0 +1,2 @@
+Entity Disambiguation#AIDA-CoNLL#In-KB Accuracy#94.7
+Entity Disambiguation#TAC2010#Micro Precision#87.7

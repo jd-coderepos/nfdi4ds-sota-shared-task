@@ -1,0 +1,2 @@
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Sub Task 1#Laptop (F1)#78.42
+Aspect-Based Sentiment Analysis#SemEval 2014 Task 4 Sub Task 1#Restaurant (F1)#69.74

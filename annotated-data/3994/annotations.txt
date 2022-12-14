@@ -1,0 +1,10 @@
+Object Detection#KITTI Cars Easy#AP#60.34
+Object Detection#KITTI Cars Moderate#AP#47.51
+Object Detection#KITTI Cars Hard#AP#42.74
+Birds Eye View Object Detection#KITTI Cyclist Hard val#AP#N/A
+Birds Eye View Object Detection#KITTI Pedestrian Hard val#AP#N/A
+Birds Eye View Object Detection#KITTI Cyclist Moderate val#AP#N/A
+Birds Eye View Object Detection#KITTI Pedestrian Moderate val#AP#N/A
+Birds Eye View Object Detection#KITTI Cars Moderate val#AP#32.08
+Birds Eye View Object Detection#KITTI Cyclist Easy val#AP#N/A
+Birds Eye View Object Detection#KITTI Pedestrian Easy val#AP#N/A

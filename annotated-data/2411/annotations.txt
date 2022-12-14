@@ -1,0 +1,4 @@
+Data-to-Text Generation#ToTTo#BLEU#44
+Data-to-Text Generation#ToTTo#PARENT#52.6
+Data-to-Text Generation#ToTTo#BLEU#41.6
+Data-to-Text Generation#ToTTo#PARENT#51.6

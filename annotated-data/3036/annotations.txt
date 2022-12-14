@@ -1,0 +1,9 @@
+Semantic Parsing#DRG (german, MRP 2020)#F1#89.83
+Semantic Parsing#PTG (czech, MRP 2020)#F1#92.24
+Semantic Parsing#PTG (english, MRP 2020)#F1#89.19
+Semantic Parsing#DRG (english, MRP 2020)#F1#94.16
+Semantic Parsing#UCCA (german, MRP 2020)#F1#81.01
+Semantic Parsing#AMR (chinese, MRP 2020)#F1#80.52
+Semantic Parsing#UCCA (english, MRP 2020)#F1#76.4
+Semantic Parsing#AMR (english, MRP 2020)#F1#80.23
+Semantic Parsing#EDS (english, MRP 2020)#F1#92.73

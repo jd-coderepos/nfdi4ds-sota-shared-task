@@ -1,0 +1,5 @@
+Action Classification#Kinetics-400#Vid acc@1#77.4
+Action Recognition#Something-Something V1#Top 1 Accuracy#54.1
+Action Recognition#Something-Something V1#Top 5 Accuracy#82.2
+Action Recognition#Something-Something V1#Top 1 Accuracy#52.7
+Action Recognition#Something-Something V1#Top 5 Accuracy#81.5

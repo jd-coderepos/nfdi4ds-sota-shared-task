@@ -1,0 +1,3 @@
+Horizon Line Estimation#York Urban Dataset#AUC (horizon error)#94.78
+Horizon Line Estimation#Horizon Lines in the Wild#AUC (horizon error)#58.24
+Horizon Line Estimation#Eurasian Cities Dataset#AUC (horizon error)#90.80

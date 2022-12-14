@@ -1,0 +1,7 @@
+Recommendation Systems#MovieLens 100K#RMSE (u1 Splits)#0.884
+Recommendation Systems#MovieLens 100K#RMSE (u1 Splits)#0.886
+Recommendation Systems#MovieLens 10M#RMSE#0.7485
+Recommendation Systems#MovieLens 10M#RMSE#0.7523
+Recommendation Systems#MovieLens 10M#RMSE#0.7563
+Recommendation Systems#MovieLens 10M#RMSE#0.772
+Recommendation Systems#MovieLens 10M#RMSE#0.823

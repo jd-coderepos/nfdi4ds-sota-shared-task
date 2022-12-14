@@ -1,0 +1,3 @@
+Pose Estimation#MPII Human Pose#PCKh-0.5#92.7
+Pose Estimation#Leeds Sports Poses#PCK#94.5%
+Pose Estimation#UPenn Action#Mean PCK@0.2#99.3

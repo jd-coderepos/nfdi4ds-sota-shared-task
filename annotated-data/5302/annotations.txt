@@ -1,0 +1,5 @@
+text_classification#AG News#Error#5.01
+text_classification#DBpedia#Error#0.80
+text_classification#TREC#Error#3.6
+sentiment_analysis#IMDb#Accuracy#95.4
+sentiment_analysis#Yelp#Error#29.98

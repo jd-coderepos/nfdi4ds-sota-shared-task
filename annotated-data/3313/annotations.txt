@@ -1,0 +1,2 @@
+Entity Linking#AIDA-CoNLL#Macro-F1 strong#81.3
+Entity Linking#AIDA-CoNLL#Micro-F1 strong#83.3

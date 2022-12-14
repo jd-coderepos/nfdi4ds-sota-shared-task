@@ -1,0 +1,8 @@
+Language Modelling#enwik8#Bit per Character (BPC)#0.98
+Language Modelling#enwik8#Number of params#209M
+Language Modelling#enwik8#Bit per Character (BPC)#1.02
+Language Modelling#enwik8#Number of params#39M
+Language Modelling#Text8#Bit per Character (BPC)#1.07
+Language Modelling#Text8#Number of params#209M
+Language Modelling#Text8#Bit per Character (BPC)#1.11
+Language Modelling#Text8#Number of params#38M

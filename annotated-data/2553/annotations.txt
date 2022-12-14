@@ -1,0 +1,4 @@
+Natural Language Inference#ANLI test#A1#75
+Natural Language Inference#ANLI test#A2#50.5
+Natural Language Inference#ANLI test#A3#47.7
+Natural Language Inference#ANLI test#ANLI#58.3

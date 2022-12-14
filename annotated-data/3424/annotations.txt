@@ -1,0 +1,1 @@
+Scene Text Detection#ICDAR 2013#F-Measure#90.3%

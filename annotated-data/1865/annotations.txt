@@ -1,0 +1,2 @@
+Action Recognition#NTU RGB+D#Accuracy (CS)#74.9
+Multimodal Activity Recognition#MSR Daily Activity3D dataset#Accuracy#97.5

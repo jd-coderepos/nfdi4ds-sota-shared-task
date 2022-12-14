@@ -1,0 +1,5 @@
+Node Classification#Citeseer#Accuracy#75.7
+Node Classification#Pubmed#Accuracy#80.2
+Node Classification#Cora#Accuracy#86.80%
+Node Classification#YouTube#Macro-F1@2%#30.77
+Node Classification#YouTube#Micro-F1@2%#38.59

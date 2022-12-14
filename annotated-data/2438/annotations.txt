@@ -1,0 +1,2 @@
+Text Style Transfer#Yelp Review Dataset (Small)#G-Score (BLEU, Accuracy)#54.64
+Text Style Transfer#Yelp Review Dataset (Small)#G-Score (BLEU, Accuracy)#54.11

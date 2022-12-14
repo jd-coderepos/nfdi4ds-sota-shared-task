@@ -1,0 +1,3 @@
+Lane Detection#TuSimple#Accuracy#96.40%
+Instance Segmentation#Cityscapes test#Average Precision#17.5
+Multi-Human Parsing#MHP v1.0#AP 0.5#47.76%

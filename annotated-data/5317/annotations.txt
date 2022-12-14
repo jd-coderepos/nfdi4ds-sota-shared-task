@@ -1,0 +1,3 @@
+summarization#Gigaword#ROUGE-1#37.04
+summarization#Gigaword#ROUGE-2#19.03
+summarization#Gigaword#ROUGE-L#34.46

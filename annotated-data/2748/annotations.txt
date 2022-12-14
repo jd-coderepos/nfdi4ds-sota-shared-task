@@ -1,0 +1,4 @@
+Semantic Segmentation#S3DIS Area5#mAcc#62.2
+Semantic Segmentation#S3DIS Area5#mIoU#52.6
+Semantic Segmentation#ScanNet#3DIoU#0.438
+3D Semantic Segmentation#SemanticKITTI#mIoU#35.9%

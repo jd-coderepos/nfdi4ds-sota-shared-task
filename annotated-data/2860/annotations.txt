@@ -1,0 +1,1 @@
+Semantic Segmentation#COCO-Stuff test#mIoU#31.2%

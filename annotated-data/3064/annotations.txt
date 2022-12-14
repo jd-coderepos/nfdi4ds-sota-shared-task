@@ -1,0 +1,2 @@
+UCCA Parsing#SemEval 2019 Task 1#English-20K (open) F1#68.4
+UCCA Parsing#SemEval 2019 Task 1#English-Wiki (open) F1#73.5

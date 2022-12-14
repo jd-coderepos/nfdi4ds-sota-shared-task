@@ -1,0 +1,4 @@
+Question Answering#SQuAD1.1#EM#77.583
+Question Answering#SQuAD1.1#F1#84.163
+Question Answering#SQuAD1.1#EM#75.789
+Question Answering#SQuAD1.1#F1#83.261

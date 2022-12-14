@@ -1,0 +1,1 @@
+part-of-speech_tagging#UD#Avg Accuracy#95.55

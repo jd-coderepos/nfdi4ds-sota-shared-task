@@ -1,0 +1,3 @@
+Multi-Person Pose Estimation#PoseTrack2017#Mean mAP#59.4
+Pose Tracking#PoseTrack2017#MOTA#48.37
+Pose Tracking#PoseTrack2017#mAP#59.22

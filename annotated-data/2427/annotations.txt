@@ -1,0 +1,1 @@
+Data-to-Text Generation#LDC2017T10#BLEU#33.02

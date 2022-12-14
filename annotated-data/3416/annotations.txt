@@ -1,0 +1,6 @@
+Scene Text Detection#ICDAR 2015#F-Measure#88.52
+Scene Text Detection#ICDAR 2015#Precision#90.41
+Scene Text Detection#ICDAR 2015#Recall#86.71
+Scene Text Detection#ICDAR 2017 MLT#F-Measure#74.54%
+Scene Text Detection#ICDAR 2017 MLT#Precision#79.63
+Scene Text Detection#ICDAR 2017 MLT#Recall#70.06

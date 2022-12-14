@@ -1,0 +1,6 @@
+Question Answering#SQuAD1.1#EM#75.034
+Question Answering#SQuAD1.1#F1#82.552
+Question Answering#SQuAD1.1#EM#70.555
+Question Answering#SQuAD1.1#F1#79.364
+Question Answering#CNN / Daily Mail#CNN#74.7
+Question Answering#CNN / Daily Mail#Daily Mail#76.6

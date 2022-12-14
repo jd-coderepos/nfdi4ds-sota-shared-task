@@ -1,0 +1,2 @@
+Relation Extraction#TACRED#F1#69.4
+Relation Extraction#SemEval-2010 Task 8#F1#89.25

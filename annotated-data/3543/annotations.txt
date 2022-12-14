@@ -1,0 +1,21 @@
+Neural Architecture Search#ImageNet#Accuracy#80.6
+Neural Architecture Search#ImageNet#MACs#596M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#19.4
+Neural Architecture Search#ImageNet#Accuracy#80.3
+Neural Architecture Search#ImageNet#MACs#491M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#19.7
+Neural Architecture Search#ImageNet#Accuracy#80.0
+Neural Architecture Search#ImageNet#MACs#444M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#20.0
+Neural Architecture Search#ImageNet#Accuracy#79.4
+Neural Architecture Search#ImageNet#MACs#357M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#20.6
+Neural Architecture Search#ImageNet#Accuracy#79.2
+Neural Architecture Search#ImageNet#MACs#317M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#20.8
+Neural Architecture Search#ImageNet#Accuracy#79.0
+Neural Architecture Search#ImageNet#MACs#279M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#21.0
+Neural Architecture Search#ImageNet#Accuracy#77.9
+Neural Architecture Search#ImageNet#MACs#203M
+Neural Architecture Search#ImageNet#Top-1 Error Rate#22.1

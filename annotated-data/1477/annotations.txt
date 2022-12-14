@@ -1,0 +1,5 @@
+Text-to-Image Generation#COCO#FID#33.35
+Text-to-Image Generation#COCO#Inception score#24.76
+Text-to-Image Generation#COCO#SOA-C#25.46
+Text-to-Image Generation#COCO#FID#55.30
+Text-to-Image Generation#COCO#Inception score#12.12

@@ -1,0 +1,1 @@
+Word Sense Disambiguation#SensEval 3 Lexical Sample#F1#72.5

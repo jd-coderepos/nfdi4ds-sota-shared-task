@@ -1,0 +1,9 @@
+Image Classification#STL-10#Percentage correct#59.45
+Image Classification#STL-10#Percentage correct#59.33
+Image Classification#STL-10#Percentage correct#59.13
+Image Classification#STL-10#Percentage correct#58.93
+Image Classification#STL-10#Percentage correct#58.84
+Image Classification#STL-10#Percentage correct#58.81
+Image Classification#STL-10#Percentage correct#58.15
+Image Classification#STL-10#Percentage correct#57.35
+Image Classification#STL-10#Percentage correct#57.31

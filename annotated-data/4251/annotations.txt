@@ -1,0 +1,3 @@
+Text Classification#Yelp-5#Accuracy#73.28%
+Text Classification#IMDb#Accuracy (10 classes)#-
+Text Classification#IMDb#Accuracy (2 classes)#95.17

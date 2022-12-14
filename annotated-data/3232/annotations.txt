@@ -1,0 +1,3 @@
+Sentiment Analysis#Yelp Binary classification#Error#3.96
+Sentiment Analysis#Amazon Review Full#Accuracy#61.65
+Sentiment Analysis#Amazon Review Polarity#Accuracy#95.26

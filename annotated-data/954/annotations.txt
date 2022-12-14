@@ -1,0 +1,2 @@
+Relation Extraction#WebNLG#F1#60.5
+Relation Extraction#NYT#F1#72.2

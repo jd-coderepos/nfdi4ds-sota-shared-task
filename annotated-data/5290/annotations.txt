@@ -1,0 +1,3 @@
+dependency_parsing#benchmark Vietnamese dependency treebank VnDT#LAS#71.72
+dependency_parsing#benchmark Vietnamese dependency treebank VnDT#UAS#79.26
+part-of-speech_tagging#VLSP 2013 POS tagging shared task#Accuracy#95.61

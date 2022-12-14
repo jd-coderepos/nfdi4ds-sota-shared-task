@@ -1,0 +1,1 @@
+Domain Generalization#ImageNet-A#Top-1 accuracy %#8.4

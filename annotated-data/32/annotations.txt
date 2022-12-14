@@ -1,0 +1,2 @@
+Trajectory Prediction#INTERACTION Dataset - Validation#minADE6#0.17
+Trajectory Prediction#INTERACTION Dataset - Validation#minFDE6#0.49

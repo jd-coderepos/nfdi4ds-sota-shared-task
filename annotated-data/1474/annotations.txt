@@ -1,0 +1,2 @@
+Text-to-Image Generation#CUB#FID#67.22
+Text-to-Image Generation#CUB#Inception score#3.62

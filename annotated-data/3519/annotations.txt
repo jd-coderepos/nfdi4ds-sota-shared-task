@@ -1,0 +1,5 @@
+Text Simplification#Newsela#BLEU#19.85
+Text Simplification#Newsela#SARI#31.41
+Text Simplification#PWKP / WikiSmall#SARI#32.35
+Text Simplification#TurkCorpus#BLEU#86.69
+Text Simplification#TurkCorpus#SARI (EASSE>=0.2.1)#38.22

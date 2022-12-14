@@ -1,0 +1,4 @@
+Sentiment Analysis#IMDb#Accuracy#45.1
+Sentiment Analysis#IMDb#Accuracy#44.5
+Sentiment Analysis#SST-2 Binary classification#Accuracy#87.6
+Sentiment Analysis#SST-2 Binary classification#Accuracy#87.2

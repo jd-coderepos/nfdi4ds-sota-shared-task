@@ -1,0 +1,5 @@
+Visual Dialog#VisDial v0.9 val#MRR#63.98
+Visual Dialog#VisDial v0.9 val#Mean Rank#4.47
+Visual Dialog#VisDial v0.9 val#R@1#50.29
+Visual Dialog#VisDial v0.9 val#R@10#88.81
+Visual Dialog#VisDial v0.9 val#R@5#80.71

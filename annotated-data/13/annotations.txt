@@ -1,0 +1,4 @@
+Deblurring#HIDE (trained on GOPRO)#PSNR (sRGB)#28.94
+Deblurring#HIDE (trained on GOPRO)#SSIM (sRGB)#0.915
+Deblurring#GoPro#PSNR#31.10
+Deblurring#GoPro#SSIM#0.9424

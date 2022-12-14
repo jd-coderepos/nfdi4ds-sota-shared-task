@@ -1,0 +1,6 @@
+Fundus to Angiography Generation#Fundus Fluorescein Angiogram Photographs & Colour Fundus Images of Diabetic Patients#FID#20.7
+Fundus to Angiography Generation#Fundus Fluorescein Angiogram Photographs & Colour Fundus Images of Diabetic Patients#Kernel Inception Distance#0.00392
+Fundus to Angiography Generation#Fundus Fluorescein Angiogram Photographs & Colour Fundus Images of Diabetic Patients#FID#24.6
+Fundus to Angiography Generation#Fundus Fluorescein Angiogram Photographs & Colour Fundus Images of Diabetic Patients#Kernel Inception Distance#0.00087
+Fundus to Angiography Generation#Fundus Fluorescein Angiogram Photographs & Colour Fundus Images of Diabetic Patients#FID#47.5
+Fundus to Angiography Generation#Fundus Fluorescein Angiogram Photographs & Colour Fundus Images of Diabetic Patients#Kernel Inception Distance#0.00595

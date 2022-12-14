@@ -1,0 +1,3 @@
+Language Modelling#WikiText-103#Validation perplexity#52.73
+Language Modelling#WikiText-103#Validation perplexity#53.78
+Language Modelling#WikiText-103#Validation perplexity#76.67

@@ -1,0 +1,5 @@
+Graph Classification#NCI1#Accuracy#66.2%
+Graph Classification#COLLAB#Accuracy#65.0%
+Graph Classification#PROTEINS#Accuracy#72.1%
+Graph Classification#D&D#Accuracy#76.0%
+Graph Classification#ENZYMES#Accuracy#24.1%

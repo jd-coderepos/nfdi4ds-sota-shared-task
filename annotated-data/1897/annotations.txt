@@ -1,0 +1,3 @@
+Video Generation#UCF-101 16 frames, 128x128, Unconditional#Inception Score#28.87
+Video Generation#UCF-101 16 frames, 128x128, Unconditional#Inception Score#24.34
+Video Generation#UCF-101 16 frames, Unconditional, Single GPU#Inception Score#21.45

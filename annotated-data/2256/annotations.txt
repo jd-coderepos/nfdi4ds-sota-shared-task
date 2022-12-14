@@ -1,0 +1,7 @@
+Question Answering#OpenBookQA#Accuracy#82.8
+Question Answering#OpenBookQA#Accuracy#81.0
+Question Answering#OpenBookQA#Accuracy#80.6
+Question Answering#OpenBookQA#Accuracy#80.2
+Question Answering#OpenBookQA#Accuracy#80.0
+Question Answering#OpenBookQA#Accuracy#77.8
+Common Sense Reasoning#CommonsenseQA#Accuracy#76.1

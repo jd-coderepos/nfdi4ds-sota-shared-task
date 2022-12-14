@@ -1,0 +1,1 @@
+Curved Text Detection#SCUT-CTW1500#F-Measure#73.4%

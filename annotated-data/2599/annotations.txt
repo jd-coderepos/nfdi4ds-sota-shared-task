@@ -1,0 +1,13 @@
+Language Modelling#WikiText-2#Number of params#185M
+Language Modelling#WikiText-2#Test perplexity#53.09
+Language Modelling#WikiText-2#Validation perplexity#54.19
+Language Modelling#WikiText-2#Number of params#37M
+Language Modelling#WikiText-2#Test perplexity#58.03
+Language Modelling#WikiText-2#Validation perplexity#60.29
+Language Modelling#Penn Treebank (Word Level)#Params#185M
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#47.17
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#48.63
+Language Modelling#Penn Treebank (Word Level)#Params#23M
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#52.38
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#54.12
+Constituency Parsing#Penn Treebank#F1 score#94.47

@@ -1,0 +1,4 @@
+Image Super-Resolution#Set5 - 8x upscaling#PSNR#26.04
+Image Super-Resolution#Set14 - 8x upscaling#PSNR#24.28
+Image Super-Resolution#Set5 - 4x upscaling#PSNR#30.72
+Image Super-Resolution#Set14 - 4x upscaling#PSNR#27.63

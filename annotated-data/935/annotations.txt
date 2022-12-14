@@ -1,0 +1,2 @@
+Text-To-Speech Synthesis#LJSpeech#Audio Quality MOS#3.84
+Text-To-Speech Synthesis#LJSpeech#Audio Quality MOS#2.4

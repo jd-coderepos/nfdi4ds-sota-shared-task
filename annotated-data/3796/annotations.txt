@@ -1,0 +1,2 @@
+Constituency Grammar Induction#PTB#Max F1 (WSJ)#61.4
+Constituency Grammar Induction#PTB#Mean F1 (WSJ)#57.7

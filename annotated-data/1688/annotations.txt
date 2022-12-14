@@ -1,0 +1,8 @@
+Action Classification#Kinetics-400#Vid acc@1#80.4
+Action Classification#Kinetics-400#Vid acc@5#94.6
+Action Classification#Kinetics-400#Vid acc@1#79.1
+Action Classification#Kinetics-400#Vid acc@5#93.9
+Action Classification#Kinetics-400#Vid acc@1#77.5
+Action Classification#Kinetics-400#Vid acc@5#92.9
+Action Classification#Kinetics-400#Vid acc@1#76
+Action Classification#Kinetics-400#Vid acc@5#92.3

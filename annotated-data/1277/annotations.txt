@@ -1,0 +1,2 @@
+Multimodal Machine Translation#Multi30K#BLEU (EN-DE)#38.4
+Multimodal Machine Translation#Multi30K#Meteor (EN-DE)#55.7

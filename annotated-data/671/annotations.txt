@@ -1,0 +1,2 @@
+Image-to-Image Translation#Cityscapes-to-Foggy Cityscapes#mAP#38.8
+Unsupervised Domain Adaptation#Cityscapes to Foggy Cityscapes#mAP@0.5#38.8

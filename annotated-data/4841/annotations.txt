@@ -1,0 +1,4 @@
+Conversational Response Selection#Ubuntu Dialogue (v1, Ranking)#R10@1#0.884
+Conversational Response Selection#Ubuntu Dialogue (v1, Ranking)#R10@2#0.946
+Conversational Response Selection#Ubuntu Dialogue (v1, Ranking)#R10@5#0.990
+Conversational Response Selection#Ubuntu Dialogue (v1, Ranking)#R2@1#0.975

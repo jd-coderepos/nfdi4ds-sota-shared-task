@@ -1,0 +1,1 @@
+Image Generation#CelebA 256x256#FID#35.0

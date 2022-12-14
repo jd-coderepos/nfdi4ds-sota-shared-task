@@ -1,0 +1,2 @@
+Multi-tissue Nucleus Segmentation#Kumar#Dice#0.797
+Multi-tissue Nucleus Segmentation#Kumar#Hausdorff Distance (mm)#51.9

@@ -1,0 +1,3 @@
+Image Compression#ImageNet32#bpsp#4.76
+Image Compression#ImageNet32#bpsp#6.35
+Image Compression#ImageNet32#bpsp#6.42

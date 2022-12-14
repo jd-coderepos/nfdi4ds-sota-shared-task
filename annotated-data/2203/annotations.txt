@@ -1,0 +1,7 @@
+Question Answering#CoQA#In-domain#67.0
+Question Answering#CoQA#Out-of-domain#60.4
+Question Answering#CoQA#Overall#65.1
+Question Answering#CoQA#In-domain#54.5
+Question Answering#CoQA#Out-of-domain#47.9
+Question Answering#CoQA#Overall#52.6
+Generative Question Answering#CoQA#F1-Score#45.4

@@ -1,0 +1,3 @@
+Weakly Supervised Object Detection#Watercolor2k#MAP#50.1
+Weakly Supervised Object Detection#IconArt#MAP#13.2
+Weakly Supervised Object Detection#PeopleArt#MAP#55.4

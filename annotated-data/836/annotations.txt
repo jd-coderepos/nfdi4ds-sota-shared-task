@@ -1,0 +1,4 @@
+Speech Recognition#LibriSpeech test-clean#Word Error Rate (WER)#2.03
+Speech Recognition#LibriSpeech test-clean#Word Error Rate (WER)#2.31
+Speech Recognition#LibriSpeech test-other#Word Error Rate (WER)#4.11
+Speech Recognition#LibriSpeech test-other#Word Error Rate (WER)#5.18

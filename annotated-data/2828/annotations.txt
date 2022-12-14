@@ -1,0 +1,3 @@
+Semantic Segmentation#ADE20K#Test Score#55.84
+Semantic Segmentation#ADE20K#Validation mIoU#44.34
+Semantic Segmentation#PASCAL Context#mIoU#53.1

@@ -1,0 +1,1 @@
+Weakly Supervised Object Detection#COCO test-dev#AP50#13.6

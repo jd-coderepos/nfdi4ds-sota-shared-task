@@ -1,0 +1,2 @@
+Action Recognition#UCF101#3-fold Accuracy#98.69
+Action Recognition#HMDB-51#Average accuracy of 3 splits#85.10

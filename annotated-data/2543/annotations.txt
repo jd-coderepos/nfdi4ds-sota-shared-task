@@ -1,0 +1,4 @@
+Natural Language Inference#XNLI Chinese Dev#Accuracy#79.9
+Natural Language Inference#XNLI Chinese#Accuracy#78.4
+Chinese Named Entity Recognition#MSRA Dev#F1#95
+Chinese Named Entity Recognition#MSRA#F1#93.8

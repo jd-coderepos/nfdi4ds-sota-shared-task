@@ -1,0 +1,1 @@
+Instance Segmentation#Cityscapes test#Average Precision#40.1

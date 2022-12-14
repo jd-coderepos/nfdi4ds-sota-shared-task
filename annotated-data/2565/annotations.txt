@@ -1,0 +1,6 @@
+Natural Language Inference#SNLI#% Test Accuracy#87.4
+Natural Language Inference#SNLI#% Train Accuracy#89.0
+Natural Language Inference#SNLI#Parameters#7.0m
+Natural Language Inference#SNLI#% Test Accuracy#86.8
+Natural Language Inference#SNLI#% Train Accuracy#87.3
+Natural Language Inference#SNLI#Parameters#2.1m

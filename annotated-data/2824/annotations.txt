@@ -1,0 +1,13 @@
+Semantic Segmentation#NYU Depth v2#Mean IoU#44.4%
+Semantic Segmentation#NYU Depth v2#Mean IoU#43.6%
+Semantic Segmentation#NYU Depth v2#Mean IoU#41.7%
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#82.7%
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#82.0%
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#81.1%
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#79.2%
+Real-Time Semantic Segmentation#NYU Depth v2#Speed(ms/f)#36
+Real-Time Semantic Segmentation#NYU Depth v2#mIoU#44.4
+Real-Time Semantic Segmentation#NYU Depth v2#Speed(ms/f)#27
+Real-Time Semantic Segmentation#NYU Depth v2#mIoU#43.6
+Real-Time Semantic Segmentation#NYU Depth v2#Speed(ms/f)#20
+Real-Time Semantic Segmentation#NYU Depth v2#mIoU#41.7

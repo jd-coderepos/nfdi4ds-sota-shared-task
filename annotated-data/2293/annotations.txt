@@ -1,0 +1,3 @@
+Visual Question Answering#VQA-CP#Score#45.8
+Visual Question Answering#GQA test-dev#Accuracy#62.95
+Visual Question Answering#GQA test-std#Accuracy#63.17

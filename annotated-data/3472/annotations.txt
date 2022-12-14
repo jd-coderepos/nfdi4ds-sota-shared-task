@@ -1,0 +1,4 @@
+Visual Navigation#Cooperative Vision-and-Dialogue Navigation#dist_to_end_reduction#2.35
+Visual Navigation#Cooperative Vision-and-Dialogue Navigation#spl#0.16
+Visual Navigation#Cooperative Vision-and-Dialogue Navigation#dist_to_end_reduction#1.76
+Visual Navigation#Cooperative Vision-and-Dialogue Navigation#spl#0.15

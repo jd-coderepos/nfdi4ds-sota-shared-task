@@ -1,0 +1,5 @@
+Emotion Recognition in Conversation#MELD#Weighted Macro-F1#58.18
+Emotion Recognition in Conversation#IEMOCAP#F1#59.56
+Emotion Recognition in Conversation#EmoryNLP#Weighted Macro-F1#34.39
+Emotion Recognition in Conversation#DailyDialog#Micro-F1#53.37
+Emotion Recognition in Conversation#EC#Micro-F1#0.7413

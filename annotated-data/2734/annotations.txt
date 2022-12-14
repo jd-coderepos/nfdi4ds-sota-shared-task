@@ -1,0 +1,4 @@
+Semantic Segmentation#Dark Zurich#mIoU#36.76
+Semantic Segmentation#Nighttime Driving#mIoU#47.70
+Semantic Segmentation#Nighttime Driving#mIoU#44.98
+Semantic Segmentation#Nighttime Driving#mIoU#42.36

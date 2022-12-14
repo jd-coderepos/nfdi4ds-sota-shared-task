@@ -1,0 +1,2 @@
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#83.3%
+Semantic Segmentation#PASCAL VOC 2007#Mean IoU#83

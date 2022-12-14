@@ -1,0 +1,15 @@
+Multivariate Time Series Imputation#MuJoCo#MSE (10^2, 50% missing)#0.447
+Multivariate Time Series Imputation#MuJoCo#MSE (10^2, 50% missing)#6.100
+Multivariate Time Series Imputation#PhysioNet Challenge 2012#mse (10^-3)#3.907
+Multivariate Time Series Imputation#PhysioNet Challenge 2012#mse (10^-3)#5.930
+Multivariate Time Series Forecasting#PhysioNet Challenge 2012#MSE stdev#0.145
+Multivariate Time Series Forecasting#PhysioNet Challenge 2012#mse (10^-3)#3.055
+Multivariate Time Series Forecasting#PhysioNet Challenge 2012#MSE stdev#0.052
+Multivariate Time Series Forecasting#PhysioNet Challenge 2012#mse (10^-3)#3.162
+Multivariate Time Series Forecasting#USHCN-Daily#MSE#0.83
+Multivariate Time Series Forecasting#USHCN-Daily#MSE#0.96
+Multivariate Time Series Forecasting#MuJoCo#MSE (10^-2, 50% missing)#1.377
+Multivariate Time Series Forecasting#MuJoCo#MSE (10^-2, 50% missing)#1.782
+Multivariate Time Series Forecasting#MIMIC-III#MSE#0.89
+Multivariate Time Series Forecasting#MIMIC-III#NegLL#1.35
+Multivariate Time Series Forecasting#MIMIC-III#NegLL#1.36

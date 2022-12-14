@@ -1,0 +1,4 @@
+Superpixel Image Classification#75 Superpixel MNIST#Classification Error#4.78
+Node Classification#Citeseer#Accuracy#79.20%
+Node Classification#Pubmed#Accuracy#88.88%
+Node Classification#Cora#Accuracy#89.48%

@@ -1,0 +1,2 @@
+Image Generation#Binarized MNIST#nats#86.64
+Density Estimation#UCI GAS#Log-likelihood#8.47

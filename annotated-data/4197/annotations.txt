@@ -1,0 +1,2 @@
+Weakly Supervised Object Detection#Charades#MAP#10.03
+Weakly Supervised Object Detection#HICO-DET#MAP#5.39

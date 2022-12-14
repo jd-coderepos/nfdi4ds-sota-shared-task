@@ -1,0 +1,1 @@
+Sequential Image Classification#Sequential CIFAR-10#Unpermuted Accuracy#62.2%

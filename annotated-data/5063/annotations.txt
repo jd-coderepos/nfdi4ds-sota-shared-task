@@ -1,0 +1,5 @@
+Continual Learning#visual domain decathlon (10 tasks)#decathlon discipline (Score)#3131
+Continual Learning#visual domain decathlon (10 tasks)#decathlon discipline (Score)#2643
+Continual Learning#visual domain decathlon (10 tasks)#decathlon discipline (Score)#2621
+Continual Learning#visual domain decathlon (10 tasks)#decathlon discipline (Score)#2503
+Continual Learning#visual domain decathlon (10 tasks)#decathlon discipline (Score)#2118

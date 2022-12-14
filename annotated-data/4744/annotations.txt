@@ -1,0 +1,2 @@
+Instance Segmentation#COCO test-dev#mask AP#40.8%
+Instance Segmentation#COCO test-dev#mask AP#39.7%

@@ -1,0 +1,3 @@
+Zero-Shot Learning#CUB-200-2011#average top-1 classification accuracy#58.8
+Zero-Shot Learning#SUN Attribute#average top-1 classification accuracy#61.7
+Generalized Zero-Shot Learning#SUN Attribute#Harmonic mean#40.2

@@ -1,0 +1,2 @@
+Machine Translation#WMT2016 German-English#BLEU score#13.33
+Machine Translation#WMT2016 English-German#BLEU score#9.64

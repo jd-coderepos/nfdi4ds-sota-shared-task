@@ -1,0 +1,2 @@
+Text-To-Sql#spider#Accuracy (Dev)#66.6
+Text-To-Sql#spider#Accuracy (Test)#58.2

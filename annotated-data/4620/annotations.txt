@@ -1,0 +1,3 @@
+Unsupervised Image Classification#SVHN## of clusters (k)#10
+Unsupervised Image Classification#SVHN#Acc#76.80
+Unsupervised Image Classification#MNIST#Accuracy#98.32

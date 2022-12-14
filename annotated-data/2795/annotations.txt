@@ -1,0 +1,5 @@
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#79.0%
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#84.2%
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#59.2
+Real-Time Semantic Segmentation#Cityscapes test#Time (ms)#16.9
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#74.8%

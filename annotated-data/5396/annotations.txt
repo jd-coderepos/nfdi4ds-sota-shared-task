@@ -1,0 +1,4 @@
+word_segmentation#AS#F1#95.3
+word_segmentation#CityU#F1#95.6
+word_segmentation#PKU#F1#95.8
+word_segmentation#MSR#F1#97.1

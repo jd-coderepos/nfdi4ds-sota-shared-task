@@ -1,0 +1,4 @@
+Link Prediction#MovieLens 25M#Hits@10#0.8152
+Link Prediction#MovieLens 25M#nDCG@10#0.5196
+Link Prediction#Yelp#HR@10#0.8729
+Link Prediction#Yelp#nDCG@10#0.5826

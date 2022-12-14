@@ -1,0 +1,2 @@
+Automated Theorem Proving#HOList benchmark#Percentage correct#38.88
+Automated Theorem Proving#HOList benchmark#Percentage correct#32.65

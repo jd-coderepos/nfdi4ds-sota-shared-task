@@ -1,0 +1,3 @@
+Multivariate Time Series Imputation#PhysioNet Challenge 2012#MAE (10% of data as GT)#0.451
+Multivariate Time Series Imputation#Beijing Air Quality#MAE (PM2.5)#14.24
+Multivariate Time Series Imputation#UCI localization data#MAE (10% missing)#0.248

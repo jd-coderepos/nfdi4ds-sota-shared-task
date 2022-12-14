@@ -1,0 +1,4 @@
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#81.5%
+Semantic Segmentation#PASCAL Context#mIoU#52.6
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#82.6%
+Semantic Segmentation#COCO-Stuff test#mIoU#39.7%

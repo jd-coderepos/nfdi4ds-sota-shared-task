@@ -1,0 +1,2 @@
+Action Classification#Kinetics-400#Vid acc@1#75.98
+Action Recognition#UCF101#3-fold Accuracy#96.5

@@ -1,0 +1,3 @@
+Weakly Supervised Object Detection#PASCAL VOC 2012 test#MAP#35.3
+Weakly Supervised Object Detection#Charades#MAP#1.12
+Weakly Supervised Object Detection#PASCAL VOC 2007#MAP#36.3

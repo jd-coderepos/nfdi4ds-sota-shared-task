@@ -1,0 +1,1 @@
+Text-Image Retrieval#COCO (image as query)#Recall@10#97.2

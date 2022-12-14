@@ -1,0 +1,10 @@
+Machine Translation#WMT2014 English-German#BLEU score#17.9
+Question Answering#WikiQA#MAP#0.6811
+Question Answering#WikiQA#MRR#0.6993
+Natural Language Inference#SNLI#% Test Accuracy#85.4
+Natural Language Inference#SNLI#% Train Accuracy#86.9
+Natural Language Inference#SNLI#Parameters#3.2m
+Natural Language Inference#SNLI#% Test Accuracy#84.6
+Natural Language Inference#SNLI#% Train Accuracy#86.2
+Natural Language Inference#SNLI#Parameters#3.0m
+Sentiment Analysis#SST-2 Binary classification#Accuracy#89.7

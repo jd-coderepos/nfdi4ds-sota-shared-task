@@ -1,0 +1,1 @@
+Clinical Concept Extraction#2010 i2b2/VA#Exact Span F1#90.25

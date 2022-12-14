@@ -1,0 +1,4 @@
+Automated Theorem Proving#HolStep (Unconditional)#Classification Accuracy#0.900
+Automated Theorem Proving#HolStep (Unconditional)#Classification Accuracy#0.890
+Automated Theorem Proving#HolStep (Conditional)#Classification Accuracy#0.903
+Automated Theorem Proving#HolStep (Conditional)#Classification Accuracy#0.891

@@ -1,0 +1,5 @@
+Object Detection#PASCAL VOC 2007#MAP#81.5%
+Real-Time Object Detection#PASCAL VOC 2007#FPS#24
+Real-Time Object Detection#PASCAL VOC 2007#MAP#79.1%
+Real-Time Object Detection#PASCAL VOC 2007#FPS#19.5
+Real-Time Object Detection#PASCAL VOC 2007#MAP#81.5%

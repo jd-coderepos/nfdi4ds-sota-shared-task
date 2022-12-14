@@ -1,0 +1,8 @@
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#97.0(1080Ti)
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#76.8%
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#126.7
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#75.3%
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#188.6
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#73.4%
+Real-Time Semantic Segmentation#Cityscapes test#Frame (fps)#250.4(1080Ti)
+Real-Time Semantic Segmentation#Cityscapes test#mIoU#71.9%

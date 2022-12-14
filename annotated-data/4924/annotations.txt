@@ -1,0 +1,4 @@
+Graph Classification#PTC#Accuracy#61.65
+Graph Classification#IMDb-M#Accuracy#49.69%
+Graph Classification#MUTAG#Accuracy#89.01%
+Graph Classification#IMDb-B#Accuracy#73.03%

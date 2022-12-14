@@ -1,0 +1,4 @@
+Image Retrieval#SOP#R@1#79.5
+Image Retrieval#CUB-200-2011#R@1#65.3
+Image Retrieval#CARS196#R@1#89.3
+Image Retrieval#In-Shop#R@1#89.4

@@ -1,0 +1,5 @@
+sentiment_analysis#Multi-Domain Sentiment Dataset#Accuracy on DVD#76.17
+sentiment_analysis#Multi-Domain Sentiment Dataset#Accuracy on Books#72.97
+sentiment_analysis#Multi-Domain Sentiment Dataset#Accuracy on Electronics#80.47
+sentiment_analysis#Multi-Domain Sentiment Dataset#Accuracy on Kitchen#83.97
+sentiment_analysis#Multi-Domain Sentiment Dataset#Accuracy on Average#78.39

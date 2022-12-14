@@ -1,0 +1,3 @@
+6D Pose Estimation using RGB#Occlusion LineMOD#Mean ADD#27
+6D Pose Estimation using RGB#YCB-Video#Accuracy (ADD)#39.0%
+6D Pose Estimation using RGB#YCB-Video#Mean ADD#39

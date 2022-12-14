@@ -1,0 +1,2 @@
+word_segmentation#PKU#F1#95.7
+word_segmentation#MSR#F1#96.4

@@ -1,0 +1,3 @@
+Image-to-Image Translation#SYNTHIA-to-Cityscapes#mIoU (13 classes)#48.1
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#44.5
+Domain Adaptation#VisDA2017#Accuracy#76.4

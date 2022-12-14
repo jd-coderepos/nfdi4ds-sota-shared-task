@@ -1,0 +1,4 @@
+Arabic Text Diacritization#Tashkeela#Diacritic Error Rate#0.0183
+Arabic Text Diacritization#Tashkeela#Word Error Rate (WER)#0.0534
+Arabic Text Diacritization#Tashkeela#Diacritic Error Rate#0.0185
+Arabic Text Diacritization#Tashkeela#Word Error Rate (WER)#0.0553

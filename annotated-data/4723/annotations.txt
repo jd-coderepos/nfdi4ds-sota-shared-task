@@ -1,0 +1,1 @@
+Humor Detection#200k Short Texts for Humor Detection#F1-score#0.813

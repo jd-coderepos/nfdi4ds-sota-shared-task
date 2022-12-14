@@ -1,0 +1,8 @@
+Camouflaged Object Segmentation#COD#E-Measure#88.7
+Camouflaged Object Segmentation#COD#MAE#0.037
+Camouflaged Object Segmentation#COD#S-Measure#81.5
+Camouflaged Object Segmentation#COD#Weighted F-Measure#68.0
+Camouflaged Object Segmentation#CAMO#E-Measure#88.2
+Camouflaged Object Segmentation#CAMO#MAE#0.070
+Camouflaged Object Segmentation#CAMO#S-Measure#82.0
+Camouflaged Object Segmentation#CAMO#Weighted F-Measure#74.3

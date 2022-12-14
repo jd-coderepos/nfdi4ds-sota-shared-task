@@ -1,0 +1,9 @@
+Keyword Extraction#Inspec#F1 score#0.589
+Keyword Extraction#Inspec#Precision@10#0.572
+Keyword Extraction#Inspec#Recall @ 10#0.607
+Keyword Extraction#SemEval2017#F1 score#0.54
+Keyword Extraction#SemEval2017#Precision@10#0.536
+Keyword Extraction#SemEval2017#Recall@10#0.544
+Keyword Extraction#SemEval 2010 Task 8#F1 score#0.375
+Keyword Extraction#SemEval 2010 Task 8#Precision@10#0.415
+Keyword Extraction#SemEval 2010 Task 8#Recall@10#0.343

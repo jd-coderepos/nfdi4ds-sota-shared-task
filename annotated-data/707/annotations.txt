@@ -1,0 +1,6 @@
+Domain Adaptation#HMDBfull-to-UCF#Accuracy#81.79
+Domain Adaptation#UCF-to-Olympic#Accuracy#98.15
+Domain Adaptation#HMDBsmall-to-UCF#Accuracy#99.47
+Domain Adaptation#Olympic-to-HMDBsmall#Accuracy#92.92
+Domain Adaptation#UCF-to-HMDBfull#Accuracy#78.33
+Domain Adaptation#UCF-to-HMDBsmall#Accuracy#99.33

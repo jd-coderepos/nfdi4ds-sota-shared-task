@@ -1,0 +1,2 @@
+Person Re-Identification#CUHK-SYSU#MAP#74.0
+Person Re-Identification#CUHK-SYSU#Rank-1#76.7

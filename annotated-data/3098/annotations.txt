@@ -1,0 +1,3 @@
+Dependency Parsing#Penn Treebank#LAS#91.42
+Dependency Parsing#Penn Treebank#POS#97.3
+Dependency Parsing#Penn Treebank#UAS#93.56

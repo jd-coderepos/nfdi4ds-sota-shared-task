@@ -1,0 +1,6 @@
+Retinal OCT Disease Classification#Srinivasan2014#Acc#100
+Retinal OCT Disease Classification#Srinivasan2014#Acc#99.68
+Retinal OCT Disease Classification#Srinivasan2014#Acc#99.36
+Retinal OCT Disease Classification#OCT2017#Acc#95.6
+Retinal OCT Disease Classification#OCT2017#Acc#92.4
+Retinal OCT Disease Classification#OCT2017#Acc#77.4

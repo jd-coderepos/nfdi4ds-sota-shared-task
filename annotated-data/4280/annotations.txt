@@ -1,0 +1,1 @@
+Image Classification#Kuzushiji-MNIST#Accuracy#98.79

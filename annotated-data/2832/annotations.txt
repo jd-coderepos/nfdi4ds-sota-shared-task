@@ -1,0 +1,1 @@
+Semantic Segmentation#ShapeNet#Mean IoU#7,537

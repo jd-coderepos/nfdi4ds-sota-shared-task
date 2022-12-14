@@ -1,0 +1,2 @@
+Long-tail Learning#Places-LT#Per-Class Accuracy#34.1
+Long-tail learning with class descriptors#ImageNet-LT-d#Per-Class Accuracy#37.7

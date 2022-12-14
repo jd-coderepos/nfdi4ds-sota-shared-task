@@ -1,0 +1,2 @@
+Visual Reasoning#PHYRE-1B-Within#AUCCESS#80.0
+Visual Reasoning#PHYRE-1B-Cross#AUCCESS#40.3

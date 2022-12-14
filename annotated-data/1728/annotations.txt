@@ -1,0 +1,1 @@
+Action Classification#Kinetics-600#Top-1 Accuracy#73.6

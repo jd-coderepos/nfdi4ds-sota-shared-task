@@ -1,0 +1,2 @@
+Sentiment Analysis#IMDb#Accuracy#88.4
+Sequential Image Classification#Sequential MNIST#Permuted Accuracy#98.4%

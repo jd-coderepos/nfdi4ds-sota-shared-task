@@ -1,0 +1,3 @@
+Image Classification#iNaturalist 2018#Top-1 Accuracy#69.08%
+Image Classification#iNaturalist 2018#Top-1 Accuracy#68.39%
+Image Classification#iNaturalist 2018#Top-1 Accuracy#65.91%

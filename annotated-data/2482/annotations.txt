@@ -1,0 +1,4 @@
+Crowd Counting#WorldExpo’10#Average MAE#10.3
+Crowd Counting#UCF CC 50#MAE#260.9
+Crowd Counting#ShanghaiTech B#MAE#10.7
+Crowd Counting#ShanghaiTech A#MAE#68.5

@@ -1,0 +1,2 @@
+Cross-Lingual Document Classification#Reuters RCV1/RCV2 English-to-German#Accuracy#88.1
+Cross-Lingual Document Classification#Reuters RCV1/RCV2 German-to-English#Accuracy#79.2

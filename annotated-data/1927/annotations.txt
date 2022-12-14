@@ -1,0 +1,7 @@
+Video Frame Interpolation#Vimeo90k#PSNR#36.10
+Video Frame Interpolation#Vimeo90k#SSIM#0.970
+Video Frame Interpolation#UCF101#PSNR#35.39
+Video Frame Interpolation#UCF101#SSIM#0.952
+Video Frame Interpolation#Middlebury#Interpolation Error#4.22
+Video Frame Interpolation#Middlebury#PSNR#38.42
+Video Frame Interpolation#Middlebury#SSIM#0.971

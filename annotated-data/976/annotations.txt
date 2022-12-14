@@ -1,0 +1,3 @@
+Relation Extraction#ACE 2005#NER Micro F1#87.5
+Relation Extraction#ACE 2005#RE Micro F1#62.7
+Relation Extraction#ACE 2005#Sentence Encoder#ELMo

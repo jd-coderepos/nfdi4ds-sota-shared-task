@@ -1,0 +1,1 @@
+Weakly Supervised Action Localization#THUMOS’14#mAP@0.5#32.4

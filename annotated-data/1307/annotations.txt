@@ -1,0 +1,3 @@
+Lesion Segmentation#Anatomical Tracings of Lesions After Stroke (ATLAS)#Dice#0.5349
+Lesion Segmentation#Anatomical Tracings of Lesions After Stroke (ATLAS)#Precision#0.6331
+Lesion Segmentation#Anatomical Tracings of Lesions After Stroke (ATLAS)#Recall#0.5243

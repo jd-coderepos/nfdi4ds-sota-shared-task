@@ -1,0 +1,7 @@
+Image Clustering#STL-10#Accuracy#0.752
+Image Clustering#STL-10#Backbone#ResNet-34
+Image Clustering#STL-10#NMI#0.635
+Image Clustering#STL-10#Train Split#Train+Test
+Image Clustering#Imagenet-dog-15#ARI#0.286
+Image Clustering#Imagenet-dog-15#Accuracy#0.439
+Image Clustering#Imagenet-dog-15#NMI#0.423

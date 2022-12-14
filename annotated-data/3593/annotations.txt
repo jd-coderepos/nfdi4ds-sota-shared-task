@@ -1,0 +1,2 @@
+Human-Object Interaction Detection#Ambiguious-HOI#mAP#10.37
+Human-Object Interaction Detection#HICO-DET#mAP#21.34

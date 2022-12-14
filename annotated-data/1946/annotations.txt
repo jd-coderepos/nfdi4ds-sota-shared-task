@@ -1,0 +1,4 @@
+Anomaly Detection In Surveillance Videos#UCF-Crime#Decidability#-
+Anomaly Detection In Surveillance Videos#UCF-Crime#EER#-
+Anomaly Detection In Surveillance Videos#UCF-Crime#ROC AUC#80.10
+Anomaly Detection In Surveillance Videos#ShanghaiTech Weakly Supervised#AUC-ROC#89.14

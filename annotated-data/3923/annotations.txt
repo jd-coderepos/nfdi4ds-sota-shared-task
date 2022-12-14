@@ -1,0 +1,6 @@
+Atari Games#Atari 2600 Seaquest#Score#635
+Atari Games#Atari 2600 Freeway#Score#29
+Atari Games#Atari 2600 Pong#Score#20.2
+Atari Games#Atari 2600 Breakout#Score#11.6
+Atari Games#Atari 2600 Crazy Climber#Score#59609.4
+Atari Games#Atari 2600 Bank Heist#Score#121.6

@@ -1,0 +1,2 @@
+Keypoint Detection#COCO#Validation AP#69.6
+Multi-Person Pose Estimation#COCO#AP#0.697

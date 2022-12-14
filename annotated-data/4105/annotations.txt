@@ -1,0 +1,4 @@
+Object Detection#iSAID#Average Precision#47.0
+Object Detection#iSAID#Average Precision#46.31
+Instance Segmentation#iSAID#Average Precision#40.00
+Instance Segmentation#iSAID#Average Precision#39.54

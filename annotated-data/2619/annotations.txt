@@ -1,0 +1,4 @@
+Language Modelling#enwik8#Bit per Character (BPC)#1.34
+Language Modelling#enwik8#Number of params#27M
+Language Modelling#Penn Treebank (Character Level)#Bit per Character (BPC)#1.219
+Language Modelling#Penn Treebank (Character Level)#Number of params#14.4M

@@ -1,0 +1,3 @@
+Image Generation#ImageNet 64x64#Bits per dim#3.52
+Image Generation#CelebA 256x256#bpd#0.61
+Image Generation#ImageNet 32x32#bpd#3.85

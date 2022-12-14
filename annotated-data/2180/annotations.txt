@@ -1,0 +1,12 @@
+Question Answering#SQuAD1.1#EM#82.283
+Question Answering#SQuAD1.1#F1#88.533
+Question Answering#SQuAD1.1#EM#79.545
+Question Answering#SQuAD1.1#F1#86.654
+Question Answering#SQuAD1.1#EM#74.268
+Question Answering#SQuAD1.1#F1#82.371
+Question Answering#SQuAD1.1#EM#70.995
+Question Answering#SQuAD1.1#F1#80.146
+Question Answering#SQuAD1.1 dev#EM#78.9
+Question Answering#SQuAD1.1 dev#F1#86.3
+Question Answering#TriviaQA#EM#46.94
+Question Answering#TriviaQA#F1#52.85

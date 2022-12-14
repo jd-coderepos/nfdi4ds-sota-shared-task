@@ -1,0 +1,3 @@
+machine_translation#WMT 2014 EN-DE#BLEU#28.4
+machine_translation#WMT 2014 EN-FR#BLEU#41.0
+constituency_parsing#Penn Treebank#F1#92.7

@@ -1,0 +1,3 @@
+Relation Extraction#TACRED#F1#70.5
+Dialog Relation Extraction#DialogRE#F1#64.9
+Dialog Relation Extraction#DialogRE#F1c#60.1

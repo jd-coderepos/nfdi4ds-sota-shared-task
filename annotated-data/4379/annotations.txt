@@ -1,0 +1,2 @@
+Image Classification#STL-10#Percentage correct#77.8
+Semi-Supervised Image Classification#STL-10, 1000 Labels#Accuracy#77.80

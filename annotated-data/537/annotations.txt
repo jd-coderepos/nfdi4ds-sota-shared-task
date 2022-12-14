@@ -1,0 +1,21 @@
+Hand Gesture Recognition#VIVA Hand Gestures Dataset#Accuracy#83.1
+Hand Gesture Recognition#EgoGesture#Accuracy#92.78
+Skeleton Based Action Recognition#J-HMDB#Accuracy (RGB+pose)#84.1
+Action Classification#Kinetics-400#Vid acc@1#71.1
+Action Classification#Kinetics-400#Vid acc@5#89.3
+Action Classification#Charades#MAP#32.9
+Action Classification#Moments in Time#Top 1 Accuracy#29.51%
+Action Classification#Moments in Time#Top 5 Accuracy#56.06%
+Action Recognition#UCF101#3-fold Accuracy#98.0
+Action Recognition#UCF101#3-fold Accuracy#97.8
+Action Recognition#UCF101#3-fold Accuracy#96.7
+Action Recognition#UCF101#3-fold Accuracy#96.5
+Action Recognition#UCF101#3-fold Accuracy#95.6
+Action Recognition#UCF101#3-fold Accuracy#95.1
+Action Recognition#UCF101#3-fold Accuracy#93.4
+Action Recognition#HMDB-51#Average accuracy of 3 splits#80.9
+Action Recognition#HMDB-51#Average accuracy of 3 splits#80.7
+Action Recognition#HMDB-51#Average accuracy of 3 splits#77.3
+Action Recognition#HMDB-51#Average accuracy of 3 splits#77.1
+Action Recognition#HMDB-51#Average accuracy of 3 splits#74.8
+Action Recognition#HMDB-51#Average accuracy of 3 splits#74.3

@@ -1,0 +1,4 @@
+Hand Gesture Recognition#VIVA Hand Gestures Dataset#Accuracy#68
+Action Classification#Charades#MAP#18.6
+Action Recognition#UCF101#3-fold Accuracy#88.0
+Action Recognition#HMDB-51#Average accuracy of 3 splits#59.4

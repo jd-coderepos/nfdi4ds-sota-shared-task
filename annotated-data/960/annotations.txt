@@ -1,0 +1,7 @@
+Relation Extraction#TACRED#F1#72.04
+Entity Typing#Open Entity#F1#77.6916
+Entity Typing#Open Entity#Precision#79.6712
+Entity Typing#Open Entity#Recall#75.8081
+Entity Typing#Open Entity#F1#77.6127
+Entity Typing#Open Entity#Precision#78.9956
+Entity Typing#Open Entity#Recall#76.2774

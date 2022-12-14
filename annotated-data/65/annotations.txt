@@ -1,0 +1,4 @@
+Monocular Depth Estimation#KITTI Eigen split unsupervised#absolute relative error#0.079
+Monocular Depth Estimation#KITTI Eigen split unsupervised#absolute relative error#0.088
+Monocular Depth Estimation#KITTI Eigen split unsupervised#absolute relative error#0.099
+Monocular Depth Estimation#KITTI Eigen split unsupervised#absolute relative error#0.104

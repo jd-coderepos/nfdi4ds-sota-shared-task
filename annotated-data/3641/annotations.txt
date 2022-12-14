@@ -1,0 +1,3 @@
+Cross-Lingual NER#CoNLL Dutch#F1#77.57
+Cross-Lingual NER#CoNLL Spanish#F1#74.96
+Cross-Lingual NER#CoNLL German#F1#69.56

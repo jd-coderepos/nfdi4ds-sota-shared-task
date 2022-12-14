@@ -1,0 +1,4 @@
+Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#40.5
+Domain Adaptation#SVHN-to-MNIST#Accuracy#97.5
+Domain Adaptation#USPS-to-MNIST#Accuracy#98.3
+Domain Adaptation#MNIST-to-USPS#Accuracy#97.1

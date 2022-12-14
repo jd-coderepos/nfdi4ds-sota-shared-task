@@ -1,0 +1,5 @@
+Recommendation Systems#Douban Monti#RMSE#0.721
+Recommendation Systems#YahooMusic Monti#RMSE#19.1
+Recommendation Systems#MovieLens 100K#RMSE (u1 Splits)#0.905
+Recommendation Systems#Flixster Monti#RMSE#0.872
+Recommendation Systems#MovieLens 1M#RMSE#0.857

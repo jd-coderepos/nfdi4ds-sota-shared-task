@@ -1,0 +1,3 @@
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-WB#2.82
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-WB#2.79
+Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-WB#2.77

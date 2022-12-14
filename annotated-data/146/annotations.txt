@@ -1,0 +1,6 @@
+Link Prediction#Citeseer (biased evaluation)#AP#97.57
+Link Prediction#Citeseer (biased evaluation)#AUC#97.27
+Link Prediction#Cora (biased evaluation)#AP#94.63
+Link Prediction#Cora (biased evaluation)#AUC#94.48
+Link Prediction#Pubmed (biased evaluation)#AP#97.19
+Link Prediction#Pubmed (biased evaluation)#AUC#97.52

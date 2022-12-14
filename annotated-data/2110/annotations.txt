@@ -1,0 +1,8 @@
+Few-Shot Image Classification#Mini-Imagenet 20-way (1-shot)#Accuracy#17.56
+Few-Shot Image Classification#Mini-Imagenet 20-way (1-shot)#Accuracy#17.31
+Few-Shot Image Classification#Mini-Imagenet 20-way (1-shot)#Accuracy#16.70
+Few-Shot Image Classification#Mini-Imagenet 20-way (1-shot)#Accuracy#16.49
+Few-Shot Image Classification#Mini-Imagenet 20-way (5-shot)#Accuracy#28.92
+Few-Shot Image Classification#Mini-Imagenet 20-way (5-shot)#Accuracy#26.06
+Few-Shot Image Classification#Mini-Imagenet 20-way (5-shot)#Accuracy#22.69
+Few-Shot Image Classification#Mini-Imagenet 20-way (5-shot)#Accuracy#19.29

@@ -1,0 +1,2 @@
+Object Detection#CrowdHuman (full body)#AP#84.71
+Object Detection#CrowdHuman (full body)#mMR#49.73

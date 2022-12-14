@@ -1,0 +1,2 @@
+Semantic Segmentation#Cityscapes val#mIoU#78.6%
+Instance Segmentation#LVIS v1.0#mask AP#39.7

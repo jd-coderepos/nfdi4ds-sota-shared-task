@@ -1,0 +1,6 @@
+Link Prediction#WN18#Hits@1#0.93
+Link Prediction#WN18#Hits@10#0.949
+Link Prediction#WN18#Hits@3#0.945
+Link Prediction#FB15k#Hits@1#0.402
+Link Prediction#FB15k#Hits@10#0.739
+Link Prediction#FB15k#Hits@3#0.613

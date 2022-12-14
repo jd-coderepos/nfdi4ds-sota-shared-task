@@ -1,0 +1,4 @@
+Relation Extraction#DocRED#F1#55.60
+Relation Extraction#DocRED#Ign F1#53.70
+Relation Extraction#DocRED#F1#53.30
+Relation Extraction#DocRED#Ign F1#51.15

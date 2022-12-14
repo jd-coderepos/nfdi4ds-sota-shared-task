@@ -1,0 +1,2 @@
+AMR Parsing#LDC2014T12#F1 Full#78.2
+AMR Parsing#LDC2017T10#Smatch#81.3

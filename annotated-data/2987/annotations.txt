@@ -1,0 +1,3 @@
+Emotion Recognition in Conversation#MELD#Weighted Macro-F1#57.03
+Emotion Recognition in Conversation#MELD#Weighted Macro-F1#56.44
+Emotion Recognition in Conversation#MELD#Weighted Macro-F1#55.02

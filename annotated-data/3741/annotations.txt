@@ -1,0 +1,4 @@
+Object Counting#CARPK#MAE#16.62
+Object Counting#CARPK#RMSE#22.30
+Object Counting#CARPK#MAE#22.76
+Object Counting#CARPK#RMSE#34.46

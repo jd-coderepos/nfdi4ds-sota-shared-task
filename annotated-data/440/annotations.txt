@@ -1,0 +1,3 @@
+Facial Landmark Detection#300W#NME#3.98
+Facial Landmark Detection#AFLW-Front#Mean NME#1.85
+Facial Landmark Detection#AFLW-Full#Mean NME#1.91

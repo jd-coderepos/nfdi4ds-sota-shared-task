@@ -1,0 +1,2 @@
+Egocentric Activity Recognition#EPIC-KITCHENS-55#Actions Top-1 (S1)#33.06
+Egocentric Activity Recognition#EPIC-KITCHENS-55#Actions Top-1 (S2)#19.49

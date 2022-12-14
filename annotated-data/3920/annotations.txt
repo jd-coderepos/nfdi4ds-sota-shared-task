@@ -1,0 +1,7 @@
+Atari Games#Atari 2600 Seaquest#Score#1740
+Atari Games#Atari 2600 Beam Rider#Score#5184
+Atari Games#Atari 2600 Pong#Score#21
+Atari Games#Atari 2600 Breakout#Score#225
+Atari Games#Atari 2600 Enduro#Score#661
+Atari Games#Atari 2600 Space Invaders#Score#1075
+Atari Games#Atari 2600 Q*Bert#Score#4500

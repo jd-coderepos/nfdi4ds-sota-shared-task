@@ -1,0 +1,12 @@
+Generalized Few-Shot Learning#CUB#Per-Class Accuracy  (2-shots)#41.1
+Generalized Few-Shot Learning#CUB#Per-Class Accuracy (1-shot)#36.3
+Generalized Few-Shot Learning#CUB#Per-Class Accuracy (10-shots)#50.9
+Generalized Few-Shot Learning#CUB#Per-Class Accuracy (5-shots)#44.6
+Generalized Few-Shot Learning#AWA2#Per-Class Accuracy (1-shot)#56.1
+Generalized Few-Shot Learning#AWA2#Per-Class Accuracy (10-shots)#67.8
+Generalized Few-Shot Learning#AWA2#Per-Class Accuracy (2-shots)#60.3
+Generalized Few-Shot Learning#AWA2#Per-Class Accuracy (5-shots)#64.1
+Generalized Few-Shot Learning#SUN#Per-Class Accuracy (1-shot)#27.4
+Generalized Few-Shot Learning#SUN#Per-Class Accuracy (10-shots)#40.8
+Generalized Few-Shot Learning#SUN#Per-Class Accuracy (2-shots)#33.4
+Generalized Few-Shot Learning#SUN#Per-Class Accuracy (5-shots)#37.4

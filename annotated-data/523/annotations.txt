@@ -1,0 +1,2 @@
+Lane Detection#TuSimple#Accuracy#95.24%
+Lane Detection#TuSimple#F1 score#90.82

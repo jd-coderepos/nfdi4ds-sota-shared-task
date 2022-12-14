@@ -1,0 +1,2 @@
+Image Generation#MNIST#FID#5.5
+Image Generation#Fashion-MNIST#FID#16

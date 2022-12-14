@@ -1,0 +1,4 @@
+Head Pose Estimation#BIWI#MAE (trained with other data)#3.48
+Head Pose Estimation#BIWI#MAE (trained with other data)#3.81
+Head Pose Estimation#AFLW2000#MAE#4.83
+Head Pose Estimation#AFLW2000#MAE#5.42

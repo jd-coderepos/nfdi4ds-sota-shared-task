@@ -1,0 +1,2 @@
+Multi-Frame Super-Resolution#PROBA-V#Normalized cPSNR#0.9411827883122681
+Multi-Frame Super-Resolution#PROBA-V#Normalized cPSNR#0.9462525077016232

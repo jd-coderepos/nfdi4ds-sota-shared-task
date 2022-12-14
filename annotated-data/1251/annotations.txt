@@ -1,0 +1,11 @@
+Machine Translation#WMT2014 English-German#BLEU score#28.1
+Language Modelling#WikiText-2#Number of params#34M
+Language Modelling#WikiText-2#Test perplexity#42.0
+Language Modelling#WikiText-2#Validation perplexity#43.9
+Language Modelling#WikiText-2#Test perplexity#61.9
+Language Modelling#WikiText-2#Validation perplexity#64.9
+Language Modelling#Penn Treebank (Word Level)#Params#24M
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#49.4
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#49.5
+Language Modelling#Penn Treebank (Word Level)#Test perplexity#55.7
+Language Modelling#Penn Treebank (Word Level)#Validation perplexity#58.2

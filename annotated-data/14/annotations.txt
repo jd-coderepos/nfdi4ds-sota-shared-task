@@ -1,0 +1,3 @@
+Deblurring#REDS#Average PSNR#34.80
+Video Super-Resolution#Vid4 - 4x upscaling#PSNR#27.35
+Video Super-Resolution#Vid4 - 4x upscaling#SSIM#0.8264

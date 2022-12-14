@@ -1,0 +1,2 @@
+Unsupervised Machine Translation#WMT2016 German-English#BLEU#26.7
+Unsupervised Machine Translation#WMT2016 English-German#BLEU#20.0

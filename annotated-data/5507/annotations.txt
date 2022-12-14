@@ -1,0 +1,4 @@
+summarization#CNN / Daily Mail (Non-anonymized version)#ROUGE-1#40.66
+summarization#CNN / Daily Mail (Non-anonymized version)#ROUGE-2#17.87
+summarization#CNN / Daily Mail (Non-anonymized version)#ROUGE-L#37.06
+summarization#CNN / Daily Mail (Non-anonymized version)#METEOR#20.51

@@ -1,0 +1,2 @@
+Skeleton Based Action Recognition#NTU RGB+D#Accuracy (CS)#79.8
+Skeleton Based Action Recognition#NTU RGB+D#Accuracy (CV)#87.1

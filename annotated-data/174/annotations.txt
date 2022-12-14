@@ -1,0 +1,4 @@
+Link Prediction#OpenBioLink#Hits@1#0.0125
+Link Prediction#OpenBioLink#Hits@10#0.075
+Link Prediction#OpenBioLink#Hits@1#0.0096
+Link Prediction#OpenBioLink#Hits@10#0.0639

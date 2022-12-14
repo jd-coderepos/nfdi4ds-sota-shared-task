@@ -1,0 +1,4 @@
+Question Answering#YahooCQA#MRR#0.863
+Question Answering#YahooCQA#P@1#0.757
+Question Answering#YahooCQA#MRR#0.818
+Question Answering#YahooCQA#P@1#0.683

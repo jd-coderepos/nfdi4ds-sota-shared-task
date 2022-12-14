@@ -1,0 +1,2 @@
+Few-Shot Semantic Segmentation#FSS-1000#Mean IoU#83.36
+Few-Shot Semantic Segmentation#Pascal5i#meanIOU#60.6

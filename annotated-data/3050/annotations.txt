@@ -1,0 +1,2 @@
+AMR Parsing#LDC2014T12#F1 Full#63
+AMR Parsing#LDC2014T12#F1 Newswire#68

@@ -1,0 +1,1 @@
+Weakly-Supervised Object Localization#ILSVRC 2016#Top-5 Error#42.58

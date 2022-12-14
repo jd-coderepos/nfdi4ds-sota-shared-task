@@ -1,0 +1,4 @@
+question_answering#SearchQA#Unigram Acc#41.3
+question_answering#SearchQA#N-gram F1#22.8
+question_answering#SearchQA#EM#-
+question_answering#SearchQA#F1#-

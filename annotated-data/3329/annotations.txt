@@ -1,0 +1,7 @@
+Named Entity Recognition#ACE 2005#F1#78.2
+Named Entity Recognition#CoNLL 2003 (English)#F1#92.28
+Named Entity Recognition#ACE 2004#F1#79.5
+Nested Named Entity Recognition#ACE 2005#F1#78.2
+Nested Named Entity Recognition#ACE 2004#F1#79.5
+Nested Mention Recognition#ACE 2005#F1#78.2
+Nested Mention Recognition#ACE 2004#F1#79.5

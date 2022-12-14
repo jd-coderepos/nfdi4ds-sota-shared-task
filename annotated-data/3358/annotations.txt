@@ -1,0 +1,4 @@
+Chinese Named Entity Recognition#OntoNotes 4#F1#75.54
+Chinese Named Entity Recognition#Weibo NER#F1#61.24
+Chinese Named Entity Recognition#Resume NER#F1#95.59
+Chinese Named Entity Recognition#MSRA#F1#93.5

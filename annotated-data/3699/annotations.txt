@@ -1,0 +1,2 @@
+Multi-Label Classification#MS-COCO#mAP#77.1
+Multi-Label Classification#NUS-WIDE#MAP#62.0

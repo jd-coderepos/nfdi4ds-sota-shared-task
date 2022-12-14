@@ -1,0 +1,4 @@
+Recommendation Systems#Epinions#MAE#0.7781
+Recommendation Systems#Epinions#RMSE#1.0268
+Recommendation Systems#WeChat#AUC#0.8165
+Recommendation Systems#WeChat#P@10#0.0823

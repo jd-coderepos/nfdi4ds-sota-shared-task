@@ -1,0 +1,2 @@
+Semantic Parsing#WikiTableQuestions#Accuracy (Dev)#43.7
+Semantic Parsing#WikiTableQuestions#Accuracy (Test)#44.5

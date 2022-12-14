@@ -1,0 +1,2 @@
+Relation Extraction#NYT Corpus#P@10%#86.1
+Relation Extraction#NYT Corpus#P@30%#76.6

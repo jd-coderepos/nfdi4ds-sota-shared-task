@@ -1,0 +1,3 @@
+Image Classification#Fashion-MNIST#Accuracy#96.91
+Image Classification#Fashion-MNIST#Percentage error#3.09
+Fine-Grained Image Classification#CompCars#Accuracy#95.9%

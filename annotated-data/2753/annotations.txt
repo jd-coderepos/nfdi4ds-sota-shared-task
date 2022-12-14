@@ -1,0 +1,4 @@
+Semantic Segmentation#ADE20K val#mIoU#47.12
+Semantic Segmentation#Cityscapes test#Mean IoU (class)#83.6%
+Semantic Segmentation#PASCAL Context#mIoU#55.6
+Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#86.9%

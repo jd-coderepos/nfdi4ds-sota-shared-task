@@ -1,0 +1,1 @@
+3D Instance Segmentation#ScanNet(v2)#Mean AP @ 0.5#31.0

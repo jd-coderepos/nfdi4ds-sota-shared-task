@@ -1,0 +1,2 @@
+machine_translation#WMT 2014 EN-DE#BLEU#25.16
+machine_translation#WMT 2014 EN-FR#BLEU#40.46

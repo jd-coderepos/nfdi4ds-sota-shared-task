@@ -1,0 +1,4 @@
+RGB-D Salient Object Detection#NJU2K#Average MAE#0.205
+RGB-D Salient Object Detection#NJU2K#S-Measure#51.4
+RGB-D Salient Object Detection#NJU2K#max E-Measure#72.4
+RGB-D Salient Object Detection#NJU2K#max F-Measure#63.2

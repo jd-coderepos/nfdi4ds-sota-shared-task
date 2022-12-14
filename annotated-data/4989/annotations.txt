@@ -1,0 +1,2 @@
+Node Classification#Pubmed#Accuracy#78.45%
+Node Classification#Cora#Accuracy#80.53%
