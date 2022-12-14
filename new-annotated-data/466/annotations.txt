@@ -1,8 +1,0 @@
-Image-to-Image Translation#GTAV-to-Cityscapes Labels#mIoU#62.0
-Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#62.0
-Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#58.8
-Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (13 classes)#69.2
-Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (16 classes)#61.3
-Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (13 classes)#64.6
-Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (16 classes)#57.8
-Domain Adaptation#GTA5 to Cityscapes#mIoU#62.0

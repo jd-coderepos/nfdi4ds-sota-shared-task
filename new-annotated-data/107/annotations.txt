@@ -1,5 +1,0 @@
-Diabetes Prediction#Diabetes#Accuracy#78.78
-Breast Cancer Detection#Breast cancer Wisconsin_class 4#Accuracy#96.49
-Breast Cancer Detection#Breast cancer Wisconsin_class 4#Average Precision#0.95
-Fraud Detection#Kaggle-Credit Card Fraud Dataset#Accuracy#71.33
-General Classification#iris#Accuracy#100

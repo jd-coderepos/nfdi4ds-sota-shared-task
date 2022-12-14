@@ -1,5 +1,0 @@
-Speech Separation#WSJ0-5mix#SI-SDRi#13.22
-Speech Separation#Libri5Mix#SI-SDRi#12.72
-Speech Separation#Libri10Mix#SI-SDRi#7.78
-Speech Separation#Libri15Mix#SI-SDRi#5.66
-Speech Separation#Libri20Mix#SI-SDRi#4.26

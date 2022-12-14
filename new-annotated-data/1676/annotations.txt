@@ -1,6 +1,0 @@
-Video Prediction#Cityscapes 128x128#FVD#418.00 ± 5.0
-Video Prediction#Cityscapes 128x128#SSIM#0.740±0.4
-Video Prediction#Cityscapes 128x128#LPIPS#0.193 ± 0.014
-Video Prediction#Cityscapes 128x128#Cond.#2
-Video Prediction#Cityscapes 128x128#Pred#28
-Video Prediction#Cityscapes 128x128#Train#10

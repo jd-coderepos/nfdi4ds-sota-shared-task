@@ -1,2 +1,0 @@
-Code Generation#Django#Accuracy#81.77
-Code Generation#CoNaLa#BLEU#33.41

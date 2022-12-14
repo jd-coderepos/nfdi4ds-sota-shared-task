@@ -1,4 +1,0 @@
-Graph Property Prediction#ogbg-ppa#Test Accuracy#0.7976 ± 0.0072
-Graph Property Prediction#ogbg-ppa#Validation Accuracy#0.7518 ± 0.0080
-Graph Property Prediction#ogbg-ppa#Number of params#1369397
-Graph Property Prediction#ogbg-ppa#Ext. data#No

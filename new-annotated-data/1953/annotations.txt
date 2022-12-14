@@ -1,6 +1,0 @@
-Question Answering#FinQA#Execution Accuracy#65.05
-Question Answering#FinQA#Program Accuracy#63.52
-Question Answering#FinQA#Execution Accuracy#57.43
-Question Answering#FinQA#Program Accuracy#55.52
-Question Answering#FinQA#Execution Accuracy#53.71
-Question Answering#FinQA#Program Accuracy#51.71

@@ -1,6 +1,0 @@
-Question Answering#HotpotQA#ANS-EM#0.306
-Question Answering#HotpotQA#ANS-F1#0.403
-Question Answering#HotpotQA#SUP-EM#0.167
-Question Answering#HotpotQA#SUP-F1#0.473
-Question Answering#HotpotQA#JOINT-EM#0.109
-Question Answering#HotpotQA#JOINT-F1#0.270

@@ -1,3 +1,0 @@
-Code Generation#CONCODE#Exact Match#22.70
-Code Generation#CONCODE#BLEU#41.48
-Code Generation#CONCODE#CodeBLEU#44.10

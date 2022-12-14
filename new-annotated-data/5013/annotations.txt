@@ -1,3 +1,0 @@
-Line Detection#NKL#F_measure (EA)#0.803
-Line Detection#SEL#AUC_F#86.83
-Line Detection#SEL#HIoU#81.03

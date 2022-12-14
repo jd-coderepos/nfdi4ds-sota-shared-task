@@ -1,2 +1,0 @@
-Multispectral Object Detection#KAIST Multispectral Pedestrian Detection Benchmark#Reasonable Miss Rate#6.13
-Multispectral Object Detection#FLIR-aligned#mAP50#72.4

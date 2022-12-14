@@ -1,1 +1,0 @@
-Anxiety Detection#Well-being Dataset#F1-score#82.1

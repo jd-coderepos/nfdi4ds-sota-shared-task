@@ -1,4 +1,0 @@
-Few-Shot Text Classification#ODIC 10-way (5-shot)#Accuracy#78.27
-Few-Shot Text Classification#ODIC 5-way (10-shot)#Accuracy#88.49
-Few-Shot Text Classification#ODIC 5-way (5-shot)#Accuracy#87.16
-Few-Shot Text Classification#ODIC 10-way (10-shot)#Accuracy#81.64

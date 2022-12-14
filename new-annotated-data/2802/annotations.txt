@@ -1,2 +1,0 @@
-Emotion Recognition in Conversation#IEMOCAP#Weighted-F1#65.22
-Emotion Recognition in Conversation#MELD#Weighted-F1#60.84

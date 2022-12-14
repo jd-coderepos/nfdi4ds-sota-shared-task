@@ -1,2 +1,0 @@
-Visual Question Answering#GQA#Accuracy#65.54
-Human-Object Interaction Detection#HICO#mAP#43.98

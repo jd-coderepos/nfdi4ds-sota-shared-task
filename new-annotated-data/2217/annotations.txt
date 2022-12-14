@@ -1,8 +1,0 @@
-Data-to-Text Generation#MLB Dataset (Content Selection)#Precision#43.3
-Data-to-Text Generation#MLB Dataset (Content Selection)#Recall#53.5
-Data-to-Text Generation#MLB Dataset#BLEU#14.29
-Data-to-Text Generation#MLB Dataset (Relation Generation)#Precision#95.9
-Data-to-Text Generation#MLB Dataset (Relation Generation)#count#28.9
-Data-to-Text Generation#RotoWire (Relation Generation)#count#46.7
-Data-to-Text Generation#RotoWire (Relation Generation)#Precision#97.6
-Data-to-Text Generation#MLB Dataset (Content Ordering)#DLD#22.7

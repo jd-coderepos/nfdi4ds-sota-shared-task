@@ -1,3 +1,0 @@
-Action Classification#Charades#MAP#44.3
-Action Classification#Kinetics-400#Acc@1#83.8
-Action Classification#Kinetics-400#Acc@5#97.1

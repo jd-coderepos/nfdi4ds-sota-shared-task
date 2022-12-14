@@ -1,2 +1,0 @@
-Recommendation Systems#Amazon Fashion#nDCG@10 (500 Neg. Samples)#0.171
-Recommendation Systems#Amazon Fashion#AUC#0.816

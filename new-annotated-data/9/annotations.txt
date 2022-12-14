@@ -1,2 +1,0 @@
-Active Learning#CIFAR10 (10,000)#Accuracy#88.45
-Active Learning#CIFAR10 (10,000)#Accuracy#85.09

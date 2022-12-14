@@ -1,7 +1,0 @@
-Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#Subjective score#0.277
-Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#ERQAv1.0#0.339
-Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#QRCRv1.0#0
-Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#SSIM#0.759
-Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#PSNR#24.832
-Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#FPS#0.909
-Video Super-Resolution#MSU Video Super Resolution Benchmark: Detail Restoration#1 - LPIPS#0.623

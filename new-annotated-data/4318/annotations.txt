@@ -1,4 +1,0 @@
-Aspect Category Detection#SemEval 2014 Task 4 Sub Task 2#MRR#0.66
-Aspect Category Detection#SemEval 2014 Task 4 Sub Task 2#Average Recall#0.72
-Aspect Category Detection#SemEval 2014 Task 4 Sub Task 2#NDCG#0.66
-Aspect Category Detection#SemEval 2014 Task 4 Sub Task 2#Hit@5#0.82

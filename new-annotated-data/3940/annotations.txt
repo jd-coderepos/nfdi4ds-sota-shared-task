@@ -1,2 +1,0 @@
-Unsupervised Text Classification#AG News#F1 score#82.7
-Unsupervised Text Classification#20Newsgroup (10 tasks)#F1-score#75.1

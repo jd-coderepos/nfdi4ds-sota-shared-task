@@ -1,4 +1,0 @@
-Node Classification#Wikipedia#Accuracy#21.30%
-Node Classification#Wikipedia#Macro-F1#0.194
-Node Classification#Eximtradedata#Accuracy#23.20%
-Node Classification#Eximtradedata#Macro-F1#0.221

@@ -1,9 +1,0 @@
-Image Captioning#SCICAP#BLEU-4#0.0219
-Image Captioning#SCICAP#BLEU-4#0.0213
-Image Captioning#SCICAP#BLEU-4#0.0212
-Image Captioning#SCICAP#BLEU-4#0.0207
-Image Captioning#SCICAP#BLEU-4#0.0205
-Image Captioning#SCICAP#BLEU-4#0.0202
-Image Captioning#SCICAP#BLEU-4#0.0172
-Image Captioning#SCICAP#BLEU-4#0.0168
-Image Captioning#SCICAP#BLEU-4#0.0165

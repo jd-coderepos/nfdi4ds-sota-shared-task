@@ -1,2 +1,0 @@
-3D Semantic Scene Completion#NYUv2#mIoU#26.7
-3D Semantic Scene Completion#SemanticKITTI#mIoU#17.5

@@ -1,4 +1,0 @@
-Visual Navigation#AI2-THOR#SPL (All)#16.15
-Visual Navigation#AI2-THOR#Success Rate (All)#40.86
-Visual Navigation#AI2-THOR#SPL (L≥5)#13.91
-Visual Navigation#AI2-THOR#Success Rate (L≥5)#28.7

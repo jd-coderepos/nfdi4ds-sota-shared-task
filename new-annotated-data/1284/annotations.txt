@@ -1,8 +1,0 @@
-Person Re-Identification#DukeMTMC-reID#Rank-1#78.32
-Person Re-Identification#DukeMTMC-reID#mAP#57.61
-Person Re-Identification#DukeMTMC-reID#Rank-1#72.31
-Person Re-Identification#DukeMTMC-reID#mAP#51.83
-Person Re-Identification#Market-1501#Rank-1#89.49
-Person Re-Identification#Market-1501#mAP#71.55
-Person Re-Identification#Market-1501#Rank-1#85.66
-Person Re-Identification#Market-1501#mAP#65.87

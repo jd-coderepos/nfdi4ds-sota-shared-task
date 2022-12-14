@@ -1,9 +1,0 @@
-Semantic Segmentation#ADE20K#Validation mIoU#51.1
-Semantic Segmentation#ADE20K#Params (M)#108
-Object Detection#COCO minival#box AP#52.3
-Image Classification#ImageNet#Top 1 Accuracy#83.6%
-Image Classification#ImageNet#Number of params#76.4M
-Image Classification#ImageNet#GFLOPs#12.3
-Image Classification#ImageNet#Top 1 Accuracy#82%
-Image Classification#ImageNet#Number of params#27.2M
-Image Classification#ImageNet#GFLOPs#4

@@ -1,2 +1,0 @@
-Few Shot Temporal Action Localization#THUMOS14#mIoU#30.2
-Few Shot Temporal Action Localization#ActivityNet#mIoU#38.5

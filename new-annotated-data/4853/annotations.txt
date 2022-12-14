@@ -1,3 +1,0 @@
-Video Instance Segmentation#HQ-YTVIS#Tube-Boundary AP#44.8
-Video Instance Segmentation#HQ-YTVIS#Tube-Boundary AP#32.5
-Video Instance Segmentation#HQ-YTVIS#Tube-Boundary AP#30.7

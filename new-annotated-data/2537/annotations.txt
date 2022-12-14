@@ -1,7 +1,0 @@
-Semantic Segmentation#Hypersim#mIoU#37.0
-Semantic Segmentation#Hypersim#mIoU#36.5
-Semantic Segmentation#Hypersim#mIoU#32.5
-Semantic Segmentation#Hypersim#mIoU#31.7
-Semantic Segmentation#ADE20K#Validation mIoU#46.2
-Semantic Segmentation#ADE20K val#mIoU#46.2
-Semantic Segmentation#NYU Depth v2#Mean IoU#56.0%

@@ -1,4 +1,0 @@
-Speech-to-Text Translation#MuST-C EN->ES#Case-sensitive sacreBLEU#28.12
-Speech-to-Text Translation#MuST-C#SacreBLEU#25.62
-Speech-to-Text Translation#MuST-C EN->FR#Case-sensitive sacreBLEU#33.45
-Speech-to-Text Translation#MuST-C EN->DE#Case-sensitive sacreBLEU#23.63

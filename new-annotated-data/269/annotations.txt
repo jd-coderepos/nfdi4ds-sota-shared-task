@@ -1,3 +1,0 @@
-Face Verification#IJB-C#TAR @ FAR=1e-4#97.31%
-Face Verification#IJB-C#training dataset#WebFace42M
-Face Verification#IJB-C#model#R100

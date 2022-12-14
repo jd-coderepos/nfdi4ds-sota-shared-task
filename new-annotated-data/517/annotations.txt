@@ -1,6 +1,0 @@
-Domain Adaptation#UCF --> HMDB (full)#Accuracy#87.78
-Domain Adaptation#HMDB --> UCF (full)#Accuracy#98.95
-Unsupervised Domain Adaptation#EPIC-KITCHENS-100#Average Accuracy#52.6
-Unsupervised Domain Adaptation#UCF-HMDB#Accuracy#87.78
-Unsupervised Domain Adaptation#HMDB-UCF#Accuracy#98.95
-Unsupervised Domain Adaptation#Jester#Accuracy#66.1

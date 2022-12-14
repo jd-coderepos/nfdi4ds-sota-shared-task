@@ -1,9 +1,0 @@
-Small Data Image Classification#CIFAR-10, 100 Labels#Accuracy (%)#43.6
-Small Data Image Classification#CIFAR-10, 100 Labels#Accuracy (%)#43.16
-Small Data Image Classification#CIFAR-10, 100 Labels#Accuracy (%)#38.78
-Small Data Image Classification#CIFAR-10, 500 Labels#Accuracy (%)#63.13
-Small Data Image Classification#CIFAR-10, 500 Labels#Accuracy (%)#62.97
-Small Data Image Classification#CIFAR-10, 500 Labels#Accuracy (%)#61.66
-Small Data Image Classification#CIFAR-10, 1000 Labels#Accuracy (%)#71.37
-Small Data Image Classification#CIFAR-10, 1000 Labels#Accuracy (%)#70.14
-Small Data Image Classification#CIFAR-10, 1000 Labels#Accuracy (%)#68.16

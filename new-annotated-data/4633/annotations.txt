@@ -1,4 +1,0 @@
-Node Classification#Chameleon#Accuracy#69.4 ±1.4
-Node Classification#Squirrel#Accuracy#55.8 ±1.1
-Node Classification#Texas#Accuracy#84.5 ±5.1
-Node Classification#Crocodile#Accuracy#77.4 ±0.6

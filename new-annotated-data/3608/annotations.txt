@@ -1,5 +1,0 @@
-Lipreading#CMLR#CER#9.1%
-Lipreading#LRS3-TED#Word Error Rate (WER)#31.5
-Lipreading#LRS2#Word Error Rate (WER)#25.5%
-Lipreading#LRS2#Word Error Rate (WER)#32.9%
-Lipreading#GRID corpus (mixed-speech)#Word Error Rate (WER)#1.2

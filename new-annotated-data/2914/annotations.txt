@@ -1,3 +1,0 @@
-Scene Classification#UC Merced Land Use Dataset#Accuracy (%)#98.33
-Image Classification#EuroSAT#Accuracy (%)#98.65
-Image Classification#EuroSAT#Accuracy (%)#98.14

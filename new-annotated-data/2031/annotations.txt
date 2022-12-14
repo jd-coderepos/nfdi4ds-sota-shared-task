@@ -1,3 +1,0 @@
-Question Answering#ComplexWebQuestions#EM#47.7
-Question Answering#TriviaQA#EM#65.8
-Passage Retrieval#EntityQuestions#Recall@20#0.838

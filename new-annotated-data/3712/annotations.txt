@@ -1,3 +1,0 @@
-Object Detection#COCO 2017#Mean mAP#4.2
-Object Detection#A2D#Mean IoU#5.8
-Object Detection#SIXray#1 in 10 R@5#0.073

@@ -1,3 +1,0 @@
-Image Generation#Pokemon 256x256#FID#81.86
-Image Generation#Pokemon 1024x1024#FID#56.46
-Image Generation#ADE-Indoor#FID#30.33

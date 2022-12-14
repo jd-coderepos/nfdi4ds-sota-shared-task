@@ -1,9 +1,0 @@
-Anomaly Detection#Road Anomaly#AP#25.82
-Anomaly Detection#Road Anomaly#FPR#49.74
-Anomaly Detection#Fishyscapes#AP#53.11
-Anomaly Detection#Fishyscapes#FPR#19.64
-Anomaly Detection#Fishyscapes L&F#AP#36.55
-Anomaly Detection#Fishyscapes L&F#FPR95#14.53
-Anomaly Detection#Lost and Found#AP#25.89
-Anomaly Detection#Lost and Found#FPR#44.48
-Semantic Segmentation#Cityscapes val#mIoU#80.33

@@ -1,2 +1,0 @@
-Image Enhancement#TIP 2018#PSNR#30.03
-Image Enhancement#TIP 2018#SSIM#0.893

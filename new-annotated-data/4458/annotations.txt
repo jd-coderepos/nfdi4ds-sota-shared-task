@@ -1,6 +1,0 @@
-Unsupervised Object Segmentation#ObjectsRoom#ARI-FG#0.87
-Unsupervised Object Segmentation#ShapeStacks#ARI-FG#0.82
-Unsupervised Object Segmentation#ClevrTex#mIoU#79.58±0.54
-Unsupervised Object Segmentation#ClevrTex#MSE#139±7
-Unsupervised Object Segmentation#ClevrTex#mIoU#66.62± 0.80
-Unsupervised Object Segmentation#ClevrTex#MSE#167± 1

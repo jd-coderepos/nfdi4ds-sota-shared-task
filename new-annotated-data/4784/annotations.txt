@@ -1,6 +1,0 @@
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#0.571
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#0.574
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#0.590
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#0.601
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#0.863
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#1.180

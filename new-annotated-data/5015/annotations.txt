@@ -1,2 +1,0 @@
-Line Detection#SEL#AUC_F#86.29
-Line Detection#SEL#HIoU#80.23

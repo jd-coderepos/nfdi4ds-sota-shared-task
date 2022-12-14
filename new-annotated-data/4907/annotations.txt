@@ -1,2 +1,0 @@
-Zero-Shot Transfer Image Classification#SUN#Accuracy#23.0
-Zero-Shot Transfer Image Classification#aYahoo#Accuracy#72.4

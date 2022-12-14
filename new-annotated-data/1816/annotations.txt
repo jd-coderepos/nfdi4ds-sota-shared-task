@@ -1,4 +1,0 @@
-Few-Shot Image Classification#AWA - 0-Shot#Accuracy#72.9%
-Few-Shot Image Classification#ImageNet - 0-Shot#Accuracy#1.5%
-Few-Shot Image Classification#CUB-200-2011 - 0-Shot#Top-1 Accuracy#54.7%
-Few-Shot Image Classification#SUN - 0-Shot#Accuracy#62.7%

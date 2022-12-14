@@ -1,8 +1,0 @@
-Audio Classification#AudioSet#Test mAP#0.474
-Audio Classification#AudioSet#AUC#0.981
-Audio Classification#AudioSet#d-prime#2.936
-Audio Classification#AudioSet#Test mAP#0.443
-Audio Classification#AudioSet#AUC#0.975
-Audio Classification#AudioSet#d-prime#2.778
-Audio Classification#FSD50K#mAP#56.71
-Audio Tagging#AudioSet#mean average precision#0.474

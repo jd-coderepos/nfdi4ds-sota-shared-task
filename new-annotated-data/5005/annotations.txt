@@ -1,6 +1,0 @@
-Crowdsourced Text Aggregation#CrowdSpeech test-other#Word Error Rate (WER)#13.41
-Crowdsourced Text Aggregation#CrowdSpeech test-other#Word Error Rate (WER)#15.66
-Crowdsourced Text Aggregation#CrowdSpeech test-other#Word Error Rate (WER)#15.67
-Crowdsourced Text Aggregation#CrowdSpeech test-clean#Word Error Rate (WER)#7.29
-Crowdsourced Text Aggregation#CrowdSpeech test-clean#Word Error Rate (WER)#8.59
-Crowdsourced Text Aggregation#CrowdSpeech test-clean#Word Error Rate (WER)#8.6

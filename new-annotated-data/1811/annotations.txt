@@ -1,8 +1,0 @@
-Multimodal Intent Recognition#MIntRec#Accuracy (20 classes)#85.51
-Multimodal Intent Recognition#MIntRec#Accuracy (Binary)#94.72
-Multimodal Intent Recognition#MIntRec#Accuracy (20 classes)#72.65
-Multimodal Intent Recognition#MIntRec#Accuracy (Binary)#89.24
-Multimodal Intent Recognition#MIntRec#Accuracy (20 classes)#72.52
-Multimodal Intent Recognition#MIntRec#Accuracy (Binary)#89.19
-Multimodal Intent Recognition#MIntRec#Accuracy (20 classes)#72.29
-Multimodal Intent Recognition#MIntRec#Accuracy (Binary)#89.21

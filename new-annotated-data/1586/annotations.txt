@@ -1,2 +1,0 @@
-Action Classification#Kinetics-400#Acc@1#87.8
-Action Classification#Kinetics-400#Acc@5#97.6

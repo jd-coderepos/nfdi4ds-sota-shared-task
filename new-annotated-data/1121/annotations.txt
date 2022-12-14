@@ -1,9 +1,0 @@
-Medical Image Segmentation#CVC-ClinicDB#mean Dice#0.9164
-Medical Image Segmentation#CVC-ClinicDB#mIoU#0.8610
-Medical Image Segmentation#2018 Data Science Bowl#Dice#0.9141
-Medical Image Segmentation#2018 Data Science Bowl#mIoU#0.8501
-Medical Image Segmentation#2018 Data Science Bowl#Recall#0.9240
-Medical Image Segmentation#2018 Data Science Bowl#Precision#0.9137
-Medical Image Segmentation#ISIC 2018#DSC#90.35
-Medical Image Segmentation#SegPC-2021#mIoU#0.8048
-Lesion Segmentation#ISIC 2018 Task 1#mIoU#0.8301

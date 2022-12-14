@@ -1,4 +1,0 @@
-Link Property Prediction#ogbl-citation2#Test MRR#0.8883 ± 0.0018
-Link Property Prediction#ogbl-citation2#Validation MRR#0.8891 ± 0.0021
-Link Property Prediction#ogbl-citation2#Number of params#79617
-Link Property Prediction#ogbl-citation2#Ext. data#No

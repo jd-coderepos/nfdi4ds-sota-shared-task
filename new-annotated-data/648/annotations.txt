@@ -1,3 +1,0 @@
-Speech Recognition#GigaSpeech#Word Error Rate (WER)#10.90
-Speech Recognition#GigaSpeech DEV#Word Error Rate (WER)#10.90
-Speech Recognition#GigaSpeech TEST#Word Error Rate (WER)#10.80

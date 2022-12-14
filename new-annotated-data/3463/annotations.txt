@@ -1,8 +1,0 @@
-Document Image Classification#Tobacco-3482#Accuracy#91.95
-Document Image Classification#Tobacco-3482#Accuracy#91
-Document Image Classification#Tobacco-3482#Accuracy#82.3
-Document Image Classification#Tobacco-3482#Accuracy#81.5
-Document Image Classification#Tobacco-3482#Accuracy#79
-Document Image Classification#Tobacco-3482#Accuracy#77.5
-Document Image Classification#Tobacco-3482#Accuracy#73.5
-Document Image Classification#Tobacco-3482#Memory#7.08

@@ -1,3 +1,0 @@
-Multi-Document Summarization#Multi-News#ROUGE-2#14.89
-Multi-Document Summarization#Multi-News#ROUGE-1#43.47
-Multi-Document Summarization#Multi-News#ROUGE-SU4#17.41

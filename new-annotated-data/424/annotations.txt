@@ -1,4 +1,0 @@
-Skeleton Based Action Recognition#UPenn Action#Accuracy#97.9
-Action Classification#Toyota Smarthome dataset#CS#64.3
-Action Classification#Toyota Smarthome dataset#CV1#36.1
-Action Classification#Toyota Smarthome dataset#CV2#65.0

@@ -1,8 +1,0 @@
-Face Alignment#AFLW2000-3D#Mean NME#2.56
-Face Alignment#COFW#Mean Error Rate#5.04%
-Face Alignment#COFW#Recall at 80% precision (Landmarks Visibility)#72.12
-Face Alignment#COFW#Mean Error Rate#5.65%
-Pose Estimation#300W (Full)#MAE mean (º)#1.56
-Head Pose Estimation#BIWI#MAE (trained with other data)#3.66
-Head Pose Estimation#AFLW2000-3D#MAE yaw (º)#3.78
-Head Pose Estimation#AFLW#MAE#3.22

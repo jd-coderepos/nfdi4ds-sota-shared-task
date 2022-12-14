@@ -1,5 +1,0 @@
-Speech Enhancement#Deep Noise Suppression (DNS) Challenge#SI-SDR-WB#19.7
-Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-WB#2.95
-Speech Enhancement#Deep Noise Suppression (DNS) Challenge#SI-SDR-WB#16.0
-Speech Enhancement#Deep Noise Suppression (DNS) Challenge#PESQ-WB#2.34
-Speech Enhancement#Deep Noise Suppression (DNS) Challenge#Unsupervised#Yes (MixIT pr-tr on LFSD50K)

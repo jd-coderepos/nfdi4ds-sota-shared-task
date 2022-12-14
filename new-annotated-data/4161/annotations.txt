@@ -1,1 +1,0 @@
-Image Classification#Clothing1M (using clean data)#Accuracy#77.5 ± 0.2%

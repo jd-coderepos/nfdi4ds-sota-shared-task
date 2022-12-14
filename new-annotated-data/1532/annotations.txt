@@ -1,1 +1,0 @@
-3D Semantic Segmentation#PartNet#mIOU#53.8

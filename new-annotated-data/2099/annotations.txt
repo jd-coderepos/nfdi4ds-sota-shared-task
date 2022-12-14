@@ -1,2 +1,0 @@
-Visual Question Answering#A-OKVQA#MC Accuracy#40.1
-Visual Question Answering#A-OKVQA#DA VQA Score#21.9

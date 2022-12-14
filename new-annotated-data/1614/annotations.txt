@@ -1,3 +1,0 @@
-Semi-Supervised Video Object Segmentation#DAVIS 2017 val (no extra training data)#J&F score#62.4
-Semi-Supervised Video Object Segmentation#DAVIS 2017 val (no extra training data)#J score#56.5
-Semi-Supervised Video Object Segmentation#DAVIS 2017 val (no extra training data)#F score#68.2

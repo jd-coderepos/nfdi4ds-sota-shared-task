@@ -1,2 +1,0 @@
-Semantic Segmentation#Cleargrasp (Novel)#Mean IoU#53.16
-Semantic Segmentation#Cleargrasp (Novel)#Accuracy#95.6

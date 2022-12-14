@@ -1,6 +1,0 @@
-Video Frame Interpolation#Middlebury#Interpolation Error#4.216
-Video Frame Interpolation#UCF101#PSNR#35.42
-Video Frame Interpolation#UCF101#SSIM#0.9698
-Video Frame Interpolation#Vimeo90K#PSNR#36.20
-Video Frame Interpolation#Vimeo90K#SSIM#0.9808
-Video Frame Interpolation#Vimeo90K#Speed (ms/f)#16 (Tesla V100)

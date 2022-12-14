@@ -1,2 +1,0 @@
-Paraphrase Generation#Quora Question Pairs#iBLEU#5.84
-Paraphrase Generation#Paralex#iBLEU#14.84

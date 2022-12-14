@@ -1,4 +1,0 @@
-Person Re-Identification#CUHK03#MAP#96.4
-Person Re-Identification#CUHK03#Rank-1#98.7
-Person Re-Identification#Market-1501#Rank-1#98.27
-Person Re-Identification#Market-1501#mAP#94.46

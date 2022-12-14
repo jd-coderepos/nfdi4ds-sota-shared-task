@@ -1,3 +1,0 @@
-Domain Adaptation#GTA5 to Cityscapes#mIoU#53.4
-Domain Adaptation#SYNTHIA-to-Cityscapes#mIoU#60.1
-Domain Generalization#GTA5-to-Cityscapes#mIoU#43.5

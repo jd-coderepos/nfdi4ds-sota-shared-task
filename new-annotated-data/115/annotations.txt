@@ -1,3 +1,0 @@
-Stock Market Prediction#Astock#1:1 Accuracy#66.89
-Text-Based Stock Prediction#Astock#1:1 Accuracy#66.89
-Stock Price Prediction#Astock#1-1#66.89

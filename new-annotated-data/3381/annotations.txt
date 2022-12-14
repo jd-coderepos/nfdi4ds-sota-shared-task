@@ -1,1 +1,0 @@
-Gesture Recognition#DVS128 Gesture#Accuracy (%)#86.81

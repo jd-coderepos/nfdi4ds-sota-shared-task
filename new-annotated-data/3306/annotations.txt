@@ -1,6 +1,0 @@
-Open Intent Discovery#BANKING77#NMI#0.7956
-Open Intent Discovery#BANKING77#ARI#0.5364
-Open Intent Discovery#BANKING77#ACC#64.9
-Open Intent Discovery#CLINC150#NMI#0.9389
-Open Intent Discovery#CLINC150#ARI#0.7975
-Open Intent Discovery#CLINC150#ACC#86.49

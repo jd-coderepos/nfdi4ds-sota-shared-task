@@ -1,7 +1,0 @@
-Text Generation#ROCStories#Perplexity#2.14
-Text Generation#ROCStories#BLEU-1#34.4
-Text Generation#ROCStories#Perplexity#2.16
-Text Generation#ROCStories#Perplexity#2.11
-Text Generation#ROCStories#BLEU-1#34.3
-Text Generation#ROCStories#Perplexity#2.24
-Text Generation#ROCStories#BLEU-1#33.7

@@ -15,12 +15,12 @@ The repository is organized as follows:
 
 ```
 README
-[annotated-data]/				#PWC download timestamp May 10, 2021
+[annotated-data]/
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
 	 |___ ...
-[new-annotated-data]/			#PWC download timestamp November 04, 2022
+[new-annotated-data]/
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
@@ -28,10 +28,10 @@ README
 ```
 
 The dataset dump originates from [paperswithcode.com](https://paperswithcode.com/).
-Two dump versions are created between the years 2021 and 2022.
+
 Each folder in the respective dump corresponds to a scholarly article
 originally downloaded in `pdf` format from arXiv, whose contents were then
-scrapped as `txt` data encoded in the TEI XML format.
+scrapped as `txt` data encoded in the [TEI](https://en.wikipedia.org/wiki/Text_Encoding_Initiative) XML format.
 
 
 ### Dataset statistics

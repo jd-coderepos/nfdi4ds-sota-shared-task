@@ -1,2 +1,0 @@
-Semantic Role Labeling#CoNLL-2009#F1 (Arg.)#90.2
-Semantic Role Labeling#CoNLL-2009#F1 (Prd.)#95.5

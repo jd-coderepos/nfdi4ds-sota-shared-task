@@ -1,3 +1,0 @@
-Human Pose Forecasting#Human3.6M#MAR, walking, 400ms#0.58
-Human Pose Forecasting#Human3.6M#MAR, walking, 1,000ms#0.73
-Human Pose Forecasting#Human3.6M#Average MPJPE (mm) 1000 msec#71.6

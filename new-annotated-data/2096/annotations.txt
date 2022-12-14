@@ -1,8 +1,0 @@
-Visual Question Answering#A-OKVQA#MC Accuracy#53.7
-Visual Question Answering#A-OKVQA#DA VQA Score#40.7
-Visual Question Answering#GRIT#VQA (ablation)#63.5
-Visual Question Answering#GRIT#VQA (test)#63.2
-Object Localization#GRIT#Localization (ablation)#53.6
-Object Localization#GRIT#Localization (test)#53.6
-Object Categorization#GRIT#Categorization (ablation)#54.7
-Object Categorization#GRIT#Categorization (test)#55.1

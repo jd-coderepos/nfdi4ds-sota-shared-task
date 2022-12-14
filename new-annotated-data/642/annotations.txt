@@ -1,3 +1,0 @@
-Speech Recognition#WenetSpeech#Character Error Rate (CER)#8.88
-Speech Recognition#WenetSpeech#Character Error Rate (CER)#9.07
-Speech Recognition#WenetSpeech#Character Error Rate (CER)#9.7

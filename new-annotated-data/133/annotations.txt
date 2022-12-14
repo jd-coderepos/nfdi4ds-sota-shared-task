@@ -1,4 +1,0 @@
-Link Prediction#FB122#HITS@3#69.2
-Link Prediction#FB122#Hits@5#71.1
-Link Prediction#FB122#Hits@10#73.2
-Link Prediction#FB122#MRR#67.8

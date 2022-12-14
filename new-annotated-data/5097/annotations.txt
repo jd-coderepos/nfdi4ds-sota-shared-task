@@ -1,6 +1,0 @@
-Handwritten Text Recognition#HKR#CER#3.49
-Handwritten Text Recognition#Saint Gall#CER#3.65
-Handwritten Text Recognition#Bentham#CER#1.73
-Handwritten Text Recognition#IAM-B#CER#3.77
-Handwritten Text Recognition#IAM-D#CER#3.01
-Handwritten Text Recognition#Digital Peter#CER#2.5

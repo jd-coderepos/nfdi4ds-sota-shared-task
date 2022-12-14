@@ -1,5 +1,0 @@
-Few-Shot Learning#MRPC#F1-score#78.3(4.5)
-Few-Shot Learning#CR#Acc#91.8(0.5)
-Few-Shot Learning#GLUE QQP#F1-score#67.8(3.2)
-Few-Shot Learning#SST-2 Binary classification#Acc#93.5(0.5)
-Few-Shot Learning#MR#Acc#88.2(1.0)

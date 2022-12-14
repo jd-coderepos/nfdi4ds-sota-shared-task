@@ -1,3 +1,0 @@
-Vehicle Speed Estimation#BrnoCompSpeed#Mean Speed Measurement Error (km/h)#0.75
-Vehicle Speed Estimation#BrnoCompSpeed#Median Speed Measurement Error (km/h)#0.58
-Vehicle Speed Estimation#BrnoCompSpeed#95-th Percentile Speed Measurement Error (km/h)#1.84

@@ -1,2 +1,0 @@
-Change detection for remote sensing images#CDD Dataset (season-varying)#F1-Score#0.9734
-Change detection for remote sensing images#WHU building#F1-Score#0.9236

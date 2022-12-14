@@ -1,3 +1,0 @@
-Uncropping#Places2 val#FID#11.8
-Uncropping#Places2 val#PD#129.3
-Uncropping#Places2 val#Fool rate#20.7

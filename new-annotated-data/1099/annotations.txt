@@ -1,2 +1,0 @@
-Machine Translation#Itihasa#SacreBLEU#7.59
-Machine Translation#Itihasa#SacreBLEU#7.49

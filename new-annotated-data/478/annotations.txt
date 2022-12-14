@@ -1,4 +1,0 @@
-Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#56.6
-Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (13 classes)#62.8
-Synthetic-to-Real Translation#SYNTHIA-to-Cityscapes#MIoU (16 classes)#55.0
-Domain Adaptation#SYNTHIA-to-Cityscapes#mIoU#55.0

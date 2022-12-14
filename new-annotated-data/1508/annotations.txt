@@ -1,1 +1,0 @@
-Action Recognition#Charades-Ego#mAP#32.1

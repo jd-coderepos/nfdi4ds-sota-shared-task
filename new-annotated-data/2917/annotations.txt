@@ -1,1 +1,0 @@
-Acoustic Scene Classification#TAU Urban Acoustic Scenes 2019#1:1 Accuracy#81.9

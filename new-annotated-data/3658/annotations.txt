@@ -1,6 +1,0 @@
-Recommendation Systems#Last.FM#Recall@20#0.1008
-Recommendation Systems#Last.FM#NDCG@20#0.0931
-Recommendation Systems#Alibaba-iFashion#Recall@20#0.1319
-Recommendation Systems#Alibaba-iFashion#NDCG@20#0.0848
-Recommendation Systems#Yelp2018#Recall@20#0.0778
-Recommendation Systems#Yelp2018#NDCG@20#0.0501

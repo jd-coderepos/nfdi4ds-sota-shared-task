@@ -1,9 +1,0 @@
-Zero-Shot Learning#SNIPS#Accuracy#88.98
-Zero-Shot Learning#AwA2#average top-1 classification accuracy#78.08
-Zero-Shot Learning#ImageNet#Top-1#3.0
-Zero-Shot Learning#aPY - 0-Shot#Top-1#60.54
-Generalized Zero-Shot Learning#AwA2#Harmonic mean#74.58
-Generalized Zero-Shot Learning#BBN Pronoun Coreference and Entity Type Corpus#F1#26.69
-Generalized Zero-Shot Learning#ImageNet#Top-1#1.7
-Generalized Zero-Shot Learning#aPY - 0-Shot#Harmonic mean#61.57
-Generalized Zero-Shot Learning#OntoNotes#F1#45.21

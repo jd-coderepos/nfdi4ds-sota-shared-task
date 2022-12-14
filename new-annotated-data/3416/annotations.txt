@@ -1,6 +1,0 @@
-Variable Disambiguation#SV-Ident#mAP@10#18.93
-Variable Disambiguation#SV-Ident#mAP@10#13.59
-Variable Disambiguation#SV-Ident#mAP@10#11.27
-Variable Disambiguation#SV-Ident#mAP@10#9.43
-Variable Detection#SV-Ident#F1#66.1
-Variable Detection#SV-Ident#F1#60.17

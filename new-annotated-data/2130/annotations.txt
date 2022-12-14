@@ -1,7 +1,0 @@
-Visual Question Answering#VQA v2 test-std#overall#78.53
-Visual Entailment#SNLI-VE test#Accuracy#90.12
-Visual Entailment#SNLI-VE val#Accuracy#90.04
-Image Captioning#COCO Captions#BLEU-4#41.81
-Image Captioning#COCO Captions#METEOR#31.51
-Image Captioning#COCO Captions#CIDER#141.4
-Image Captioning#COCO Captions#SPICE#24.42

@@ -1,7 +1,0 @@
-Image Classification#WebVision-1000#Top-1 Accuracy#79.3%
-Image Classification#WebVision-1000#Top-5 Accuracy#93.6%
-Image Classification#WebVision-1000#Top-1 Accuracy#72.1%
-Image Classification#WebVision-1000#Top-5 Accuracy#89.2%
-Image Classification#WebVision-1000#ImageNet Top-1 Accuracy#64.8%
-Image Classification#WebVision-1000#ImageNet Top-5 Accuracy#84.9%
-Image Classification#Clothing1M (using clean data)#Accuracy#81.5%

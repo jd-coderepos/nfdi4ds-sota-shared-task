@@ -1,2 +1,0 @@
-Real-Time Semantic Segmentation#HelixNet#mIoU (1/5 rotation)#78.7
-Real-Time Semantic Segmentation#HelixNet#Inference Time (ms) (1/5 rotation)#19

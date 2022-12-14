@@ -1,4 +1,0 @@
-Visual Object Tracking#GOT-10k#Average Overlap#64.2
-Visual Object Tracking#GOT-10k#Success Rate 0.5#73.7
-Visual Object Tracking#GOT-10k#Success Rate 0.75#57.5
-Visual Object Tracking#OTB-2015#AUC#0.719

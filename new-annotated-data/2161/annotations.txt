@@ -1,6 +1,0 @@
-Time Series Forecasting#PeMSD7#9 steps MAE#4.01
-Traffic Prediction#METR-LA#MAE @ 12 step#3.60
-Traffic Prediction#PEMS-BAY#MAE @ 12 step#2.07
-Traffic Prediction#PEMS-BAY#RMSE#4.74
-Traffic Prediction#PeMS-M#MAE (60 min)#3.83
-Traffic Prediction#PeMS07#MAE@1h#25.30

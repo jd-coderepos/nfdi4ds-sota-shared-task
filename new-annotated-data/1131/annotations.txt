@@ -1,5 +1,0 @@
-Medical Image Segmentation#CVC-ColonDB#mean Dice#0.808
-Medical Image Segmentation#CVC-ColonDB#mIoU#0.727
-Medical Image Segmentation#CVC-ColonDB#Average MAE#0.031
-Medical Image Segmentation#CVC-ColonDB#S-Measure#0.865
-Medical Image Segmentation#CVC-ColonDB#max E-Measure#0.913

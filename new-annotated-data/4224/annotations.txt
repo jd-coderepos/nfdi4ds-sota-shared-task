@@ -1,4 +1,0 @@
-Semi-Supervised Image Classification#SVHN, 1000 labels#Accuracy#95.58
-Semi-Supervised Image Classification#CIFAR-10, 4000 Labels#Percentage error#12.16
-Semi-Supervised Image Classification#CIFAR-10, 250 Labels#Percentage error#53.12
-Semi-Supervised Image Classification#cifar-100, 10000 Labels#Percentage error#38.65

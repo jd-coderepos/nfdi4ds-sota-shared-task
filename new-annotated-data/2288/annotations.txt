@@ -1,9 +1,0 @@
-Crowd Counting#UCF-QNRF#MAE#81.6
-Crowd Counting#ShanghaiTech A#MAE#54.8
-Crowd Counting#ShanghaiTech A#MSE#89.1
-Crowd Counting#UCF CC 50#MAE#186.3
-Crowd Counting#ShanghaiTech B#MAE#6.2
-Crowd Counting#JHU-CROWD++#MAE#58.2
-Crowd Counting#JHU-CROWD++#MSE#245.1
-Object Counting#TRANCOS#MAE#2.1
-Object Counting#TRANCOS#MSE#2.6

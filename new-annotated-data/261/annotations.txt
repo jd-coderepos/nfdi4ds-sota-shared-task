@@ -1,4 +1,0 @@
-Face Verification#CPLFW#Accuracy#91.05%
-Face Verification#CALFW#Accuracy#93.95%
-Face Verification#LFW#Accuracy#99.60%
-Face Verification#Labeled Faces in the Wild#Accuracy#99.60%

@@ -1,2 +1,0 @@
-Audio Classification#AudioSet#Test mAP#0.411
-Audio Classification#Balanced Audio Set#Mean AP#27.6

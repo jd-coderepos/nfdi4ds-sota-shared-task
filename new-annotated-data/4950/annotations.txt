@@ -1,4 +1,0 @@
-Link Property Prediction#ogbl-biokg#Test MRR#0.8536 ± 0.0003
-Link Property Prediction#ogbl-biokg#Validation MRR#0.8548 ± 0.0002
-Link Property Prediction#ogbl-biokg#Number of params#192047104
-Link Property Prediction#ogbl-biokg#Ext. data#No

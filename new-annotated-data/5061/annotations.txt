@@ -1,1 +1,0 @@
-3D Point Cloud Linear Classification#ModelNet40#Overall Accuracy#88.4

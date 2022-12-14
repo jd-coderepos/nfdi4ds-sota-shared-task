@@ -1,3 +1,0 @@
-Person Re-Identification#MARS#mAP#86.10
-Person Re-Identification#DukeMTMC-VideoReID#mAP#96.40
-Person Re-Identification#iLIDS-VID#Rank-1#89.3

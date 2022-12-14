@@ -1,4 +1,0 @@
-Weakly-supervised 3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#118.4
-Weakly-supervised 3D Human Pose Estimation#MPI-INF-3DHP#PCK#73.4
-Weakly-supervised 3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#64.7
-Weakly-supervised 3D Human Pose Estimation#Human3.6M#PA-MPJPE#52.1

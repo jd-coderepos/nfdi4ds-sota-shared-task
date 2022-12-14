@@ -1,6 +1,0 @@
-Medical Image Segmentation#ROBUST-MIS#DSC#0.8495
-Medical Image Segmentation#ROBUST-MIS#mIoU#0.7943
-Medical Image Segmentation#ROBUST-MIS#FPS#185.54
-Medical Image Segmentation#ROBUST-MIS#DSC#0.8739
-Medical Image Segmentation#ROBUST-MIS#mIoU#0.8183
-Medical Image Segmentation#ROBUST-MIS#FPS#101.36

@@ -1,4 +1,0 @@
-Object Counting#FSC147#MAE(val)#23.75
-Object Counting#FSC147#RMSE(val)#69.07
-Object Counting#FSC147#MAE(test)#22.08
-Object Counting#FSC147#RMSE(test)#99.54

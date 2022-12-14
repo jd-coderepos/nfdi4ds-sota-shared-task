@@ -1,6 +1,0 @@
-Question Answering#Natural Questions#EM#59.9
-Open-Domain Question Answering#Natural Questions#Exact Match#55.9
-Passage Retrieval#Natural Questions#Precision@20#85.26
-Passage Retrieval#Natural Questions#Precision@100#88.25
-Passage Retrieval#Natural Questions#Precision@20#84.46
-Passage Retrieval#Natural Questions#Precision@100#88.03

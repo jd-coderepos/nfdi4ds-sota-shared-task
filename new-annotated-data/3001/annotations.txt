@@ -1,3 +1,0 @@
-Intent Classification#ORCAS-I#Precision#0.789
-Intent Classification#ORCAS-I#Recall#0.764
-Intent Classification#ORCAS-I#F1-score#0.774

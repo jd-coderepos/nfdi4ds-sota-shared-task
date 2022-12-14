@@ -1,3 +1,0 @@
-Real-time Instance Segmentation#KITTI#AP#8.73
-Real-time Instance Segmentation#Cityscapes test#AP#15.54
-Real-time Instance Segmentation#India Driving Dataset#AP#14.4

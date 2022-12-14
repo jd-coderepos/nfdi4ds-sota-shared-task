@@ -1,5 +1,0 @@
-Image-to-Image Translation#GTAV-to-Cityscapes Labels#mIoU#62.7
-Synthetic-to-Real Translation#GTAV-to-Cityscapes Labels#mIoU#62.7
-Domain Adaptation#GTA5 to Cityscapes#mIoU#62.7
-Domain Adaptation#GTAV to Cityscapes+Mapillary#mIoU#58.6
-Domain Adaptation#GTAV+Synscapes to Cityscapes#mIoU#69.0

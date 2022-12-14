@@ -1,6 +1,0 @@
-Motion Synthesis#HumanML3D#FID#0.544
-Motion Synthesis#HumanML3D#Diversity#9.559
-Motion Synthesis#HumanML3D#Multimodality#2.927
-Motion Synthesis#HumanAct12#FID#0.08
-Motion Synthesis#HumanAct12#Accuracy#0.99
-Motion Synthesis#HumanAct12#Multimodality#2.58

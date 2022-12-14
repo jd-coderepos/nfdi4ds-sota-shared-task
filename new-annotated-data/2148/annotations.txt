@@ -1,4 +1,0 @@
-Time Series Classification#EigenWorms#% Test Accuracy#92.3
-Sequential Image Classification#noise padded CIFAR-10#% Test Accuracy#60.5
-Sequential Image Classification#Sequential MNIST#Unpermuted Accuracy#99.5%
-Sequential Image Classification#Sequential MNIST#Permuted Accuracy#96.6%

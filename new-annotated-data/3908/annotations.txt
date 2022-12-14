@@ -1,2 +1,0 @@
-Open Vocabulary Object Detection#LVIS v1.0#box APr#31.2
-One-Shot Object Detection#COCO#AP 0.5#41.8

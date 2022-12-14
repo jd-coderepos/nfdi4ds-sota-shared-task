@@ -1,4 +1,0 @@
-Semantic Segmentation#DensePASS#mIoU#40.16%
-Image Classification#ImageNet#Top 1 Accuracy#83.2%
-Image Classification#ImageNet#Number of params#76M
-Image Classification#ImageNet#GFLOPs#12.3

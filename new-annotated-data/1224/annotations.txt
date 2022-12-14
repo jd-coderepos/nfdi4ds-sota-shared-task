@@ -1,3 +1,0 @@
-Image Generation#ImageNet 64x64#FID#1.48
-Image Generation#ImageNet 256x256#FID#4.88
-Image Generation#ImageNet 128x128#FID#3.52

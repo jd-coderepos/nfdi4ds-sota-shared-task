@@ -1,2 +1,0 @@
-Action Triplet Recognition#CholecT50#Mean AP#29.9
-Action Triplet Recognition#CholecT50#Mean AP#23.4

@@ -1,3 +1,0 @@
-Speaker Identification#VoxCeleb1#Top-1 (%)#37.7
-Speaker Identification#VoxCeleb1#Accuracy#37.7
-Spoken Command Recognition#Speech Command v2#Accuracy#95.5

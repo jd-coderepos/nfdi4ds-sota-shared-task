@@ -1,6 +1,0 @@
-Transfer Learning#Amazon Review Polarity#Structure Aware Intrinsic Dimension#1200
-Semantic Textual Similarity#MRPC#Direct Intrinsic Dimension#1861
-Semantic Textual Similarity#MRPC#Structure Aware Intrinsic Dimension#1608
-Semantic Textual Similarity#MRPC#Structure Aware Intrinsic Dimension#1037
-Paraphrase Identification#Quora Question Pairs#Direct Intrinsic Dimension#9295
-Paraphrase Identification#Quora Question Pairs#Structure Aware Intrinsic Dimension#8030

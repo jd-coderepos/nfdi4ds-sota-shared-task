@@ -1,1 +1,0 @@
-2D Semantic Segmentation#xBD#Weighted Average F1-score#0.265

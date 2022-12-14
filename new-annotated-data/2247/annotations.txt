@@ -1,7 +1,0 @@
-Code Generation#APPS#Introductory Pass@1000#17.67
-Code Generation#APPS#Interview Pass@1000#5.24
-Code Generation#APPS#Competition Pass@1000#7.06
-Code Generation#HumanEval#Pass@1#17.1
-Code Generation#HumanEval#Pass@10#28.2
-Code Generation#HumanEval#Pass@100#45.3
-Code Generation#CodeContests#Test Set 10@100k#29.6

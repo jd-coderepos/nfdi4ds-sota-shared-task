@@ -1,7 +1,0 @@
-Relation Extraction#ACE 2005#RE Micro F1#66.1
-Relation Extraction#ACE 2005#NER Micro F1#88.0
-Relation Extraction#ACE 2005#RE+ Micro F1#62.4
-Relation Extraction#ACE 2005#Sentence Encoder#BERT base
-Relation Extraction#ACE 2005#Cross Sentence#No
-Relation Extraction#CoNLL04#RE+ Micro F1#72.6
-Relation Extraction#CoNLL04#NER Micro F1#90.2

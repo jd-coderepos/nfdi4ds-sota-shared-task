@@ -1,9 +1,0 @@
-Neural Architecture Search#ImageNet#Top-1 Error Rate#16.4
-Neural Architecture Search#ImageNet#FLOPs#15.6G
-Neural Architecture Search#ImageNet#Params#19M
-Neural Architecture Search#ImageNet#Top-1 Error Rate#17.5
-Neural Architecture Search#ImageNet#FLOPs#3.66G
-Neural Architecture Search#ImageNet#Params#10.6M
-Neural Architecture Search#ImageNet#Top-1 Error Rate#20.3
-Neural Architecture Search#ImageNet#FLOPs#720M
-Neural Architecture Search#ImageNet#Params#6.2M

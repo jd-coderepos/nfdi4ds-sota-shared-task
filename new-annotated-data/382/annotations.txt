@@ -1,2 +1,0 @@
-Lane Detection#TuSimple#Accuracy#98.19%
-Lane Detection#TuSimple#F1-Measure#0.918

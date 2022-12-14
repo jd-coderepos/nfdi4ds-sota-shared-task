@@ -1,2 +1,0 @@
-Joint Entity and Relation Extraction#SemEval 2022 Task 12: Symlink - Linking Mathematical Symbols to their Descriptions#Relation F1#32.28
-Joint Entity and Relation Extraction#SemEval 2022 Task 12: Symlink - Linking Mathematical Symbols to their Descriptions#Entity F1 (partial)#41.21

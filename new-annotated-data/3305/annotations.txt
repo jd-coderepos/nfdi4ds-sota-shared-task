@@ -1,9 +1,0 @@
-Open Intent Discovery#Stackoverflow#NMI#69.84
-Open Intent Discovery#Stackoverflow#ARI#52.59
-Open Intent Discovery#Stackoverflow#ACC#73.48
-Open Intent Discovery#SNIPS#NMI#89.3
-Open Intent Discovery#SNIPS#ARI#86.82
-Open Intent Discovery#SNIPS#ACC#93.63
-Open Intent Discovery#ATIS#NMI#94.74
-Open Intent Discovery#ATIS#ARI#89.41
-Open Intent Discovery#ATIS#ACC#91.66

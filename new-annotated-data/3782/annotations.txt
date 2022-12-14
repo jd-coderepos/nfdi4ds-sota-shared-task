@@ -1,4 +1,0 @@
-3D Object Detection#S3DIS#mAP@0.5#25.1
-3D Object Detection#S3DIS#mAP@0.25#47.8
-3D Object Detection#ScanNetV2#mAP@0.25#62.8
-3D Object Detection#ScanNetV2#mAP@0.5#34.8

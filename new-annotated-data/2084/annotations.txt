@@ -1,4 +1,0 @@
-Visual Question Answering#OK-VQA#Accuracy#35.9
-Visual Question Answering#GQA test-dev#Accuracy#41.9
-Visual Question Answering#VQA v2 val#Accuracy#63.3
-Visual Question Answering#VQA v2 test-dev#Accuracy#64.8

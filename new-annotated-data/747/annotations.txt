@@ -1,6 +1,0 @@
-Relation Extraction#WNUT 2020#Precision#80.1
-Relation Extraction#WNUT 2020#Recall#66.21
-Relation Extraction#WNUT 2020#F1#72.5
-Named Entity Recognition#WNUT 2020#Precision#70.06
-Named Entity Recognition#WNUT 2020#Recall#61.91
-Named Entity Recognition#WNUT 2020#F1#65.73

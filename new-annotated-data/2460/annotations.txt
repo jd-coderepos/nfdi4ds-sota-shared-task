@@ -1,3 +1,0 @@
-Adversarial Attack#CIFAR-10#Attack: PGD20#78.680
-Adversarial Attack#CIFAR-10#Attack: DeepFool#51.310
-Adversarial Attack#CIFAR-10#Attack: AutoAttack#44.150

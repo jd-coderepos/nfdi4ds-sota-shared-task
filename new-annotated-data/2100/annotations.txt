@@ -1,8 +1,0 @@
-Visual Question Answering#GRIT#VQA (ablation)#74.5
-Visual Question Answering#GRIT#VQA (test)#74.5
-Object Localization#GRIT#Localization (ablation)#67.0
-Object Localization#GRIT#Localization (test)#67.1
-Object Segmentation#GRIT#Segmentation (ablation)#56.3
-Object Segmentation#GRIT#Segmentation (test)#56.5
-Object Categorization#GRIT#Categorization (ablation)#61.7
-Object Categorization#GRIT#Categorization (test)#60.8

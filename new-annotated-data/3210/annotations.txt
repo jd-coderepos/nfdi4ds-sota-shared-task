@@ -1,1 +1,0 @@
-Sound Event Detection#DESED#event-based F1 score#40.7

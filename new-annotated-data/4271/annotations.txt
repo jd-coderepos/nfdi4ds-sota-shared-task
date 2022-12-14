@@ -1,2 +1,0 @@
-Genre classification#Book Cover Dataset#Top 1 Accuracy#24.7%
-Genre classification#Book Cover Dataset#Top 1 Accuracy#13.5%

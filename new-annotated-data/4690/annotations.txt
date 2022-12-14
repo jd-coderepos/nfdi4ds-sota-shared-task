@@ -1,3 +1,0 @@
-Partial Label Learning#MPII Movie Description#F1-Score#0.768
-Partial Label Learning#MPII Movie Description#Accuracy#76.5
-Partial Label Learning#M-VAD Names#Accuracy#90.3

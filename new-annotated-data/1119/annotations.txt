@@ -1,6 +1,0 @@
-Medical Image Segmentation#Kvasir-SEG#mean Dice#0.8982
-Medical Image Segmentation#Kvasir-SEG#mIoU#0.8330
-Medical Image Segmentation#BKAI-IGH NeoPolyp-Small#Average Dice#0.9023
-Medical Image Segmentation#BKAI-IGH NeoPolyp-Small#mIoU#0.8409
-Polyp Segmentation#Kvasir-SEG#DSC#0.8982
-Polyp Segmentation#Kvasir-SEG#mIoU#0.8330

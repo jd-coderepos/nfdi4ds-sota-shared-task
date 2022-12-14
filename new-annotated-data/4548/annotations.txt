@@ -1,3 +1,0 @@
-Speech Enhancement#CHiME-3#SDR#19.67
-Speech Enhancement#CHiME-3#PESQ#2.67
-Speech Enhancement#CHiME-3#STOI#0.973

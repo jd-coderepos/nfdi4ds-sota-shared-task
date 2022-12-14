@@ -1,4 +1,0 @@
-Image Super-Resolution#DIV8K val - 16x upscaling#PSNR#24.03
-Image Super-Resolution#DIV8K val - 16x upscaling#LPIPS#0.345
-Image Super-Resolution#DIV8K test - 16x upscaling#PSNR#23.38
-Image Super-Resolution#DIV8K test - 16x upscaling#LPIPS#0.348

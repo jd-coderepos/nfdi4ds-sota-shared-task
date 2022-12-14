@@ -1,2 +1,0 @@
-Chinese Spell Checking#SIGHAN 2015#Detection F1#79.3
-Chinese Spell Checking#SIGHAN 2015#Correction F1#77.8

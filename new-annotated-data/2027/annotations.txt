@@ -1,7 +1,0 @@
-Question Answering#MultiRC#F1#70.8
-Question Answering#MultiRC#EM#27.2
-Question Answering#COPA#Accuracy#78.0
-Common Sense Reasoning#ReCoRD#F1#89.6
-Common Sense Reasoning#ReCoRD#EM#89.1
-Common Sense Reasoning#ReCoRD#F1#76.7
-Common Sense Reasoning#ReCoRD#EM#76.2

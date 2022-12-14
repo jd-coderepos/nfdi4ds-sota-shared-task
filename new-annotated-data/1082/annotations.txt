@@ -1,2 +1,0 @@
-Machine Translation#IWSLT2014 German-English#BLEU score#37.96
-Lipreading#LRS3-TED#Word Error Rate (WER)#25.51

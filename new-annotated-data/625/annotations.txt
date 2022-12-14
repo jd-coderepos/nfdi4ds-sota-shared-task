@@ -1,3 +1,0 @@
-Speech Recognition#Google Speech Commands - Musan#Error rate - SNR 0dB#13.3
-Keyword Spotting#Google Speech Commands#Google Speech Commands V2 35#95
-Keyword Spotting#Google Speech Commands#Google Speech Command-Musan#86.7

@@ -1,2 +1,0 @@
-Natural Language Inference#MED#1:1 Accuracy#0.934
-Natural Language Inference#SICK#1:1 Accuracy#0.903

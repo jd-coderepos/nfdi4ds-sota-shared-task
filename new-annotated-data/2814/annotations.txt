@@ -1,5 +1,0 @@
-Action Segmentation#MPII Cooking 2 Dataset#Accuracy#42
-Action Segmentation#MPII Cooking 2 Dataset#mIoU#23.1
-Action Segmentation#50 Salads#Acc#66.5
-Action Segmentation#Breakfast#Acc#62.7
-Action Segmentation#Breakfast#mIoU#42.3

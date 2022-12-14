@@ -1,5 +1,0 @@
-Few-Shot Image Classification#ImageNet - 0-Shot#Accuracy#68.3%
-Semi-Supervised Image Classification#CIFAR-10, 40 Labels#Percentage error#5.4
-Semi-Supervised Image Classification#CIFAR-10, 250 Labels#Percentage error#4.6
-Semi-Supervised Image Classification#ImageNet - 1% labeled data#Top 1 Accuracy#71.3%
-Semi-Supervised Image Classification#ImageNet - 0.2% labeled data#ImageNet Top-1 Accuracy#69.6%

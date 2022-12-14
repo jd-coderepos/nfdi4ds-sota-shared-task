@@ -1,6 +1,0 @@
-Person Re-Identification#Market-1501-C#Rank-1#29.35
-Person Re-Identification#Market-1501-C#mAP#9.08
-Person Re-Identification#Market-1501-C#mINP#0.23
-Person Re-Identification#Market-1501-C#Rank-1#27.72
-Person Re-Identification#Market-1501-C#mAP#8.26
-Person Re-Identification#Market-1501-C#mINP#0.24

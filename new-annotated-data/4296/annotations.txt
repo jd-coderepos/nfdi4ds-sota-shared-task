@@ -1,2 +1,0 @@
-Traffic Prediction#METR-LA#MAE @ 12 step#3.42
-Traffic Prediction#PeMS07#MAE@1h#21.62

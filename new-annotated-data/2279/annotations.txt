@@ -1,2 +1,0 @@
-Knowledge Graph Completion#DPB-5L (French)#MRR#59.5
-Knowledge Graph Completion#DBP-5L (English)#MRR#41.3

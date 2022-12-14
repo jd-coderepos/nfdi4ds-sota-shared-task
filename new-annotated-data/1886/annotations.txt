@@ -1,4 +1,0 @@
-Long-tail Learning#CIFAR-100-LT (ρ=50)#Error Rate#49.1
-Long-tail Learning#CIFAR-100-LT (ρ=100)#Error Rate#53.41
-Long-tail Learning#CIFAR-100-LT (ρ=10)#Error Rate#38.87
-Long-tail Learning#mini-ImageNet-LT#Error Rate#55.27

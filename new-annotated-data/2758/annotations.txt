@@ -1,1 +1,0 @@
-Unsupervised Semantic Segmentation#COCO-All#mIoU#15.69

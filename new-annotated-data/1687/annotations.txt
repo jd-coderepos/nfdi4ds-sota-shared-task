@@ -1,8 +1,0 @@
-Video Frame Interpolation#MSU Video Frame Interpolation#SSIM#0.913
-Video Frame Interpolation#MSU Video Frame Interpolation#LPIPS#0.061
-Video Frame Interpolation#X4K1000FPS#PSNR#30.12
-Video Frame Interpolation#X4K1000FPS#SSIM#0.870
-Video Frame Interpolation#X4K1000FPS#tOF#2.15
-Video Frame Interpolation#X4K1000FPS#PSNR#28.86
-Video Frame Interpolation#X4K1000FPS#SSIM#0.858
-Video Frame Interpolation#X4K1000FPS#tOF#2.67

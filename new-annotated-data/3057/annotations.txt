@@ -1,1 +1,0 @@
-Multimodal Sentiment Analysis#CMU-MOSI#F1-score (Weighted)#82.71

@@ -1,7 +1,0 @@
-Text Summarization#arXiv#ROUGE-1#50.95
-Text Summarization#arXiv#ROUGE-2#21.93
-Text Summarization#arXiv#ROUGE-L#45.61
-Text Summarization#Pubmed#ROUGE-1#51.05
-Text Summarization#Pubmed#ROUGE-2#23.26
-Text Summarization#Pubmed#ROUGE-L#46.47
-Text Summarization#BookSum#ROUGE#38.3

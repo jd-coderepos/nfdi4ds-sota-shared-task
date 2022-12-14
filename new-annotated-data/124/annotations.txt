@@ -1,3 +1,0 @@
-Link Prediction#Cit-HepPH#AUC#89.16
-Link Prediction#Gnutella#AUC#93.14
-Link Prediction#Wiki-Vote#AUC#94.81

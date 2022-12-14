@@ -1,5 +1,0 @@
-Long-tail Learning#EGTEA#Average Precision#63.86
-Long-tail Learning#EGTEA#Average Recall#66.24
-Long-tail Learning#CIFAR-100-LT (ρ=100)#Error Rate#57.43
-Long-tail Learning#ImageNet-LT#Top-1 Accuracy#38.5
-Long-tail Learning#CIFAR-100-LT (ρ=10)#Error Rate#41.26

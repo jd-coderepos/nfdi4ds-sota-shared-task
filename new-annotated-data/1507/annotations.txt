@@ -1,3 +1,0 @@
-Action Recognition#RareAct#mWAP#30.5
-Action Segmentation#COIN#Frame accuracy#61.0
-Action Segmentation#COIN#Frame accuracy#53.9

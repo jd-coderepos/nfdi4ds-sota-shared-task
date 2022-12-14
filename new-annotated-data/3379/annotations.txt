@@ -1,5 +1,0 @@
-Two-sample testing#HIGGS Data Set#Avg accuracy#57.9
-Two-sample testing#HDGM (d=10, N=4000)#Avg accuracy#65.9
-Two-sample testing#CIFAR-10 vs CIFAR-10.1 (1000 samples)#Avg accuracy#74.4
-Two-sample testing#Blob (9 modes, 40 for each)#Avg accuracy#98.5
-Two-sample testing#MNIST vs Fake MNIST#Avg accuracy#91

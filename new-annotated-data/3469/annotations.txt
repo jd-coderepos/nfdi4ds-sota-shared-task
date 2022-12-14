@@ -1,6 +1,0 @@
-Document Image Classification#Noisy Bangla Numeral#Accuracy#95.46
-Document Image Classification#n-MNIST#Accuracy#97.62
-Document Image Classification#Noisy Bangla Characters#Accuracy#77.22
-Image Classification#Noisy MNIST (AWGN)#Accuracy#97.62
-Image Classification#Noisy MNIST (Contrast)#Accuracy#95.04
-Image Classification#Noisy MNIST (Motion)#Accuracy#97.20

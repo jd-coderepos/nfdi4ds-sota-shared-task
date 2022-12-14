@@ -1,4 +1,0 @@
-Depth Completion#VOID#MAE#151.86
-Depth Completion#VOID#RMSE#222.36
-Depth Completion#VOID#iMAE#74.59
-Depth Completion#VOID#iRMSE#112.36

@@ -1,2 +1,0 @@
-Panoptic Scene Graph Generation#PSG Dataset#R@20#16.5
-Panoptic Scene Graph Generation#PSG Dataset#mR@20#6.52

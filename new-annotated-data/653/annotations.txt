@@ -1,3 +1,0 @@
-Automatic Speech Recognition#LRS2#Test WER#8.2
-Audio-Visual Speech Recognition#LRS2#Test WER#7.0
-Lipreading#LRS2#Word Error Rate (WER)#50%

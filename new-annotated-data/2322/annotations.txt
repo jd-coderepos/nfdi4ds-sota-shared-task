@@ -1,4 +1,0 @@
-Word Sense Disambiguation#SemEval 2013 Task 12#F1#63.05
-Word Sense Disambiguation#SemEval 2013 Task 12#Unsupervised#yes
-Word Sense Disambiguation#SemEval 2007 Task 7#F1#81.22
-Word Sense Disambiguation#SemEval 2007 Task 7#Unsupervised#yes

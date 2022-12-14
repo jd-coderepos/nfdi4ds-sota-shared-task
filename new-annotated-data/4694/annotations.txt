@@ -1,5 +1,0 @@
-Continual Learning#20Newsgroup (10 tasks)#F1 - macro#0.9516
-Continual Learning#ASC (19 tasks)#F1 - macro#0.6864
-Continual Learning#F-CelebA (10 tasks)#Acc#0.7564
-Continual Learning#F-CelebA (10 tasks)#Acc#0.6909
-Continual Learning#DSC (10 tasks)#F1 - macro#0.8651

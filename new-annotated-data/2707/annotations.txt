@@ -1,5 +1,0 @@
-Weakly-Supervised Semantic Segmentation#PASCAL VOC 2012 val#Mean IoU#70.2
-Weakly-Supervised Semantic Segmentation#PASCAL VOC 2012 val#Mean IoU#68.3
-Weakly-Supervised Semantic Segmentation#COCO 2014 val#mIoU#43.8
-Weakly-Supervised Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#70.0
-Weakly-Supervised Semantic Segmentation#PASCAL VOC 2012 test#Mean IoU#68.6

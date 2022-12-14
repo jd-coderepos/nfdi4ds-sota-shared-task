@@ -1,5 +1,0 @@
-Domain Adaptation#SYNTHIA-to-FoggyCityscapes#mIoU#45.2
-Domain Adaptation#Cityscapes-to-FoggyDriving#mIoU#53.4
-Domain Adaptation#GTA-to-FoggyCityscapes#mIoU#45
-Domain Adaptation#Cityscapes-to-FoggyZurich#mIoU#50.6
-Foggy Scene Segmentation#foggy zurich#mIoU (val)#50.6

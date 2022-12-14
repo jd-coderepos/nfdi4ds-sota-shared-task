@@ -1,6 +1,0 @@
-Hand Gesture Recognition#ChaLean test#Accuracy#56.7
-Hand Gesture Recognition#ChaLearn val#Accuracy#57.4
-Hand Gesture Recognition#Jester val#Top 1 Accuracy#96.33
-Hand Gesture Recognition#Jester val#Top 5 Accuracy#99.86
-Hand Gesture Recognition#NVGesture#Accuracy#84.7
-Hand Gesture Recognition#Jester test#Top 1 Accuracy#96.6

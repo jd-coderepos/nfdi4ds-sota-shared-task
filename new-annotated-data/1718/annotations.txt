@@ -1,4 +1,0 @@
-Natural Language Moment Retrieval#ActivityNet Captions#R@1,IoU=0.5#45.45
-Natural Language Moment Retrieval#ActivityNet Captions#R@1,IoU=0.7#24.36
-Natural Language Moment Retrieval#ActivityNet Captions#R@5,IoU=0.5#77.97
-Natural Language Moment Retrieval#ActivityNet Captions#R@5,IoU=0.7#50.30

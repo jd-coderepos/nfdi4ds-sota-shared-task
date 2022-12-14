@@ -1,3 +1,0 @@
-Audio captioning#AudioCaps#CIDEr#0.693
-Audio captioning#AudioCaps#SPIDEr#0.426
-Audio captioning#AudioCaps#SPICE#0.159

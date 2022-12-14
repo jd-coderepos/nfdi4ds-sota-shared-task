@@ -1,2 +1,0 @@
-Grammatical Error Correction#CoNLL-2014 Shared Task#F0.5#68.87
-Grammatical Error Correction#Falko-MERLIN#F0.5#75.96

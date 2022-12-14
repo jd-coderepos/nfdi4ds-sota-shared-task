@@ -1,7 +1,0 @@
-Mathematical Question Answering#Geometry3K#Accuracy (%)#90.9
-Mathematical Question Answering#Geometry3K#Accuracy (%)#78.3
-Mathematical Question Answering#Geometry3K#Accuracy (%)#57.5
-Mathematical Question Answering#Geometry3K#Accuracy (%)#56.9
-Mathematical Question Answering#Geometry3K#Accuracy (%)#25.0
-Mathematical Question Answering#GeoS#Accuracy (%)#67
-Scene Parsing#PGDP5K#Total Accuracy#27.3

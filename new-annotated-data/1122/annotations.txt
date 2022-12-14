@@ -1,3 +1,0 @@
-Medical Image Segmentation#Synapse multi-organ CT#Avg DSC#90.80
-Medical Image Segmentation#Medical Segmentation Decathlon#Dice (Average)#78.68
-Medical Image Segmentation#Medical Segmentation Decathlon#NSD#89.28

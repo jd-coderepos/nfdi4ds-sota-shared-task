@@ -1,6 +1,0 @@
-Image Inpainting#Places2#FID#1.96
-Image Inpainting#Places2#P-IDS#23.42
-Image Inpainting#Places2#U-IDS#38.34
-Image Inpainting#CelebA-HQ#FID#4.86
-Image Inpainting#CelebA-HQ#P-IDS#13.83
-Image Inpainting#CelebA-HQ#U-IDS#25.33

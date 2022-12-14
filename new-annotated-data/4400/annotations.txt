@@ -1,2 +1,0 @@
-Homography Estimation#PDS-COCO#MACE#2.11
-Homography Estimation#S-COCO#MACE#1.79

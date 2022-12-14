@@ -1,8 +1,0 @@
-Machine Translation#WMT2014 English-French#BLEU score#43.95
-Machine Translation#IWSLT2014 German-English#BLEU score#37.90
-Machine Translation#IWSLT2014 German-English#BLEU score#37.25
-Machine Translation#WMT2014 English-German#BLEU score#30.91
-Machine Translation#WMT2014 English-German#Hardware Burden#49G
-Abstractive Text Summarization#CNN / Daily Mail#ROUGE-1#44.51
-Abstractive Text Summarization#CNN / Daily Mail#ROUGE-2#21.58
-Abstractive Text Summarization#CNN / Daily Mail#ROUGE-L#41.24

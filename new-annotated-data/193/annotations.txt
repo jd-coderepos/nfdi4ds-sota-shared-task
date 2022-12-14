@@ -1,8 +1,0 @@
-Stereo Image Super-Resolution#KITTI2012 - 4x upscaling#PSNR#26.56
-Stereo Image Super-Resolution#KITTI2015 - 4x upscaling#PSNR#26.32
-Stereo Image Super-Resolution#Flickr1024 - 4x upscaling#PSNR#23.44
-Stereo Image Super-Resolution#Middlebury - 4x upscaling#PSNR#29.16
-Stereo Image Super-Resolution#Middlebury - 2x upscaling#PSNR#34.51
-Stereo Image Super-Resolution#Flickr1024 - 2x upscaling#PSNR#28.60
-Stereo Image Super-Resolution#KITTI2015 - 2x upscaling#PSNR#30.81
-Stereo Image Super-Resolution#KITTI2012 - 2x upscaling#PSNR#31.11

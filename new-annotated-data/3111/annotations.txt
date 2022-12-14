@@ -1,2 +1,0 @@
-Named Entity Recognition#Adverse Drug Events (ADE) Corpus#NER Macro F1#91.75
-Text Classification#Adverse Drug Events (ADE) Corpus#F1 - macro#85.96

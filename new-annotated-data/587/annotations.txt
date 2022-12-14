@@ -1,3 +1,0 @@
-Domain Generalization#PACS#Average Accuracy#84.23
-Domain Generalization#NICO Animal#Accuracy#88.72
-Domain Generalization#NICO Vehicle#Accuracy#81.59

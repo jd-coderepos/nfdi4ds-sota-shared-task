@@ -1,2 +1,0 @@
-General Classification#Wine#Accuracy#100
-General Classification#iris#Accuracy#100

@@ -1,1 +1,0 @@
-Semanticity prediction#VizNet#F1 score#0.925

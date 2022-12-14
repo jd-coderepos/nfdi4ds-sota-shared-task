@@ -1,9 +1,0 @@
-Anomaly Detection#CUHK Avenue#AUC#92.9%
-Anomaly Detection#CUHK Avenue#RBDC#65.99
-Anomaly Detection#CUHK Avenue#TBDC#89.28
-Anomaly Detection#MVTec AD#Detection AUROC#98.9
-Anomaly Detection#MVTec AD#Segmentation AUROC#97.2
-Anomaly Detection#MVTec AD#Detection AUROC#96.1
-Anomaly Detection#ShanghaiTech#AUC#83.6%
-Anomaly Detection#ShanghaiTech#RBDC#45.45
-Anomaly Detection#ShanghaiTech#TBDC#84.50

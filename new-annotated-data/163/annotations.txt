@@ -1,3 +1,0 @@
-Super-Resolution#CEST MRI#SSIM#0.85
-Super-Resolution#CEST MRI#SSIM#0.83
-Super-Resolution#CEST MRI#SSIM#0.73

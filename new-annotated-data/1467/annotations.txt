@@ -1,5 +1,0 @@
-Action Recognition#NTU RGB+D#Accuracy (CS)#92.0
-Action Recognition#NTU RGB+D#Accuracy (CV)#96.5
-Action Recognition#Penn Action#1:1 Accuracy#98.7
-Action Recognition#NTU RGB+D 120#Accuracy (Cross-Subject)#90.3
-Action Recognition#NTU RGB+D 120#Accuracy (Cross-Setup)#92.7

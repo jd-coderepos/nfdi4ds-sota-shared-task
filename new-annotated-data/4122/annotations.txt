@@ -1,7 +1,0 @@
-Image Classification#GasHisSDB#Accuracy#97.48
-Image Classification#GasHisSDB#Precision#99.97
-Image Classification#GasHisSDB#F1-Score#98.70
-Medical Image Classification#NCT-CRC-HE-100K#Accuracy (%)#95.42
-Medical Image Classification#NCT-CRC-HE-100K#F1-Score#97.39
-Medical Image Classification#NCT-CRC-HE-100K#Precision#99.97
-Medical Image Classification#NCT-CRC-HE-100K#Specificity#99.43

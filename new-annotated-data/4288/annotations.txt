@@ -1,2 +1,0 @@
-Image Classification with Differential Privacy#ImageNet#Top 1 Accuracy#6.9
-Image Classification with Differential Privacy#ImageNet#Top 1 Accuracy#5

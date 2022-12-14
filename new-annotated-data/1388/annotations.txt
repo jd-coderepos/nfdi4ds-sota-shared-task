@@ -1,2 +1,0 @@
-Multi-Object Tracking#HiEve#MOTA#48.6
-Multi-Object Tracking#HiEve#IDF1#51.4

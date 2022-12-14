@@ -1,8 +1,0 @@
-Crowd Counting#ShanghaiTech A#MAE#73.70
-Crowd Counting#ShanghaiTech B#MAE#9.98
-Object Counting#CARPK#MAE#5.33
-Object Counting#CARPK#RMSE#7.04
-Object Counting#FSC147#MAE(val)#15.28
-Object Counting#FSC147#RMSE(val)#47.20
-Object Counting#FSC147#MAE(test)#14.32
-Object Counting#FSC147#RMSE(test)#85.54

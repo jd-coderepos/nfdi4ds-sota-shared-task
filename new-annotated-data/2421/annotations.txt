@@ -1,2 +1,0 @@
-Medical Diagnosis#BreastDICOM4#Average Precision#0.74
-Medical Diagnosis#BreastDICOM4#Average Recall#0.68

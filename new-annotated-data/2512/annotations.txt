@@ -1,6 +1,0 @@
-Semantic Segmentation#Cityscapes val#mIoU#81.1%
-Semantic Segmentation#Cityscapes val#mIoU#79.1%
-Semantic Segmentation#SynPASS#mIoU#38.57%
-Semantic Segmentation#DensePASS#mIoU#56.38%
-Semantic Segmentation#DensePASS#mIoU#55.25%
-Semantic Segmentation#Stanford2D3D Panoramic#mIoU#53.0%

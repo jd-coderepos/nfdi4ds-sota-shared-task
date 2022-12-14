@@ -1,4 +1,0 @@
-MRI Reconstruction#fastMRI Knee 8x#SSIM#0.8945
-MRI Reconstruction#fastMRI Knee 8x#PSNR#37.3
-MRI Reconstruction#fastMRI Knee 8x#SSIM#0.8936
-MRI Reconstruction#fastMRI Knee 8x#PSNR#37.0

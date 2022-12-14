@@ -1,5 +1,0 @@
-Visual Question Answering#QLEVR#Overall Accuracy#66.5
-Visual Question Answering#QLEVR#Overall Accuracy#65.9
-Visual Question Answering#QLEVR#Overall Accuracy#65.8
-Visual Question Answering#QLEVR#Overall Accuracy#64.6
-Visual Question Answering#QLEVR#Overall Accuracy#50.0

@@ -1,5 +1,0 @@
-Machine Translation#WMT2014 English-French#BLEU score#43.2
-Machine Translation#WMT2014 English-French#Hardware Burden#55G
-Machine Translation#WMT2014 English-German#BLEU score#29.3
-Machine Translation#WMT2014 English-German#Number of Params#210M
-Machine Translation#WMT2014 English-German#Hardware Burden#9G

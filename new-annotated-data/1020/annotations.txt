@@ -1,4 +1,0 @@
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#SRCC#0.8902
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#PLCC#0.8904
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#KLCC#0.7526
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#Type#NR

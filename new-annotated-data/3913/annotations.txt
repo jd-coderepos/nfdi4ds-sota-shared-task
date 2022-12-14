@@ -1,1 +1,0 @@
-Open Vocabulary Object Detection#MSCOCO#AP 0.5#20.3

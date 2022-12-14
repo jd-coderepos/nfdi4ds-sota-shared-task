@@ -1,6 +1,0 @@
-3D Part Segmentation#ShapeNet-Part#Instance Average IoU#86.4
-3D Point Cloud Classification#IntrA#F1 score (5-fold)#0.914
-3D Point Cloud Classification#ModelNet40-C#Error Rate#0.255
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.2
-3D Point Cloud Classification#ModelNet40#Number of params#2.88M
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#0.925

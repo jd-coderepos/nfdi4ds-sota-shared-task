@@ -1,1 +1,0 @@
-Medical Object Detection#MoNuSeg 2018#Average-mAP#0.487

@@ -1,1 +1,0 @@
-Joint Event and Temporal Relation Extraction#TB-Dense#Event Detection F-score#91.0

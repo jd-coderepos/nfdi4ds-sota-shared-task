@@ -1,5 +1,0 @@
-Intent Detection#ATIS#Accuracy#95.97
-Intent Detection#ATIS#Intent Accuracy#95.97
-Intent Detection#SNIPS#Intent Accuracy#98.0
-Intent Detection#SNIPS#model size#0.63 MB
-Intent Detection#SNIPS#Latency, ms#18

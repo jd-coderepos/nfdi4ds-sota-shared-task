@@ -1,3 +1,0 @@
-Object Detection#PASCAL VOC 2012#MAP#42.1
-Object Detection#PASCAL VOC 2012#MAP#34.66
-Object Detection#SIXray#1 in 10 R@5#0.01347

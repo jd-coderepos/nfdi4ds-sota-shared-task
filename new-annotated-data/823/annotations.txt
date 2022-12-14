@@ -1,6 +1,0 @@
-Keyword Spotting#Google Speech Commands#Google Speech Commands V2 35#98.0
-Audio Classification#ESC-50#Top-1 Accuracy#97.0
-Audio Classification#ESC-50#PRE-TRAINING DATASET#AudioSet
-Audio Classification#ESC-50#Accuracy (5-fold)#97.0
-Audio Classification#AudioSet#Test mAP#0.487
-Sound Event Detection#DESED#event-based F1 score#50.7

@@ -1,2 +1,0 @@
-Fact Checking#CDCD#Precision#0.26
-Fact Checking#CDCD#Recall#0.11

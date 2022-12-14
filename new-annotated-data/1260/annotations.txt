@@ -1,1 +1,0 @@
-3D-Aware Image Synthesis#FFHQ 512 x 512#FID#4.6

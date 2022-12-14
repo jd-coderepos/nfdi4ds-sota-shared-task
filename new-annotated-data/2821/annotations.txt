@@ -1,6 +1,0 @@
-Action Segmentation#Breakfast#F1@10%#75.5
-Action Segmentation#Breakfast#F1@50%#54.8
-Action Segmentation#Breakfast#Acc#68.6
-Action Segmentation#Breakfast#Edit#78.5
-Action Segmentation#Breakfast#F1@25%#70.2
-Weakly Supervised Action Segmentation (Transcript)#Breakfast#Acc#51.3

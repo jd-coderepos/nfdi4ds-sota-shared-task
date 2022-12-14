@@ -1,3 +1,0 @@
-Age Estimation#ChaLearn 2016#MAE#3.452
-Age Estimation#ChaLearn 2015#MAE#3.135
-Age Estimation#MORPH Album2#MAE#1.969

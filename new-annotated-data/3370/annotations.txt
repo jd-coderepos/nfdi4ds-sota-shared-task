@@ -1,9 +1,0 @@
-Affordance Recognition#HICO-DET#HICO#59.44
-Affordance Recognition#HICO-DET#COCO-Val2017#52.01
-Affordance Recognition#HICO-DET#Object365#50.94
-Affordance Recognition#HICO-DET#Novel classes#15.64
-Affordance Recognition#HICO-DET(Unknown Concepts)#COCO-Val2017#36.80
-Affordance Recognition#HICO-DET(Unknown Concepts)#Obj365#34.38
-Affordance Recognition#HICO-DET(Unknown Concepts)#HICO#42.00
-Affordance Recognition#HICO-DET(Unknown Concepts)#Novel Classes#15.64
-Human-Object Interaction Concept Discovery#HICO-DET#Unknown (AP)#24.38

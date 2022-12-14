@@ -1,6 +1,0 @@
-Self-Supervised Action Recognition#HMDB51#Top-1 Accuracy#54.8
-Self-Supervised Action Recognition#HMDB51#Pre-Training Dataset#UCF101
-Self-Supervised Action Recognition#HMDB51#Frozen#false
-Self-Supervised Action Recognition#HMDB51#Top-1 Accuracy#54.5
-Self-Supervised Action Recognition#UCF101#3-fold Accuracy#85.4
-Self-Supervised Action Recognition#UCF101#3-fold Accuracy#84.8

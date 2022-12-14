@@ -1,9 +1,0 @@
-Text-to-Image Generation#LHQC#Block-FID#9.71
-Image Outpainting#LHQC#Block-FID  (Right Extend)#6.43
-Image Outpainting#LHQC#Block-FID (Left Extend)#6.71
-Image Outpainting#LHQC#Block-FID (Down Extend)#11.47
-Image Outpainting#LHQC#Block-FID (Up Extend)#8.03
-Image Outpainting#LHQC#Block-FID  (Right Extend)#6.45
-Image Outpainting#LHQC#Block-FID (Left Extend)#6.72
-Image Outpainting#LHQC#Block-FID (Down Extend)#9.84
-Image Outpainting#LHQC#Block-FID (Up Extend)#7.43

@@ -1,6 +1,0 @@
-Text Generation#ReDial#Distinct-3#0.648
-Text Generation#ReDial#Distinct-4#0.832
-Text Generation#ReDial#Distinct-2#0.492
-Recommendation Systems#ReDial#Recall@1#0.051
-Recommendation Systems#ReDial#Recall@10#0.224
-Recommendation Systems#ReDial#Recall@50#0.428

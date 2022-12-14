@@ -1,5 +1,0 @@
-Math Information Retrieval#ARQMath2 - Task 1#P@10#0.276
-Math Information Retrieval#ARQMath2 - Task 1#NDCG#0.447
-Math Information Retrieval#ARQMath2 - Task 1#MAP#0.215
-Math Information Retrieval#ARQMath2 - Task 1#P@10#0.252
-Math Information Retrieval#ARQMath2 - Task 1#bpref#0.202

@@ -1,1 +1,0 @@
-Speech Emotion Recognition#CREMA-D#Accuracy#68.12

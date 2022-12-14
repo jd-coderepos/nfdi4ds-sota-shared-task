@@ -1,1 +1,0 @@
-Data-to-Text Generation#Wikipedia Person and Animal Dataset#BLEU#24.56

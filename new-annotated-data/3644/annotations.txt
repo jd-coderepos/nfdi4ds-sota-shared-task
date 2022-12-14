@@ -1,2 +1,0 @@
-Representation Learning#Sports10#Silhouette Score#0.56
-Image Classification#Sports10#Validation Accuracy#93.42

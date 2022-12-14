@@ -1,7 +1,0 @@
-Time Series Classification#EigenWorms#% Test Accuracy#90.3
-Time Series Classification#EigenWorms#% Test Accuracy#86.7
-Time Series Classification#EigenWorms#% Test Accuracy#49.7
-Time Series Classification#EigenWorms#% Test Accuracy#40.0
-Sentiment Analysis#IMDb#Accuracy#88.4
-Sequential Image Classification#noise padded CIFAR-10#% Test Accuracy#62.4%
-Sequential Image Classification#Sequential MNIST#Permuted Accuracy#98.4%

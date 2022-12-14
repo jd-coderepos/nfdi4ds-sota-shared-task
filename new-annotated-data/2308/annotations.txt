@@ -1,4 +1,0 @@
-Speech Separation#Libri2Mix#SI-SDRi#17.4
-Speech Separation#Libri2Mix#SI-SDRi#16.9
-Speech Separation#WHAM!#SI-SDRi#15.2
-Speech Separation#WHAM!#SI-SDRi#14.8

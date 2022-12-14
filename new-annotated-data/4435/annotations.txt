@@ -1,2 +1,0 @@
-3D Instance Segmentation#ScanNet(v2)#mAP#43.6
-3D Instance Segmentation#ScanNet(v2)#mAP @ 50#63.5

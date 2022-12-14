@@ -1,2 +1,0 @@
-Visual Question Answering#PlotQA-D1#1:1 Accuracy#53.96
-Visual Question Answering#PlotQA-D2#1:1 Accuracy#22.52

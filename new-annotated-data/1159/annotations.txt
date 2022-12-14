@@ -1,2 +1,0 @@
-Semi-supervised Medical Image Segmentation#MM-WHS 2017#DSC#79.83
-Semi-supervised Medical Image Segmentation#Automatic Cardiac Diagnosis Challenge (ACDC)#DSC#89.8

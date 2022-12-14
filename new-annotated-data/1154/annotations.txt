@@ -1,6 +1,0 @@
-Skin Lesion Segmentation#ISIC 2017#Mean IoU#97.4
-Semantic Segmentation#PH2#Average Dice#95.4
-Semantic Segmentation#PH2#Average IOU#0.914
-Semantic Segmentation#HAM10000#Average Dice#90.6
-Semantic Segmentation#HAM10000#Average IOU#90.2
-Semantic Segmentation#ISIC 2017#Average Dice#98.7

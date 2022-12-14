@@ -1,4 +1,0 @@
-Speech Enhancement#DEMAND#PESQ#3.35
-Speech Enhancement#DEMAND#CSIG#4.43
-Speech Enhancement#DEMAND#COVL#3.92
-Speech Enhancement#DEMAND#STOI#95

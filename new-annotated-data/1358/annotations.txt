@@ -1,2 +1,0 @@
-Unsupervised 3D Human Pose Estimation#MPI-INF-3DHP#PCK#66.5
-Unsupervised 3D Human Pose Estimation#Human3.6M#MPJPE#98.3

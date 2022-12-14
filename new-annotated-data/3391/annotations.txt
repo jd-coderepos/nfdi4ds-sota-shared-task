@@ -1,1 +1,0 @@
-Multi-Label Image Classification#VOC2007#MAP#96.8

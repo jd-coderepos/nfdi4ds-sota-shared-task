@@ -1,2 +1,0 @@
-Classification#HOWS#Overall accuracy after last sequence#57.83
-Classification#HOWS long#Overall accuracy after last sequence#40,65

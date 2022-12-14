@@ -1,5 +1,0 @@
-AMR Parsing#Bio#Smatch#63.2
-AMR Parsing#The Little Prince#Smatch#79.8
-AMR Parsing#LDC2017T10#Smatch#85.4
-AMR Parsing#LDC2020T02#Smatch#84.2
-AMR Parsing#New3#Smatch#76.9

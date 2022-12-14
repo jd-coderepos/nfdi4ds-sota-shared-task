@@ -1,1 +1,0 @@
-Data-to-Text Generation#MLB Dataset#BLEU#11.50

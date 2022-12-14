@@ -1,2 +1,0 @@
-3D Reconstruction#ShapeNet#IoU#73.8
-3D Reconstruction#ShapeNet#F-Score@1%#0.497

@@ -1,1 +1,0 @@
-Thermal Image Segmentation#MFN Dataset#mIOU#54.9

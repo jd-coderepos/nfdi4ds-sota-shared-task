@@ -1,2 +1,0 @@
-Anomaly Detection#CUHK Avenue#AUC#87.1%
-Anomaly Detection#ShanghaiTech#AUC#75.9%

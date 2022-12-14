@@ -1,6 +1,0 @@
-Face Alignment#300W#NME_inter-ocular (%, Common)#3.09
-Face Alignment#300W#NME_inter-ocular (%, Challenge)#4.86
-Face Parsing#LaPa#Mean F1#90.9
-Face Parsing#LaPa#Mean F1#90.1
-Face Parsing#Helen#Mean F1#92
-Face Parsing#Helen#Mean F1#91.6

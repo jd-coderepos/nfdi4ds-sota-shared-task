@@ -1,1 +1,0 @@
-3D Anomaly Detection and Segmentation#MVTEC 3D-AD#Segmentation AUPRO#0.833

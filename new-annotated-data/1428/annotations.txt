@@ -1,3 +1,0 @@
-Video Object Tracking#CATER#Top 1 Accuracy#73.2
-Video Object Tracking#CATER#Top 5 Accuracy#93.8
-Video Object Tracking#CATER#L1#0.85

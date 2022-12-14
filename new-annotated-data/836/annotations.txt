@@ -1,5 +1,0 @@
-3D Human Pose Estimation#Panoptic#Average MPJPE (mm)#17.62
-3D Multi-Person Pose Estimation#Shelf#PCP3D#97.3
-3D Multi-Person Pose Estimation#Shelf#MPJPE#56.3
-3D Multi-Person Pose Estimation#Campus#PCP3D#96.3
-3D Multi-Person Pose Estimation#Campus#Mean mAP#80.1

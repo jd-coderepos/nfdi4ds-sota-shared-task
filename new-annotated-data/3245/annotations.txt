@@ -1,4 +1,0 @@
-Image Captioning#Flickr30k Captions test#CIDEr#31.0
-Image Captioning#Flickr30k Captions test#SPICE#10.0
-Image Captioning#nocaps val#CIDEr#42.2
-Image Captioning#nocaps val#SPICE#8.5

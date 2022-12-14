@@ -1,8 +1,0 @@
-Anomaly Detection#Road Anomaly#AP#62.37
-Anomaly Detection#Road Anomaly#FPR#28.29
-Anomaly Detection#Fishyscapes#AP#95.45
-Anomaly Detection#Fishyscapes#FPR#0.77
-Anomaly Detection#Fishyscapes L&F#AP#44.17
-Anomaly Detection#Fishyscapes L&F#FPR95#7.58
-Anomaly Detection#Lost and Found#AP#78.29
-Anomaly Detection#Lost and Found#FPR#0.81

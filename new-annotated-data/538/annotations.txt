@@ -1,3 +1,0 @@
-Unsupervised Domain Adaptation#Cityscapes to Foggy Cityscapes#mAP@0.5#43.3
-Unsupervised Domain Adaptation#SIM10K to Cityscapes#mAP@0.5#49.3
-Unsupervised Domain Adaptation#Kitti to Cityscapes#mAP@0.5#47.6

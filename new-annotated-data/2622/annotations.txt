@@ -1,1 +1,0 @@
-Semantic Segmentation#OpenEDS#mIOU#95.3

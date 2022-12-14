@@ -1,3 +1,0 @@
-Action Anticipation#Ego4D#ED@20 Verb#0.752
-Action Anticipation#Ego4D#ED@20 Noun#0.748
-Action Anticipation#Ego4D#ED@20 Action#0.93

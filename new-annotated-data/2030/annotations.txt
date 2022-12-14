@@ -1,6 +1,0 @@
-Question Answering#SberQuAD#EM#66.30+-0.24
-Question Answering#SberQuAD#F1#84.60+-0.11
-Question Answering#SberQuAD#EM#64.35+-0.39
-Question Answering#SberQuAD#F1#83.39+-0.08
-Question Answering#SberQuAD#EM#60.62
-Question Answering#SberQuAD#F1#80.04

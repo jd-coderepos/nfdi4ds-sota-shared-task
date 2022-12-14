@@ -1,1 +1,0 @@
-Instance Segmentation#LVIS v1.0 test-dev#mask AP#41.23

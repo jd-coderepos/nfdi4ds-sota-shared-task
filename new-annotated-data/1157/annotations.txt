@@ -1,8 +1,0 @@
-Retinal Vessel Segmentation#STARE#F1 score#0.8429
-Retinal Vessel Segmentation#STARE#AUC#0.9877
-Retinal Vessel Segmentation#HRF#AUC#0.9838
-Retinal Vessel Segmentation#HRF#F1 score#0.8151
-Retinal Vessel Segmentation#CHASE_DB1#F1 score#0.8034
-Retinal Vessel Segmentation#CHASE_DB1#AUC#0.9830
-Retinal Vessel Segmentation#DRIVE#F1 score#0.8263
-Retinal Vessel Segmentation#DRIVE#AUC#0.9802

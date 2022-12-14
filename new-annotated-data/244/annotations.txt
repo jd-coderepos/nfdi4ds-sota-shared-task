@@ -1,4 +1,0 @@
-Face Recognition#XQLFW#Accuracy#0.9512
-Face Recognition#LFW#Accuracy#0.9973
-Face Verification#LFW#Accuracy#99.73%
-Face Verification#Labeled Faces in the Wild#Accuracy#99.73%

@@ -1,2 +1,0 @@
-Image Dehazing#RS-Haze#PSNR#23.16
-Image Dehazing#RS-Haze#SSIM#0.816

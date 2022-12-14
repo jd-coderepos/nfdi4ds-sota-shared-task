@@ -1,3 +1,0 @@
-Optical Flow Estimation#Sintel-clean#Average End-Point Error#1.81
-Optical Flow Estimation#KITTI 2015#Average End-Point Error#4.98
-Optical Flow Estimation#Sintel-final#Average End-Point Error#2.42

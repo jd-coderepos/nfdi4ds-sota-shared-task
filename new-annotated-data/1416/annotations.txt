@@ -1,4 +1,0 @@
-Visual Object Tracking#VOT2016#Expected Average Overlap (EAO)#0.295
-Visual Object Tracking#VOT2017#Expected Average Overlap (EAO)#0.263
-Visual Tracking#OTB-2013#AUC#0.657
-Visual Tracking#OTB-100#AUC#0.318

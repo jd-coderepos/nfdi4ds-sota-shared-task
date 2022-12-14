@@ -1,1 +1,0 @@
-Speaker Recognition#VoxCeleb1#EER#1.88

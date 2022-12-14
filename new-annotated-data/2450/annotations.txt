@@ -1,1 +1,0 @@
-Stance Detection#RumourEval#Accuracy#0.784

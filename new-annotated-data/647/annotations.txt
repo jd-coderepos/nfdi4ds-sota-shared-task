@@ -1,3 +1,0 @@
-Speech Recognition#Common Voice Spanish#Test WER#10.0%
-Speech Recognition#Common Voice French#Test WER#9.6%
-Speech Recognition#Common Voice German#Test WER#7.8%

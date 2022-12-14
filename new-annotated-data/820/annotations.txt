@@ -1,7 +1,0 @@
-Keyword Spotting#Google Speech Commands#Google Speech Commands V2 35#98.5
-Speaker Identification#VoxCeleb1#Top-1 (%)#95.3
-Speaker Identification#VoxCeleb1#Accuracy#95.3
-Speaker Identification#VoxCeleb1#Top-1 (%)#94.8
-Speaker Identification#VoxCeleb1#Accuracy#94.8
-Audio Classification#ESC-50#Top-1 Accuracy#95.0
-Audio Classification#ESC-50#Accuracy (5-fold)#95.0

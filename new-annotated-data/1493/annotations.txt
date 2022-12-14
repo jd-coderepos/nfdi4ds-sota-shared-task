@@ -1,5 +1,0 @@
-Action Recognition#AVA v2.2#mAP#35.4
-Action Recognition#EPIC-KITCHENS-100#Action@1#48.4
-Action Recognition#EPIC-KITCHENS-100#Verb@1#71.4
-Action Recognition#EPIC-KITCHENS-100#Noun@1#60.3
-Action Anticipation#EPIC-KITCHENS-100#Recall@5#17.7

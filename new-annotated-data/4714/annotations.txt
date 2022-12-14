@@ -1,6 +1,0 @@
-FG-1-PG-1#OntoNotes 5.0#F1 (micro)#0.5894
-FG-1-PG-1#OntoNotes 5.0#F1 (macro)#0.4222
-FG-1-PG-1#2010 i2b2/VA#F1 (micro)#0.6273
-FG-1-PG-1#2010 i2b2/VA#F1 (macro)#0.3626
-FG-1-PG-1#conll2003#F1 (micro)#0.8091
-FG-1-PG-1#conll2003#F1 (macro)#0.7911

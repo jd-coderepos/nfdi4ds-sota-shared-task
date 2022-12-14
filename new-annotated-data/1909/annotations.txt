@@ -1,2 +1,0 @@
-Long-tail Learning#Places-LT#Top-1 Accuracy#47.17
-Long-tail Learning#iNaturalist 2018#Top-1 Accuracy#80.24%

@@ -1,6 +1,0 @@
-Recommendation Systems#Gowalla#Recall@20#0.1875
-Recommendation Systems#Gowalla#nDCG@20#0.1574
-Recommendation Systems#Amazon-Book#Recall@20#0.0442
-Recommendation Systems#Amazon-Book#nDCG@20#0.0341
-Recommendation Systems#Yelp2018#Recall@20#0.0671
-Recommendation Systems#Yelp2018#NDCG@20#0.0549

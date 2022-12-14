@@ -1,6 +1,0 @@
-Named Entity Recognition#BC5CDR#F1#90.99
-Named Entity Recognition#CoNLL++#F1#94.81
-Named Entity Recognition#CoNLL 2003 (English)#F1#93.85
-Named Entity Recognition#NCBI-disease#F1#88.96
-Named Entity Recognition#WNUT 2017#F1#60.45
-Named Entity Recognition#WNUT 2016#F1#58.98

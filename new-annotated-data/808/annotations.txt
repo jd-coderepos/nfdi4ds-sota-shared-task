@@ -1,2 +1,0 @@
-Zero-shot Relation Triplet Extraction#FewRel#Avg. F1#24.61
-Zero-shot Relation Triplet Extraction#Wiki-ZSL#Avg. F1#31.19

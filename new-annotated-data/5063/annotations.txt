@@ -1,2 +1,0 @@
-Arithmetic Reasoning#GSM8K#Accuracy#83.2
-Arithmetic Reasoning#GSM8K#Parameters#175

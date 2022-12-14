@@ -1,1 +1,0 @@
-Object Detection In Indoor Scenes#SUN RGB-D#AP 0.5#58.1

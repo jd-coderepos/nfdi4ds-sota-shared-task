@@ -1,9 +1,0 @@
-3D Human Pose Estimation#Panoptic#Average MPJPE (mm)#127.8
-3D Human Pose Estimation#3DPW#PA-MPJPE#60.5
-3D Human Pose Estimation#3DPW#MPJPE#87
-3D Human Pose Estimation#3DPW#MPVPE#106.2
-3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#50.3
-3D Human Pose Estimation#Human3.6M#PA-MPJPE#38.5
-3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#61.9
-3D Human Pose Estimation#Human3.6M#PA-MPJPE#48.5
-3D Multi-Person Pose Estimation#MuPoTS-3D#3DPCK#76.27

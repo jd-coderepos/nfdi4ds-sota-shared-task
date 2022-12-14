@@ -1,1 +1,0 @@
-Acoustic Scene Classification#TUT Urban Acoustic Scenes 2018#Acc#78.1

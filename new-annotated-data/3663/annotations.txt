@@ -1,3 +1,0 @@
-Recommendation Systems#ReDial#Recall@1#0.056
-Recommendation Systems#ReDial#Recall@10#0.256
-Recommendation Systems#ReDial#Recall@50#0.455

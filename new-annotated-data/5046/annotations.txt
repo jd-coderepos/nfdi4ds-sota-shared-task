@@ -1,2 +1,0 @@
-Zero-Shot Action Recognition#Kinetics#Top-1 Accuracy#22.3
-Zero-Shot Action Recognition#Kinetics#Top-5 Accuracy#49.7

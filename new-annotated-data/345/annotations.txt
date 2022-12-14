@@ -1,3 +1,0 @@
-Autonomous Driving#CARLA Leaderboard#Driving Score#61.846
-Autonomous Driving#CARLA Leaderboard#Route Completion#94.459
-Autonomous Driving#CARLA Leaderboard#Infraction penalty#0.640

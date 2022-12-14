@@ -1,2 +1,0 @@
-Passage Retrieval#Natural Questions#Precision@20#81.9
-Passage Retrieval#Natural Questions#Precision@100#87.5

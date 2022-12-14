@@ -1,6 +1,0 @@
-Monocular Depth Estimation#SUN-RGBD#RMSE#0.335
-Monocular Depth Estimation#SUN-RGBD#absolute relative error#0.114
-Monocular Depth Estimation#SUN-RGBD#log 10#0.034
-Monocular Depth Estimation#SUN-RGBD#Delta < 1.25#0.937
-Monocular Depth Estimation#SUN-RGBD#Delta < 1.25^2#0.981
-Monocular Depth Estimation#SUN-RGBD#Delta < 1.25^3#0.992

@@ -1,5 +1,0 @@
-Action Recognition#UCF101#3-fold Accuracy#97
-Action Classification#Kinetics-400#Acc@1#80.5
-Action Classification#Kinetics-400#FLOPs (G) x views#1040x1
-Action Classification#Kinetics-400#Acc@1#79.3
-Action Classification#Kinetics-400#FLOPs (G) x views#270x1

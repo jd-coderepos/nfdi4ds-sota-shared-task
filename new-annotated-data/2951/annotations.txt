@@ -1,2 +1,0 @@
-Pose Estimation#COCO#AP#72.6
-Pose Estimation#COCO#AR#79.4

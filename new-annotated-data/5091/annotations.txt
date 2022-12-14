@@ -1,3 +1,0 @@
-Partially Relevant Video Retrieval#ActivityNet Captions#Recall@Sum#140.1
-Partially Relevant Video Retrieval#TVR#Recall@Sum#172.3
-Partially Relevant Video Retrieval#Charades-STA#Recall@Sum#68.4

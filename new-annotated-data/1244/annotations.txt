@@ -1,2 +1,0 @@
-Image Generation#ImageNet 256x256#FID#3.83
-Image Generation#ImageNet 256x256#Inception score#317.1

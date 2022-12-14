@@ -1,5 +1,0 @@
-2D Human Pose Estimation#COCO-WholeBody#WB#54.1
-2D Human Pose Estimation#COCO-WholeBody#body#74.3
-2D Human Pose Estimation#COCO-WholeBody#foot#79.8
-2D Human Pose Estimation#COCO-WholeBody#face#62.3
-2D Human Pose Estimation#COCO-WholeBody#hand#40.1

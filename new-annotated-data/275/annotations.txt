@@ -1,3 +1,0 @@
-Face Swapping#FaceForensics++#ID retrieval#90.83
-Face Swapping#FaceForensics++#pose#2.64
-Face Swapping#FaceForensics++#expression#2.96

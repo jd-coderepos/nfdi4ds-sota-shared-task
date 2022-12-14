@@ -1,5 +1,0 @@
-Monocular Depth Estimation#Make3D#RMSE#0.232
-Monocular Depth Estimation#Make3D#RMSE#0.474
-Semantic Segmentation#Cityscapes test#Time (ms)#0.037
-Semantic Segmentation#Cityscapes test#Time (ms)#0.195
-Semantic Segmentation#Cityscapes test#Time (ms)#0.285

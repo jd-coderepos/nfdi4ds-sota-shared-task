@@ -1,2 +1,0 @@
-Medical Image Segmentation#LiTS2017#Dice#0.9675
-Medical Image Segmentation#LiTS2017#Dice#0.9580

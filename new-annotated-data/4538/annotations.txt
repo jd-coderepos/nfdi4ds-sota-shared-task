@@ -1,2 +1,0 @@
-Text-To-Sql#KaggleDBQA#Exact Match (EM)#26.77
-Text-To-Sql#KaggleDBQA#Exact Match (EM)#11.73

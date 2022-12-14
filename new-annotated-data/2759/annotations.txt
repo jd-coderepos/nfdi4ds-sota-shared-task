@@ -1,6 +1,0 @@
-Unsupervised Semantic Segmentation#Potsdam-3#Pixel Accuracy#71.6
-Unsupervised Semantic Segmentation#COCO-Stuff#Pixel Accuracy#38.8
-Unsupervised Semantic Segmentation#Potsdam#Pixel Accuracy#57.3
-Unsupervised Semantic Segmentation#COCO-Persons#Pixel Accuracy#69.6
-Unsupervised Semantic Segmentation#COCO-Stuff-3#Pixel Accuracy#73.8
-Unsupervised Semantic Segmentation#COCO-Stuff-15#Pixel Accuracy#38.8

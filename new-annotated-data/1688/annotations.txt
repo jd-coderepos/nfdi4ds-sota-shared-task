@@ -1,7 +1,0 @@
-Video Frame Interpolation#SNU-FILM (hard)#PSNR#31.698
-Video Frame Interpolation#DAVIS#PSNR#28.287
-Video Frame Interpolation#SNU-FILM (extreme)#PSNR#25.81
-Video Frame Interpolation#UCF101#PSNR#33.384
-Video Frame Interpolation#VFITex#PSNR#29.175
-Video Frame Interpolation#SNU-FILM (medium)#PSNR#37.111
-Video Frame Interpolation#SNU-FILM (easy)#PSNR#40.775

@@ -1,2 +1,0 @@
-Image-to-Image Translation#Zebra and Horses#Kernel Inception Distance#5.8
-Image-to-Image Translation#Apples and Oranges#Kernel Inception Distance#4.4

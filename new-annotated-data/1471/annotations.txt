@@ -1,5 +1,0 @@
-Action Recognition#AVA v2.1#mAP (Val)#30.0
-Action Recognition#AVA v2.2#mAP#31.72
-Spatio-Temporal Action Localization#AVA-Kinetics#val mAP#40.49
-Spatio-Temporal Action Localization#AVA-Kinetics#test mAP#39.62
-Spatio-Temporal Action Localization#AVA-Kinetics#val mAP#36.36

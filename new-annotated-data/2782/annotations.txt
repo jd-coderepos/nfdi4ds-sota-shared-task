@@ -1,2 +1,0 @@
-Emotion Recognition#RAVDESS#Accuracy#81.58%
-Facial Emotion Recognition#RAVDESS#Accuracy#74.92%

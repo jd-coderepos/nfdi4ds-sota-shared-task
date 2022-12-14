@@ -1,2 +1,0 @@
-Long-tail Learning#ImageNet-LT#Top-1 Accuracy#39.2
-Long-tail Learning#Places-LT#Top-1 Accuracy#38.9

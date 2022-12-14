@@ -1,1 +1,0 @@
-Crop Yield Prediction#2018 Syngenta (2016 val)#RMSE#12.79

@@ -1,2 +1,0 @@
-Gaze Estimation#MPII Gaze#Angular Error#3.92
-Gaze Estimation#Gaze360#Angular Error#10.41

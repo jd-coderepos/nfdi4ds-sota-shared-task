@@ -1,1 +1,0 @@
-Rumour Detection#Sepehr_RumTel01#F-Measure#0.828

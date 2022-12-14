@@ -1,4 +1,0 @@
-Next-basket recommendation#Instacart#Recall@10#0.3952
-Next-basket recommendation#Instacart#nDCG@10#0.3825
-Next-basket recommendation#TaFeng#Recall@10#0.1301
-Next-basket recommendation#TaFeng#nDCG@10#0.1011

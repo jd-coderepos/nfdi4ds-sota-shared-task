@@ -1,9 +1,0 @@
-Image Classification#ImageNet#Top 1 Accuracy#75.5%
-Image Classification#ImageNet#Top 1 Accuracy#66.5%
-Semi-Supervised Image Classification#CIFAR-10, 4000 Labels#Percentage error#4.0 ± 0.25
-Semi-Supervised Image Classification#ImageNet - 10% labeled data#Top 1 Accuracy#79.0%
-Semi-Supervised Image Classification#ImageNet - 10% labeled data#Top 1 Accuracy#77.8%
-Semi-Supervised Image Classification#ImageNet - 10% labeled data#Top 1 Accuracy#75.5%
-Semi-Supervised Image Classification#ImageNet - 1% labeled data#Top 1 Accuracy#69.9%
-Semi-Supervised Image Classification#ImageNet - 1% labeled data#Top 1 Accuracy#69.6%
-Semi-Supervised Image Classification#ImageNet - 1% labeled data#Top 1 Accuracy#66.5%

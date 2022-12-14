@@ -1,6 +1,0 @@
-Image Classification#Oxford-IIIT Pet Dataset#Accuracy#93.21
-Image Classification#CIFAR-100#Percentage correct#88.54
-Image Classification#Flowers-102#Accuracy#99.49
-Image Classification#Flowers-102#Accuracy#98.21
-Image Classification#CIFAR-10#Percentage correct#97.82
-Image Classification#CIFAR-10#Percentage correct#95.78

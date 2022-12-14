@@ -1,4 +1,0 @@
-Few Shot Action Recognition#Something-Something-100#1:1 Accuracy#64.6
-Few Shot Action Recognition#Kinetics-100#Accuracy#85.9
-Few Shot Action Recognition#HMDB51#1:1 Accuracy#75.6
-Few Shot Action Recognition#UCF101#1:1 Accuracy#96.1

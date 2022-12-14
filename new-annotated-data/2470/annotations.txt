@@ -1,6 +1,0 @@
-Automatic Sleep Stage Classification#Sleep-EDF#Number of parameters (M)#1.42
-Automatic Sleep Stage Classification#Sleep-EDF#Accuracy#83.7
-Automatic Sleep Stage Classification#Sleep-EDF#Cohen’s Kappa score#0.776
-Automatic Sleep Stage Classification#Sleep-EDF#Number of parameters (M)#0.32
-Automatic Sleep Stage Classification#Sleep-EDF#Accuracy#80.8
-Automatic Sleep Stage Classification#Sleep-EDF#Cohen’s Kappa score#0.736

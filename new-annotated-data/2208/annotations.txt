@@ -1,6 +1,0 @@
-Text Generation#ReDial#Perplexity#17.9
-Text Generation#ReDial#Distinct-3#0.3
-Text Generation#ReDial#Distinct-4#0.45
-Recommendation Systems#ReDial#Recall@1#0.03
-Recommendation Systems#ReDial#Recall@10#0.163
-Recommendation Systems#ReDial#Recall@50#0.338

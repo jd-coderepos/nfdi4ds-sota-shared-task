@@ -1,2 +1,0 @@
-Unsupervised 3D Human Pose Estimation#Human3.6M#PA-MPJPE#36.7
-Unsupervised 3D Human Pose Estimation#Human3.6M#MPJPE#64.0

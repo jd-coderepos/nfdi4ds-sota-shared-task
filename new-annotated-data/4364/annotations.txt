@@ -1,8 +1,0 @@
-License Plate Recognition#SSIG-SegPlate#Rank-1 Recognition Rate#98.2
-License Plate Recognition#Caltech Cars#Rank-1 Recognition Rate#98.7
-License Plate Recognition#UCSD-Stills#Rank-1 Recognition Rate#98
-License Plate Recognition#EnglishLP#Rank-1 Recognition Rate#95.7
-License Plate Recognition#AOLP#Rank-1 Recognition Rate#99.2
-License Plate Recognition#ChineseLP#Rank-1 Recognition Rate#97.5
-License Plate Recognition#OpenALPR-EU#Rank-1 Recognition Rate#97.8
-License Plate Recognition#UFPR-ALPR#Rank-1 Recognition Rate#90

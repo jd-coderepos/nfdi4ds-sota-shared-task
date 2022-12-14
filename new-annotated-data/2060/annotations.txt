@@ -1,8 +1,0 @@
-Answer Selection#CICERO#Exact Match#77.68
-Answer Selection#CICERO#Exact Match#77.51
-Generative Question Answering#CICERO#ROUGE#0.2980
-Generative Question Answering#CICERO#ROUGE#0.2946
-Generative Question Answering#CICERO#ROUGE#0.2878
-Generative Question Answering#CICERO#ROUGE#0.2837
-Answer Generation#CICERO#ROUGE#0.2980
-Answer Generation#CICERO#ROUGE#0.2947

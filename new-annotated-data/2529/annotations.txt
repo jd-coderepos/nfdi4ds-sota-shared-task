@@ -1,4 +1,0 @@
-Semantic Segmentation#EventScape#mIoU#53.94
-Semantic Segmentation#SUN-RGBD#Mean IoU#49.4%
-Semantic Segmentation#NYU Depth v2#Mean IoU#52.4%
-Thermal Image Segmentation#MFN Dataset#mIOU#45.8

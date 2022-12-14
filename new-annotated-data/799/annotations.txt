@@ -1,2 +1,0 @@
-Dialog Relation Extraction#DialogRE#F1c (v2)#66.5
-Dialog Relation Extraction#DialogRE#F1 (v2)#69.1

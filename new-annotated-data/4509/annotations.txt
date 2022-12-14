@@ -1,8 +1,0 @@
-Image Matting#Distinctions-646#SAD#40.69
-Image Matting#Distinctions-646#MSE#0.009
-Image Matting#Distinctions-646#Grad#43.91
-Image Matting#Distinctions-646#Conn#40.56
-Image Matting#Composition-1K#MSE#5.0
-Image Matting#Composition-1K#SAD#46.22
-Image Matting#Composition-1K#Grad#22.69
-Image Matting#Composition-1K#Conn#45.4

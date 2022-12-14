@@ -1,6 +1,0 @@
-Video Frame Interpolation#X4K1000FPS#PSNR#25.81
-Video Frame Interpolation#X4K1000FPS#SSIM#0.772
-Video Frame Interpolation#X4K1000FPS#tOF#6.42
-Video Frame Interpolation#X4K1000FPS#PSNR#23.90
-Video Frame Interpolation#X4K1000FPS#SSIM#0.727
-Video Frame Interpolation#X4K1000FPS#tOF#6.89

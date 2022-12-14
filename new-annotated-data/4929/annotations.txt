@@ -1,6 +1,0 @@
-IFC Entity Classification#IFCNetCore#Balanced Accuracy#85.54
-IFC Entity Classification#IFCNetCore#F1 Score#86.93
-IFC Entity Classification#IFCNetCore#Balanced Accuracy#83.32
-IFC Entity Classification#IFCNetCore#F1 Score#85.72
-IFC Entity Classification#IFCNetCore#Balanced Accuracy#79.11
-IFC Entity Classification#IFCNetCore#F1 Score#82.15

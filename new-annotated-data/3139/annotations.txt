@@ -1,2 +1,0 @@
-Slot Filling#Polyvore#FITB#96.9
-Recommendation Systems#Polyvore#AUC#0.99

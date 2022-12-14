@@ -1,4 +1,0 @@
-Hyperspectral Image Classification#Indian Pines#Overall Accuracy#99.83%
-Hyperspectral Image Classification#Botswana#Overall Accuracy#1
-Hyperspectral Image Classification#Salinas#Overall Accuracy#99.98%
-Hyperspectral Image Classification#Pavia University#Overall Accuracy#99.96%

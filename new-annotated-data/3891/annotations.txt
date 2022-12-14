@@ -1,1 +1,0 @@
-Object Proposal Generation#PASCAL VOC 2012, 60 proposals per image#Average Recall#0.667

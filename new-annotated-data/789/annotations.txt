@@ -1,5 +1,0 @@
-Relation Extraction#GDA#F1#84.9
-Relation Extraction#CDR#F1#67.2
-Joint Entity and Relation Extraction#CDR#Relation F1#40.2
-Joint Entity and Relation Extraction#GDA#Relation F1#55.2
-Joint Entity and Relation Extraction#DocRED#Relation F1#38.2

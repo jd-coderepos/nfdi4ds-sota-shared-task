@@ -1,5 +1,0 @@
-Relation Extraction#BioRED#F1#58.9
-Binary Relation Extraction#BioRED#F1#72.9
-NER#BioRED#F1#89.3
-NER#BioRED#F1#88.7
-NER#BioRED#F1#87.1

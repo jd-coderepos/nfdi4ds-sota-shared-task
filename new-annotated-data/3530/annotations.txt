@@ -1,4 +1,0 @@
-Image Denoising#SID x300#PSNR (Raw)#36.36
-Image Denoising#SID x300#SSIM#0.911
-Image Denoising#SID x100#PSNR (Raw)#41.95
-Image Denoising#SID x100#SSIM#39.44

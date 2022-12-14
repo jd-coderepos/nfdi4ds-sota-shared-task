@@ -1,2 +1,0 @@
-Trajectory Prediction#TrajAir: A General Aviation Trajectory Dataset#ADE (in world coordinates)#0.73
-Trajectory Prediction#TrajAir: A General Aviation Trajectory Dataset#FDE (in world coordinates)#1.42

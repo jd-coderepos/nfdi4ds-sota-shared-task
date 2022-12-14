@@ -1,1 +1,0 @@
-Object Skeleton Detection#SK-LARGE#F-Measure#0.724

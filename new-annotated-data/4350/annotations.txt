@@ -1,2 +1,0 @@
-Patch Matching#Brown Dataset#FPR95#0.9
-Multimodal Patch Matching#VisNir#FPR95#1.44

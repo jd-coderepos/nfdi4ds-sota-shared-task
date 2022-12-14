@@ -1,6 +1,0 @@
-Image Enhancement#TIP 2018#PSNR#30.11
-Image Enhancement#TIP 2018#SSIM#0.920
-Image Enhancement#TIP 2018#PSNR#29.81
-Image Enhancement#TIP 2018#SSIM#0.916
-Image Restoration#UHDM#PSNR#22.422
-Image Restoration#UHDM#PSNR#22.119

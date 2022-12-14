@@ -1,2 +1,0 @@
-Graph Regression#PCQM4Mv2-LSC#Validation MAE#0.0869
-Graph Regression#PCQM4Mv2-LSC#Test MAE#0.0872

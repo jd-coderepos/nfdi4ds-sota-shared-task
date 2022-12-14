@@ -1,4 +1,0 @@
-3D Reconstruction#3DPeople#IoU#61
-3D Reconstruction#3DPeople#Chamfer#10
-3D Reconstruction#3DPeople#Normal Consistency#82.1
-3D Reconstruction#3DPeople#P2S#16.2

@@ -1,3 +1,0 @@
-Action Anticipation#Assembly101#Actions Recall@5#9.1
-Action Anticipation#Assembly101#Verbs Recall@5#59.2
-Action Anticipation#Assembly101#Objects Recall@5#31.3

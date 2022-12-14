@@ -1,3 +1,0 @@
-Novel Class Discovery#cifar10#Clustering Accuracy#0.924
-Novel Class Discovery#SVHN#Clustering Accuracy#0.954
-Novel Class Discovery#cifar100#Clustering Accuracy#0.746

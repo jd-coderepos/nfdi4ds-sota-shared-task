@@ -1,8 +1,0 @@
-3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#31.2
-3D Human Pose Estimation#Human3.6M#Using 2D ground-truth joints#Yes
-3D Human Pose Estimation#Human3.6M#Multi-View or Monocular#Monocular
-3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#45.3
-3D Human Pose Estimation#MPI-INF-3DHP#AUC#53.8
-3D Human Pose Estimation#MPI-INF-3DHP#MPJPE#76
-3D Human Pose Estimation#HumanEva-I#Mean Reconstruction Error (mm)#19.5
-Pose Estimation#Leeds Sports Poses#PCK#87.5%

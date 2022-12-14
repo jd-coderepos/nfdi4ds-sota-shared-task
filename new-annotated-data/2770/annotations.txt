@@ -1,4 +1,0 @@
-Road Segementation#DeepGlobe#APLS#0.7414
-Road Segementation#DeepGlobe#IoU#0.6702
-Road Segementation#Massachusetts Roads Dataset#IoU#65.24
-Road Segementation#Massachusetts Roads Dataset#APLS#72.49

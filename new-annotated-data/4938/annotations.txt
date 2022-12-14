@@ -1,8 +1,0 @@
-Link Property Prediction#ogbl-ddi#Test Hits@20#0.9542 ± 0.0000
-Link Property Prediction#ogbl-ddi#Validation Hits@20#0.8258 ± 0.0000
-Link Property Prediction#ogbl-ddi#Number of params#3506691
-Link Property Prediction#ogbl-ddi#Ext. data#No
-Link Property Prediction#ogbl-collab#Test Hits@50#0.7096 ± 0.0055
-Link Property Prediction#ogbl-collab#Validation Hits@50#0.9620 ± 0.0040
-Link Property Prediction#ogbl-collab#Number of params#60449025
-Link Property Prediction#ogbl-collab#Ext. data#No

@@ -1,2 +1,0 @@
-Person Re-Identification#DukeMTMC-reID#mAP#97.1
-Person Re-Identification#MARS#mAP#87

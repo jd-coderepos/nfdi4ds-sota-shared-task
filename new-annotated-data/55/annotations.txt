@@ -1,8 +1,0 @@
-Depth Estimation#eBDtheque#Abs Rel#0.376
-Depth Estimation#eBDtheque#Sq Rel#0.448
-Depth Estimation#eBDtheque#RMSE#1.364
-Depth Estimation#eBDtheque#RMSE log#0.553
-Depth Estimation#DCM#Abs Rel#0.251
-Depth Estimation#DCM#Sq Rel#0.318
-Depth Estimation#DCM#RMSE#0.971
-Depth Estimation#DCM#RMSE log#0.305

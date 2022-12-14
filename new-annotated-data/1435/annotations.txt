@@ -1,6 +1,0 @@
-Temporal Action Localization#THUMOS’14#mAP IOU@0.5#58.6
-Temporal Action Localization#THUMOS’14#mAP IOU@0.3#68.4
-Temporal Action Localization#THUMOS’14#mAP IOU@0.4#65.0
-Temporal Action Localization#THUMOS’14#mAP IOU@0.6#49.2
-Temporal Action Localization#THUMOS’14#mAP IOU@0.7#33.5
-Temporal Action Localization#THUMOS’14#Avg mAP (0.3:0.7)#54.9

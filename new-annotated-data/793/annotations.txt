@@ -1,8 +1,0 @@
-Few-Shot Relation Classification#DocRED#F1 (1-Doc)#7.05
-Few-Shot Relation Classification#DocRED#F1 (3-Doc)#8.42
-Few-Shot Relation Classification#SciERC#F1 (1-Doc)#2.85
-Few-Shot Relation Classification#SciERC#F1 (3-Doc)#3.72
-Few-Shot Relation Classification#FREDo#F1 (1-Doc)#7.05
-Few-Shot Relation Classification#FREDo#F1 (3-Doc)#8.42
-Few-Shot Relation Classification#FREDo (cross-domain)#F1 (1-Doc)#2.85
-Few-Shot Relation Classification#FREDo (cross-domain)#F1 (3-Doc)#3.72

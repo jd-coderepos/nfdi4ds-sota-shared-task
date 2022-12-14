@@ -1,2 +1,0 @@
-Anomaly Detection In Surveillance Videos#ShanghaiTech Weakly Supervised#AUC-ROC#84.44
-Anomaly Detection In Surveillance Videos#UCSD Peds2#AUC#93.2

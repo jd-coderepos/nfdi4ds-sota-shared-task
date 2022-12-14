@@ -1,6 +1,0 @@
-Speech Enhancement#WHAM!#PESQ#3.07
-Speech Enhancement#WHAM!#SDR#15.04
-Speech Enhancement#WHAM!#SI-SNR#14.35
-Speech Enhancement#WHAMR!#PESQ#2.84
-Speech Enhancement#WHAMR!#SI-SNR#10.58
-Speech Enhancement#WHAMR!#SDR#12.29

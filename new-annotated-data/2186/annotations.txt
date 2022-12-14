@@ -1,9 +1,0 @@
-Scene Graph Generation#Visual Genome#Recall@50#23.5
-Scene Graph Generation#Visual Genome#Recall@100#27.2
-Scene Graph Generation#Visual Genome#mean Recall @100#18.0
-Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#36.0
-Unbiased Scene Graph Generation#Visual Genome#mR@20#28.9
-Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#21.8
-Unbiased Scene Graph Generation#Visual Genome#mR@20#17.5
-Unbiased Scene Graph Generation#Visual Genome#ng-mR@20#13.4
-Unbiased Scene Graph Generation#Visual Genome#mR@20#10.9

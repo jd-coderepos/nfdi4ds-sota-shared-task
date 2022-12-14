@@ -1,2 +1,0 @@
-Entity Linking#MedMentions#Accuracy#71.78
-Nested Named Entity Recognition#GENIA#F1#79.93

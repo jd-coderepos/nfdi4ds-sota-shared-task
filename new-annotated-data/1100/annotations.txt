@@ -1,4 +1,0 @@
-Machine Translation#Arba Sicula#BLEU (En-Scn)#35.0
-Machine Translation#Arba Sicula#BLEU (Scn-En)#36.8
-Machine Translation#Arba Sicula#BLEU (It-Scn)#36.5
-Machine Translation#Arba Sicula#BLEU (Scn-It)#30.9

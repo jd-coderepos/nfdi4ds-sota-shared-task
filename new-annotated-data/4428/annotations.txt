@@ -1,8 +1,0 @@
-3D Instance Segmentation#STPLS3D#AP50#74.3
-3D Instance Segmentation#STPLS3D#AP25#81.6
-3D Instance Segmentation#STPLS3D#AP#57.3
-3D Instance Segmentation#ScanNet200#mAP#27.8
-3D Instance Segmentation#S3DIS#AP@50#75.5
-3D Instance Segmentation#S3DIS#mAP#64.5
-3D Instance Segmentation#ScanNet(v2)#mAP#55.2
-3D Instance Segmentation#ScanNet(v2)#mAP @ 50#78.0

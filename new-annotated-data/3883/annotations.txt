@@ -1,4 +1,0 @@
-Weakly Supervised Object Detection#MS-COCO-2014#AP#13.7
-Weakly Supervised Object Detection#MS-COCO-2017#AP#13.6
-Weakly Supervised Object Detection#PASCAL VOC 2007#MAP#56.1
-Weakly Supervised Object Detection#PASCAL VOC 2012 test#MAP#54.6

@@ -1,2 +1,0 @@
-Image Classification#Large Labelled Logo Dataset (L3D)#Eval F1#0.2786
-Image Classification#Large Labelled Logo Dataset (L3D)#Eval F1#0.1155

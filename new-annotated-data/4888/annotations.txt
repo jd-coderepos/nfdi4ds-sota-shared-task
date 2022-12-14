@@ -1,6 +1,0 @@
-Semi-Supervised Object Detection#COCO 0.5% labeled data#mAP#18.54
-Semi-Supervised Object Detection#COCO 100% labeled data#mAP#42.11
-Semi-Supervised Object Detection#COCO 5% labeled data#mAP#28.52
-Semi-Supervised Object Detection#COCO 2% labeled data#mAP#24.84
-Semi-Supervised Object Detection#COCO 1% labeled data#mAP#21.88
-Semi-Supervised Object Detection#COCO 10% labeled data#mAP#31.87

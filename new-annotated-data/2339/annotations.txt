@@ -1,4 +1,0 @@
-Natural Language Inference#SNLI#% Test Accuracy#88.1
-Emotion Recognition in Conversation#CPED#Accuracy of Sentiment#48.90
-Emotion Recognition in Conversation#CPED#Macro-F1 of Sentiment#34.37
-Sentiment Analysis#SST-2 Binary classification#Accuracy#88.1

@@ -1,3 +1,0 @@
-Machine Reading Comprehension#UQuAD#Exact Match#66%
-Machine Reading Comprehension#UQuAD#Exact Match#.36
-Machine Reading Comprehension#UQuAD#F1#66%

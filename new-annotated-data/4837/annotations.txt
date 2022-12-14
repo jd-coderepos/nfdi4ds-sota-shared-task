@@ -1,1 +1,0 @@
-Table Recognition#ICDAR2013 table structure recognition#F-Measure#95.46

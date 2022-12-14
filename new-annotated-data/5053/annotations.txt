@@ -1,4 +1,0 @@
-Nature-Inspired Optimization Algorithm#CIFAR-10#training time (s)#23
-Nature-Inspired Optimization Algorithm#CIFAR-10#training time (s)#50
-Nature-Inspired Optimization Algorithm#MNIST#training time (s)#227
-Nature-Inspired Optimization Algorithm#MNIST#training time (s)#282

@@ -1,4 +1,0 @@
-Image Classification#CIFAR-100#Percentage correct#85.6
-Image Classification#SVHN#Percentage correct#97.88
-Image Classification#MNIST#Percentage correct#99.66
-Image Classification#CIFAR-10#Percentage correct#97.14

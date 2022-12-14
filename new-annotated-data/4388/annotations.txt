@@ -1,8 +1,0 @@
-SMAC+#Def_Armored_sequential#Median Win Rate#90.6
-SMAC+#Off_Superhard_sequential#Median Win Rate#0.0
-SMAC+#Off_Hard_sequential#Median Win Rate#0.0
-SMAC+#Def_Infantry_sequential#Median Win Rate#100
-SMAC+#Def_Outnumbered_sequential#Median Win Rate#81.3
-SMAC+#Off_Complicated_sequential#Median Win Rate#0.0
-SMAC+#Off_Near_sequential#Median Win Rate#75.0
-SMAC+#Off_Distant_sequential#Median Win Rate#0.0

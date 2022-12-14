@@ -1,4 +1,0 @@
-Open Vocabulary Object Detection#LVIS v1.0#mask APr#22.0
-Open Vocabulary Object Detection#LVIS v1.0#mask APr#17.1
-Open Vocabulary Object Detection#MSCOCO#AP 0.5#39.3
-Open Vocabulary Object Detection#MSCOCO#AP 0.5#31.4

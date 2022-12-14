@@ -1,1 +1,0 @@
-Semantic Segmentation#LoveDA#Category mIoU#49.79

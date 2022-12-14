@@ -1,5 +1,0 @@
-Video Denoising#CRVD#PSNR (Raw)#43.96
-Video Denoising#CRVD#SSIM (Raw)#0.988
-Video Denoising#CRVD#PSNR (sRBG)#40.40
-Video Denoising#CRVD#SSIM (sRGB)#0.981
-Video Denoising#CRVD#LPIPS (sRGB)#0.0357

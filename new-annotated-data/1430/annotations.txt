@@ -1,4 +1,0 @@
-Temporal Action Localization#HACS#Average-mAP#18.97
-Temporal Action Localization#HACS#mAP@0.5#28.82
-Temporal Action Localization#HACS#mAP@0.75#18.80
-Temporal Action Localization#HACS#mAP@0.95#5.32

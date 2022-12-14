@@ -1,2 +1,0 @@
-Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#Recall (0.3m, 15 degrees)#6.59
-Point Cloud Registration#3DMatch (at least 30% overlapped - FCGF setting)#Recall (0.3m, 15 degrees)#6.04

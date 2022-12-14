@@ -1,4 +1,0 @@
-Node Classification#AMZ Computers: fixed 20 node per class#Accuracy#84.86
-Node Classification#Cora: fixed 20 nodes per class#Accuracy#86.00
-Node Classification#Pubmed: fixed 20 node per class#Accuracy#82.72
-Node Classification#Citeseer: fixed 20 node per class#Accuracy#76.35

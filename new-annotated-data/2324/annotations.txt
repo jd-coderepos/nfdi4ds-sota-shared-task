@@ -1,5 +1,0 @@
-Sleep Stage Detection#Montreal Archive of Sleep Studies#Weighted F1#0.85
-W-R-L-D Sleep Staging#Montreal Archive of Sleep Studies#Weighted F1#0.85
-W-R-L-D Sleep Staging#Montreal Archive of Sleep Studies#Weighted F1#0.51
-W-R-N Sleep Staging#Montreal Archive of Sleep Studies#Weighted F1#0.90
-W-R-N Sleep Staging#Montreal Archive of Sleep Studies#Weighted F1#0.66

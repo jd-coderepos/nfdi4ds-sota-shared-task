@@ -1,6 +1,0 @@
-Face Recognition#MLFW#Accuracy#91.57
-Face Recognition#MLFW#Accuracy#90.57
-Face Recognition#MLFW#Accuracy#90.43
-Face Recognition#MLFW#Accuracy#85.95
-Face Recognition#MLFW#Accuracy#82.52
-Face Recognition#MLFW#Accuracy#77.20

@@ -1,2 +1,0 @@
-Person Re-Identification#DukeMTMC-reID#mAP#89.1
-Person Re-Identification#Market-1501#mAP#90.8

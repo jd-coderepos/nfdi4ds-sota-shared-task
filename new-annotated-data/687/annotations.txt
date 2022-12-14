@@ -1,6 +1,0 @@
-Spoken Language Understanding#Snips-SmartLights#Accuracy (%)#84.2
-Spoken Language Understanding#Snips-SmartLights#Accuracy (%)#79.3
-Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-EN (%)#68.7
-Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-FR (%)#75.1
-Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-EN (%)#47.8
-Spoken Language Understanding#Snips-SmartSpeaker#Accuracy-FR (%)#42.3

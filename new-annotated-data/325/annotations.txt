@@ -1,5 +1,0 @@
-3D Face Reconstruction#REALY#@nose#2.936 (±0.810)
-3D Face Reconstruction#REALY#@mouth#2.375 (±0.599)
-3D Face Reconstruction#REALY#@forehead#4.582 (±1.488)
-3D Face Reconstruction#REALY#@cheek#1.918 (±0.801)
-3D Face Reconstruction#REALY#all#2.953

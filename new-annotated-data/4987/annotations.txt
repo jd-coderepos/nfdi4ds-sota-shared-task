@@ -1,4 +1,0 @@
-Circulatory Failure#HiRID#AUPRC#0.406±0.003
-Circulatory Failure#HiRID#Recall@50#32.3
-Respiratory Failure#HiRID#AUPRC#0.604±0.002
-Respiratory Failure#HiRID#Recall@50#77.0

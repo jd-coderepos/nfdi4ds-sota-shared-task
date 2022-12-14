@@ -1,1 +1,0 @@
-Semi-Supervised Image Classification#CIFAR-10, 4000 Labels#Percentage error#20.4

@@ -1,2 +1,0 @@
-Drug Response Prediction#GDSCv2#Pearson correlation coefficient (PCC)#0.93807
-Drug Response Prediction#GDSCv2#mRMSE#0.0229

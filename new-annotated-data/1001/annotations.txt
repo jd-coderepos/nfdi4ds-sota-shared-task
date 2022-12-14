@@ -1,2 +1,0 @@
-Multi-Hypotheses 3D Human Pose Estimation#Human3.6M#Average MPJPE (mm)#46.2
-Multi-Hypotheses 3D Human Pose Estimation#Human3.6M#Average PMPJPE (mm)#36.3

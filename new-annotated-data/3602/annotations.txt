@@ -1,1 +1,0 @@
-Colorization#ImageNet val#FID-5K#19.37

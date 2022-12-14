@@ -1,2 +1,0 @@
-Incremental Learning#ImageNet100 - 10 steps#Average Incremental Accuracy Top-5#87.90
-Incremental Learning#ImageNet100 - 10 steps#Final Accuracy Top-5#74.00

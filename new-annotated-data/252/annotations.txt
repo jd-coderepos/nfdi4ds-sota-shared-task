@@ -1,2 +1,0 @@
-Face Detection#WIDER Face#GFLOPs#0.1079
-Face Detection#WIDER Face (Hard)#AP#0.906

@@ -1,2 +1,0 @@
-Image Retrieval#AmsterTime#mAP#35
-Image Classification#AmsterTime#Accuracy#0.84

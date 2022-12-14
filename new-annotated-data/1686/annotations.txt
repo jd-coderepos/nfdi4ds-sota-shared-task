@@ -1,8 +1,0 @@
-Unconditional Video Generation#CelebV-HQ#FVD#69.17
-Unconditional Video Generation#CelebV-HQ#FID#17.95
-Unconditional Video Generation#CelebV-HQ#FVD#72.98
-Unconditional Video Generation#CelebV-HQ#FID#19.39
-Unconditional Video Generation#CelebV-HQ#FVD#177.89
-Unconditional Video Generation#CelebV-HQ#FID#52.95
-Unconditional Video Generation#CelebV-HQ#FVD#212.41
-Unconditional Video Generation#CelebV-HQ#FID#21.55

@@ -1,1 +1,0 @@
-Speech Emotion Recognition#ShEMO#Unweighted Accuracy#65.20

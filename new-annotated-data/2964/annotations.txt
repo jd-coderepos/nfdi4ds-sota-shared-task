@@ -1,9 +1,0 @@
-6D Pose Estimation#LineMOD#Mean ADD-S#98.2
-6D Pose Estimation using RGBD#REAL275#mAP 10, 10cm#74.6
-6D Pose Estimation using RGBD#REAL275#mAP 10, 5cm#73.3
-6D Pose Estimation using RGBD#REAL275#mAP 3DIou@25#84.2
-6D Pose Estimation using RGBD#REAL275#mAP 3DIou@50#83
-6D Pose Estimation using RGBD#REAL275#mAP 5, 5cm#42.9
-6D Pose Estimation using RGBD#REAL275#mAP 3DIou@75#64.4
-6D Pose Estimation using RGBD#REAL275#mAP 5, 2cm#32
-6D Pose Estimation using RGBD#REAL275#FPS#20

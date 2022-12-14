@@ -1,2 +1,0 @@
-Image Classification#Causal3DIdent#Accuracy#1.00
-Image Classification#Causal3DIdent#Accuracy#0.99

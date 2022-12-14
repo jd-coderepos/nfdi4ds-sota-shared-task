@@ -1,6 +1,0 @@
-Text Classification#20NEWS#Accuracy#89.5
-Text Classification#20 Newsgroups#Accuracy#89.5
-Text Classification#R52#Accuracy#96.6
-Text Classification#MR#Accuracy#89.7
-Text Classification#R8#Accuracy#98.2
-Text Classification#Ohsumed#Accuracy#72.8

@@ -1,8 +1,0 @@
-Discourse Parsing#RST-DT#Standard Parseval (Span)#72.94
-Discourse Parsing#RST-DT#Standard Parseval (Nuclearity)#61.86
-Discourse Parsing#RST-DT#Standard Parseval (Span)#72.43
-Discourse Parsing#RST-DT#Standard Parseval (Nuclearity)#61.38
-Discourse Parsing#Instructional-DT (Instr-DT)#Standard Parseval (Span)#65.41
-Discourse Parsing#Instructional-DT (Instr-DT)#Standard Parseval (Nuclearity)#46.59
-Discourse Parsing#Instructional-DT (Instr-DT)#Standard Parseval (Span)#64.55
-Discourse Parsing#Instructional-DT (Instr-DT)#Standard Parseval (Nuclearity)#44.41

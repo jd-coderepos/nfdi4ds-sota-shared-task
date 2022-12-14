@@ -1,4 +1,0 @@
-3D Object Detection#SUN-RGBD#mAP@0.25#59.2
-3D Object Detection#SUN-RGBD#mAP@0.25#58.2
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.1
-3D Point Cloud Linear Classification#ModelNet40#Overall Accuracy#90.9

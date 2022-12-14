@@ -1,6 +1,0 @@
-Single Image Deraining#RainCityscapes#PSNR#35.82
-Single Image Deraining#RainCityscapes#SSIM#0.987
-Single Image Deraining#Rain100H#PSNR#30.70
-Single Image Deraining#Rain100H#SSIM#0.922
-Single Image Deraining#Rain100L#PSNR#39.73
-Single Image Deraining#Rain100L#SSIM#0.988

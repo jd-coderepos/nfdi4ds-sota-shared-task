@@ -1,4 +1,0 @@
-Speech Separation#WHAMR!#SI-SDRi#11.1
-Speech Separation#WHAMR!#SDRi#10.3
-Speech Separation#WSJ0-2mix#SI-SDRi#17.2
-Speech Separation#WSJ0-2mix#SDRi#17.4

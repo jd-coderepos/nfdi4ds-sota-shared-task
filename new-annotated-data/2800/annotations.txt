@@ -1,7 +1,0 @@
-Emotion Recognition in Conversation#IEMOCAP#Weighted-F1#66.33
-Emotion Recognition in Conversation#SEMAINE#MAE (Valence)#0.173
-Emotion Recognition in Conversation#SEMAINE#MAE (Arousal)#0.152
-Emotion Recognition in Conversation#SEMAINE#MAE (Expectancy)#0.175
-Emotion Recognition in Conversation#SEMAINE#MAE (Power)#8.20
-Emotion Recognition in Conversation#MELD#Weighted-F1#58.39
-Emotion Recognition in Conversation#MELD#Accuracy#60.73

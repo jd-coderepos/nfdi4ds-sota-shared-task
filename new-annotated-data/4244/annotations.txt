@@ -1,6 +1,0 @@
-Learning with noisy labels#CIFAR-10N-Random1#Accuracy (mean)#89.70
-Learning with noisy labels#CIFAR-10N-Random2#Accuracy (mean)#89.47
-Learning with noisy labels#CIFAR-10N-Random3#Accuracy (mean)#89.54
-Learning with noisy labels#CIFAR-100N#Accuracy (mean)#57.88
-Learning with noisy labels#CIFAR-10N-Worst#Accuracy (mean)#83.26
-Learning with noisy labels#CIFAR-10N-Aggregate#Accuracy (mean)#90.61

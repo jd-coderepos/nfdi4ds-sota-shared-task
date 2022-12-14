@@ -1,5 +1,0 @@
-Semantic Segmentation#ISPRS Vaihingen#Overall Accuracy#91.6
-Semantic Segmentation#ISPRS Vaihingen#Average F1#90.7
-Semantic Segmentation#ISPRS Potsdam#Overall Accuracy#92.0
-Semantic Segmentation#ISPRS Potsdam#Mean F1#93.25
-Semantic Segmentation#ISPRS Potsdam#Mean IoU#87.56

@@ -1,6 +1,0 @@
-Person Re-Identification#DukeMTMC-reID#Rank-1#91.2
-Person Re-Identification#DukeMTMC-reID#mAP#82.9
-Person Re-Identification#CUHK03 labeled#MAP#83.8
-Person Re-Identification#CUHK03 labeled#Rank-1#85.9
-Person Re-Identification#Market-1501#Rank-1#96.1
-Person Re-Identification#Market-1501#mAP#90.6

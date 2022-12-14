@@ -1,6 +1,0 @@
-Hate Speech Detection#AbusEval#Macro F1#0.742
-Hate Speech Detection#AbusEval#Macro F1#0.724
-Hate Speech Detection#OffensEval 2019#Macro F1#0.805
-Hate Speech Detection#OffensEval 2019#Macro F1#0.803
-Hate Speech Detection#HatEval#Macro F1#0.494
-Hate Speech Detection#HatEval#Macro F1#0.48

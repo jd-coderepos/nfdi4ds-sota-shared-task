@@ -1,1 +1,0 @@
-Acoustic Scene Classification#DCASE 2019 Mobile#Accuracy#70.4

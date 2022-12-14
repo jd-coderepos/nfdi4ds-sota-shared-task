@@ -1,2 +1,0 @@
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.9
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#1.047

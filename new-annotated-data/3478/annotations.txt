@@ -1,4 +1,0 @@
-Entity Resolution#WDC Computers-xlarge#F1 (%)#98.33
-Entity Resolution#Abt-Buy#F1 (%)#94.29
-Entity Resolution#WDC Computers-small#F1 (%)#95.21
-Entity Resolution#Amazon-Google#F1 (%)#79.28

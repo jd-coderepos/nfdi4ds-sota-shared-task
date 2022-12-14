@@ -1,3 +1,0 @@
-Abstractive Text Summarization#vietnews#Rouge-L#40.15
-Abstractive Text Summarization#vietnews#Rouge-1#61.14
-Abstractive Text Summarization#vietnews#Rouge-2#30.31

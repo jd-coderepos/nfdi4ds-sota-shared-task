@@ -1,7 +1,0 @@
-Molecular Property Prediction#ClinTox#ROC-AUC#56.3
-Molecular Property Prediction#ClinTox#Molecules (M)#77
-Molecular Property Prediction#BACE#ROC-AUC#79.9
-Molecular Property Prediction#BACE#RMSE#0.01363
-Molecular Property Prediction#Delaney#RMSE#0.889
-Molecular Property Prediction#Lipophilicity#RMSE#0.798
-Molecular Property Prediction#BBBP#ROC-AUC#72.8

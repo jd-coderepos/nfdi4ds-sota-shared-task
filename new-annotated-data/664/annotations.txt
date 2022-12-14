@@ -1,7 +1,0 @@
-Dialogue Generation#CMU-DoG#F1#9.01
-Dialogue Generation#CMU-DoG#ROUGE-1#15.37
-Dialogue Generation#CMU-DoG#Rouge-L#12.56
-Dialogue Generation#CMU-DoG#Meteor#7.55
-Dialogue Generation#WikiText-103#Perplexity#32.48
-Language Modelling#WikiText-103#Test perplexity#16.61
-Language Modelling#WikiText-103#Test perplexity#24.22

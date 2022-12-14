@@ -1,4 +1,0 @@
-Medical Code Prediction#MIMIC-III#Macro-F1#11.8
-Medical Code Prediction#MIMIC-III#Micro-F1#59.9
-Medical Code Prediction#MIMIC-III#Precision@8#77.1
-Medical Code Prediction#MIMIC-III#Precision@15#61.5

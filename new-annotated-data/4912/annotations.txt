@@ -1,3 +1,0 @@
-Meter Reading#UFPR-AMR#Rank-1 Recognition Rate#94.13
-Meter Reading#UFPR-AMR#Rank-1 Recognition Rate#92.3
-Meter Reading#UFPR-AMR#Rank-1 Recognition Rate#87.69

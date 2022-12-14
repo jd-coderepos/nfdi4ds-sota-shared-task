@@ -1,5 +1,0 @@
-Open Intent Detection#ATIS (50% known)#F1#0.396
-Open Intent Detection#ATIS (25% known)#F1#0.696
-Open Intent Detection#SNIPS (25% known)#F1#0.792
-Open Intent Detection#SNIPS (50% known)#F1#0.841
-Open Intent Detection#SNIPS (75% known)#F1#0.788

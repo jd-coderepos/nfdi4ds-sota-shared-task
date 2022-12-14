@@ -1,6 +1,0 @@
-3D Reconstruction#ShapeNet#IoU#89.5
-3D Reconstruction#ShapeNet#Chamfer Distance#0.42
-3D Reconstruction#ShapeNet#IoU#88.4
-3D Reconstruction#ShapeNet#Chamfer Distance#0.45
-3D Reconstruction#ShapeNet#IoU#76.1
-3D Reconstruction#ShapeNet#Chamfer Distance#0.87

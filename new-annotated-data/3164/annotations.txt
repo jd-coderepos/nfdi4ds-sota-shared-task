@@ -1,2 +1,0 @@
-Online Action Detection#TVSeries#mCAP#89.1
-Online Action Detection#THUMOS'14#mAP#69.5

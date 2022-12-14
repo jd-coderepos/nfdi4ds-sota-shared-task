@@ -1,2 +1,0 @@
-Semi-Supervised Image Classification#Mini-ImageNet, 4000 Labels#Accuracy#66.55
-Semi-Supervised Image Classification#cifar-100, 10000 Labels#Percentage error#21.89

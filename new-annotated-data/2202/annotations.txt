@@ -1,5 +1,0 @@
-Plan2Scene#Rent3D++#COLOR (All Surfaces)#0.591
-Plan2Scene#Rent3D++#FREQ (All Surfaces)#0.034
-Plan2Scene#Rent3D++#SUBS (All Surfaces)#0.392
-Plan2Scene#Rent3D++#FID (All Surfaces)#196.2
-Plan2Scene#Rent3D++#TILE (All Surfaces)#17.6

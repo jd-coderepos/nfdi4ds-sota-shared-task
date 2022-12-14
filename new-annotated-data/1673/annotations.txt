@@ -1,8 +1,0 @@
-Video Prediction#Kinetics-600 12 frames, 64x64#FVD#25.74±0.66
-Video Prediction#Kinetics-600 12 frames, 64x64#Cond#5
-Video Prediction#Kinetics-600 12 frames, 64x64#Pred#11
-Video Prediction#Kinetics-600 12 frames, 64x64#IS#12.54±0.06
-Video Generation#BAIR Robot Pushing#FVD score#103.3
-Video Generation#BAIR Robot Pushing#Cond#1
-Video Generation#BAIR Robot Pushing#Pred#15
-Video Generation#BAIR Robot Pushing#Train#15

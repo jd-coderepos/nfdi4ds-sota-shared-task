@@ -1,9 +1,0 @@
-Motion Synthesis#LaFAN1#L2Q@5#0.14
-Motion Synthesis#LaFAN1#L2Q@15#0.36
-Motion Synthesis#LaFAN1#L2Q@30#0.61
-Motion Synthesis#LaFAN1#L2P@5#0.22
-Motion Synthesis#LaFAN1#L2P@15#0.56
-Motion Synthesis#LaFAN1#NPSS@5#0.0016
-Motion Synthesis#LaFAN1#NPSS@15#0.0234
-Motion Synthesis#LaFAN1#NPSS@30#0.1222
-Motion Synthesis#LaFAN1#L2P@30#1.1

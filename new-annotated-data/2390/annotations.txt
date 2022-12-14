@@ -1,5 +1,0 @@
-Long-range modeling#LRA#ListOps#39.57
-Long-range modeling#LRA#Text#83.32
-Long-range modeling#LRA#Image#46.58
-Long-range modeling#LRA#Pathfinder#80.49
-Long-range modeling#LRA#Avg#62.49

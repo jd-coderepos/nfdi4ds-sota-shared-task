@@ -1,2 +1,0 @@
-3D Dense Shape Correspondence#SHREC'19#Euclidean Mean Error (EME)#7.1
-3D Dense Shape Correspondence#SHREC'19#Accuracy at 1%#4.0

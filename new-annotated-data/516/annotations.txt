@@ -1,2 +1,0 @@
-Domain Adaptation#SYNTHIA-to-Cityscapes#mIoU#46.2
-Unsupervised Domain Adaptation#GTAV-to-Cityscapes Labels#mIoU#47.3

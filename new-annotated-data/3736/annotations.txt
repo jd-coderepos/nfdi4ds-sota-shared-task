@@ -1,4 +1,0 @@
-Object Detection#LVIS v1.0 val#box AP#29
-Object Detection#LVIS v1.0 val#box AP#27.4
-Instance Segmentation#LVIS v1.0 val#mask AP#28
-Instance Segmentation#LVIS v1.0 val#mask AP#26.6

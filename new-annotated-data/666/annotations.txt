@@ -1,4 +1,0 @@
-Dialogue State Tracking#MULTIWOZ 2.2#MultiWOZ (Joint Goal Acc)#57.6
-Dialogue State Tracking#MULTIWOZ 2.2#MultiWOZ (Joint Goal Acc)#56.3
-Dialogue State Tracking#MULTIWOZ 2.1#MultiWOZ (Joint Goal Acc)#56.66
-Dialogue State Tracking#MULTIWOZ 2.1#MultiWOZ (Joint Goal Acc)#56.12

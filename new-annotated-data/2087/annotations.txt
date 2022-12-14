@@ -1,3 +1,0 @@
-Visual Question Answering#FigureQA - test 1#1:1 Accuracy#94.88
-Visual Question Answering#PlotQA-D1#1:1 Accuracy#57.91
-Visual Question Answering#PlotQA-D2#1:1 Accuracy#10.37

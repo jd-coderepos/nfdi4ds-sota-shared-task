@@ -1,6 +1,0 @@
-Medical Image Segmentation#MoNuSeg#F1#75.08
-Medical Image Segmentation#MoNuSeg#IoU#71.06
-Medical Image Segmentation#MoNuSeg#Dice Score#95.20
-Medical Image Segmentation#GlaS#F1#98.07
-Medical Image Segmentation#GlaS#IoU#76.73
-Medical Image Segmentation#GlaS#Dice#99.09

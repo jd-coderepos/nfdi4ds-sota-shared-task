@@ -1,2 +1,0 @@
-Visual Place Recognition#Berlin Kudamm#Recall@1#59.64
-Image Matching#IMC PhotoTourism#mean average accuracy @ 10#0.65248

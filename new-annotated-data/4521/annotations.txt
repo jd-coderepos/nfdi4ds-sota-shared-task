@@ -1,6 +1,0 @@
-Interactive Segmentation#Berkeley#NoC@90#2.4
-Interactive Segmentation#PASCAL VOC#NoC@85#2.5
-Interactive Segmentation#DAVIS#NoC@85#4.54
-Interactive Segmentation#DAVIS#NoC@90#5.77
-Interactive Segmentation#GrabCut#NoC@85#1.6
-Interactive Segmentation#GrabCut#NoC@90#1.72

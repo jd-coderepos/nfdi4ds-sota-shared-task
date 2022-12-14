@@ -1,6 +1,0 @@
-Sleep Stage Detection#ISRUC-Sleep#Accuracy#78.5
-Sleep Stage Detection#ISRUC-Sleep#AUROC#84.7
-Sleep Stage Detection#ISRUC-Sleep#Kappa#0.72
-Automatic Sleep Stage Classification#ISRUC-Sleep#Accuracy#80.1
-Automatic Sleep Stage Classification#ISRUC-Sleep#AUROC#86
-Automatic Sleep Stage Classification#ISRUC-Sleep#Kappa#0.741

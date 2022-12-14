@@ -1,5 +1,0 @@
-Visual Question Answering#COCO Visual Question Answering (VQA) real images 2.0 open ended#Percentage correct#62.27
-Visual Question Answering#COCO Visual Question Answering (VQA) real images 2.0 open ended#Percentage correct#54.22
-Visual Question Answering#VQA v2 test-std#overall#62.27
-Visual Question Answering#VQA v2 test-std#overall#44.26
-Visual Question Answering#VQA v2 test-std#overall#25.98

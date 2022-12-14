@@ -1,3 +1,0 @@
-Image Captioning#COCO#BLEU-4#34.7
-Image Captioning#COCO#CIDEr#115
-Image Captioning#COCO#ROUGE-L#58

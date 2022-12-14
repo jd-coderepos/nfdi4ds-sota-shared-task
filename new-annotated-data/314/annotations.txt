@@ -1,2 +1,0 @@
-Face Alignment#AFLW-19#NME_diag (%, Full)#2.21
-Face Alignment#AFLW-19#NME_diag (%, Frontal)#1.81

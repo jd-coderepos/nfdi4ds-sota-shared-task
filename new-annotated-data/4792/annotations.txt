@@ -1,6 +1,0 @@
-Text based Person Retrieval#RSTPReid#R@1#39.05
-Text based Person Retrieval#RSTPReid#R@5#62.60
-Text based Person Retrieval#RSTPReid#R@10#73.95
-Text based Person Retrieval#CUHK-PEDES#R@1#59.98
-Text based Person Retrieval#CUHK-PEDES#R@10#87.56
-Text based Person Retrieval#CUHK-PEDES#R@5#80.41

@@ -1,6 +1,0 @@
-Continual Learning#visual domain decathlon (10 tasks)#decathlon discipline (Score)#2515
-Continual Learning#visual domain decathlon (10 tasks)#Avg. Accuracy#76.93
-class-incremental learning#cifar100#10-stage average accuracy#45.12
-Disjoint 15-1#PASCAL VOC 2012#mIoU#5.3
-Disjoint 10-1#PASCAL VOC 2012#mIoU#4.3
-Disjoint 15-5#PASCAL VOC 2012#Mean IoU#54.9

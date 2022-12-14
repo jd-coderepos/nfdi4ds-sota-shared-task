@@ -1,9 +1,0 @@
-Few-Shot Learning#Mini-Imagenet 5-way (1-shot)#Accuracy#53.18
-Few-Shot Image Classification#OMNIGLOT-EMNIST 5-way (1-shot)#Accuracy#80.65
-Few-Shot Image Classification#OMNIGLOT-EMNIST 5-way (5-shot)#Accuracy#90.81
-Few-Shot Image Classification#Mini-Imagenet 5-way (5-shot)#Accuracy#69.62%
-Few-Shot Image Classification#Mini-ImageNet - 1-Shot Learning#Accuracy#53.18%
-Few-Shot Image Classification#Mini-ImageNet-CUB 5-way (5-shot)#Accuracy#58.86
-Few-Shot Image Classification#Mini-ImageNet-CUB 5-way (1-shot)#Accuracy#40.03
-Few-Shot Image Classification#CUB 200 5-way 5-shot#Accuracy#80.07
-Few-Shot Image Classification#CUB 200 5-way 1-shot#Accuracy#66.13

@@ -1,9 +1,0 @@
-Text Summarization#arXiv#ROUGE-1#48.42
-Text Summarization#arXiv#ROUGE-2#20.30
-Text Summarization#arXiv#ROUGE-L#42.54
-Text Summarization#Pubmed#ROUGE-1#49.25
-Text Summarization#Pubmed#ROUGE-2#22.94
-Text Summarization#Pubmed#ROUGE-L#44.42
-Extractive Text Summarization#GovReport#Avg. Test Rouge1#59.43
-Extractive Text Summarization#GovReport#Avg. Test Rouge2#28.60
-Extractive Text Summarization#GovReport#Avg. Test RougeLsum#56.69

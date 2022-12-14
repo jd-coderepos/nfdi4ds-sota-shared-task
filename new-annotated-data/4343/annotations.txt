@@ -1,1 +1,0 @@
-Image Matching#IMC PhotoTourism#mean average accuracy @ 10#0.60285

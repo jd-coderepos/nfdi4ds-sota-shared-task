@@ -1,4 +1,0 @@
-Video Quality Assessment#YouTube-UGC#PLCC#0.7684
-Video Quality Assessment#LIVE-VQC#PLCC#0.7863
-Video Quality Assessment#LIVE Livestream#SRCC#0.4899
-Video Quality Assessment#KoNViD-1k#PLCC#0.8175

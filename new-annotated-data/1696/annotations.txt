@@ -1,4 +1,0 @@
-Video Frame Interpolation#Vimeo90K#PSNR#34.95
-Video Frame Interpolation#Vimeo90K#SSIM#0.9749
-Video Frame Interpolation#X4K1000FPS#PSNR#30.51
-Video Frame Interpolation#X4K1000FPS#SSIM#0.8719

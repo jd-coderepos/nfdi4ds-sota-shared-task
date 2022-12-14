@@ -1,7 +1,0 @@
-Long-range modeling#LRA#ListOps#62.75
-Long-range modeling#LRA#Text#89.02
-Long-range modeling#LRA#Retrieval#91.20
-Long-range modeling#LRA#Image#89.50
-Long-range modeling#LRA#Pathfinder#94.8
-Long-range modeling#LRA#Avg#87.32
-Long-range modeling#LRA#Pathfinder-X#96.66

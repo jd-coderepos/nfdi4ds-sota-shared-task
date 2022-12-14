@@ -1,6 +1,0 @@
-Graph Property Prediction#ogbg-molpcba#Test AP#0.2979 ± 0.0030
-Graph Property Prediction#ogbg-molpcba#Validation AP#0.3126 ± 0.0023
-Graph Property Prediction#ogbg-molpcba#Number of params#6147029
-Graph Property Prediction#ogbg-molpcba#Ext. data#No
-Graph Property Prediction#ogbg-molpcba#Test AP#0.2917 ± 0.0015
-Graph Property Prediction#ogbg-molpcba#Validation AP#0.3065 ± 0.0030

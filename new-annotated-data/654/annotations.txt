@@ -1,9 +1,0 @@
-Visual Speech Recognition#LRS3-TED#Word Error Rate (WER)#30.7
-Visual Speech Recognition#LRS3-TED#Word Error Rate (WER)#40.6
-Visual Speech Recognition#LRS2#Word Error Rate (WER)#22.6
-Visual Speech Recognition#LRS2#Word Error Rate (WER)#28.9
-Audio-Visual Active Speaker Detection#AVA-ActiveSpeaker#validation mean average precision#89.2%
-Lipreading#LRS3-TED#Word Error Rate (WER)#30.7
-Lipreading#LRS3-TED#Word Error Rate (WER)#40.6
-Lipreading#LRS2#Word Error Rate (WER)#22.6%
-Lipreading#LRS2#Word Error Rate (WER)#28.9%

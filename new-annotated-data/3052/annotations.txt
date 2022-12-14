@@ -1,1 +1,0 @@
-Aspect-Sentiment-Opinion Triplet Extraction#Res14#F1 score#69.2

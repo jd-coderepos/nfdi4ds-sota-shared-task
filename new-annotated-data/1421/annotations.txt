@@ -1,3 +1,0 @@
-Multiple Object Tracking#Waymo Open Dataset#MOTA#44.92
-Multiple Object Tracking#Waymo Open Dataset#mAP#45.70
-Multiple Object Tracking#Waymo Open Dataset#Category#Vehicle

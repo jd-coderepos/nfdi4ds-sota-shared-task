@@ -1,4 +1,0 @@
-Emotion Recognition in Conversation#IEMOCAP#Weighted-F1#68.18
-Emotion Recognition in Conversation#IEMOCAP#Accuracy#68.21
-Emotion Recognition in Conversation#MELD#Weighted-F1#59.46
-Emotion Recognition in Conversation#MELD#Accuracy#62.49

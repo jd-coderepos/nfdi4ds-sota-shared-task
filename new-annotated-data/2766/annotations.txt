@@ -1,6 +1,0 @@
-Unsupervised Semantic Segmentation#ImageNet-S#mIoU (val)#11.5
-Unsupervised Semantic Segmentation#ImageNet-S#mIoU (test)#11.0
-Unsupervised Semantic Segmentation#ImageNet-S-50#mIoU (val)#32.4
-Unsupervised Semantic Segmentation#ImageNet-S-50#mIoU (test)#32
-Unsupervised Semantic Segmentation#ImageNet-S-300#mIoU (val)#18
-Unsupervised Semantic Segmentation#ImageNet-S-300#mIoU (test)#18.1

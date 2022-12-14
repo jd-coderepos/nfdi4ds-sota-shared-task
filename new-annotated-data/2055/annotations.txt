@@ -1,2 +1,0 @@
-Open-Domain Question Answering#TQA#Exact Match#56.8
-Open-Domain Question Answering#Natural Questions#Exact Match#41.6

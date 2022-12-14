@@ -1,3 +1,0 @@
-Program Repair#DeepFix#Average Success Rate#71.7
-Program Repair#GitHub-Python#Accuracy (%)#90.5
-Program Repair#GitHub-Python#Accuracy (%)#62.0

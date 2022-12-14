@@ -1,2 +1,0 @@
-Medical Image Segmentation#Synapse#Dice score#0.874
-Medical Image Segmentation#Automatic Cardiac Diagnosis Challenge (ACDC)#Avg DSC#92.06

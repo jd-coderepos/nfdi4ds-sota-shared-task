@@ -1,2 +1,0 @@
-Semantic Segmentation#DADA-seg#mIoU#39.20
-Semantic Segmentation#Cityscapes val#mIoU#81.54%

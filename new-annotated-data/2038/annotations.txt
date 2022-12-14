@@ -1,4 +1,0 @@
-Question Answering#Natural Questions#EM#52.5
-Question Answering#TriviaQA#EM#71.4
-Open-Domain Question Answering#Natural Questions (short)#Exact Match#52.5
-Open-Domain Question Answering#WebQuestions#Exact Match#48.7

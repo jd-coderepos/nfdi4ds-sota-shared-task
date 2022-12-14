@@ -1,3 +1,0 @@
-Math Word Problem Solving#MathQA#Answer Accuracy#76.6
-Math Word Problem Solving#Math23K#Accuracy (5-fold)#82.4
-Math Word Problem Solving#Math23K#Accuracy (training-test)#84.7

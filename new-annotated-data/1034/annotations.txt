@@ -1,7 +1,0 @@
-Low-Light Image Enhancement#VV#NIQE#3.671
-Low-Light Image Enhancement#DICM#NIQE#3.0869
-Low-Light Image Enhancement#LOL#Average PSNR#22.96
-Low-Light Image Enhancement#LOL#SSIM#0.838
-Low-Light Image Enhancement#LOL#NIQE#3.946
-Low-Light Image Enhancement#LOL#DeltaE#11.19
-Low-Light Image Enhancement#NPE#NIQE#3.4596

@@ -1,9 +1,0 @@
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#26.92
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.932
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#VMAF#53.96
-Video Super-Resolution#Vid4 - 4x upscaling#PSNR#25.35
-Video Super-Resolution#Vid4 - 4x upscaling#SSIM#0.7557
-Video Super-Resolution#Vid4 - 4x upscaling#MOVIE#5.82
-Video Super-Resolution#Vid4 - 4x upscaling#PSNR#23.82
-Video Super-Resolution#Vid4 - 4x upscaling#SSIM#0.6548
-Video Super-Resolution#Vid4 - 4x upscaling#MOVIE#9.31

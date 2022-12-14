@@ -1,8 +1,0 @@
-Semantic Segmentation#ADE20K#Validation mIoU#60.8
-Semantic Segmentation#ADE20K#Params (M)#223
-Panoptic Segmentation#COCO test-dev#PQ#59.5
-Panoptic Segmentation#COCO test-dev#PQst#-
-Panoptic Segmentation#COCO test-dev#PQth#-
-Panoptic Segmentation#COCO minival#PQ#59.4
-Instance Segmentation#COCO test-dev#mask AP#54.7
-Instance Segmentation#COCO minival#mask AP#54.5

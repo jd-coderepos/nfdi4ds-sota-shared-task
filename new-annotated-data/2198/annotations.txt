@@ -1,4 +1,0 @@
-Scene Recognition#SUN397#Accuracy#77.28
-Scene Recognition#Places365#Top 1 Accuracy#60.14
-Scene Recognition#Places365#Top 5 Accuracy#88.86
-Scene Recognition#MIT Indoor Scenes#Accuracy#90.3

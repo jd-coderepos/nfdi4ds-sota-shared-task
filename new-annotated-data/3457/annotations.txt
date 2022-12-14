@@ -1,1 +1,0 @@
-Visual Place Recognition#KITTI#Average F1#0.932

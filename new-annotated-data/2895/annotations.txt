@@ -1,4 +1,0 @@
-Audio Classification#Speech Commands#Accuracy#97.8
-Image Classification#CIFAR-100#Percentage correct#77.9
-Image Classification#ImageNet#Top 1 Accuracy#71.6%
-Image Classification#ImageNet#Number of params#11.51M

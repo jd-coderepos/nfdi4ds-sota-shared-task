@@ -1,1 +1,0 @@
-Classification#CWRU Bearing Dataset#10 fold Cross validation#7

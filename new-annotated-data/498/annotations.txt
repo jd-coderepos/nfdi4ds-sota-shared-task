@@ -1,2 +1,0 @@
-Domain Adaptation#MSDA#Average Accuracy#42%
-Scene Text Recognition#MSDA#Average Accuracy#42%

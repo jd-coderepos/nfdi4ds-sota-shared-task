@@ -1,4 +1,0 @@
-3D Object Detection#Dense Fog#mod. Car AP@.5IoU#47.38
-3D Object Detection#Dense Fog#mod. Cyclist AP@.25IoU#27.89
-3D Object Detection#Dense Fog#mod. Pedestrian AP@.25IoU#40.65
-3D Object Detection#Dense Fog#mod. mAP#38.64

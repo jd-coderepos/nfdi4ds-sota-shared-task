@@ -1,4 +1,0 @@
-Outlier Detection#SKAB#Average F1#0.74
-Change Point Detection#SKAB#NAB (standard)#27.77
-Change Point Detection#SKAB#NAB (lowFP)#17.14
-Change Point Detection#SKAB#NAB (LowFN)#31.59

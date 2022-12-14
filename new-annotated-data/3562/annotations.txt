@@ -1,2 +1,0 @@
-Graph Matching#PASCAL VOC#matching accuracy#0.675
-Graph Matching#Willow Object Class#matching accuracy#0.924

@@ -1,2 +1,0 @@
-Scene Graph Generation#Visual Genome#Recall@50#27.7
-Scene Graph Generation#Visual Genome#Recall@20#21.6

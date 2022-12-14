@@ -1,6 +1,0 @@
-Blind Face Restoration#CelebA-Test#LPIPS#45.84
-Blind Face Restoration#CelebA-Test#FID#82.27
-Blind Face Restoration#CelebA-Test#NIQE#6.422
-Blind Face Restoration#CelebA-Test#Deg.#55.45
-Blind Face Restoration#CelebA-Test#PSNR#24.30
-Blind Face Restoration#CelebA-Test#SSIM#0.6758

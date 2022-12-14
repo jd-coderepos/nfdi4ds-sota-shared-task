@@ -1,5 +1,0 @@
-Facial Expression Recognition#CK+#Accuracy (8 emotion)#-
-Facial Expression Recognition#CK+#Accuracy (7 emotion)#99.8
-Facial Expression Recognition#JAFFE#Accuracy#94.83
-Facial Expression Recognition#RaFD#Accuracy#87.22
-Facial Expression Recognition#SFEW#Accuracy#54.29

@@ -1,2 +1,0 @@
-Semantic Segmentation#Trans10K#mIoU#72.15%
-Semantic Segmentation#Trans10K#GFLOPs#49.03

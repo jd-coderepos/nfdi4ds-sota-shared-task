@@ -1,4 +1,0 @@
-Unsupervised Person Re-Identification#DukeMTMC-VideoReID#mAP#89.9
-Unsupervised Person Re-Identification#DukeMTMC-VideoReID#Rank-1#91.9
-Unsupervised Person Re-Identification#MARS#mAP#72.4
-Unsupervised Person Re-Identification#MARS#rank-1#80.9

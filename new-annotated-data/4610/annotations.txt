@@ -1,4 +1,0 @@
-Node Classification#MAG-scholar-C#Accuracy#64.3
-Node Classification#MAG-scholar-C#Accuracy#72.9
-Node Classification#MAG-scholar-C#Accuracy#75.0
-Node Classification#MAG-scholar-C#Accuracy#80.0

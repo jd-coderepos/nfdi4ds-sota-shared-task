@@ -1,2 +1,0 @@
-Video Prediction#BAIR Robot Pushing#FVD#120.03
-Video Generation#KTH#Diversity#0.483

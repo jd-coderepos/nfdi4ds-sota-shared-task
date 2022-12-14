@@ -1,5 +1,0 @@
-Multivariate Time Series Forecasting#ExtMarker#MAE#0.845
-Multivariate Time Series Forecasting#ExtMarker#RMSE#1.275
-Multivariate Time Series Forecasting#ExtMarker#normalized RMSE#0.2824
-Multivariate Time Series Forecasting#ExtMarker#Maximum error#8.81
-Multivariate Time Series Forecasting#ExtMarker#Jitter#0.9672

@@ -1,8 +1,0 @@
-Point Cloud Generation#ShapeNet Chair#CD#52.07
-Point Cloud Generation#ShapeNet Chair#EMD#48.67
-Point Cloud Generation#ShapeNet#CD#51.85
-Point Cloud Generation#ShapeNet#EMD#48.95
-Point Cloud Generation#ShapeNet Airplane#CD#53.47
-Point Cloud Generation#ShapeNet Airplane#EMD#53.84
-Point Cloud Generation#ShapeNet Car#CD#54.81
-Point Cloud Generation#ShapeNet Car#EMD#50.53

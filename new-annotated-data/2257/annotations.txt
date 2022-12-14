@@ -1,2 +1,0 @@
-Code Generation#Shellcode_IA32#BLEU-4#62.97
-Code Generation#Shellcode_IA32#Exact Match Accuracy#51.55

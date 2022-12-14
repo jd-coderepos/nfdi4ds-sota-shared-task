@@ -1,6 +1,0 @@
-Video Quality Assessment#LIVE-VQC#PLCC#0.7426
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#SRCC#0.9139
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#PLCC#0.9242
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#KLCC#0.7826
-Video Quality Assessment#MSU Video Quality Metrics Benchmark#Type#NR
-Video Quality Assessment#KoNViD-1k#PLCC#0.7754

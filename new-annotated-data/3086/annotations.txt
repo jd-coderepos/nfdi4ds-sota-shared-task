@@ -1,8 +1,0 @@
-Named Entity Recognition#ACE 2004#F1#86.41
-Named Entity Recognition#ACE 2004#Multi-Task Supervision#n
-Named Entity Recognition#ACE 2005#F1#85.46
-Nested Named Entity Recognition#ACE 2004#F1#86.41
-Nested Named Entity Recognition#ACE 2005#F1#85.46
-Nested Named Entity Recognition#NNE#Micro F1#94.24
-Nested Mention Recognition#ACE 2005#F1#85.46
-Nested Mention Recognition#ACE 2004#F1#86.41

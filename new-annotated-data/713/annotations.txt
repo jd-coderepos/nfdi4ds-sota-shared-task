@@ -1,1 +1,0 @@
-Multimodal GIF Dialog#GIF Reply Dataset#nDCG@10#0.8145

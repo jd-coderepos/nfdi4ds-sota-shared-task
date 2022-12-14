@@ -1,8 +1,0 @@
-Code Generation#HumanEval#Pass@1#65.8
-Code Generation#HumanEval#Pass@10#86.6
-Code Generation#HumanEval#Pass@1#65.2
-Code Generation#HumanEval#Pass@10#86.8
-Code Generation#HumanEval#Pass@1#45.2
-Code Generation#HumanEval#Pass@10#66.0
-Code Generation#HumanEval#Pass@1#44.5
-Code Generation#HumanEval#Pass@10#65.7

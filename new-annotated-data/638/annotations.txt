@@ -1,1 +1,0 @@
-Speech Recognition#TUDA#Test WER#12.0%

@@ -1,1 +1,0 @@
-Medical Image Segmentation#BKAI-IGH NeoPolyp-Small#Average Dice#0.80723

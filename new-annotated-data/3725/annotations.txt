@@ -1,8 +1,0 @@
-Object Detection#COCO minival#box AP#49.1
-Object Detection#COCO minival#AP50#67.5
-Object Detection#COCO minival#AP75#53.1
-Object Detection#COCO minival#APS#30
-Object Detection#COCO minival#APM#52.6
-Object Detection#COCO minival#APL#65
-Object Detection#COCO#GFlops#434
-Object Detection#COCO#Params (M)#119

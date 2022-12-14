@@ -1,2 +1,0 @@
-Formation Energy#JARVIS-DFT#MAE#0.0325
-Formation Energy#Materials Project#MAE#21.2

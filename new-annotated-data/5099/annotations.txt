@@ -1,2 +1,0 @@
-Handwritten Text Recognition#IAM#CER#4.45
-Handwritten Text Recognition#IAM#WER#14.55

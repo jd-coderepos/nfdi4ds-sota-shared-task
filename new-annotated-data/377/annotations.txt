@@ -1,6 +1,0 @@
-Lane Detection#LLAMAS#F1#0.9517
-Lane Detection#LLAMAS#F1#0.9491
-Lane Detection#TuSimple#Accuracy#95.65%
-Lane Detection#TuSimple#Accuracy#95.41%
-Lane Detection#CULane#F1 score#75.57
-Lane Detection#CULane#F1 score#73.67

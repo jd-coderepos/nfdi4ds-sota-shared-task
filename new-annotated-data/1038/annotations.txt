@@ -1,2 +1,0 @@
-Low-Light Image Enhancement#LOL#Average PSNR#21.52
-Low-Light Image Enhancement#LOL#SSIM#0.763

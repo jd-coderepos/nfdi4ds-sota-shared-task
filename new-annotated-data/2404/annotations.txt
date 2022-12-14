@@ -1,5 +1,0 @@
-Speaker Diarization#CALLHOME#DER(%)#7.29
-Speaker Diarization#CALLHOME#DER(%)#8.39
-Speaker Diarization#CALLHOME#DER(%)#8.78
-Speaker Diarization#CALLHOME#DER(%)#21.13
-Speaker Diarization#CALLHOME#DER(%)#24.05

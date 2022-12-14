@@ -1,7 +1,0 @@
-Monocular Depth Estimation#NYU-Depth V2#RMSE#0.5183
-Saliency Detection#PASCAL Context#max_F1#84.81
-Boundary Detection#PASCAL Context#odsF#73
-Boundary Detection#NYU-Depth V2#odsF#78.1
-Semantic Segmentation#NYU Depth v2#Mean IoU#53.56%
-Surface Normals Estimation#PASCAL Context#Mean Angle Error#14.15
-Human Parsing#PASCAL Context#mIoU#67.61

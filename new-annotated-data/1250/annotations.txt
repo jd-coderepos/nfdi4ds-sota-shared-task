@@ -1,7 +1,0 @@
-Image Inpainting#Places2#FID#28.92
-Image Inpainting#Places2#P-IDS#1.24
-Image Inpainting#Places2#U-IDS#11.24
-Image Inpainting#Places2 val#FID#15.7
-Image Inpainting#Places2 val#PD#92.8
-Image Inpainting#Places2 val#FID#16.9
-Image Inpainting#Places2 val#PD#115.4

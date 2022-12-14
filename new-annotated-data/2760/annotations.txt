@@ -1,5 +1,0 @@
-Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Clustering [mIoU]#47.2
-Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#FCN [mIoU]#76.3
-Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Linear Classifier [mIoU]#69.3
-Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#Clustering [mIoU]#41.7
-Unsupervised Semantic Segmentation#PASCAL VOC 2012 val#FCN [mIoU]#71.4

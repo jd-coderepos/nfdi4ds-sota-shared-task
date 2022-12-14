@@ -1,4 +1,0 @@
-Link Property Prediction#ogbl-ppa#Test Hits@100#0.4933 ± 0.0000
-Link Property Prediction#ogbl-ppa#Validation Hits@100#0.4722 ± 0.0000
-Link Property Prediction#ogbl-ppa#Number of params#0
-Link Property Prediction#ogbl-ppa#Ext. data#No

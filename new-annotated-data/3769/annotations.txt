@@ -1,8 +1,0 @@
-3D Object Detection#KITTI Pedestrian Hard#Average Precision#0.4271
-3D Object Detection#KITTI Pedestrian Easy#Average Precision#0.5639
-3D Object Detection#KITTI Pedestrian#mAP#0.486
-3D Object Detection#KITTI Pedestrian Moderate#Average Precision#0.4671
-Birds Eye View Object Detection#KITTI Pedestrian Easy#Average Precision#0.6325
-Birds Eye View Object Detection#KITTI Pedestrian Hard#Average Precision#0.5053
-Birds Eye View Object Detection#KITTI Pedestrian Moderate#Average Precision#0.5392
-Birds Eye View Object Detection#KITTI Pedestrian#mAP#0.559

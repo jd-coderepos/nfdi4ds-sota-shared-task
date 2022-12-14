@@ -1,1 +1,0 @@
-Object Detection#MSCOCO#mAP @0.5:0.95#40.9

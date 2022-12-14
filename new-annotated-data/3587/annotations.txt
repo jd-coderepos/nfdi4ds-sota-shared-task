@@ -1,6 +1,0 @@
-Text Summarization#X-Sum#ROUGE-1#47.61
-Text Summarization#X-Sum#ROUGE-2#24.57
-Text Summarization#X-Sum#ROUGE-L#39.44
-Abstractive Text Summarization#CNN / Daily Mail#ROUGE-1#46.67
-Abstractive Text Summarization#CNN / Daily Mail#ROUGE-2#22.15
-Abstractive Text Summarization#CNN / Daily Mail#ROUGE-L#43.54

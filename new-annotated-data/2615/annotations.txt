@@ -1,6 +1,0 @@
-Semantic Segmentation#S3DIS#Mean IoU#63.3
-Semantic Segmentation#S3DIS#mAcc#70.9
-3D Part Segmentation#ShapeNet-Part#Class Average IoU#83.9
-3D Part Segmentation#ShapeNet-Part#Instance Average IoU#85.8
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.5
-3D Point Cloud Classification#ModelNet40#Number of params#1.16M

@@ -1,2 +1,0 @@
-Spoken Language Understanding#Snips-SmartLights#Accuracy (%)#84.9
-Spoken Language Understanding#Fluent Speech Commands#Accuracy (%)#99.5

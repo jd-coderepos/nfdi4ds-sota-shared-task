@@ -1,6 +1,0 @@
-Multi-label zero-shot learning#NUS-WIDE#mAP#39.01
-Multi-label zero-shot learning#NUS-WIDE#mAP#36.56
-Multi-label zero-shot learning#ImageNet-1k to MSCOCO#mAP#67.10
-Multi-Label Classification#MS-COCO#mAP#93.54
-Multi-Label Classification#MS-COCO#mAP#93.41
-Multi-Label Classification#MS-COCO#mAP#91.76

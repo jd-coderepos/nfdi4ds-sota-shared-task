@@ -1,2 +1,0 @@
-Speech Synthesis#LJSpeech#Mean Opinion Score#3.24
-Speech Synthesis#LJSpeech#Mean Opinion Score#2.68

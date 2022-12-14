@@ -1,4 +1,0 @@
-Emotion Recognition in Conversation#IEMOCAP#Weighted-F1#68.57
-Emotion Recognition in Conversation#CPED#Accuracy of Sentiment#48.09
-Emotion Recognition in Conversation#CPED#Macro-F1 of Sentiment#44.60
-Emotion Recognition in Conversation#MELD#Weighted-F1#65.61

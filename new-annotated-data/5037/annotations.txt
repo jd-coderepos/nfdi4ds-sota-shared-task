@@ -1,3 +1,0 @@
-Zero-Shot Action Recognition#HMDB51#Top-1 Accuracy#41.1
-Zero-Shot Action Recognition#UCF101#Top-1 Accuracy#58.7
-Zero-Shot Action Recognition#ActivityNet#Top-1 Accuracy#32.5

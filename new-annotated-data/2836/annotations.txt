@@ -1,4 +1,0 @@
-Hand Pose Estimation#NYU Hands#Average 3D Error#6.4
-Hand Pose Estimation#ICVL Hands#Average 3D Error#4.79
-Hand Pose Estimation#ICVL#Error (mm)#4.76
-Hand Pose Estimation#HANDS 2019#Average 3D Error#12.51

@@ -1,1 +1,0 @@
-Image Denoising#BSD68 sigma30#PSNR#27.67

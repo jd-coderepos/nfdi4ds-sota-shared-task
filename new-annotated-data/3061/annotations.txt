@@ -1,2 +1,0 @@
-Fine-Grained Opinion Analysis#MPQA#Holder Binary F1#83.80
-Fine-Grained Opinion Analysis#MPQA#Target Binary F1#72.06

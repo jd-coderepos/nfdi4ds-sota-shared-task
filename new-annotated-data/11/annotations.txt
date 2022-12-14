@@ -1,2 +1,0 @@
-Deblurring#RSBlur (trained on synthetic)#Average PSNR#32.08
-Deblurring#RSBlur (trained on synthetic)#Average PSNR#32.06

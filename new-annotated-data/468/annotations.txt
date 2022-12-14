@@ -1,3 +1,0 @@
-Image-to-Image Translation#Deep-Fashion#FID#9.97
-Image-to-Image Translation#Cityscapes Labels-to-Photo#LPIPS#0.248
-Image-to-Image Translation#ADE20K Labels-to-Photos#LPIPS#0.400

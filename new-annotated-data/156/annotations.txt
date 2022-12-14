@@ -1,9 +1,0 @@
-Link Prediction#FB15k-237-ind#Hits@3#0.32
-Link Prediction#FB15k-237-ind#Hits@1#0.223
-Link Prediction#FB15k-237-ind#Hits@10#0.431
-Link Prediction#FB15k-237-ind#MRR#0.294
-Link Prediction#FB15k-237#MRR#0.370
-Link Prediction#FB15k-237#Hits@10#0.550
-Link Prediction#FB15k-237#Hits@3#0.404
-Link Prediction#FB15k-237#Hits@1#0.280
-Link Prediction#FB15k-237#MR#185

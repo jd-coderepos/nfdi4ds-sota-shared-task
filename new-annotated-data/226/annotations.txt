@@ -1,2 +1,0 @@
-3D Human Reconstruction#Surreal#MPVPE#43.5
-3D Human Pose Estimation#Human3.6M#PA-MPJPE#39.3

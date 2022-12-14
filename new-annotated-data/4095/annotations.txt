@@ -1,2 +1,0 @@
-Image Classification#SIPaKMeD#Accuracy#97.87
-Image Classification#HErlev#Accuracy#98.32

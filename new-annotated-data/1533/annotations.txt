@@ -1,9 +1,0 @@
-3D Semantic Segmentation#PartNet#mIOU#45.1
-Semantic Segmentation#S3DIS Area5#mIoU#52.49
-Semantic Segmentation#S3DIS#Mean IoU#60.0
-Semantic Segmentation#S3DIS#oAcc#85.9
-Node Classification#PPI#F1#99.43
-Node Classification#PPI#F1#99.41
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.6
-3D Point Cloud Classification#ModelNet40#Mean Accuracy#90.9
-3D Point Cloud Classification#ModelNet40#Number of params#2.2M

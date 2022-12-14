@@ -1,2 +1,0 @@
-Document Classification#Reuters De-En#Accuracy#75
-Document Classification#Reuters En-De#Accuracy#86.5

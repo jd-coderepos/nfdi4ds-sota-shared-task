@@ -1,6 +1,0 @@
-Phone-level pronunciation scoring#speechocean762#Pearson correlation coefficient (PCC)#0.68
-Phone-level pronunciation scoring#speechocean762#Pearson correlation coefficient (PCC)#0.61
-Word-level pronunciation scoring#speechocean762#Pearson correlation coefficient (PCC)#0.60
-Word-level pronunciation scoring#speechocean762#Pearson correlation coefficient (PCC)#0.55
-Utterance-level pronounciation scoring#speechocean762#Pearson correlation coefficient (PCC)#0.74
-Utterance-level pronounciation scoring#speechocean762#Pearson correlation coefficient (PCC)#0.73

@@ -1,3 +1,0 @@
-Semantic Textual Similarity#CxC#avg ± std#74.5 ± 0.4
-Semantic Textual Similarity#CxC#avg ± std#74.1 ± 0.4
-Semantic Textual Similarity#CxC#avg ± std#72.9 ± 0.4

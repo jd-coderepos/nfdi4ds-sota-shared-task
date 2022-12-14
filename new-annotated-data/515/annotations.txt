@@ -1,2 +1,0 @@
-Domain Adaptation#GTA5+Synscapes to Cityscapes#mIoU#55.7
-Domain Adaptation#GTAV+Synscapes to Cityscapes#mIoU#55.7

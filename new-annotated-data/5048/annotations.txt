@@ -1,3 +1,0 @@
-Spatio-Temporal Video Grounding#HC-STVG2#Val m_vIoU#38.7
-Spatio-Temporal Video Grounding#HC-STVG2#Val vIoU@0.3#65.5
-Spatio-Temporal Video Grounding#HC-STVG2#Val vIoU@0.5#33.8

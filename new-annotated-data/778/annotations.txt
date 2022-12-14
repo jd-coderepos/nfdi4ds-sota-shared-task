@@ -1,2 +1,0 @@
-Relation Extraction#Adverse Drug Events (ADE) Corpus#RE+ Macro F1#79.97
-Relation Extraction#Adverse Drug Events (ADE) Corpus#NER Macro F1#88.3

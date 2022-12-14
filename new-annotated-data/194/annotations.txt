@@ -1,6 +1,0 @@
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#29.27
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.177
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.836
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#PSNR#30.19
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#LPIPS#0.301
-Video Super-Resolution#MSU Video Upscalers: Quality Enhancement#SSIM#0.859

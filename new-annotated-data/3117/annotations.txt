@@ -1,8 +1,0 @@
-Few-shot NER#Few-NERD (INTER)#5 way 1~2 shot#64.75±0.35
-Few-shot NER#Few-NERD (INTER)#5 way 5~10 shot#71.49±0.47
-Few-shot NER#Few-NERD (INTER)#10 way 1~2 shot#58.65±0.43
-Few-shot NER#Few-NERD (INTER)#10 way 5~10 shot#68.11±0.05
-Few-shot NER#Few-NERD (INTRA)#5 way 1~2 shot#49.48±0.85
-Few-shot NER#Few-NERD (INTRA)#5 way 5~10 shot#62.92±0.57
-Few-shot NER#Few-NERD (INTRA)#10 way 1~2 shot#42.84±0.46
-Few-shot NER#Few-NERD (INTRA)#10 way 5~10 shot#57.31±0.25

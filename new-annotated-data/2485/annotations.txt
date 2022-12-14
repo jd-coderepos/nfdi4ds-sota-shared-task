@@ -1,2 +1,0 @@
-Semantic Segmentation#DADA-seg#mIoU#25.16
-Semantic Segmentation#Cityscapes test#Mean IoU (class)#84.4%

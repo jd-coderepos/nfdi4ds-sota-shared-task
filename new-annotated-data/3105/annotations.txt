@@ -1,2 +1,0 @@
-Named Entity Recognition#WNUT 2017#F1#58.9
-Named Entity Recognition#WNUT 2017#F1#42.3

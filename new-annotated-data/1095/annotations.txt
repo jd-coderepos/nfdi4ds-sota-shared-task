@@ -1,1 +1,0 @@
-Machine Translation#newstest2014-deen eng-deu#SacreBLEU#33.54

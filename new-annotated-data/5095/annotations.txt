@@ -1,4 +1,0 @@
-MuJoCo Games#Sawyer Pusher#Average Return#-27.16
-MuJoCo Games#Point Maze#Average Return#-7.37
-MuJoCo Games#Ant#Average Return#846.18
-MuJoCo Games#Sweeper#Average Return#-74.17

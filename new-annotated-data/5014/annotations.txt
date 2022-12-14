@@ -1,1 +1,0 @@
-Line Detection#NKL#F_measure (EA)#0.719

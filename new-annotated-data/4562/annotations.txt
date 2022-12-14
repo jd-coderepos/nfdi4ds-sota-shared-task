@@ -1,9 +1,0 @@
-Information Retrieval#BSARD#Recall@100#74.78
-Information Retrieval#BSARD#Recall@200#78.04
-Information Retrieval#BSARD#Recall@500#83.39
-Information Retrieval#BSARD#Recall@100#71.63
-Information Retrieval#BSARD#Recall@200#78.38
-Information Retrieval#BSARD#Recall@500#83.77
-Information Retrieval#BSARD#Recall@100#51.33
-Information Retrieval#BSARD#Recall@200#56.78
-Information Retrieval#BSARD#Recall@500#64.71

@@ -1,4 +1,0 @@
-Multi-Label Image Classification#BigEarthNet#mean average precision#89.3
-Multi-Label Image Classification#BigEarthNet#mean average precision#84.4
-Image Classification#EuroSAT#Accuracy (%)#98.9
-Image Classification#EuroSAT#Accuracy (%)#94.4

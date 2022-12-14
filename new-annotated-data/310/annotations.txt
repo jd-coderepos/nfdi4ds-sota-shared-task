@@ -1,2 +1,0 @@
-Face Alignment#COFW#Mean Error Rate#5.55%
-Face Alignment#IBUG#Mean Error Rate#6.73%

@@ -1,5 +1,0 @@
-Part-Of-Speech Tagging#XGLUE#Avg. F1#0.56
-Natural Language Inference#XWINO#Accuracy#0.562
-Cross-Lingual Natural Language Inference#XNLI#Accuracy#40.6
-Few-shot NER#XGLUE#Avg F1#0.85
-Cross-Lingual Transfer#XCOPA#Accuracy#55.5

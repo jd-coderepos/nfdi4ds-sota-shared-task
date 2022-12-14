@@ -1,2 +1,0 @@
-Column Type Annotation#T2Dv2#Accuracy (%)#96.6
-Column Type Annotation#WikipediaGS-CTA#Accuracy (%)#65.5

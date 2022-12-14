@@ -1,4 +1,0 @@
-Code Generation#CoNaLa-Ext#BLEU#35.32
-Code Generation#CoNaLa-Ext#BLEU#34.35
-Code Generation#CoNaLa#BLEU#30.55
-Code Generation#CoNaLa#BLEU#26.24

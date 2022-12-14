@@ -1,2 +1,0 @@
-Named Entity Recognition#i2b2 De-identification Dataset#F1#0.97
-Named Entity Recognition#i2b2 De-identification Dataset#Precision#96

@@ -1,1 +1,0 @@
-UNET Segmentation#Munich Sentinel2 Crop Segmentation#Overall Accuracy#89.60

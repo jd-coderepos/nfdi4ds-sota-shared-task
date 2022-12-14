@@ -1,4 +1,0 @@
-Image Classification#DTD#Accuracy#79.79
-Image Classification#Caltech-256#Accuracy#85.94
-Fine-Grained Image Classification#Stanford Cars#Accuracy#95.35%
-Fine-Grained Image Classification#FGVC Aircraft#Accuracy#95.11

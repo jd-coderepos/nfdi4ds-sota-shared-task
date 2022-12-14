@@ -1,1 +1,0 @@
-Semantic Segmentation#DIVA-HisDB#Mean IoU (class)#97.26

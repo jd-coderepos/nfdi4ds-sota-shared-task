@@ -1,2 +1,0 @@
-Semantic Segmentation#Mila Simulated Floods#mIoU#0.93
-Semantic Segmentation#Graz-02#Pixel Accuracy#0.96

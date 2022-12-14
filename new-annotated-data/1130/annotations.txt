@@ -1,4 +1,0 @@
-Medical Image Segmentation#Synapse multi-organ CT#Avg DSC#78.99
-Medical Image Segmentation#Synapse multi-organ CT#Avg HD#30.29
-Medical Image Segmentation#GlaS#IoU#82.96
-Medical Image Segmentation#GlaS#Dice#90.18

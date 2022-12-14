@@ -1,4 +1,0 @@
-Ad-hoc video search#TRECVID-AVS19 (V3C1)#infAP#0.167
-Ad-hoc video search#TRECVID-AVS17 (IACC.3)#infAP#0.234
-Ad-hoc video search#TRECVID-AVS18 (IACC.3)#infAP#0.128
-Ad-hoc video search#TRECVID-AVS16 (IACC.3)#infAP#0.164

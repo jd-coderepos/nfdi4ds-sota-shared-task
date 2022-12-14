@@ -1,7 +1,0 @@
-Image-to-Image Translation#BRATS#PSNR#26.90
-Image-to-Image Translation#IXI#PSNR#35.71 ± 1.77
-Image-to-Image Translation#IXI#PSNR#33.95 ± 1.67
-Image-to-Image Translation#IXI#PSNR#33.71 ± 1.61
-Image-to-Image Translation#IXI#PSNR#33.62 ± 2.07
-Image-to-Image Translation#IXI#PSNR#32.49 ± 1.74
-Image-to-Image Translation#IXI#PSNR#32.43 ± 1.74

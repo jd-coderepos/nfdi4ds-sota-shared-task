@@ -1,3 +1,0 @@
-3D Face Reconstruction#NoW Benchmark#Mean Reconstruction Error (mm)#1.11
-3D Face Reconstruction#NoW Benchmark#Stdev Reconstruction Error (mm)#0.92
-3D Face Reconstruction#NoW Benchmark#Median Reconstruction Error#0.90

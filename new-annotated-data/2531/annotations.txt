@@ -1,1 +1,0 @@
-Semantic Segmentation#EventScape#mIoU#44.75

@@ -1,3 +1,0 @@
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#94.2
-3D Point Cloud Classification#ModelNet40#Mean Accuracy#91.6
-3D Point Cloud Linear Classification#ModelNet40#Overall Accuracy#92.1

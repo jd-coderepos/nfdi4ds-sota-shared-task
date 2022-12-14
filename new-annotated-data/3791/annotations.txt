@@ -1,4 +1,0 @@
-3D Object Detection#ScanNetV2#mAP@0.25#40.2
-3D Object Detection#ScanNetV2#mAP@0.5#22.5
-3D Instance Segmentation#ScanNet(v2)#mAP @ 50#38.2
-3D Semantic Instance Segmentation#ScanNetV2#mAP@0.50#38.2

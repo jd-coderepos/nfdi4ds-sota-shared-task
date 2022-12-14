@@ -1,3 +1,0 @@
-Face Recognition#CFP-FP#Accuracy#0.9287
-Face Recognition#AgeDB-30#Accuracy#0.9823
-Face Recognition#LFW#Accuracy#0.998

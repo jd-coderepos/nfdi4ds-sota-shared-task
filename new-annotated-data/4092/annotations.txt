@@ -1,3 +1,0 @@
-Image Classification#mini WebVision 1.0#Top-1 Accuracy#77.52
-Image Classification#Chaoyang#Accuracy#83.4
-Learning with noisy labels#Chaoyang#ACCURACY#83.4

@@ -1,2 +1,0 @@
-Semantic Segmentation#ADE20K#Validation mIoU#48.8
-Image Classification#10,000 People - Human Pose Recognition Data#0..5sec#1

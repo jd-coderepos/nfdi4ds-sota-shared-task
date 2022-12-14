@@ -1,4 +1,0 @@
-Meter Reading#Copel-AMR#Rank-1 Recognition Rate#96.98
-Meter Reading#Copel-AMR#Rank-1 Recognition Rate#95.43
-Meter Reading#UFPR-AMR#Rank-1 Recognition Rate#94.75
-Meter Reading#UFPR-AMR#Rank-1 Recognition Rate#94.37

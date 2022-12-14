@@ -1,7 +1,0 @@
-Machine Translation#IWSLT2015 German-English#BLEU score#36.20
-Machine Translation#IWSLT2015 English-German#BLEU score#30.00
-Multimodal Machine Translation#Multi30K#BLUE (DE-EN)#32.3
-Object Detection#PASCAL VOC 2007#MAP#79.7%
-Image Classification#CIFAR-100#Percentage correct#86.41
-Image Classification#ImageNet#Top 1 Accuracy#79.24%
-Image Classification#ImageNet#Top 5 Accuracy#94.66%

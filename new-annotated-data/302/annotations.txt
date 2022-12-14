@@ -1,4 +1,0 @@
-Face Alignment#300W#NME_inter-ocular (%, Full)#3.82
-Face Alignment#300W#NME_inter-ocular (%, Common)#3.36
-Face Alignment#300W#NME_inter-ocular (%, Challenge)#5.74
-Face Alignment#AFLW-19#NME_box (%, Full)#1.84

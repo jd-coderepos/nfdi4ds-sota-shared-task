@@ -1,5 +1,0 @@
-Open-Domain Question Answering#TQA#Exact Match#65.5
-Open-Domain Question Answering#Natural Questions#Exact Match#54.9
-Open-Domain Question Answering#WebQuestions#Exact Match#57.7
-Knowledge Base Question Answering#WebQuestionsSP#Hits@1#79.1
-Knowledge Base Question Answering#WebQuestionsSP#Hits@1#76.7

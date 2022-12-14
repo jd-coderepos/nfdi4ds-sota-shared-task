@@ -1,5 +1,0 @@
-Music Source Separation#MUSDB18#SDR (vocals)#8.13
-Music Source Separation#MUSDB18#SDR (drums)#8.24
-Music Source Separation#MUSDB18#SDR (other)#5.59
-Music Source Separation#MUSDB18#SDR (bass)#8.76
-Music Source Separation#MUSDB18#SDR (avg)#7.68

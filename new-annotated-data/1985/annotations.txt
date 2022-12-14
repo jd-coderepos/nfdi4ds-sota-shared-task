@@ -1,2 +1,0 @@
-Question Answering#WebQuestions#EM#36.4
-Question Answering#TriviaQA#EM#45

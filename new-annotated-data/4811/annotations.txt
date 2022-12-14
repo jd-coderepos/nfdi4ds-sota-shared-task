@@ -1,2 +1,0 @@
-Video Enhancement#MFQE v2#Incremental PSNR#0.46
-Video Enhancement#MFQE v2#Parameters(M)#1.79

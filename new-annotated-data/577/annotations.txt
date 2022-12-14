@@ -1,4 +1,0 @@
-Domain Generalization#PACS#Average Accuracy#88.6
-Long-tail Learning#ImageNet-LT#Top-1 Accuracy#57.4
-Long-tail Learning#ImageNet-LT#Top-1 Accuracy#55.7
-Long-tail Learning#iNaturalist 2018#Top-1 Accuracy#74.1%

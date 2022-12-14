@@ -1,8 +1,0 @@
-Relation Extraction#GAD#F1#84.3
-Relation Extraction#ChemProt#F1#77.5
-Relation Extraction#DDI#F1#81.9
-Named Entity Recognition#BC2GM#F1#85.1
-Named Entity Recognition#BC5CDR-chemical#F1#93.3
-Named Entity Recognition#BC5CDR-disease#F1#86.1
-Named Entity Recognition#NCBI-disease#F1#89.1
-Named Entity Recognition#JNLPBA#F1#82.0

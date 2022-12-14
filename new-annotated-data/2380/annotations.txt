@@ -1,8 +1,0 @@
-Long-range modeling#SCROLLS#GovRep#53.6 / 26.1 / 28.8
-Long-range modeling#SCROLLS#SumScr#32.9 / 7.8 / 19.4
-Long-range modeling#SCROLLS#QMSum#31.1 / 8.5 / 20.4
-Long-range modeling#SCROLLS#Qspr#37.6
-Long-range modeling#SCROLLS#Nrtv#24.2
-Long-range modeling#SCROLLS#QALT EM-T/H#45.8 / 40.7
-Long-range modeling#SCROLLS#CNLI#88.7
-Long-range modeling#SCROLLS#Avg.#37.87

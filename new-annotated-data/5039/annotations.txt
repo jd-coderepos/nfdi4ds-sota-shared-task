@@ -1,7 +1,0 @@
-Zero-Shot Action Recognition#HMDB51#Top-1 Accuracy#35.3
-Zero-Shot Action Recognition#UCF101#Top-1 Accuracy#51.8
-Zero-Shot Action Recognition#Olympics#Top-1 Accuracy#60.2
-Zero-Shot Action Recognition#Kinetics#Top-1 Accuracy#42.1
-Zero-Shot Action Recognition#Kinetics#Top-5 Accuracy#73.1
-Zero-Shot Action Recognition#Kinetics#Top-1 Accuracy#37.1
-Zero-Shot Action Recognition#Kinetics#Top-5 Accuracy#69.3

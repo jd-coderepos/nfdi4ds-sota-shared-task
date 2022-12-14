@@ -1,2 +1,0 @@
-Text-To-Sql#SParC#interaction match accuracy#43.2
-Text-To-Sql#SParC#question match accuracy#65.7

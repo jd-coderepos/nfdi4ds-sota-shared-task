@@ -1,2 +1,0 @@
-Code Search#CodeSearchNet - Ruby#MRR#0.3639
-Code Search#CodeSearchNet - Python#MRR#0.8707

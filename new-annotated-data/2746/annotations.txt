@@ -1,3 +1,0 @@
-3D Part Segmentation#ShapeNet-Part#Instance Average IoU#86.8
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#94.2
-Point Cloud Classification#PointCloud-C#mean Corruption Error (mCE)#0.927

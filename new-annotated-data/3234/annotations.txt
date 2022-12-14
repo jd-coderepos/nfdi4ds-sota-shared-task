@@ -1,1 +1,0 @@
-Point Cloud Registration#ETH (trained on 3DMatch)#Recall#0.202

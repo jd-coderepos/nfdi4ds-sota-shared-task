@@ -1,3 +1,0 @@
-Image-level Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.5#30.2
-Image-level Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.25#49.2
-Image-level Supervised Instance Segmentation#PASCAL VOC 2012 val#mAP@0.75#12.9

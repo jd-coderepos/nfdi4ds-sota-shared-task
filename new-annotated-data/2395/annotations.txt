@@ -1,5 +1,0 @@
-Speaker Identification#VoxCeleb1#Top-1 (%)#94.8
-Speaker Identification#VoxCeleb1#Accuracy#94.8
-Speaker Identification#VoxCeleb1#Top-1 (%)#94.1
-Speaker Identification#VoxCeleb1#Accuracy#94.1
-Audio Classification#AudioSet#Test mAP#0.468

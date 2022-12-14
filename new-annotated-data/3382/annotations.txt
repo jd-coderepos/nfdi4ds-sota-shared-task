@@ -1,4 +1,0 @@
-Gesture Recognition#Montalbano#Error rate#2.77
-Gesture Recognition#Montalbano#Jaccard (Mean)#90.6
-Gesture Recognition#Montalbano#Precision#94.49
-Gesture Recognition#Montalbano#Recall#94.57

@@ -1,1 +1,0 @@
-Object Detection#PeopleArt#mAP@0.5#59.0

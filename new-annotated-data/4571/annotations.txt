@@ -1,1 +1,0 @@
-CCG Supertagging#CCGbank#Accuracy#96.29

@@ -1,4 +1,0 @@
-Graph Classification#PROTEINS#Accuracy#77.8%
-Graph Classification#NCI1#Accuracy#74.9%
-Graph Classification#Pubmed#Test Accuracy#78.5
-Graph Classification#ENZYMES#Accuracy#48.5

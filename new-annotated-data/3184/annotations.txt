@@ -1,2 +1,0 @@
-Fake News Detection#Weibo NER#Accuracy#86.83%
-Fake News Detection#MediaEval2016#Accuracy#85.80%

@@ -1,1 +1,0 @@
-Skin Lesion Classification#ISIC 2019#Accuracy#0.634

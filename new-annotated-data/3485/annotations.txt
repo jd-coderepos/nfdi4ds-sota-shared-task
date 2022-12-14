@@ -1,2 +1,0 @@
-Optical Flow Estimation#KITTI 2015 (train)#F1-all#15.4
-Optical Flow Estimation#KITTI 2015 (train)#EPE#4.24

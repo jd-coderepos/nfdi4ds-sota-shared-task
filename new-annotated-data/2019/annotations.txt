@@ -1,5 +1,0 @@
-Question Answering#HotpotQA#Joint F1#34.1
-Question Answering#TriviaQA#F1#45.5
-Question Answering#TriviaQA#F1#37.2
-Semantic Parsing#HotpotQA#F1-Score#22.4
-Semantic Parsing#GraphQuestions#F1 Score#41.3

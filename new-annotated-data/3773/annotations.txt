@@ -1,6 +1,0 @@
-3D Object Detection#OPV2V#AP@0.7@Default#0.790
-3D Object Detection#OPV2V#AP@0.7@CulverCity#0.728
-3D Object Detection#V2XSet#AP0.5 (Perfect)#0.840
-3D Object Detection#V2XSet#AP0.7 (Perfect)#0.680
-3D Object Detection#V2XSet#AP0.5 (Noisy)#0.715
-3D Object Detection#V2XSet#AP0.7 (Noisy)#0.469

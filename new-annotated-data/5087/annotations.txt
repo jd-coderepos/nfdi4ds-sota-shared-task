@@ -1,8 +1,0 @@
-Situation Recognition#imSitu#Top-1 Verb#35.9
-Situation Recognition#imSitu#Top-1 Verb & Value#27.45
-Situation Recognition#imSitu#Top-5 Verbs#63.08
-Situation Recognition#imSitu#Top-5 Verbs & Value#46.88
-Grounded Situation Recognition#SWiG#Top-1 Verb#35.9
-Grounded Situation Recognition#SWiG#Top-1 Verb & Value#27.45
-Grounded Situation Recognition#SWiG#Top-5 Verbs#63.08
-Grounded Situation Recognition#SWiG#Top-5 Verbs & Value#46.88

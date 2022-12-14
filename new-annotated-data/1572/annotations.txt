@@ -1,3 +1,0 @@
-Action Classification#Toyota Smarthome dataset#CS#41.9
-Action Classification#Toyota Smarthome dataset#CV1#20.9
-Action Classification#Toyota Smarthome dataset#CV2#23.7

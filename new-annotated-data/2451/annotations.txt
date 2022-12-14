@@ -1,1 +1,0 @@
-Stance Detection#RuStance#F1#0.865

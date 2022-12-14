@@ -1,4 +1,0 @@
-Relation Extraction#2010 i2b2/VA#Macro F1#69.1
-Relation Extraction#2012 i2b2 Temporal Relations#Macro F1#73.6
-Relation Extraction#2018 n2c2 posology#Macro F1#96.7
-Relation Extraction#PGR#Macro F1#87.9

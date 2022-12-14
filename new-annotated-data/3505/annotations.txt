@@ -1,6 +1,0 @@
-Object Counting#CARPK#MAE#5.76
-Object Counting#CARPK#RMSE#7.83
-Object Counting#FSC147#MAE(val)#15.74
-Object Counting#FSC147#RMSE(val)#58.53
-Object Counting#FSC147#MAE(test)#14.62
-Object Counting#FSC147#RMSE(test)#91.83

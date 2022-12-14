@@ -1,7 +1,0 @@
-Semantic Segmentation#EventScape#mIoU#51.86
-Semantic Segmentation#Trans10K#mIoU#75.14%
-Semantic Segmentation#Trans10K#GFLOPs#34.38
-Semantic Segmentation#Trans10K#mIoU#74.15%
-Semantic Segmentation#Trans10K#GFLOPs#19.92
-Semantic Segmentation#Trans10K#mIoU#68.63%
-Semantic Segmentation#Trans10K#GFLOPs#10.45

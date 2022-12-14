@@ -1,4 +1,0 @@
-Optical Character Recognition#Benchmarking Chinese Text Recognition: Datasets, Baselines, and an Empirical Study#Accuracy (%)#67.0
-Scene Text Recognition#SVT#Accuracy#80.8
-Scene Text Recognition#ICDAR 2003#Accuracy#89.4
-Scene Text Recognition#ICDAR2013#Accuracy#86.7

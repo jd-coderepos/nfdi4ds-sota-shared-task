@@ -1,6 +1,0 @@
-Neural Architecture Search#CIFAR-10 Image Classification#Percentage error#2.46
-Neural Architecture Search#CIFAR-10 Image Classification#Params#4.1
-Neural Architecture Search#CIFAR-10 Image Classification#Search Time (GPU days)#10.3
-Neural Architecture Search#CIFAR-10#Top-1 Error Rate#2.46%
-Neural Architecture Search#CIFAR-10#Search Time (GPU days)#10.3
-Neural Architecture Search#CIFAR-10#Parameters#4.1

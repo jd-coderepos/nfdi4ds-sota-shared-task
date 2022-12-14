@@ -1,9 +1,0 @@
-Semi-Supervised Semantic Segmentation#Cityscapes 12.5% labeled#Validation mIoU#77.12%
-Semi-Supervised Semantic Segmentation#PASCAL VOC 2012 25% labeled#Validation mIoU#78.72
-Semi-Supervised Semantic Segmentation#Pascal VOC 2012 12.5% labeled#Validation mIoU#78.20%
-Semi-Supervised Semantic Segmentation#Pascal VOC 2012 12.5% labeled#Validation mIoU#75.70%
-Semi-Supervised Semantic Segmentation#Cityscapes 50% labeled#Validation mIoU#79.22%
-Semi-Supervised Semantic Segmentation#PASCAL VOC 2012 1464 labels#Validation mIoU#80.01 %
-Semi-Supervised Semantic Segmentation#PASCAL VOC 2012 1464 labels#Validation mIoU#78.08%
-Semi-Supervised Semantic Segmentation#PASCAL VOC 2012 50%#Validation mIoU#79.76%
-Semi-Supervised Semantic Segmentation#Cityscapes 25% labeled#Validation mIoU#78.38%

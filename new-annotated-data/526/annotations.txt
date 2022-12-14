@@ -1,6 +1,0 @@
-Domain Adaptation#Cityscapes to ACDC#mIoU#72.1
-Domain Adaptation#Cityscapes to ACDC#mIoU#65.5
-Semantic Segmentation#Nighttime Driving#mIoU#58.0
-Semantic Segmentation#Nighttime Driving#mIoU#56.8
-Semantic Segmentation#Dark Zurich#mIoU#63.9
-Semantic Segmentation#Dark Zurich#mIoU#56.2

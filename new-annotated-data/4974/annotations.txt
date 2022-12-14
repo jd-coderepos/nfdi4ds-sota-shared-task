@@ -1,8 +1,0 @@
-Affordance Detection#3D AffordanceNet#mAP#0.464
-Affordance Detection#3D AffordanceNet#AIOU#0.178
-Affordance Detection#3D AffordanceNet Rotate z#mAP#0.448
-Affordance Detection#3D AffordanceNet Rotate z#AIOU#0.161
-Affordance Detection#3D AffordanceNet Partial View#mAP#0.422
-Affordance Detection#3D AffordanceNet Partial View#AIOU#0.138
-Affordance Detection#3D AffordanceNet Rotate SO(3)#mAP#0.373
-Affordance Detection#3D AffordanceNet Rotate SO(3)#AIOU#0.128

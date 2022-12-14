@@ -1,2 +1,0 @@
-Math Word Problem Solving#ALG514#Accuracy (%)#57.39
-Math Word Problem Solving#Math23K#Accuracy (5-fold)#74.84

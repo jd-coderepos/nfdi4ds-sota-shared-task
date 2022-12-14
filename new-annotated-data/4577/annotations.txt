@@ -1,8 +1,0 @@
-Graph Classification#ToxCast#ROC-AUC#64
-Graph Classification#BACE#ROC-AUC#83.4
-Graph Classification#HIV#ROC-AUC#78.2
-Graph Classification#SIDER#ROC-AUC#63.5
-Graph Classification#Tox21#ROC-AUC#75.6
-Graph Classification#BBBP#ROC-AUC#70
-Graph Classification#ClinTox#ROC-AUC#72
-Graph Classification#MUV#ROC-AUC#80

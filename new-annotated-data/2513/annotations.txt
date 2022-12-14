@@ -1,8 +1,0 @@
-Semantic Segmentation#Cityscapes val#mIoU#78.2
-Semantic Segmentation#Cityscapes val#FPS#1.1
-Semantic Segmentation#Cityscapes val#mIoU#71.5
-Semantic Segmentation#Cityscapes val#FPS#1.9
-Semantic Segmentation#Cityscapes val#mIoU#57.9
-Semantic Segmentation#Cityscapes val#FPS#2.9
-Semantic Segmentation#Cityscapes val#mIoU#45.5
-Semantic Segmentation#Cityscapes val#FPS#4.3

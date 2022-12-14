@@ -1,6 +1,0 @@
-Relation Extraction#TACRED#F1#73.9
-Relation Extraction#TACRED#F1 (Zero-Shot)#62.8
-Relation Extraction#TACRED#F1 (1% Few-Shot)#63.7
-Relation Extraction#TACRED#F1 (5% Few-Shot)#69.0
-Relation Extraction#TACRED#F1 (10% Few-Shot)#67.9
-Relation Extraction#TACRED#F1#71.0

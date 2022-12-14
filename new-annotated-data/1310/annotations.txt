@@ -1,6 +1,0 @@
-Person Re-Identification#CUHK03-C#Rank-1#9.66
-Person Re-Identification#CUHK03-C#mAP#7.30
-Person Re-Identification#CUHK03-C#mINP#1.00
-Person Re-Identification#Market-1501-C#Rank-1#36.57
-Person Re-Identification#Market-1501-C#mAP#14.23
-Person Re-Identification#Market-1501-C#mINP#0.48

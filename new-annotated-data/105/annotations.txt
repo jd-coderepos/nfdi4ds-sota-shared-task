@@ -1,6 +1,0 @@
-Transparent Object Depth Estimation#TransCG#RMSE#0.018
-Transparent Object Depth Estimation#TransCG#REL#0.027
-Transparent Object Depth Estimation#TransCG#MAE#0.012
-Transparent Object Depth Estimation#TransCG#delta < 1.05#83.76
-Transparent Object Depth Estimation#TransCG#delta < 1.10#95.67
-Transparent Object Depth Estimation#TransCG#Delta < 1.25#99.71

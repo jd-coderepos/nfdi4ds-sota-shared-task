@@ -1,6 +1,0 @@
-Quantization#COCO#MAP#34.3
-Quantization#ImageNet#Accuracy (%)#78.972
-Quantization#ImageNet#Accuracy (%)#77.092
-Quantization#ImageNet#Accuracy (%)#74.216
-Quantization#ImageNet#Accuracy (%)#73.356
-Quantization#ImageNet#Accuracy#71.46

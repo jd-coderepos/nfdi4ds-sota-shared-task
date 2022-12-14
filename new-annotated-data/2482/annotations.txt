@@ -1,3 +1,0 @@
-Semantic Segmentation#DADA-seg#mIoU#29.97
-Semantic Segmentation#EventScape#mIoU#43.61
-Semantic Segmentation#DensePASS#mIoU#32.04%

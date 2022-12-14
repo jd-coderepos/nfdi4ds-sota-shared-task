@@ -1,5 +1,0 @@
-Self-Supervised Action Recognition#UCF101#3-fold Accuracy#52.1
-Self-Supervised Action Recognition#UCF101#Pre-Training Dataset#UCF101
-Self-Supervised Action Recognition#UCF101#Frozen#false
-Video Generation#UCF-101 16 frames, 64x64, Unconditional#Inception Score#8.18
-Video Generation#UCF-101 16 frames, Unconditional, Single GPU#Inception Score#8.18

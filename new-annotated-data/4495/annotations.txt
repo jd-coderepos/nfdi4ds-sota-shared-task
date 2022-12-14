@@ -1,3 +1,0 @@
-Table Detection#STDW#IoU#0.5
-Table Detection#STDW#AP#0.78
-Table Detection#STDW#AP#0.61

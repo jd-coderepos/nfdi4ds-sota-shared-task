@@ -1,8 +1,0 @@
-Short Text Clustering#Tweet#Acc#78.2
-Short Text Clustering#Searchsnippets#Acc#85.2
-Short Text Clustering#Biomedical#Acc#46.2
-Short Text Clustering#GoogleNews-S#Acc#83.1
-Short Text Clustering#GoogleNews-TS#Acc#89.8
-Short Text Clustering#AG News#Acc#88.2
-Short Text Clustering#Stackoverflow#Acc#SCCL
-Short Text Clustering#GoogleNews-T#Acc#75.8

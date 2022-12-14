@@ -1,4 +1,0 @@
-Semantic Segmentation#SynPASS#mIoU#39.16%
-Semantic Segmentation#DensePASS#mIoU#57.23%
-Semantic Segmentation#DensePASS#mIoU#56.45%
-Semantic Segmentation#Stanford2D3D Panoramic#mIoU#54.0%

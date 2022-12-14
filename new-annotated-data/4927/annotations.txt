@@ -1,3 +1,0 @@
-Inverse-Tone-Mapping#MSU HDR Video Reconstruction Benchmark#HDR-PSNR#33.0200
-Inverse-Tone-Mapping#MSU HDR Video Reconstruction Benchmark#HDR-VQM#0.1919
-Inverse-Tone-Mapping#MSU HDR Video Reconstruction Benchmark#HDR-SSIM#0.9663

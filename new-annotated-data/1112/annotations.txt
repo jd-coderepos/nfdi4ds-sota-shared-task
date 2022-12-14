@@ -1,8 +1,0 @@
-Medical Image Segmentation#Kvasir-SEG#Average MAE#0.022
-Medical Image Segmentation#Kvasir-SEG#mean Dice#0.924
-Medical Image Segmentation#Kvasir-SEG#S-Measure#0.925
-Medical Image Segmentation#Kvasir-SEG#max E-Measure#0.962
-Medical Image Segmentation#Kvasir-SEG#mIoU#0.871
-Medical Image Segmentation#CVC-ClinicDB#mean Dice#0.939
-Medical Image Segmentation#CVC-ColonDB#mean Dice#0.774
-Medical Image Segmentation#ETIS-LARIBPOLYPDB#mean Dice#0.730

@@ -1,4 +1,0 @@
-SSTOD#SSD_NAME#Joint Acc#84.96
-SSTOD#SSD_NAME#Slot Acc#93.12
-SSTOD#SSD_NAME#Dialogue Success Rate#57.73
-SSTOD#automata#Dialogue Success Rate#45.8

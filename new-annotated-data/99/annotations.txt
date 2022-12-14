@@ -1,6 +1,0 @@
-Face Anti-Spoofing#MSU-MFSD#Equal Error Rate#0
-Face Anti-Spoofing#MSU-MFSD#HTER#0
-Face Anti-Spoofing#Replay-Attack#EER#0
-Face Anti-Spoofing#Replay-Attack#HTER#0
-Face Anti-Spoofing#OULU-NPU#ACER#3.2
-Face Anti-Spoofing#OULU-NPU#HTER#2.6

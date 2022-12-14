@@ -1,7 +1,0 @@
-Named Entity Recognition In Vietnamese#PhoNER COVID19#F1 (%)#94.5
-Abstractive Text Summarization#vietnews#Rouge-L#43.55
-Abstractive Text Summarization#vietnews#Rouge-1#63.37
-Abstractive Text Summarization#vietnews#Rouge-2#34.24
-Abstractive Text Summarization#vietnews#Rouge-L#42.75
-Abstractive Text Summarization#vietnews#Rouge-1#62.77
-Abstractive Text Summarization#vietnews#Rouge-2#33.16

@@ -1,1 +1,0 @@
-Zero-Shot Action Recognition#UCF101#Top-1 Accuracy#10.9

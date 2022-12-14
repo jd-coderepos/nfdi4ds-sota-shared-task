@@ -1,7 +1,0 @@
-3D Part Segmentation#IntrA#IoU (V)#94.82
-3D Part Segmentation#IntrA#DSC (V)#97.29
-3D Part Segmentation#IntrA#IoU (A)#82.39
-3D Part Segmentation#IntrA#DSC (A)#89.71
-3D Point Cloud Classification#IntrA#F1 score (5-fold)#0.936
-3D Point Cloud Classification#ModelNet40#Overall Accuracy#93.4
-3D Point Cloud Classification#ModelNet40#Number of params#1.54M

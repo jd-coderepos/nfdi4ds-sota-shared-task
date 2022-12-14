@@ -1,8 +1,0 @@
-Face Alignment#300W#NME_inter-ocular (%, Full)#3.17
-Face Alignment#300W#NME_inter-ocular (%, Common)#2.75
-Face Alignment#300W#NME_inter-ocular (%, Challenge)#4.90
-Face Alignment#WFLW#NME_inter-ocular (%, all)#4.14
-Face Alignment#WFLW#AUC_inter-ocular@0.1 (%, all)#59.5
-Face Alignment#WFLW#FR_inter-ocular@0.1(%, all)#2.76
-Face Alignment#COFW#Mean Error Rate#3.32
-Face Alignment#COFW-68#NME (inter-ocular)#4.10

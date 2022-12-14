@@ -1,4 +1,0 @@
-3D Human Pose Estimation#AIST++#MPJPE#33.3
-3D Human Pose Estimation#3DPW#MPJPE#72.1
-Pose Estimation#3DPW#PCK@0.2#80.5
-Pose Estimation#3DPW#Acceleration Error#5.4

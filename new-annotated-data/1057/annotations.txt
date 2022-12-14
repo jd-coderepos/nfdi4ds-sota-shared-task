@@ -1,8 +1,0 @@
-Real-Time Object Detection#COCO 2017 val#FPS (V100, b=1)#10
-Real-Time Object Detection#COCO 2017 val#FPS#10
-Object Detection#COCO test-dev#box AP#63.3
-Object Detection#COCO 2017 val#AP50#66.9
-Object Detection#COCO 2017 val#AP75#53.8
-Object Detection#COCO 2017 val#box AP#49.4
-Object Detection#COCO 2017 val#box AP#63.2
-Object Detection#COCO minival#box AP#63.2

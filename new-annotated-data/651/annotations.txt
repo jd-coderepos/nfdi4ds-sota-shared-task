@@ -1,4 +1,0 @@
-Automatic Speech Recognition#LRS2#Test WER#2.7
-Audio-Visual Speech Recognition#LRS2#Test WER#2.6
-Lipreading#Lip Reading in the Wild#Top-1 Accuracy#85.0
-Lipreading#LRS2#Word Error Rate (WER)#43.2%

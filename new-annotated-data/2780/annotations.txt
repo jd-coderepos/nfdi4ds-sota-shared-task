@@ -1,4 +1,0 @@
-Emotion Recognition#MSP-Podcast#Concordance correlation coefficient (CCC)#0.638
-Speech Emotion Recognition#MSP-Podcast (Dominance)#CCC#0.655
-Speech Emotion Recognition#MSP-Podcast (Valence)#CCC#0.638
-Speech Emotion Recognition#MSP-Podcast (Activation)#CCC#0.745

@@ -1,8 +1,0 @@
-Image Compression#ImageNet#Bit rate#1350
-Image Compression#PCam#Bit rate#1490
-Image Compression#Caltech101#Bit rate#1340
-Image Compression#Cars-196#Bit rate#1470
-Image Compression#STL-10#Bit rate#1340
-Image Compression#Food-101#Bit rate#1270
-Image Compression#CIFAR-10#Bit rate#1410
-Image Compression#Oxford-IIIT Pet Dataset#Bit rate#1210

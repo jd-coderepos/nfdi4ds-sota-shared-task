@@ -1,5 +1,0 @@
-Question Answering#QuAC#F1#64.1
-Question Answering#QuAC#HEQQ#59.6
-Question Answering#QuAC#HEQD#5.8
-Question Answering#CoQA#Out-of-domain#71.8
-Question Answering#CoQA#Overall#75.0

@@ -1,6 +1,0 @@
-3D Depth Estimation#Relative Human#PCDR#68.27
-3D Depth Estimation#Relative Human#PCDR-Baby#60.77
-3D Depth Estimation#Relative Human#PCDR-Kid#67.09
-3D Depth Estimation#Relative Human#PCDR-Teen#66.07
-3D Depth Estimation#Relative Human#PCDR-Adult#69.71
-3D Depth Estimation#Relative Human#mPCDK#0.884

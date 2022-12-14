@@ -1,2 +1,0 @@
-Semi-Supervised Video Object Segmentation#100DOH#10 fold Cross validation#omer
-Video Generation#100DOH#10-20% Mask PSNR#07

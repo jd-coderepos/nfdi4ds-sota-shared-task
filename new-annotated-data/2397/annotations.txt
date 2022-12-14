@@ -1,8 +1,0 @@
-Speaker Identification#VoxCeleb1#Top-1 (%)#80.8
-Speaker Identification#VoxCeleb1#Accuracy#80.8
-Speaker Identification#VoxCeleb1#Top-1 (%)#64.2
-Speaker Identification#VoxCeleb1#Accuracy#64.2
-Audio Classification#Balanced Audio Set#Mean AP#31.0
-Audio Classification#Balanced Audio Set#Mean AP#29.2
-Spoken Command Recognition#Speech Command v2#Accuracy#98.1
-Spoken Command Recognition#Speech Command v2#Accuracy#98.0

@@ -1,3 +1,0 @@
-Visual Question Answering#MSVD-QA#Accuracy#.486
-Visual Question Answering#MSRVTT-QA#Accuracy#.457
-Video Question Answering#iVQA#Accuracy#.382

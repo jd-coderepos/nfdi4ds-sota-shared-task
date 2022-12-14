@@ -1,2 +1,0 @@
-Edge Detection#BRIND#ODS#0.789
-Edge Detection#BRIND#Number of parameters (M)#710K

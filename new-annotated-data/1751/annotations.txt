@@ -1,2 +1,0 @@
-Anomaly Detection#Road Anomaly#AP#24.86
-Anomaly Detection#Road Anomaly#FPR#64.69

@@ -1,3 +1,0 @@
-3D Human Reconstruction#CAPE#Chamfer (cm)#2.122
-3D Human Reconstruction#CAPE#P2S (cm)#1.495
-3D Human Reconstruction#CAPE#NC#0.088

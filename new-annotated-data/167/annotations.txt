@@ -1,4 +1,0 @@
-Super-Resolution#IXI#PSNR 2x T2w#38.67
-Super-Resolution#IXI#SSIM for 2x T2w#0.9837
-Super-Resolution#IXI#SSIM 4x T2w#0.9210
-Super-Resolution#IXI#PSNR 4x T2w#30.57

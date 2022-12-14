@@ -1,8 +1,0 @@
-Semantic Segmentation#Cityscapes#mIoU#77.8
-Real-Time Semantic Segmentation#CamVid#mIoU#74.2
-Real-Time Semantic Segmentation#CamVid#mIoU#71.0
-Real-Time Semantic Segmentation#CamVid#Frame (fps)#107.2
-Real-Time Semantic Segmentation#CamVid#mIoU#69.5
-Real-Time Semantic Segmentation#CamVid#Frame (fps)#124.2
-Real-Time Semantic Segmentation#Cityscapes#mIoU#77.4
-Real-Time Semantic Segmentation#Cityscapes#mIoU#76.2

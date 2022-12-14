@@ -1,4 +1,0 @@
-Entity Linking#ZESHEL#Unnormalized Accuracy#50.4
-Entity Linking#ZESHEL#Recall@64#85.11
-Entity Linking#MedMentions#Accuracy#72.3
-Entity Linking#MedMentions#Recall@64#95.62

@@ -1,7 +1,0 @@
-Nested Named Entity Recognition#ACE 2004#F1#88.56
-Nested Named Entity Recognition#ACE 2004#F1#87.40
-Nested Named Entity Recognition#TAC-KBP 2017#F1#87.27
-Nested Named Entity Recognition#TAC-KBP 2017#F1#85.05
-Nested Named Entity Recognition#GENIA#F1#81.23
-Nested Named Entity Recognition#ACE 2005#F1#88.83
-Nested Named Entity Recognition#ACE 2005#F1#86.82

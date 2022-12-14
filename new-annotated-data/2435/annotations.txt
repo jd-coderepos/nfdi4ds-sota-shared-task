@@ -1,5 +1,0 @@
-Video Saliency Detection#DHF1K#NSS#2.812
-Video Saliency Detection#DHF1K#CC#0.503
-Video Saliency Detection#DHF1K#s-AUC#0.70
-Video Saliency Detection#DHF1K#AUC-J#0.908
-Video Saliency Detection#DHF1K#SIM#0.406

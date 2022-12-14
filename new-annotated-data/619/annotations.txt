@@ -1,1 +1,0 @@
-Partial Domain Adaptation#DomainNet#Accuracy (%)#37.41

@@ -1,2 +1,0 @@
-Sign Language Recognition#WLASL100#Top-1 Accuracy#65.89
-Sign Language Recognition#WLASL-2000#Top-1 Accuracy#32.48

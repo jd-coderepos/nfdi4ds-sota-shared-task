@@ -1,4 +1,0 @@
-Out-of-Distribution Detection#ImageNet-1K vs ImageNet-O#AUROC#92.55
-Out-of-Distribution Detection#ImageNet-1K vs ImageNet-O#FPR95#36.75
-Out-of-Distribution Detection#ImageNet-1K vs OpenImage-O#AUROC#97.61
-Out-of-Distribution Detection#ImageNet-1K vs OpenImage-O#FPR95#12.61
