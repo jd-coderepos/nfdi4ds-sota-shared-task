@@ -15,12 +15,12 @@ The repository is organized as follows:
 
 ```
 README
-[annotated-data]/
+[annotated-data]/				#released
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
 	 |___ ...
-[new-annotated-data]/
+[zero-shot-data]/				#not released
      |--- [article-counter-folder]/
 	 |    |--- [article-id].tei.xml
 	 |    |--- annotations.txt
